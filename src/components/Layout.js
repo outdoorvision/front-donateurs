@@ -4,13 +4,18 @@ import Helmet from 'react-helmet';
 import PropTypes from 'prop-types';
 
 import { makeStyles } from '@material-ui/core/styles';
+import { Container } from '@material-ui/core';
 import TopBar from './TopBar';
+import Footer from './Footer';
 
 const useStyles = makeStyles({
-  main: {},
+  main: {
+    marginTop: '2rem',
+    marginBottom: '2rem',
+  },
 });
 
-const Layout = ({ children, className, title = '', ...rest }) => {
+const Layout = ({ className, title = '', ...rest }) => {
   const classes = useStyles();
 
   return (
@@ -20,14 +25,19 @@ const Layout = ({ children, className, title = '', ...rest }) => {
         title={title}
         titleTemplate="%s | OutdoorGeovision"
       />
-      <TopBar />
+      <header>
+        <TopBar />
+      </header>
 
-      <main
+      <Container
+        component="main"
         className={clsx(classes.main, className)}
         {...rest}
-      >
-        {children}
-      </main>
+      />
+
+      <footer>
+        <Footer />
+      </footer>
     </>
   );
 };

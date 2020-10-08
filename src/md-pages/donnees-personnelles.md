@@ -1,29 +1,8 @@
 ---
-title: Mentions légales
+title: Données personnelles
 ---
 
-# Mentions légales
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit non perferendis
-amet ratione sequi quaerat voluptatem, corporis Mentions légales et données
-personnelles explicabo fugit. Debitis, dicta quae eveniet consequatur nihil fuga
-odio asperiores.
-
-Iure quaerat quaerat id necessitatibus nobis. Reprehenderit ad nulla quo. Soluta
-minima officiis commodi eum. Aut quo omnis debitis impedit culpa dolores et.
-
-## Illo qui et
-
-**In veritatis repellat** in nihil eius consequatur expedita ab rerum. A
-deserunt voluptatem qui impedit et. Ab et accusamus. Necessitatibus eum aut
-repellat aliquid odio non officia.
-
-- Id quia quis impedit qui ex possimus odit.
-- Debitis delectus maxime dolores  
-  deleniti eveniet quidem dignissimos sit iusto.
-- Mentions légales et données personnelles nam facere.
-- Voluptates consequatur sed magni voluptatem facilis recusandae id.
-- Sed itaque reprehenderit iusto commodi cum ducimus sed.
+# Données personnelles
 
 ## Aliquid velit quae
 
@@ -43,8 +22,6 @@ ipsam perspiciatis. Sed exercitationem excepturi.
 Aut est dolor et omnis et qui asperiores. Quis qui quidem quia harum deserunt
 tempora harum minima aut. Illum facere nulla dolores quis pariatur nemo nulla
 officia. Aut error doloribus quae.
-
-----
 
 Perspiciatis optio est. Delectus natus eveniet at quis est eligendi quae saepe.
 Mollitia quia quis qui dolor necessitatibus sit velit. Aut minus similique
@@ -73,3 +50,24 @@ Qui dolorem veniam ratione voluptatum. In totam possimus. Est commodi et ullam
 natus sunt voluptas dolore voluptates.
 
 In rerum maiores distinctio est. Aut repellendus voluptates. Eos qui accusamus.
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit non perferendis
+amet ratione sequi quaerat voluptatem, corporis Mentions légales et données
+personnelles explicabo fugit. Debitis, dicta quae eveniet consequatur nihil fuga
+odio asperiores.
+
+Iure quaerat quaerat id necessitatibus nobis. Reprehenderit ad nulla quo. Soluta
+minima officiis commodi eum. Aut quo omnis debitis impedit culpa dolores et.
+
+## Illo qui et
+
+**In veritatis repellat** in nihil eius consequatur expedita ab rerum. A
+deserunt voluptatem qui impedit et. Ab et accusamus. Necessitatibus eum aut
+repellat aliquid odio non officia.
+
+- Id quia quis impedit qui ex possimus odit.
+- Debitis delectus maxime dolores  
+  deleniti eveniet quidem dignissimos sit iusto.
+- Mentions légales et données personnelles nam facere.
+- Voluptates consequatur sed magni voluptatem facilis recusandae id.
+- Sed itaque reprehenderit iusto commodi cum ducimus sed.
