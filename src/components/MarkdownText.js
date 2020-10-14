@@ -17,6 +17,7 @@ const MarkdownText = ({ hast, components, ...rest }) => {
       h5: props => <Typography variant="h5" paragraph {...props} />,
       h6: props => <Typography variant="h6" paragraph {...props} />,
       p: props => <Typography variant="body1" paragraph {...props} />,
+      li: props => <Typography variant="body1" component="li" {...props} />,
       // eslint-disable-next-line jsx-a11y/alt-text
       img: props => <img style={{ maxWidth: '100%' }} {...props} />,
       ...components,

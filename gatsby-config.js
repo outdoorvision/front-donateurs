@@ -14,6 +14,16 @@ module.exports = {
           // disableAutoprefixing: true,
           disableMinification: true,
         },
+        webFontsConfig: {
+          fonts: {
+            google: [
+              {
+                family: 'Montserrat',
+                variants: ['300', '400', '500', '700'],
+              },
+            ],
+          },
+        },
       },
     },
     {
