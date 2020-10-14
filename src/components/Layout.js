@@ -7,6 +7,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import { Container } from '@material-ui/core';
 import TopBar from './TopBar';
 import Footer from './Footer';
+import Prelude from './Prelude';
 
 const useStyles = makeStyles({
   root: {
@@ -23,7 +24,12 @@ const useStyles = makeStyles({
   },
 });
 
-const Layout = ({ className, title = '', ...rest }) => {
+const Layout = ({
+  prelude = null,
+  className,
+  title = '',
+  ...rest
+}) => {
   const classes = useStyles();
 
   return (
@@ -35,6 +41,10 @@ const Layout = ({ className, title = '', ...rest }) => {
       />
 
       <TopBar />
+
+      {React.isValidElement(prelude) && prelude}
+
+      {(prelude && !React.isValidElement(prelude)) && <Prelude {...prelude} />}
 
       <Container
         component="main"
