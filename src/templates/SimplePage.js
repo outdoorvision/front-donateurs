@@ -7,16 +7,11 @@ const Template = ({
   data: {
     markdownRemark: { htmlAst, frontmatter },
   },
-}) => {
-  const prelude = { ...frontmatter };
-  const { title } = frontmatter;
-
-  return (
-    <Layout title={title} prelude={prelude}>
-      <MarkdownText hast={htmlAst} />
-    </Layout>
-  );
-};
+}) => (
+  <Layout title={frontmatter.title} prelude={frontmatter}>
+    <MarkdownText hast={htmlAst} />
+  </Layout>
+);
 
 export default Template;
 
@@ -24,7 +19,7 @@ export const pageQuery = graphql`
   query($id: String) {
     markdownRemark (id: { eq: $id }) {
       htmlAst
-      frontmatter { title }
+      frontmatter { title picture swap }
     }
   }
 `;

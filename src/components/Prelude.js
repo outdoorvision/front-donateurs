@@ -37,9 +37,11 @@ const Prelude = ({ title, picture, swap, ...props }) => {
               {title}
             </Typography>
           </Grid>
-          <Grid item md={6} className={classes.pictureWrapper}>
-            <img src={picture} alt="" />
-          </Grid>
+          {picture && (
+            <Grid item md={6} className={classes.pictureWrapper}>
+              <img src={picture} alt="" />
+            </Grid>
+          )}
         </Grid>
       </Container>
     </Box>

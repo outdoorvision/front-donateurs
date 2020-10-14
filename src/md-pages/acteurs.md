@@ -1,5 +1,7 @@
 ---
 title: L'équipe
+picture: https://picsum.photos/640/480
+swap: true
 ---
 
 Iste alias exercitationem et rerum rerum. Eligendi sunt possimus quo blanditiis.
