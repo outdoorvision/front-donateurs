@@ -27,10 +27,9 @@ const TopBar = () => {
           <Button color="inherit" to="/" className={classes.logo}>LOGO</Button>
 
           <Button color="inherit" to="/">Accueil</Button>
-          <Button color="inherit" variant="text" to="/presentation">Présentation</Button>
-          <Button color="inherit" variant="text" to="/mentions-legales">Mentions légales</Button>
-          <Button color="inherit" variant="text" to="/contact">Contact</Button>
-          <Button color="inherit" variant="outlined" href={authLink}>Se connecter</Button>
+          <Button color="inherit" variant="text" to="/pourquoi-participer">Pourquoi participer ?</Button>
+          <Button color="inherit" variant="text" to="/equipe">L'équipe</Button>
+          <Button color="inherit" variant="outlined" href={authLink}>Participer</Button>
         </Container>
       </Toolbar>
     </AppBar>
