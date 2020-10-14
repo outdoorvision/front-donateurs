@@ -24,11 +24,13 @@ const TopBar = () => {
     <AppBar position="static" color="transparent" variant="outlined">
       <Toolbar>
         <Container className={classes.nav} component="nav">
-          <Button color="inherit" to="/" className={classes.logo}>LOGO</Button>
+          <Button color="inherit" to="/" className={classes.logo}>
+            LOGO
+          </Button>
 
           <Button color="inherit" to="/">Accueil</Button>
           <Button color="inherit" variant="text" to="/pourquoi-participer">Pourquoi participer ?</Button>
-          <Button color="inherit" variant="text" to="/equipe">L'équipe</Button>
+          <Button color="inherit" variant="text" to="/acteurs">Les acteurs</Button>
           <Button color="inherit" variant="outlined" href={authLink}>Participer</Button>
         </Container>
       </Toolbar>
