@@ -3,14 +3,17 @@ import React from 'react';
 import { AppBar, Toolbar, Container, makeStyles } from '@material-ui/core';
 import { Button } from 'gatsby-theme-material-ui';
 
-const useStyles = makeStyles({
+const useStyles = makeStyles(theme => ({
   nav: {
     display: 'flex',
+    '& > a:not(:first-child)': {
+      marginLeft: theme.spacing(2),
+    },
   },
   logo: {
     marginRight: 'auto',
   },
-});
+}));
 
 const authLink = 'https://dev-prnsn.makina-corpus.net/auth/';
 
