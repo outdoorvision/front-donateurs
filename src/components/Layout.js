@@ -25,9 +25,8 @@ const Layout = ({ className, title = '', ...rest }) => {
         title={title}
         titleTemplate="%s | OutdoorGeovision"
       />
-      <header>
-        <TopBar />
-      </header>
+
+      <TopBar />
 
       <Container
         component="main"
