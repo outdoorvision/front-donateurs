@@ -21,6 +21,8 @@ const useStyles = makeStyles(theme => ({
   titleWrapper: {
     display: 'flex',
     alignItems: 'center',
+    marginTop: theme.spacing(5),
+    marginBottom: theme.spacing(5),
   },
 }));
 
@@ -30,13 +32,13 @@ const Prelude = ({ title, picture, swap, ...props }) => {
     <Box className={classes.prelude} {...props}>
       <Container>
         <Grid container spacing={1} className={clsx({ [classes.swap]: swap })}>
-          <Grid item md={6} className={classes.pictureWrapper}>
-            <img src={picture} alt="" />
-          </Grid>
           <Grid item md={6} className={classes.titleWrapper}>
             <Typography variant="h1">
               {title}
             </Typography>
+          </Grid>
+          <Grid item md={6} className={classes.pictureWrapper}>
+            <img src={picture} alt="" />
           </Grid>
         </Grid>
       </Container>

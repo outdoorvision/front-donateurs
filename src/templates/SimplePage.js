@@ -4,17 +4,24 @@ import Layout from '../components/Layout';
 
 const Template = ({
   data: {
-    markdownRemark: { html },
-    frontmatter: { title } = {},
+    markdownRemark: {
+      html,
+      frontmatter,
+      frontmatter: { title } = {},
+    },
   },
-}) => (
-  <Layout title={title}>
-    <div
-      className="blog-post-content"
-      dangerouslySetInnerHTML={{ __html: html }} // eslint-disable-line react/no-danger
-    />
-  </Layout>
-);
+}) => {
+  const prelude = { ...frontmatter };
+
+  return (
+    <Layout title={title} prelude={prelude}>
+      <div
+        className="blog-post-content"
+        dangerouslySetInnerHTML={{ __html: html }} // eslint-disable-line react/no-danger
+      />
+    </Layout>
+  );
+};
 
 export default Template;
 
