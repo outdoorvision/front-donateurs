@@ -1,24 +1,19 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
+import MarkdownText from '../components/MarkdownText';
 
 const Template = ({
   data: {
-    markdownRemark: {
-      html,
-      frontmatter,
-      frontmatter: { title } = {},
-    },
+    markdownRemark: { htmlAst, frontmatter },
   },
 }) => {
   const prelude = { ...frontmatter };
+  const { title } = frontmatter;
 
   return (
     <Layout title={title} prelude={prelude}>
-      <div
-        className="blog-post-content"
-        dangerouslySetInnerHTML={{ __html: html }} // eslint-disable-line react/no-danger
-      />
+      <MarkdownText hast={htmlAst} />
     </Layout>
   );
 };
@@ -28,7 +23,7 @@ export default Template;
 export const pageQuery = graphql`
   query($id: String) {
     markdownRemark (id: { eq: $id }) {
-      html
+      htmlAst
       frontmatter { title }
     }
   }
