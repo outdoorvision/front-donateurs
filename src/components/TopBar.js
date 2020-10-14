@@ -21,7 +21,7 @@ const TopBar = () => {
   const classes = useStyles();
 
   return (
-    <AppBar position="static">
+    <AppBar position="static" color="transparent" variant="outlined">
       <Toolbar>
         <Container className={classes.nav} component="nav">
           <Button color="inherit" to="/" className={classes.logo}>LOGO</Button>
