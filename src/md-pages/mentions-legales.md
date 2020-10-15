@@ -2,8 +2,6 @@
 title: Mentions légales et données personnelles
 ---
 
-# Mentions légales et données personnelles
-
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit non perferendis
 amet ratione sequi quaerat voluptatem, corporis Mentions légales et données
 personnelles explicabo fugit. Debitis, dicta quae eveniet consequatur nihil fuga

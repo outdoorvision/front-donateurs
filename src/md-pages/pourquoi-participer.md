@@ -2,8 +2,6 @@
 title: Explications
 ---
 
-# Explications
-
 **In veritatis repellat** in nihil eius consequatur expedita ab rerum. A
 deserunt voluptatem qui impedit et. Ab et accusamus. Necessitatibus eum aut
 repellat aliquid odio non officia.

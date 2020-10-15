@@ -2,8 +2,6 @@
 title: Données personnelles
 ---
 
-# Données personnelles
-
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit non perferendis
 amet ratione sequi quaerat voluptatem, corporis Mentions légales et données
 personnelles explicabo fugit. Debitis, dicta quae eveniet consequatur nihil fuga
