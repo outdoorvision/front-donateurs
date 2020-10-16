@@ -17,7 +17,7 @@ const Footer = () => {
       <Container>
         <Button color="inherit" variant="text" to="/mentions-legales">Mentions légales</Button>
         {' - '}
-        <Button color="inherit" variant="text" to="/confidentialite">Confidentialité</Button>
+        <Button color="inherit" variant="text" to="/donnees-personnelles">Données personnelles</Button>
         {' - '}
         <Button color="inherit" variant="text" to="/contact">Contact</Button>
       </Container>
