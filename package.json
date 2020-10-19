@@ -25,7 +25,10 @@
     "gatsby-transformer-remark": "^2.8.40",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
-    "rehype-react": "^6.1.0"
+    "rehype-react": "^6.1.0",
+    "tripetto-runner-classic": "^1.8.5",
+    "tripetto-runner-foundation": "^3.0.0",
+    "tripetto-services": "^1.2.1"
   },
   "devDependencies": {
     "eslint": "^7.11.0",

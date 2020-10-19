@@ -1,10 +1,13 @@
 import React from 'react';
 
+import ContactForm from '../components/ContactForm';
 import Layout from '../components/Layout';
 
+const prelude = { title: 'Nous contacter' };
+
 const Contact = () => (
-  <Layout>
-    Contact form from Tripetto
+  <Layout prelude={prelude}>
+    <ContactForm />
   </Layout>
 );
 
