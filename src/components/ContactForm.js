@@ -4,9 +4,10 @@ import { useTheme } from '@material-ui/core';
 import Services from 'tripetto-services';
 import { run } from 'tripetto-runner-classic';
 
-import { token, definition, styles } from '../tripettoSettings';
+import { TRIPETTO_TOKEN } from '../settings';
+import definition from '../contact-form.json';
 
-const { attachments, onSubmit } = Services.init({ token });
+const { attachments, onSubmit } = Services.init({ token: TRIPETTO_TOKEN });
 
 const ContactForm = () => {
   const formWrapper = React.useRef(null);
@@ -18,11 +19,16 @@ const ContactForm = () => {
     run({
       element: formWrapper.current,
       definition,
-      styles: { ...styles, color: theme.palette.primary.main },
+      styles: {
+        mode: 'progressive',
+        noBranding: true,
+        contract: { name: 'tripetto-runner-classic', version: '1.7.1' },
+        color: theme.palette.primary.main,
+      },
       attachments,
       onSubmit,
     });
-  }, [formWrapper, theme]);
+  }, [formWrapper, theme.palette.primary]);
 
   return (
     <div ref={formWrapper} />
