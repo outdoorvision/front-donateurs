@@ -7,14 +7,16 @@ import { run } from 'tripetto-runner-classic';
 import { TRIPETTO_TOKEN } from '../settings';
 import definition from '../contact-form.json';
 
-const { attachments, onSubmit } = Services.init({ token: TRIPETTO_TOKEN });
+const { attachments, onSubmit } = typeof window !== 'undefined'
+  ? Services.init({ token: TRIPETTO_TOKEN })
+  : {};
 
 const ContactForm = () => {
   const formWrapper = React.useRef(null);
   const theme = useTheme();
 
   React.useEffect(() => {
-    if (!formWrapper) return;
+    if (!formWrapper || typeof window === 'undefined') return;
 
     run({
       element: formWrapper.current,
