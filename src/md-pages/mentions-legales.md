@@ -1,5 +1,5 @@
 ---
-title: Mentions légales et données personnelles
+title: Mentions légales
 ---
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit non perferendis
