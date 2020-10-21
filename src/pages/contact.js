@@ -12,10 +12,10 @@ const Contact = () => (
   <Layout prelude={prelude}>
     <Grid container spacing={3}>
       <Grid item xs={12} sm={6}>
-        <MDBlock block="contact-1" />
+        <ContactForm />
       </Grid>
       <Grid item xs={12} sm={6}>
-        <ContactForm />
+        <MDBlock block="contact-1" />
       </Grid>
     </Grid>
   </Layout>
