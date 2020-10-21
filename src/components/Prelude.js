@@ -33,9 +33,9 @@ const Prelude = ({ title, picture, swap, ...props }) => {
       <Container>
         <Grid container spacing={1} className={clsx({ [classes.swap]: swap })}>
           <Grid item md={6} className={classes.titleWrapper}>
-            <Typography variant="h1">
-              {title}
-            </Typography>
+            {React.isValidElement(title)
+              ? title
+              : <Typography variant="h1">{title}</Typography>}
           </Grid>
           {picture && (
             <Grid item md={6} className={classes.pictureWrapper}>
