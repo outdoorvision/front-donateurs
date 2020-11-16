@@ -2,72 +2,116 @@
 title: Données personnelles
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit non perferendis
-amet ratione sequi quaerat voluptatem, corporis Mentions légales et données
-personnelles explicabo fugit. Debitis, dicta quae eveniet consequatur nihil fuga
-odio asperiores.
+Les données à caractère personnel collectées dans le cadre des services proposés
+sur outdoorvision.fr sont traitées selon des protocoles sécurisés en respectant
+le règlement général pour la protection des données.
 
-Iure quaerat quaerat id necessitatibus nobis. Reprehenderit ad nulla quo. Soluta
-minima officiis commodi eum. Aut quo omnis debitis impedit culpa dolores et.
+### Quelles données allez-vous partager ?
 
-## Illo qui et
+Outdoorvision **synchronise et enregistre <u>uniquement</u> vos traces GPS**
+depuis votre compte Garmin Connect™ ou Suunto App (Appli Suunto).
 
-**In veritatis repellat** in nihil eius consequatur expedita ab rerum. A
-deserunt voluptatem qui impedit et. Ab et accusamus. Necessitatibus eum aut
-repellat aliquid odio non officia.
+Les autres données issues de votre compte telles que le nombre de pas effectués,
+les calories consommées, la fréquence cardiaque ou tout autre donnée non décrite
+ci-après, ne sont pas enregistrées dans outdoorvision.
 
-- Id quia quis impedit qui ex possimus odit.
-- Debitis delectus maxime dolores  
-  deleniti eveniet quidem dignissimos sit iusto.
-- Mentions légales et données personnelles nam facere.
-- Voluptates consequatur sed magni voluptatem facilis recusandae id.
-- Sed itaque reprehenderit iusto commodi cum ducimus sed.
+Outdoorvision vous permet également de déposer directement vos traces GPS sous
+forme de fichiers depuis votre ordinateur.
 
-## Aliquid velit quae
+### Quelle est la finalité du traitement des données personnelles précédemment décrites ?
 
-Aut pariatur veniam quis vero harum et. Fugit voluptate est autem animi dolorem.
-Et ullam aut. Soluta aut odit consequuntur in quae unde sunt. Quis molestiae
-tenetur perspiciatis. Consequatur sapiente velit neque enim quisquam est quis
-deserunt.
+Outdoorvision est une plateforme en ligne qui agrège des milliers de tracés GPS
+et activités issus d'objets connectés <u>volontairement fournis</u> par les
+pratiquants outdoor. Elle permet aux collectivités territoriales de visualiser
+via un accès sécurisé ces données d'activités géolocalisées et anonymisées sur
+leurs territoires. Outdoorvision révèle ainsi les usages sportifs dans les
+territoires pour mieux les intégrer dans les politiques locales.
 
-Amet porro explicabo. Quas et rerum laboriosam consequatur sed ut laboriosam et.
-Et reprehenderit facere et aut ut quisquam dignissimos culpa.
+Le don de tracés GPS de la part du pratiquant permet d'agir en faveur de la
+préservation et la pérennisation des sites de pratique de loisirs sportifs de
+nature sur l'ensemble du territoire Français.
 
-### Vero eius repellendus
+### Quelles est la base légale du traitement ?
 
-Dolores perferendis perspiciatis in. Alias est occaecati ad et voluptatem iste
-ipsam perspiciatis. Sed exercitationem excepturi.
+La base légale choisie par Outdoorvision est celle du consentement de
+l'utilisateur.
 
-Aut est dolor et omnis et qui asperiores. Quis qui quidem quia harum deserunt
-tempora harum minima aut. Illum facere nulla dolores quis pariatur nemo nulla
-officia. Aut error doloribus quae.
+### Quels sont les traitements opérés sur les données ?
 
-----
+Outdoorvision enregistre les traces GPS et activités dans le seul but
+d'alimenter ses algorithmes d'observation des pratiques sports de nature sur le
+territoire Français.
 
-Perspiciatis optio est. Delectus natus eveniet at quis est eligendi quae saepe.
-Mollitia quia quis qui dolor necessitatibus sit velit. Aut minus similique
-reprehenderit.
+D'autres données personnelles sont aussi collectées et utilisées pour le bon
+fonctionnement d'Outdoorvision. La plateforme enregistre votre adresse e-mail
+pour pouvoir créer un compte Outdoorvision dans le seul but de synchroniser vos
+traces GPS depuis votre compte Garmin Connect™ ou Suunto App.
 
-Iure ducimus dolorum et modi. Nihil minus deleniti. Autem facilis ut laborum.
+Outdoorvision n'utilise en aucun cas votre adresse e-mail dans ses algorithmes
+d'observation.
 
-Eum omnis atque corporis corrupti. Quia necessitatibus delectus consequatur
-voluptate. Id quo labore maiores deleniti sunt aperiam quia.
+Outdoorvision met à disposition les résultats de ses algorithmes d'observation à
+un public restreint de collectivités territoriales et d'institutions françaises
+ou institutions d'un pays membre de l'Union Européenne par l'intermédiaire d'une
+connexion « par identifiant / mot de passe » et sécurisée.
 
-![](https://picsum.photos/1600/1200)
+Outdoorvision ne transfère pas de données personnelles vers des tiers ou des
+applications tierces.
 
-Fugit eum suscipit et quia nostrum. Minus eos eius qui sequi. Fugit rerum porro
-inventore quibusdam et. Placeat iusto et. Quisquam odio non cumque maxime alias
-nobis. Explicabo illo officiis.
+Les données à caractère personnel que vous nous communiquez peuvent faire
+l'objet d'un traitement en notre nom par des entreprises françaises qui assurent
+pour notre compte la gestion technique de la plateforme Outdoorvision.
 
-Dolore sequi facilis et eveniet soluta architecto. Cumque sit aut. Harum debitis
-esse facilis. Fugit earum esse dignissimos commodi et voluptates.
+### Pendant combien de temps sont conservées les données personnelles ?
 
-Nostrum dolor dolorum aut aut vero rerum labore. Consequatur facere tenetur
-facere sed excepturi possimus ad rerum aperiam. Error praesentium rem voluptas
-veniam hic ullam incidunt non. Totam ut facilis tempore. Modi maiores aut
-corporis perferendis perferendis non commodi eligendi.
+Votre adresse e-mail est conservée pendant la durée d'activité de votre compte.
+Les traces GPS sont conservées pour une durée de 10 ans pour permettre une
+observation historisée.
 
-Qui dolorem veniam ratione voluptatum. In totam possimus. Est commodi et ullam
-natus sunt voluptas dolore voluptates.
+### Qui puis-je contacter pour des précisions ou un problème ?
 
-In rerum maiores distinctio est. Aut repellendus voluptates. Eos qui accusamus.
+Pour toute information ou exercice de vos droits Informatique et Libertés sur
+les traitements de données personnelles gérés par Outdoorvision notamment :
+
+- Droit d'opposition, d'interrogation, d'accès et de rectification,
+- Droit de plainte auprès de la Commission Nationale Informatique et Liberté
+  (CNIL),
+- Droit à l'oubli,
+
+Vous pouvez contacter son délégué à la protection des données (DPO) :
+
+- par [ce formulaire](/contact)
+- ou par courrier à l'adresse suivante :
+  - Pôle ressources national Sports de nature (PRNSN)  
+    CREPS Auvergne-Rhône-Alpes -- Vallon Pont d'Arc-Voiron-Lyon  
+    A l'attention du délégué à la protection des données  
+    Avenue François Lecler - 07150 - Vallon Pont d'Arc - France
+
+### Comment vous désengager du programme ?
+
+Pour arrêter la synchronisation automatique avec Garmin Connect™ ou Suunto App,
+connectez-vous sur votre compte et arrêtez la synchronisation.
+
+#### Garmin Connect™ :
+
+1. Sur Garmin Connect™,  
+   https://connect.garmin.com/modern/settings/accountInformation
+2. Dans la zone « Applications », cliquer sur le bouton « déconnecter »
+   correspondant à Outdoorvision
+
+#### Suunto APP :
+
+1. Aller dans les paramètres de l'application
+   - Sur Android, Sélectionner Paramètres › Paramètres du compte › Se connecter
+     à d'autres services
+   - Sur iOS, Sélectionner Mon Profil › Se connecter à d'autres services à
+     vérifier
+2. Sélectionner Outdoovision
+3. Cliquer sur « déconnecter »
+
+#### Outdoorvision :
+
+Pour fermer votre compte outdoorvision :
+
+1. depuis outdoorvision.fr faire  
+…
