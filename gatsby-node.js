@@ -21,14 +21,18 @@ exports.createPages = async ({ actions: { createPage }, graphql, reporter }) => 
   }
 
   result.data.allFile.nodes.forEach(({
-    childMarkdownRemark: { id },
+    childMarkdownRemark,
     name,
     relativeDirectory,
   }) => {
+    if (!childMarkdownRemark) {
+      return;
+    }
+
     createPage({
       path: path.join(relativeDirectory, name),
       component: require.resolve('./src/templates/SimplePage.js'),
-      context: { id },
+      context: { id: childMarkdownRemark.id },
     });
   });
 };

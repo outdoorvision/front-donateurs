@@ -7,6 +7,7 @@
 module.exports = {
   /* Your site config here */
   plugins: [
+    'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-theme-material-ui',
       options: {
@@ -54,6 +55,9 @@ module.exports = {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 630,
+              linkImagesToOriginal: false,
+              wrapperStyle: 'margin-left: 0',
+              disableBgImage: true,
             },
           },
           'gatsby-remark-copy-linked-files',
