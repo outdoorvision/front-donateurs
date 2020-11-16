@@ -37,7 +37,7 @@ const Layout = ({
       <Helmet
         htmlAttributes={{ lang: 'fr' }}
         title={title}
-        titleTemplate="%s | OutdoorVision"
+        titleTemplate="%s | Outdoorvision"
       />
 
       <TopBar />
