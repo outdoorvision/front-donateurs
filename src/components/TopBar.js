@@ -65,13 +65,12 @@ const TopBar = () => {
           <Grid container>
             <Grid item className={classes.logo}>
               <Link to="/">
-                <img src="/outdoor-vision.svg" alt="OutdoorVision" />
+                <img src="/outdoor-vision.svg" alt="Outdoorvision" />
               </Link>
             </Grid>
             <Grid item className={classes.nav} component="nav">
               <Button activeStyle={activeStyle} to="/" startIcon={<Home />}>Outdoorvision</Button>
-              <Button activeStyle={activeStyle} variant="text" to="/pourquoi-participer">Pourquoi participer ?</Button>
-              <Button activeStyle={activeStyle} variant="text" to="/acteurs">Les acteurs</Button>
+              <Button activeStyle={activeStyle} to="/partenaires">Partenaires</Button>
               <Button variant="outlined" href={authLink}>Participer</Button>
             </Grid>
           </Grid>
