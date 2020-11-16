@@ -4,6 +4,8 @@ import { AppBar, Toolbar, Container, makeStyles, Grid, useTheme } from '@materia
 import { Button } from 'gatsby-theme-material-ui';
 import { Link } from 'gatsby';
 
+import { Home } from '@material-ui/icons';
+
 const useStyles = makeStyles(theme => ({
   logo: {
     '& img': {
@@ -67,7 +69,7 @@ const TopBar = () => {
               </Link>
             </Grid>
             <Grid item className={classes.nav} component="nav">
-              <Button activeStyle={activeStyle} to="/">Accueil</Button>
+              <Button activeStyle={activeStyle} to="/" startIcon={<Home />}>Outdoorvision</Button>
               <Button activeStyle={activeStyle} variant="text" to="/pourquoi-participer">Pourquoi participer ?</Button>
               <Button activeStyle={activeStyle} variant="text" to="/acteurs">Les acteurs</Button>
               <Button variant="outlined" href={authLink}>Participer</Button>
