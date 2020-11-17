@@ -13,13 +13,13 @@ const useStyles = makeStyles(theme => ({
       maxWidth: '100%',
     },
     '& img': {
-      marginLeft: -32,
+      marginLeft: '-8%',
       display: 'block',
       maxWidth: '100%',
     },
 
     flexGrow: '1',
-    flexShrink: '0',
+    flexShrink: '1',
     maxWidth: '100%',
 
     [theme.breakpoints.down('md')]: {
@@ -67,7 +67,7 @@ const TopBar = () => {
     <AppBar position="static" color="transparent" variant="outlined">
       <Toolbar disableGutters>
         <Container>
-          <Grid container>
+          <Grid container wrap="nowrap">
             <Grid item className={classes.logo}>
               <Link to="/">
                 <img src="/outdoor-vision.svg" alt="Outdoorvision" />
