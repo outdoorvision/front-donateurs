@@ -8,9 +8,14 @@ import { Home } from '@material-ui/icons';
 
 const useStyles = makeStyles(theme => ({
   logo: {
+    '& a': {
+      display: 'inline-block',
+      maxWidth: '100%',
+    },
     '& img': {
       marginLeft: -32,
       display: 'block',
+      maxWidth: '100%',
     },
 
     flexGrow: '1',
