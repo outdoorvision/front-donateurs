@@ -23,6 +23,11 @@ const useStyles = makeStyles(theme => ({
     alignItems: 'center',
     marginTop: theme.spacing(5),
     marginBottom: theme.spacing(5),
+
+    [theme.breakpoints.down('sm')]: {
+      marginTop: theme.spacing(2),
+      marginBottom: theme.spacing(2),
+    },
   },
 }));
 
