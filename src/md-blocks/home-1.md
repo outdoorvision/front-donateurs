@@ -1,3 +1,3 @@
-Programme innovant à but non lucratif, Outdoorvision permet aux
-territoires de visualiser sous forme de cartes dynamiques les traces GPS
-des activités outdoor pratiquées.
+### Préservons notre terrain de jeu !
+
+Je partage mes tracés GPS pour la préservation et l’aménagement de mes sites de pratique.

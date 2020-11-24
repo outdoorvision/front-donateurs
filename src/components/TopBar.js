@@ -17,6 +17,9 @@ import {
 import { Home, Menu as MenuIcon } from '@material-ui/icons';
 
 const useStyles = makeStyles(theme => ({
+  appbar: {
+    border: 'none',
+  },
   logo: {
     '& a': {
       display: 'inline-block',
@@ -82,7 +85,7 @@ const TopBar = () => {
   };
 
   return (
-    <AppBar position="static" color="transparent" variant="outlined">
+    <AppBar position="static" color="transparent" variant="outlined" className={classes.appbar}>
       <Toolbar disableGutters>
         <Container>
           <Grid container wrap="nowrap">
@@ -108,7 +111,7 @@ const TopBar = () => {
                 open={Boolean(anchorEl)}
                 onClose={handleClose}
               >
-                <MenuItem component={Link} activeStyle={activeStyle} to="/" startIcon={<Home />}>Outdoorvision</MenuItem>
+                <MenuItem component={Link} activeStyle={activeStyle} to="/">Outdoorvision</MenuItem>
                 <MenuItem component={Link} activeStyle={activeStyle} to="/partenaires">Partenaires</MenuItem>
                 <MenuItem component={Link} to={authLink}>Participer</MenuItem>
               </Menu>

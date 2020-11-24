@@ -34,7 +34,7 @@ const MarkdownText = ({ hast, components, className, ...rest }) => {
       h6: props => <Typography variant="h6" gutterBottom {...props} />,
       p: props => <Typography variant="body1" {...props} />,
       li: props => <Typography variant="body1" component="li" {...props} />,
-      a: props => <Link {...props} />,
+      a: ({ href, ...props }) => <Link to={href} {...props} />,
       // eslint-disable-next-line jsx-a11y/alt-text
       img: props => <img style={{ maxWidth: '100%' }} {...props} />,
       ...components,
