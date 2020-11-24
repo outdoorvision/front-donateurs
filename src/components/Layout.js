@@ -2,6 +2,7 @@ import React from 'react';
 import clsx from 'clsx';
 import Helmet from 'react-helmet';
 import PropTypes from 'prop-types';
+import { withPrefix } from 'gatsby';
 
 import { makeStyles } from '@material-ui/core/styles';
 import { Container } from '@material-ui/core';
@@ -38,6 +39,10 @@ const Layout = ({
         htmlAttributes={{ lang: 'fr' }}
         title={title}
         titleTemplate="%s | Outdoorvision"
+        link={[
+          { rel: 'shortcut icon', type: 'image/svg', href: withPrefix('/outdoor-vision-pin.svg') },
+        ]}
+
       />
 
       <TopBar />
