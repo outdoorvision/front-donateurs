@@ -26,8 +26,13 @@ const useStyles = makeStyles(theme => ({
       display: 'block',
       marginLeft: 'auto',
       marginRight: 'auto',
+      marginTop: theme.spacing(6),
+      marginBottom: theme.spacing(6),
     },
     '& .half-bleed': {
+      '& img': {
+        margin: 0,
+      },
       [theme.breakpoints.between('xs', 'sm')]: {
         width: `calc(100% + ${theme.spacing(5)}px)`,
       },

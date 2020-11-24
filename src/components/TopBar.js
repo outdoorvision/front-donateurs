@@ -26,9 +26,12 @@ const useStyles = makeStyles(theme => ({
       maxWidth: '100%',
     },
     '& img': {
-      marginLeft: '-8%',
       display: 'block',
       maxWidth: '100%',
+      maxHeight: 180,
+      [theme.breakpoints.down('md')]: {
+        maxHeight: 145,
+      },
     },
 
     flexGrow: '1',
@@ -57,7 +60,7 @@ const useStyles = makeStyles(theme => ({
     },
 
     '& > a:not(:first-child)': {
-      marginLeft: theme.spacing(2),
+      marginLeft: theme.spacing(1),
     },
   },
   narrowNav: {
@@ -88,10 +91,10 @@ const TopBar = () => {
     <AppBar position="static" color="transparent" variant="outlined" className={classes.appbar}>
       <Toolbar disableGutters>
         <Container>
-          <Grid container wrap="nowrap">
+          <Grid container wrap="nowrap" spacing={2}>
             <Grid item className={classes.logo}>
               <Link to="/">
-                <img src="/outdoor-vision.svg" alt="Outdoorvision" />
+                <img src="/logo.svg" alt="Outdoorvision" />
               </Link>
             </Grid>
 
