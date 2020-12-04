@@ -18,7 +18,7 @@ ci-après, ne sont pas enregistrées dans outdoorvision.
 Outdoorvision vous permet également de déposer directement vos traces GPS sous
 forme de fichiers depuis votre ordinateur.
 
-### Quelle est la finalité du traitement des données personnelles précédemment décrites ?
+### Quelle est la finalité du traitement des données personnelles précédemment décrites ?
 
 Outdoorvision est une plateforme en ligne qui agrège des milliers de tracés GPS
 et activités issus d'objets connectés <u>volontairement fournis</u> par les
@@ -68,7 +68,7 @@ Votre adresse e-mail est conservée pendant la durée d'activité de votre compt
 Les traces GPS sont conservées pour une durée de 10 ans pour permettre une
 observation historisée.
 
-### Qui puis-je contacter pour des précisions ou un problème ?
+### Qui puis-je contacter pour des précisions ou un problème ?
 
 Pour toute information ou exercice de vos droits Informatique et Libertés sur
 les traitements de données personnelles gérés par Outdoorvision notamment :
