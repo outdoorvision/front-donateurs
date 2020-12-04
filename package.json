@@ -18,6 +18,8 @@
     "@material-ui/icons": "^4.9.1",
     "gatsby": "^2.26.1",
     "gatsby-plugin-create-client-paths": "^2.4.0",
+    "gatsby-plugin-netlify": "^2.7.0",
+    "gatsby-plugin-netlify-cache": "^1.2.0",
     "gatsby-plugin-sharp": "^2.8.0",
     "gatsby-remark-copy-linked-files": "^2.4.0",
     "gatsby-remark-images": "^3.5.1",
