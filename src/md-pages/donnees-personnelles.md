@@ -111,7 +111,5 @@ connectez-vous sur votre compte et arrêtez la synchronisation.
 
 #### Outdoorvision :
 
-Pour fermer votre compte outdoorvision :
-
 1. depuis outdoorvision.fr faire  
 …
