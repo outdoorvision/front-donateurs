@@ -19,7 +19,8 @@ L'application Visorando permet de se servir de son smartphone ou de sa tablette 
 [![VisuGPX](./assets/visugpx.png)](https://www.visugpx.com/)   
 VisuGPX est un site de création, d'analyse et de partage d'itinéraires GPS. Participer à ce projet est un choix de bon sens. Donner de la visibilité à nos itinéraires et à nos pratiques, c'est aider les décideurs dans leurs futurs choix de préservation et d'aménagement de nos terrains de jeu favoris.
 ***   
-<br>   
+
+
 **Avec le soutien opérationnel, technique ou financier de :**   
 
 ![Le Ministère chargé des Sports](./assets/ministere-sports.png) ![L'Agence nationale du sport](./assets/ans.png) ![La Fédération française de cyclisme](./assets/ffc.png) ![La Fédération française de randonnée pédestre](assets/ffrp.png) ![Les parcs naturels du Massif central (Association IPAMAC)](assets/ipamac.jpg) ![La Région Auvergne Rhône-Alpes](assets/region-auvergne-rhone-alpes.png) ![L'institut de Géographie Alpine de l'Université de Grenoble](./assets/iuga.jpg) ![Le CREPS Auvergne - Rhône-Alpes](./assets/creps.png)
