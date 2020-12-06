@@ -82,7 +82,7 @@ Vous pouvez contacter son délégué à la protection des données (DPO) :
 - par [ce formulaire](/contact)
 - ou par courrier à l'adresse suivante :
   - Pôle ressources national Sports de nature (PRNSN)  
-    CREPS Auvergne-Rhône-Alpes 
+    CREPS Auvergne-Rhône-Alpes  
     A l'attention du délégué à la protection des données  
     150 passage François Lecler - BP 38 - 07150 Vallon Pont d'Arc - France
 
