@@ -53,7 +53,6 @@ Google Analytics
 **Délégué à la protection des données :**
 
 Alexia Thevel - dpd@creps-rhonealpes.sports.gouv.fr  
-[Données personnelles](./donnees-personnelles)
 
 ## Conditions générales d'utilisation
 
