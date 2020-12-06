@@ -31,8 +31,9 @@ suivi.
 **Propriétaire :**
 
 Pôle ressources national Sports de nature (PRNSN)  
-CREPS Auvergne-Rhône-Alpes - Vallon Pont d'Arc-Voiron-Lyon  
-Avenue François Lecler - 07150 Vallon Pont d'Arc - France  
+CREPS Auvergne-Rhône-Alpes
+Siège administratif
+150 passage François Lecler - BP 38 - 07150 Vallon Pont d'Arc - France  
 Tél. : +33 (0)4 75 88 15 24  
 SIRET : 193 895 222 000 16
 
