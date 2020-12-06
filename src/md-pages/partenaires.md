@@ -33,3 +33,10 @@ Texte Sity trail à faire.
 ![La Région Auvergne Rhône-Alpes](assets/region-auvergne-rhone-alpes.png)
 ![L'institut de Géographie Alpine de l'Université de Grenoble](./assets/iuga.png)
 ![Le CREPS Auvergne - Rhône-Alpes](./assets/creps.png)
+
+<br> <br>
+Col 1 | Col 2 | Col3 
+--- | --- | ---
+Cel 1.1 | Cel 1.2 | cel 1.3
+Cel 2.1 | Cel 2.2 | cel 2.3
+
