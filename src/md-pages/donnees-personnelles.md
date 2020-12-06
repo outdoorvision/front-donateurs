@@ -44,8 +44,7 @@ territoire Français.
 
 D'autres données personnelles sont aussi collectées et utilisées pour le bon
 fonctionnement d'Outdoorvision. La plateforme enregistre votre adresse e-mail
-pour pouvoir créer un compte Outdoorvision dans le seul but de synchroniser vos
-traces GPS depuis votre compte Garmin Connect™ ou Suunto App.
+pour pouvoir créer un compte Outdoorvision.
 
 Outdoorvision n'utilise en aucun cas votre adresse e-mail dans ses algorithmes
 d'observation.
@@ -76,7 +75,7 @@ les traitements de données personnelles gérés par Outdoorvision notamment :
 - Droit d'opposition, d'interrogation, d'accès et de rectification,
 - Droit de plainte auprès de la Commission Nationale Informatique et Liberté
   (CNIL),
-- Droit à l'oubli,
+- Droit à l'oubli.
 
 Vous pouvez contacter son délégué à la protection des données (DPO) :
 
@@ -108,8 +107,3 @@ connectez-vous sur votre compte et arrêtez la synchronisation.
      vérifier
 2. Sélectionner Outdoovision
 3. Cliquer sur « déconnecter »
-
-#### Outdoorvision :
-
-1. depuis outdoorvision.fr faire  
-…
