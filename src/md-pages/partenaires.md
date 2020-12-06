@@ -23,9 +23,8 @@ VisuGPX est un site de création, d'analyse et de partage d'itinéraires GPS. Pa
 Texte Sity trail à faire.
 ***
 <br> <br> 
-
 **Avec le soutien opérationnel, technique ou financier de :**   
-
+<br> <br>
 ![Le Ministère chargé des Sports](./assets/ministere-sports.png)
 ![L'Agence nationale du sport](./assets/ans.png)
 ![La Fédération française de cyclisme](./assets/ffc.png)
