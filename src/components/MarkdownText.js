@@ -4,7 +4,7 @@ import clsx from 'clsx';
 import Rehype2react from 'rehype-react';
 
 import { Box, Typography } from '@material-ui/core';
-import { makeStyles } from '@material-ui/core/styles';
+import { makeStyles, useTheme } from '@material-ui/core/styles';
 
 import Link from './Link';
 
@@ -19,8 +19,16 @@ const useStyles = makeStyles(theme => ({
   },
 }));
 
+const makeSpacerStyles = ({ w = 0, h = 0, ...props }, theme) => ({
+  display: 'inline-block',
+  width: theme.spacing(+w),
+  height: theme.spacing(+h),
+  ...props,
+});
+
 const MarkdownText = ({ hast, components, className, ...rest }) => {
   const classes = useStyles();
+  const theme = useTheme();
 
   const renderAst = new Rehype2react({
     createElement: React.createElement,
@@ -37,6 +45,7 @@ const MarkdownText = ({ hast, components, className, ...rest }) => {
       a: ({ href, ...props }) => <Link to={href} {...props} />,
       // eslint-disable-next-line jsx-a11y/alt-text
       img: props => <img style={{ maxWidth: '100%' }} {...props} />,
+      spacer: props => <Box component="span" style={makeSpacerStyles(props, theme)} />,
       ...components,
     },
   }).Compiler;
