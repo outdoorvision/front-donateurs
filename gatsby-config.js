@@ -61,6 +61,7 @@ module.exports = {
             },
           },
           'gatsby-remark-copy-linked-files',
+          'gatsby-remark-external-links',
         ],
       },
     },
