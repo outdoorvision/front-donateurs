@@ -64,7 +64,7 @@ pour notre compte la gestion technique de la plateforme Outdoorvision.
 ### Pendant combien de temps sont conservées les données personnelles ?
 
 Votre adresse e-mail est conservée pendant la durée d'activité de votre compte.
-Les traces GPS sont conservées pour une durée de 10 ans pour permettre une
+Les traces GPS sont conservées pour une durée de 5 ans pour permettre une
 observation historisée.
 
 ### Qui puis-je contacter pour des précisions ou un problème ?
