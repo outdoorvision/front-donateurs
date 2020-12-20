@@ -16,7 +16,7 @@ Garmin fourni une technologie GPS innovante dans divers marchés comme l’aviat
 
 [![Sunnto](/medias/sunnto.png)](https://www.suunto.com/fr-fr/)
 
-Marque finlandaise de montres de sport, experte de l’orientation et l’aventure depuis 1936. Suunto a mobilisé sa communauté sportive et facilité le transfert des traces de celle-ci vers la plateforme Outdoorvision, améliorant ainsi la fiabilité du projet Outdoorvision.
+Marque finlandaise de montres de sport et accessoires de plongée, experte en orientation et aventures depuis 1936, Suunto propose des outils fiables et de qualité à tous les pratiquants d’outdoor. Suunto a mobilisé sa communauté sportive et facilité le transfert des traces GPS de celle-ci vers la plateforme Outdoorvision, améliorant ainsi la fiabilité du projet Outdoorvision tout en participant à la protection de son environnement.
 
 ----
 
