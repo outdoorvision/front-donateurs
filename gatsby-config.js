@@ -8,6 +8,9 @@ require('dotenv').config({ path: '.env' });
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    backendUrl: process.env.BACKEND_URL || '/fallback/',
+  },
   plugins: [
     'gatsby-plugin-sharp',
     {

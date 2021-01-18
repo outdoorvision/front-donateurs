@@ -7,8 +7,7 @@ import { makeStyles } from '@material-ui/core/styles';
 
 import Layout from '../components/Layout';
 import MDBlock from '../components/MDBlock';
-
-const authLink = 'https://dev-prnsn.makina-corpus.net/auth/';
+import useSiteMetadata from '../hooks/useSiteMetadata';
 
 const useStyles = makeStyles(theme => ({
   homeContent: {
@@ -89,9 +88,11 @@ const Disciplines = () => {
 const Participate = () => {
   const classes = useStyles();
 
+  const { backendUrl } = useSiteMetadata();
+
   return (
     <Box className={classes.bodyButtonWrapper} component="span">
-      <Button size="large" component={Link} to={authLink} variant="contained" color="primary">
+      <Button size="large" component={Link} to={backendUrl} variant="contained" color="primary">
         Je participe
       </Button>
     </Box>

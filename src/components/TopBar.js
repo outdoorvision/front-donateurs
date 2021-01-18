@@ -15,6 +15,7 @@ import {
   Menu,
 } from '@material-ui/core';
 import { Home, Menu as MenuIcon } from '@material-ui/icons';
+import useSiteMetadata from '../hooks/useSiteMetadata';
 
 const useStyles = makeStyles(theme => ({
   appbar: {
@@ -72,12 +73,12 @@ const useStyles = makeStyles(theme => ({
   },
 }));
 
-const authLink = 'https://dev-prnsn.makina-corpus.net/auth/';
-
 const TopBar = () => {
   const classes = useStyles();
   const theme = useTheme();
   const [anchorEl, setAnchorEl] = React.useState(null);
+
+  const { backendUrl } = useSiteMetadata();
 
   const handleClick = event => setAnchorEl(event.currentTarget);
   const handleClose = () => setAnchorEl(null);
@@ -116,14 +117,14 @@ const TopBar = () => {
               >
                 <MenuItem component={Link} activeStyle={activeStyle} to="/">Outdoorvision</MenuItem>
                 <MenuItem component={Link} activeStyle={activeStyle} to="/partenaires">Partenaires</MenuItem>
-                <MenuItem component={Link} to={authLink}>Participer</MenuItem>
+                <MenuItem component={Link} to={backendUrl}>Participer</MenuItem>
               </Menu>
             </Grid>
 
             <Grid item className={classes.nav} component="nav">
               <Button activeStyle={activeStyle} to="/" startIcon={<Home />}>Outdoorvision</Button>
               <Button activeStyle={activeStyle} to="/partenaires">Partenaires</Button>
-              <Button variant="outlined" href={authLink}>Participer</Button>
+              <Button variant="outlined" href={backendUrl}>Participer</Button>
             </Grid>
           </Grid>
         </Container>
