@@ -136,7 +136,7 @@
             "type": "tripetto-block-mailer",
             "version": "2.1.2",
             "recipient": "fixed",
-            "recipientFixed": "bma+prnsn-contact-form@makina-corpus.com",
+            "recipientFixed": "info@sportsdenature.gouv.fr",
             "sender": "9985442539b85046379bc0b3b12cb38a2a33d99cad7ebf461a0fbfd9957f0558",
             "includeData": true
           }
