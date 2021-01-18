@@ -1,0 +1,11 @@
+[context.production.environment]
+BACKEND_URL = "https://back.outdoorvision.fr/auth/"
+
+[context.staging.environment]
+BACKEND_URL = "https://staging-back.outdoorvision.fr/auth/"
+
+[context.qa.environment]
+BACKEND_URL = "https://qa-back.outdoorvision.fr/auth/"
+
+[context.dev.environment]
+BACKEND_URL = "https://dev-back.outdoorvision.fr/auth/"
