@@ -44,6 +44,7 @@
   "peerDependencies": {
     "@reach/router": "*",
     "clsx": "*",
+    "dotenv": "*",
     "prop-types": "*",
     "react-helmet": "*"
   },
