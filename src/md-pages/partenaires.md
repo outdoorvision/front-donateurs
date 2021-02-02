@@ -33,9 +33,9 @@ VisuGPX est un site de création, d'analyse et de partage d'itinéraires GPS. Pa
 
 ----
 
-[![SityTrail](/medias/sitytrail.png)](https://www.sitytrail.com/fr/)
+[comment]: # [![SityTrail](/medias/sitytrail.png)](https://www.sitytrail.com/fr/)
 
-L’application permet de trouver des parcours en plein air et de les enregistrer. La société Géolives s’associe à la démarche Outdoorvision pour une meilleure prise en compte des intérêts des pratiquants dans les politiques territoriales.
+[comment]: # L’application permet de trouver des parcours en plein air et de les enregistrer. La société Géolives s’associe à la démarche Outdoorvision pour une meilleure prise en compte des intérêts des pratiquants dans les politiques territoriales.
 
 ----
 
