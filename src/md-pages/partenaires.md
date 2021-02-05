@@ -43,6 +43,7 @@ VisuGPX est un site de création, d'analyse et de partage d'itinéraires GPS. Pa
 [![Le Pôle ressources national sports de nature (PRNSN)](/medias/prnsn.png)](https://www.sportsdenature.gouv.fr/)<spacer w="3"></spacer>
 [![L'Agence nationale du sport](/medias/ans.png)](https://www.ign.fr/)<spacer w="2"></spacer>
 [![La Région Auvergne Rhône-Alpes](/medias/region-auvergne-rhone-alpes.png)](https://www.auvergnerhonealpes.fr/)<spacer w="2"></spacer>
+[![Tourisme Auvergne Rhône-Alpes](/medias/tourisme-auvergne-rhone-alpes.png)](https://www.auvergnerhonealpes-tourisme.com/)<spacer w="2"></spacer>
 [![La Fédération française de cyclisme](/medias/ffc.png)](https://www.ffc.fr/)
 
 [![La Fédération française de randonnée pédestre](/medias/ffrp.png)](https://www.ffrandonnee.fr/)<spacer w="2"></spacer>
