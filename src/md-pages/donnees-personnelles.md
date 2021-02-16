@@ -100,10 +100,6 @@ connectez-vous sur votre compte et arrêtez la synchronisation.
 
 #### Suunto APP :
 
-1. Aller dans les paramètres de l'application
-   - Sur Android, Sélectionner Paramètres › Paramètres du compte › Se connecter
-     à d'autres services
-   - Sur iOS, Sélectionner Mon Profil › Se connecter à d'autres services à
-     vérifier
-2. Sélectionner Outdoovision
-3. Cliquer sur « déconnecter »
+1. Sur Outdoorvision, https://outdoorvision.fr
+   - Rubrique « Participer », connectez-vous à votre compte.
+2. Répérer le bloc « Suunto », cliquer sur sur « Se déconnecter »
