@@ -91,15 +91,17 @@ Vous pouvez contacter son délégué à la protection des données (DPO) :
 Pour arrêter la synchronisation automatique avec Garmin Connect™ ou Suunto App,
 connectez-vous sur votre compte et arrêtez la synchronisation.
 
-#### Garmin Connect™ :
+#### Garmin Connect™ :
 
-1. Sur Garmin Connect™,  
-   https://connect.garmin.com/modern/settings/accountInformation
-2. Dans la zone « Applications », cliquer sur le bouton « déconnecter »
-   correspondant à Outdoorvision
+1. Depuis Garmin Connect™, https://connect.garmin.com
+   - Connectez-vous à votre compte.
+   - Rubrique « Paramètres / Informations sur le compte », repérer « Applications connectées / Outdoorvision » puis cliquer sur le bouton « Déconnecter ».
+2. Depuis Outdoorvision, https://outdoorvision.fr
+   - Rubrique « Participer », connectez-vous à votre compte.
+   - Répérer le bloc « Garmin » puis cliquer sur « Se déconnecter »
 
 #### Suunto APP :
 
-1. Sur Outdoorvision, https://outdoorvision.fr
+1. Depuis Outdoorvision, https://outdoorvision.fr
    - Rubrique « Participer », connectez-vous à votre compte.
-2. Répérer le bloc « Suunto », cliquer sur sur « Se déconnecter »
+   - Répérer le bloc « Suunto » puis cliquer sur « Se déconnecter »
