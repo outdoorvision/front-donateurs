@@ -14,7 +14,7 @@ présentes conditions générales.
 **Contributeur**
 
 Utilisateur d'objet connecté ayant donné son accord pour le téléchargement de
-tracés GPS à partir de son compte
+traces GPS à partir de son compte
 
 **Contenu**
 
@@ -30,7 +30,7 @@ suivi.
 
 **Propriétaire**
 
-Pôle ressources national Sports de nature (PRNSN)  
+Pôle ressources national sports de nature (PRNSN)  
 CREPS Auvergne-Rhône-Alpes  
 Siège administratif  
 150 passage François Lecler - BP 38 - 07150 Vallon Pont d'Arc - France  
@@ -43,7 +43,7 @@ Edwige Bakkaus, directrice du CREPS Auvergne-Rhône-Alpes Vallon Pont d'Arc Voir
 
 **Hébergeur**
 
-Makina Corpus 
+Makina Corpus  
 52 rue Jacques Babinet - 31100 Toulouse  
 Tel. +33 (0)9 53 73 22 74
 
@@ -75,7 +75,7 @@ peuvent être modifiées à tout moment.
 
 Outdoorvision agit pour la préservation et la pérennisation des sites de
 pratique de loisirs sportifs de nature sur l'ensemble du territoire Français.
-Cette plateforme à accès sécurisé rassemble les tracés GPS anonymisés
+Cette plateforme à accès sécurisé rassemble les traces GPS anonymisés
 volontairement fournis par les pratiquants de sports et loisirs de nature contributeurs à l'occasion de
 leurs sorties. L'agrégation et la visualisation de ces données géolocalisées
 permet aux territoires partenaires de mieux prendre en compte les usages des
