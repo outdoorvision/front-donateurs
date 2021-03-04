@@ -8,7 +8,7 @@ En tant que passionné des sports outdoor, vous êtes sensible à la
 qualité des sites et itinéraires, à leur préservation et à la prise en
 compte de votre sport favori dans les politiques territoriales.
 
-En partageant vos tracés GPS (et uniquement vos tracés GPS, les autres
+En partageant vos traces GPS (et uniquement vos tracés GPS, les autres
 données liées à votre activité ne sont pas concernées), vous contribuez
 à la meilleure connaissance des sports outdoor et à la préservation de
 vos sites de pratique.
@@ -17,8 +17,8 @@ vos sites de pratique.
 
 ## Comment participer ?
 
-Vous pouvez partager vos tracés GPS avec Outdoorvision soit en connectant votre compte Garmin
-Connect™ ou Suunto APP (Appli Suunto) soit en nous communiquant directement vos tracés GPS.
+Vous pouvez partager vos traces GPS avec Outdoorvision soit en connectant votre compte Garmin
+Connect™ ou Suunto APP (Appli Suunto) soit en nous communiquant directement vos traces GPS.
 
 ![Outdoorvision](/medias/carousel.jpg)
 
