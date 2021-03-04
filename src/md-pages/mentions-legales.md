@@ -5,18 +5,18 @@ title: Mentions légales
 
 ## Définitions
 
-**Utilisateur :**
+**Utilisateur**
 
 Tout professionnel ou personne physique capable au sens des articles 1123 et
 suivants du Code civil, ou personne morale, qui visite le Site objet des
 présentes conditions générales.
 
-**Contributeur :**
+**Contributeur**
 
 Utilisateur d'objet connecté ayant donné son accord pour le téléchargement de
 tracés GPS à partir de son compte
 
-**Contenu :**
+**Contenu**
 
 Ensemble des éléments constituants l'information présente sur la plateforme,
 notamment textes -- images -- fonds de carte.
@@ -28,30 +28,26 @@ dans l'économie numérique, il est précisé aux utilisateurs d'Outdoorvision
 l'identité des différents intervenants dans le cadre de sa réalisation et de son
 suivi.
 
-**Propriétaire :**
+**Propriétaire**
 
 Pôle ressources national Sports de nature (PRNSN)  
 CREPS Auvergne-Rhône-Alpes  
 Siège administratif  
 150 passage François Lecler - BP 38 - 07150 Vallon Pont d'Arc - France  
-Tél. : +33 (0)4 75 88 15 24  
-SIRET : 193 895 222 000 16
+Tél. +33 (0)4 75 88 15 24  
+SIRET 193 895 222 000 16
 
-**Responsable de la publication :**
+**Responsable de la publication**
 
-Edwige Bakkaus, directrice du CREPS Auvergne - Rhône-Alpes Vallon Pont d'Arc.
-Voiron. Lyon
+Edwige Bakkaus, directrice du CREPS Auvergne-Rhône-Alpes Vallon Pont d'Arc Voiron Lyon
 
-**Hébergeur :**
+**Hébergeur**
 
-MAKINA CORPUS - 52, rue Jacques Babinet, 31100 Toulouse  
+Makina Corpus 
+52 rue Jacques Babinet - 31100 Toulouse  
 Tel. +33 (0)9 53 73 22 74
 
-**Gestionnaire des statistiques :**
-
-Google Analytics
-
-**Délégué à la protection des données :**
+**Déléguée à la protection des données**
 
 Alexia Thevel - dpd@creps-rhonealpes.sports.gouv.fr  
 
@@ -80,7 +76,7 @@ peuvent être modifiées à tout moment.
 Outdoorvision agit pour la préservation et la pérennisation des sites de
 pratique de loisirs sportifs de nature sur l'ensemble du territoire Français.
 Cette plateforme à accès sécurisé rassemble les tracés GPS anonymisés
-volontairement fournis par les pratiquants outdoor contributeurs à l'occasion de
+volontairement fournis par les pratiquants de sports et loisirs de nature contributeurs à l'occasion de
 leurs sorties. L'agrégation et la visualisation de ces données géolocalisées
 permet aux territoires partenaires de mieux prendre en compte les usages des
 sportifs dans les politiques territoriales menées.
