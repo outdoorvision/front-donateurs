@@ -20,14 +20,14 @@ forme de fichiers depuis votre ordinateur.
 
 ### Quelle est la finalité du traitement des données personnelles précédemment décrites ?
 
-Outdoorvision est une plateforme en ligne qui agrège des milliers de tracés GPS
+Outdoorvision est une plateforme en ligne qui agrège des milliers de traces GPS
 et activités issus d'objets connectés <u>volontairement fournis</u> par les
 pratiquants de sports et loisirs de nature. Elle permet aux collectivités territoriales de visualiser
 via un accès sécurisé ces données d'activités géolocalisées et anonymisées sur
 leurs territoires. Outdoorvision révèle ainsi les usages sportifs dans les
 territoires pour mieux les intégrer dans les politiques locales.
 
-Le don de tracés GPS de la part du pratiquant permet d'agir en faveur de la
+Le don de traces GPS de la part du pratiquant permet d'agir en faveur de la
 préservation et la pérennisation des sites de pratique de loisirs sportifs de
 nature sur l'ensemble du territoire français.
 
@@ -81,7 +81,7 @@ Vous pouvez contacter son délégué à la protection des données :
 
 - par [ce formulaire](/contact)
 - ou par courrier :
-  - Pôle ressources national Sports de nature (PRNSN)  
+  - Pôle ressources national sports de nature (PRNSN)  
     À l'attention du délégué à la protection des données
     CREPS Auvergne-Rhône-Alpes  
     150 passage François Lecler - 07150 Vallon Pont d'Arc - France
