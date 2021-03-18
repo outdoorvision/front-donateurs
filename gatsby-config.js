@@ -12,6 +12,15 @@ module.exports = {
     backendUrl: process.env.BACKEND_URL || '/fallback/',
   },
   plugins: [
+    {
+      resolve: 'gatsby-plugin-matomo',
+      options: {
+        siteId: '2',
+        matomoUrl: 'https://makinacorpus.matomo.cloud',
+        siteUrl: 'https://outdoorvision.fr/',
+        disableCookies: true,
+      },
+    },
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-theme-material-ui',
