@@ -116,6 +116,7 @@ const TopBar = () => {
                 onClose={handleClose}
               >
                 <MenuItem component={Link} activeStyle={activeStyle} to="/">Outdoorvision</MenuItem>
+                <MenuItem component={Link} activeStyle={activeStyle} to="/faq">FAQ</MenuItem>
                 <MenuItem component={Link} activeStyle={activeStyle} to="/partenaires">Partenaires</MenuItem>
                 <MenuItem component={Link} to={backendUrl}>Participer</MenuItem>
               </Menu>
@@ -123,6 +124,7 @@ const TopBar = () => {
 
             <Grid item className={classes.nav} component="nav">
               <Button activeStyle={activeStyle} to="/" startIcon={<Home />}>Outdoorvision</Button>
+              <Button activeStyle={activeStyle} to="/faq">FAQ</Button>
               <Button activeStyle={activeStyle} to="/partenaires">Partenaires</Button>
               <Button variant="outlined" href={backendUrl}>Participer</Button>
             </Grid>
