@@ -1,9 +1,7 @@
 {
   "name": "Formulaire contact",
   "language": "fr",
-  "epilogue": {
-    "title": "Merci pour votre message."
-  },
+  "epilogue": { "title": "Merci pour votre message." },
   "clusters": [
     {
       "id": "ff6e14c3511b7fda1b283815403c03fefd27b4f27a11d791d3b66a1ffbabce96",
@@ -22,10 +20,7 @@
               "label": "Text"
             }
           ],
-          "block": {
-            "type": "tripetto-block-text",
-            "version": "3.0.3"
-          }
+          "block": { "type": "tripetto-block-text", "version": "4.2.0" }
         },
         {
           "id": "561bd91c88f82e307c5c96047588da62bcbdd65250194cc1a5c8b05fb8970cea",
@@ -40,10 +35,7 @@
               "label": "Text"
             }
           ],
-          "block": {
-            "type": "tripetto-block-text",
-            "version": "3.0.3"
-          }
+          "block": { "type": "tripetto-block-text", "version": "4.2.0" }
         },
         {
           "id": "550080ea37ebc9dfca48a7adda8517084bde0c62132d999907a3962809ac8087",
@@ -60,10 +52,7 @@
               "required": true
             }
           ],
-          "block": {
-            "type": "tripetto-block-email",
-            "version": "3.1.0"
-          }
+          "block": { "type": "tripetto-block-email", "version": "4.0.5" }
         },
         {
           "id": "8653f51cc71df5800e652c5c18417c909e86a59766c349668f47132e381246b4",
@@ -79,10 +68,7 @@
               "alias": "Message"
             }
           ],
-          "block": {
-            "type": "tripetto-block-textarea",
-            "version": "3.0.3"
-          }
+          "block": { "type": "tripetto-block-textarea", "version": "4.1.0" }
         },
         {
           "id": "eaec8e65c8805e6cb74e7c2cd58aecdef543be84e88fea3a158c110f84167779",
@@ -134,7 +120,7 @@
           ],
           "block": {
             "type": "tripetto-block-mailer",
-            "version": "2.1.2",
+            "version": "3.1.0",
             "recipient": "fixed",
             "recipientFixed": "info@sportsdenature.gouv.fr",
             "sender": "9985442539b85046379bc0b3b12cb38a2a33d99cad7ebf461a0fbfd9957f0558",
@@ -144,8 +130,5 @@
       ]
     }
   ],
-  "builder": {
-    "name": "tripetto",
-    "version": "2.2.3"
-  }
+  "builder": { "name": "tripetto", "version": "3.10.3" }
 }

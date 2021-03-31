@@ -29,8 +29,14 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "rehype-react": "^6.1.0",
-    "tripetto-runner-classic": "^1.9.2",
-    "tripetto-runner-foundation": "^3.1.3",
+    "styled-components": "^5.2.2",
+    "tripetto": "^3.10.3",
+    "tripetto-block-email": "^4.0.5",
+    "tripetto-block-mailer": "^3.1.0",
+    "tripetto-block-text": "^4.2.0",
+    "tripetto-block-textarea": "^4.1.0",
+    "tripetto-runner-classic": "^2.0.2",
+    "tripetto-runner-foundation": "^5.0.1",
     "tripetto-services": "^1.2.2"
   },
   "devDependencies": {
@@ -55,5 +61,13 @@
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "tripetto": {
+    "blocks": [
+      "tripetto-block-text",
+      "tripetto-block-email",
+      "tripetto-block-textarea",
+      "tripetto-block-mailer"
+    ]
   }
 }
