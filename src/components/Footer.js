@@ -19,6 +19,8 @@ const Footer = () => {
         {' - '}
         <Button color="inherit" variant="text" to="/donnees-personnelles">Données personnelles</Button>
         {' - '}
+        <Button color="inherit" variant="text" to="/faq">Foire aux questions</Button>
+        {' - '}
         <Button color="inherit" variant="text" to="/contact">Contact</Button>
       </Container>
     </Toolbar>
