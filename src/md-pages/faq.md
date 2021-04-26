@@ -1,5 +1,5 @@
 ---
-title: Questions fréquemment posées
+title: Foire aux questions
 ---
 
 ## Quel est le but d’Outdoorvision&nbsp;?
@@ -28,7 +28,7 @@ L’objectif d'Outdoorvision est d'être ouvert à différents partenaires. Nous
 
 ## Pourquoi collectez-vous les traces GPS alors que Garmin, Suunto ou Strava le font déjà&nbsp;?
 Ces marques génèrent des cartes de chaleur qui apportent des informations intéressantes pour les pratiquants. Notre but, avec Outdoorvision, est d'apporter des informations complémentaires, par exemple :
-Quelle est le nombre de personnes qui pratiquent le week-end, la semaine, l'été ou l'hiver, etc ? Quels sont les chemins – ou les portions - les plus fréquentés ? Et ainsi apporter des réponses aux territoires qui cherchent à savoir, par exemple, quels aménagements sont manquants (parking, point d'eau, toilettes...) ?
+Quelle est le nombre de personnes qui pratiquent le week-end, la semaine, l'été ou l'hiver, etc ? Quels sont les chemins – ou les portions - les plus fréquentés ? Et ainsi apporter des réponses aux territoires qui cherchent à savoir, par exemple, quels aménagements sont manquants (parking, point d'eau, toilettes...)&nbsp;?
 
 ## Quelles sont les données collectées par Outdoorvision&nbsp;?
 Outdoorvision collecte uniquement vos traces GPS qui sont ensuite anonymisées. Comme il est mentionné sur la page [Données personnelles](/donnees-personnelles), les autres données issues de votre compte telles que le nombre de pas effectués, les calories consommées, la fréquence cardiaque ou tout autre donnée ne sont pas enregistrées.
@@ -38,6 +38,9 @@ Oui, la [déconnexion](/donnees-personnelles) est simple et rapide. Outdoorvisio
 
 ## Est-ce que toutes mes traces GPS seront enregistrées&nbsp;?
 Outdoorvision agrège les traces GPS dont les parcours ont été réalisés sur le terrain **à partir du 1er&nbsp;janvier&nbsp;2018**. Les traces antérieures sont supprimées.
+
+## Qui a mis en place la plate-forme Outdoorvision&nbsp;?
+Outdoorvision est piloté par le [Pôle ressources national sports de nature](https://www.sportsdenature.gouv.fr/comprendre/a-propos-prnsn), créé par le ministère chargé des Sports. La mission nationale d'expertise confiée au PRNSN consiste en la diffusion des savoir-faire, la valorisation des bonnes pratiques et la mise à disposition d’outils, adaptés aux besoins des acteurs du développement des sports de nature
 
 	
 *Mise à jour 26/04/2021*
