@@ -40,7 +40,7 @@ Oui, la [déconnexion](/donnees-personnelles) est simple et rapide. Outdoorvisio
 Outdoorvision agrège les traces GPS dont les parcours ont été réalisés sur le terrain **à partir du 1er&nbsp;janvier&nbsp;2018**. Les traces antérieures sont supprimées.
 
 ## Qui a mis en place la plate-forme Outdoorvision&nbsp;?
-Outdoorvision est piloté par le [Pôle ressources national sports de nature](https://www.sportsdenature.gouv.fr/comprendre/a-propos-prnsn), créé par le ministère chargé des Sports. La mission nationale d'expertise confiée au PRNSN consiste en la diffusion des savoir-faire, la valorisation des bonnes pratiques et la mise à disposition d’outils, adaptés aux besoins des acteurs du développement des sports de nature
+Outdoorvision est piloté par le [Pôle ressources national sports de nature](https://www.sportsdenature.gouv.fr), créé par le ministère chargé des Sports. La mission nationale d'expertise confiée au PRNSN consiste en la diffusion des savoir-faire, la valorisation des bonnes pratiques et la mise à disposition d’outils, adaptés aux besoins des acteurs du développement des sports de nature
 
 	
 *Mise à jour 26/04/2021*
