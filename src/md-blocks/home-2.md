@@ -5,11 +5,10 @@
 ## Pourquoi participer ?
 
 En tant que passionné des sports outdoor, vous êtes sensible à la
-qualité des sites et itinéraires, à leur préservation et à la prise en
+qualité des sites et itinéraires, à leur préservation, à la prise en
 compte de votre sport favori dans les politiques territoriales.
 
-En partageant vos traces GPS (et uniquement vos tracés GPS, les autres
-données liées à votre activité ne sont pas concernées), vous contribuez
+En partageant vos traces GPS ¦ et uniquement vos traces GPS ¦ vous contribuez
 à la meilleure connaissance des sports outdoor et à la préservation de
 vos sites de pratique.
 
@@ -30,24 +29,16 @@ Connect™ ou Suunto APP (Appli Suunto) soit en nous communiquant directement vo
 
 Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre
 compte Garmin Connect™ ou Suunto App (Appli Suunto). Les autres données issues
-de votre compte telles que le nombre de pas effectués, les calories consommées,
-la fréquence cardiaque ou tout autre donnée ne sont pas enregistrées dans
-Outdoorvision. [En savoir plus](/donnees-personnelles).
+de votre compte ne sont pas enregistrées dans
+Outdoorvision. [En savoir plus](/faq).
 
 <custommap></custommap>
 
 ## Qui sommes-nous ?
 
-Outdoorvision est le fruit d'un partenariat innovant entre des territoires, des
-fédérations sportives et des marques réunis autour d'un programme à but non lucratif
-dont le but est d'apporter des données objectives (des centaines de milliers de
-tracés GPS) pour nourrir les réflexions et décisions des collectivités publiques
-dans le développement, l'aménagement et la préservation des sites et itinéraires
-des sports et loisirs de nature. Outdoorvision est piloté par le [Pôle
-ressources national Sports de Nature (PRNSN)][PRNSN] du ministère chargé des
-Sports.
+Outdoorvision est un service proposé par le Pôle ressources national sports de nature, mission d’appui du ministère chargé des Sports.
+Il est le fruit d'un [partenariat](/partenaires) innovant entre des territoires, des fédérations sportives et des marques réunis autour d'un programme à but non lucratif.
 
 ![« Je participe pour que mon environnement soit respecté »](/medias/respect.jpg)
 
 [Participer]: https://dev-prnsn.makina-corpus.net/auth/
-[PRNSN]: https://www.sportsdenature.gouv.fr/
