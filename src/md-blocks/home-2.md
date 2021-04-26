@@ -8,7 +8,7 @@ En tant que passionné des sports outdoor, vous êtes sensible à la
 qualité des sites et itinéraires, à leur préservation, à la prise en
 compte de votre sport favori dans les politiques territoriales.
 
-En partageant vos traces GPS ¦ et uniquement vos traces GPS ¦ vous contribuez
+En partageant vos traces GPS - et uniquement vos traces GPS - vous contribuez
 à la meilleure connaissance des sports outdoor et à la préservation de
 vos sites de pratique.
 
