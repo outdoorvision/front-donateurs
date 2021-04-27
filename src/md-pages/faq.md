@@ -59,7 +59,7 @@ Outdoorvision agrège les traces GPS dont les parcours ont été réalisés sur 
 
 ---
 
-## Qui a créé la plate-forme Outdoorvision&nbsp;?
+## Qui a créé Outdoorvision&nbsp;?
 Outdoorvision est le fruit d'un partenariat entre l'État, des territoires, des fédérations sportives, des services et objets connectés. [Voir les partenaires](/partenaires)
 
 ---
