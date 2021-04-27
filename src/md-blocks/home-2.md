@@ -18,6 +18,7 @@ vos sites de pratique.
 
 Vous pouvez partager vos traces GPS avec Outdoorvision soit en connectant votre compte Garmin
 Connect™ ou Suunto APP (Appli Suunto) soit en nous communiquant directement vos traces GPS.
+![Garmin, Sunnto, Visorando, VisuGPX](/medias/logo-band.png)
 
 <participate></participate>
 
@@ -36,8 +37,6 @@ Outdoorvision. [En savoir plus](/faq).
 
 Outdoorvision est un service proposé par le Pôle ressources national sports de nature, mission d’appui du ministère chargé des Sports.
 Il est le fruit d'un [partenariat](/partenaires) innovant entre des territoires, des fédérations sportives et des marques réunis autour d'un programme à but non lucratif.
-
-![Garmin, Sunnto, Visorando, VisuGPX](/medias/logo-band.png)
 
 <participate></participate>
 
