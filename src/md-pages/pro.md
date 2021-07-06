@@ -7,6 +7,13 @@ title: Outdoorvision au service des territoires
 Le but d'Outdoorvision est de nourrir les décisions des collectivités publiques dans le **développement, l'aménagement et la préservation des sites et itinéraires de sports et loisirs** de nature grâce à l’action citoyenne des pratiquants.
 
 
+
+
+<span class="MuiGrid-root jss22 half-bleed MuiGrid-container"><span class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12"><img src="/medias/discipline-1.jpg" alt=""></span><span class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-4"><img src="/medias/discipline-2.jpg" alt=""></span><span class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-4"><img src="/medias/discipline-3.jpg" alt=""></span><span class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-4"><img src="/medias/discipline-4.jpg" alt=""></span></span>
+
+
+
+
 ---
 
 ## Adapter l'offre d'itinéraires balisés à la pratique réelle
