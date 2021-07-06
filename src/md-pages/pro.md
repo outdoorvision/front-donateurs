@@ -10,8 +10,7 @@ Le but d'Outdoorvision est de nourrir les décisions des collectivités publique
 ---
 
 ## Adapter l'offre d'itinéraires balisés à la pratique réelle
-<iframe width="560" height="315" src="https://www.youtube.com/embed/as7CE04TOUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![IMAGE_ALT](https://img.youtube.com/vi/as7CE04TOUc/0.jpg)](https://www.youtube.com/watch?v=as7CE04TOUc)
 
 ---
 
