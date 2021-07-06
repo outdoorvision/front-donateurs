@@ -10,7 +10,7 @@ Le but d'Outdoorvision est de nourrir les décisions des collectivités publique
 ---
 
 ## Adapter l'offre d'itinéraires balisés à la pratique réelle
-[![IMAGE_ALT](https://img.youtube.com/vi/01knwVVuyLc/sddefault.jpg)](https://www.youtube.com/watch?v=01knwVVuyLc)
+[![IMAGE_ALT](https://img.youtube.com/vi/01knwVVuyLc/maxresdefault.jpg)](https://www.youtube.com/watch?v=01knwVVuyLc)
 
 ---
 
@@ -31,5 +31,4 @@ Le but d'Outdoorvision est de nourrir les décisions des collectivités publique
 ---
 
 ## Croiser les données GPS avec d'autres données
-[![IMAGE_ALT](https://img.youtube.com/vi/zza6JN5tl2o/maxresdefault.jpg)](https://www.youtube.com/watch?v=zza6JN5tl2o)
-
+[![IMAGE_ALT](https://img.youtube.com/vi/zza6JN5tl2o/maxresdefault.jpg)](https://www.youtube.com/watch?v=nA3dKtY-WGQ)
