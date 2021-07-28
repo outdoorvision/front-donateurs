@@ -5,7 +5,7 @@ title: Foire aux questions
 ## Quel est le but d’Outdoorvision&nbsp;?
 
 Notre but est de nourrir les décisions des collectivités publiques dans le **développement, l'aménagement et la préservation des sites et itinéraires de sports et loisirs** de nature grâce à l’action citoyenne des pratiquants.
-Optimisation du balisage, sécurisation des voies de circulation, les exemples sont nombreux.[En savoir plus] (/pro)
+Optimisation du balisage, sécurisation des voies de circulation, les exemples sont nombreux. [En savoir plus](/pro)
 
 ---
 
