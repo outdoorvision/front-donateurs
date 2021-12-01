@@ -2,9 +2,9 @@
 title: Outdoorvision au service des territoires
 ---
 
-# Outdoorvision au service des territoires
+# Des données utiles pour l’aide à la décision territoriale
 
-Le but d'Outdoorvision est de nourrir les décisions des collectivités publiques dans le **développement, l'aménagement et la préservation des sites et itinéraires de sports et loisirs** de nature grâce à l’action citoyenne des pratiquants.
+Optimiser la balisage, organiser les accès et stationnements, résoudre les conflits d'usage, positionner la signalétique... Outdoorvision nourrit les décisions des collectivités publiques dans le **développement, l'aménagement et la préservation des sites et itinéraires de sports et loisirs** de nature grâce à l’action citoyenne des pratiquants.
 
 
 

@@ -6,6 +6,14 @@ title: Foire aux questions
 
 Notre but est de nourrir les décisions des collectivités publiques dans le **développement, l'aménagement et la préservation des sites et itinéraires de sports et loisirs** de nature grâce à l’action citoyenne des pratiquants.
 
+[![IMAGE_ALT](https://img.youtube.com/vi/Sua7VDlhBs4/maxresdefault.jpg)](https://www.youtube.com/watch?v=Sua7VDlhBs4)
+
+---
+
+## Quelles améliorations à l'aménagement et la préservation des sites et itinéraires peut apporter Outdoorvision&nbsp;?
+
+Les exemples sont nombreux : optimisation du balisage, sécurisation des voies de circulation. Des gestionnaires de sites de pratiques et d’espaces naturels protégés, des représentants de fédérations sportives... sont partenaires du projet et ont détaillé en vidéo ces exemples. [En savoir plus](/pro)
+
 ---
 
 ## Quelles sont les activités sportives ou de loisirs concernées par Outdoorvision&nbsp;?
@@ -28,7 +36,7 @@ Non, il n’est pas possible de visualiser les données d’un seul pratiquant. 
 ---
 
 ## Les informations données ne vont-elles pas favoriser des décisions d’interdiction de la pratique&nbsp;?
-Ce n’est pas but de la plateforme. Outdoorvision agrège les traces GPS des parcours réalisés sur le terrain **sans jugement de valeur ou interprétation**. Les cartes produites visent à alimenter des processus de concertation sur la base d’informations neutres et objectives pour que les usages sportifs soient reconnus dans les politiques territoriales.
+Ce n’est pas but de la plateforme. Outdoorvision agrège les traces GPS des parcours réalisés sur le terrain **sans jugement de valeur ou interprétation**. Les cartes produites visent [à alimenter des processus de concertation] (/pro) sur la base d’informations neutres et objectives pour que les usages sportifs soient reconnus dans les politiques territoriales.
 
 ---
 
