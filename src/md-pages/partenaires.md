@@ -56,7 +56,7 @@ OpenRunner est une solution web et mobile pour planifier, trouver, suivre et par
 [![La Fédération française de cyclisme](/medias/ffc.png)](https://www.ffc.fr/)<spacer w="1"></spacer>
 [![La Fédération française de randonnée pédestre](/medias/ffrp.png)](https://www.ffrandonnee.fr/)<spacer w="1"></spacer>
 [![Les parcs naturels du Massif central (Association IPAMAC)](/medias/ipamac.png)](http://www.parcs-massif-central.com/)<spacer w="1"></spacer>
-[![L'institut de Géographie Alpine de l'Université de Grenoble](/medias/iuga.png)](https://iuga.univ-grenoble-alpes.fr/)<spacer w="2"></spacer>
-[![L’Institut national de l’information géographique et forestière (IGN)](/medias/ign.png)](https://www.ign.fr/)<spacer w="2"></spacer>
+[![L'institut de Géographie Alpine de l'Université de Grenoble](/medias/iuga.png)](https://iuga.univ-grenoble-alpes.fr/)<spacer w="1"></spacer>
+[![L’Institut national de l’information géographique et forestière (IGN)](/medias/ign.png)](https://www.ign.fr/)<spacer w="1"></spacer>
 [![Tourisme Auvergne Rhône-Alpes](/medias/tourisme-auvergne-rhone-alpes.png)](https://www.auvergnerhonealpes-tourisme.com/)<spacer w="1"></spacer>
 [![Le CREPS Auvergne - Rhône-Alpes](/medias/creps.png)](https://www.creps-rhonealpes.sports.gouv.fr/)
