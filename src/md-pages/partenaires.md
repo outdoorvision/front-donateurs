@@ -14,6 +14,12 @@ Garmin fourni une technologie GPS innovante dans divers marchés comme l’aviat
 
 ----
 
+[![OpenRunner](/medias/openrunner.png)](https://www.openrunner.com/)
+
+OpenRunner est une solution web et mobile pour planifier, trouver, suivre et partager des parcours de sports outdoor (rando pédestre, équestre, cyclisme, trail, etc.). La plateforme aux 6 millions de parcours, créée en 2006 et développée à Annecy, est fière de soutenir Outdoorvision pour la préservation des terrains de jeu !
+
+----
+
 [![Sunnto](/medias/sunnto.png)](https://www.suunto.com/fr-fr/)
 
 Marque finlandaise de montres de sport et accessoires de plongée, experte en orientation et aventures depuis 1936, Suunto propose des outils fiables et de qualité à tous les pratiquants d’outdoor. Suunto a mobilisé sa communauté sportive et facilité le transfert des traces GPS de celle-ci vers la plateforme Outdoorvision, améliorant ainsi la fiabilité du projet Outdoorvision tout en participant à la protection de son environnement.
@@ -30,12 +36,6 @@ L'application Visorando permet de se servir de son smartphone ou de sa tablette 
 [![VisuGPX](/medias/visugpx.png)](https://www.visugpx.com/)
 
 VisuGPX est un site de création, d'analyse et de partage d'itinéraires GPS. Participer à ce projet est un choix de bon sens. Donner de la visibilité à nos itinéraires et à nos pratiques, c'est aider les décideurs dans leurs futurs choix de préservation et d'aménagement de nos terrains de jeu favoris.
-
-----
-
-[![OpenRunner](/medias/openrunner.png)](https://www.openrunner.com/)
-
-OpenRunner est une solution web et mobile pour planifier, trouver, suivre et partager des parcours de sports outdoor (rando pédestre, équestre, cyclisme, trail, etc.). La plateforme aux 6 millions de parcours, créée en 2006 et développée à Annecy, est fière de soutenir Outdoorvision pour la préservation des terrains de jeu !
 
 ----
 
