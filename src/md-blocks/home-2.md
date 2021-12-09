@@ -25,7 +25,7 @@ Connectez simplement votre compte Garmin Connect™ / Suunto APP (Appli Suunto) 
 
 ## Quelles sont les données partagées ?
 
-Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre
+Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre
 compte Garmin Connect™ ou Suunto App (Appli Suunto). Les autres données issues
 de votre compte ne sont pas enregistrées dans
 Outdoorvision. [Plus d'informations dans la FAQ](/faq).
