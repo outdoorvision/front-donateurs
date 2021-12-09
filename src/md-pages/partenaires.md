@@ -33,6 +33,12 @@ VisuGPX est un site de création, d'analyse et de partage d'itinéraires GPS. Pa
 
 ----
 
+[![OpenRunner](/medias/visugpx.png)](https://www.openrunner.com/)
+
+OpenRunner est une solution web et mobile pour planifier, trouver, suivre et partager des parcours de sports outdoor (rando pédestre, équestre, cyclisme, trail, etc.). La plateforme aux 6 millions de parcours, créée en 2006 et développée à Annecy, est fière de soutenir Outdoorvision pour la préservation des terrains de jeu !
+
+----
+
 <br />
 
 #### **Avec le soutien opérationnel, technique ou financier de :**
