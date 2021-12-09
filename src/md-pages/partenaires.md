@@ -47,12 +47,12 @@ OpenRunner est une solution web et mobile pour planifier, trouver, suivre et par
 
 [![Le Ministère chargé des Sports](/medias/ministere-sports.png)](https://www.sports.gouv.fr/)<spacer w="3"></spacer>
 [![Le Pôle ressources national sports de nature (PRNSN)](/medias/prnsn.png)](https://www.sportsdenature.gouv.fr/)<spacer w="3"></spacer>
-![France Relance](/medias/France_Relance.png)<spacer w="3"></spacer>
-![Next Generation EU](/medias/NextGenerationEU.png)<spacer w="3"></spacer>
-[![Le Pôle ressources national sports de nature (PRNSN)](/medias/Paris2024.png)](https://generation.paris2024.org/impact-2024)<spacer w="3"></spacer>
-[![L'Agence nationale du sport](/medias/ans.png)](https://www.ign.fr/)<spacer w="2"></spacer>
-[![La Région Auvergne Rhône-Alpes](/medias/region-auvergne-rhone-alpes.png)](https://www.auvergnerhonealpes.fr/)<spacer w="2"></spacer>
-[![Tourisme Auvergne Rhône-Alpes](/medias/tourisme-auvergne-rhone-alpes.png)](https://www.auvergnerhonealpes-tourisme.com/)<spacer w="2"></spacer>
+![France Relance](/medias/France_Relance.png)<spacer w="1"></spacer>
+![Next Generation EU](/medias/NextGenerationEU.png)<spacer w="1"></spacer>
+[![Le Pôle ressources national sports de nature (PRNSN)](/medias/Paris2024.png)](https://generation.paris2024.org/impact-2024)<spacer w="1"></spacer>
+[![L'Agence nationale du sport](/medias/ans.png)](https://www.ign.fr/)<spacer w="1"></spacer>
+[![La Région Auvergne Rhône-Alpes](/medias/region-auvergne-rhone-alpes.png)](https://www.auvergnerhonealpes.fr/)<spacer w="1"></spacer>
+[![Tourisme Auvergne Rhône-Alpes](/medias/tourisme-auvergne-rhone-alpes.png)](https://www.auvergnerhonealpes-tourisme.com/)<spacer w="1"></spacer>
 
 [![La Fédération française de cyclisme](/medias/ffc.png)](https://www.ffc.fr/)
 [![La Fédération française de randonnée pédestre](/medias/ffrp.png)](https://www.ffrandonnee.fr/)<spacer w="2"></spacer>
