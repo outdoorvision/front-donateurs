@@ -2,7 +2,7 @@
 title: Foire aux questions
 ---
 
-## Quel est le but d’Outdoorvision&nbsp;?
+## Quel est l'objectif d’Outdoorvision&nbsp;?
 
 Notre but est de nourrir les décisions des collectivités publiques dans le **développement, l'aménagement et la préservation des sites et itinéraires de sports et loisirs** de nature grâce à l’action citoyenne des pratiquants.
 
