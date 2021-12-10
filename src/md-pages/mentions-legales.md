@@ -30,15 +30,13 @@ suivi.
 
 **Propriétaire**
 
+Edwige Bakkaus, directrice CREPS Auvergne-Rhône-Alpes Vallon-Pont-d'Arc • Voiron • Lyon
+
 Pôle ressources national sports de nature (PRNSN)  
 CREPS Auvergne-Rhône-Alpes  
 150 passage François Lecler - 07150 Vallon Pont d'Arc - France  
 Tél. +33 (0)4 75 88 15 24  
 SIRET 193 895 222 000 16
-
-**Directeur de publication**
-
-Gilles Quénéhervé, directeur des Sports (ministère chargé des Sports)
 
 **Hébergeur**
 
@@ -48,7 +46,7 @@ Tel. +33 (0)9 53 73 22 74
 
 **Déléguée à la protection des données**
 
-Alexia Thevel - dpd@creps-rhonealpes.sports.gouv.fr  
+dpd@creps-rhonealpes.sports.gouv.fr  
 
 ## Conditions générales d'utilisation
 
