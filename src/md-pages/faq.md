@@ -8,8 +8,6 @@ Notre but est de nourrir les décisions des collectivités publiques dans le **d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sua7VDlhBs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![IMAGE_ALT](https://img.youtube.com/vi/Sua7VDlhBs4/maxresdefault.jpg)](https://www.youtube.com/watch?v=Sua7VDlhBs4)
-
 ---
 
 ## Quelles améliorations à l'aménagement et la préservation des sites et itinéraires peut apporter Outdoorvision&nbsp;?
