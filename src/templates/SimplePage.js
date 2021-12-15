@@ -8,7 +8,12 @@ const Template = ({
     markdownRemark: { htmlAst, frontmatter },
   },
 }) => (
-  <Layout title={frontmatter.title} prelude={frontmatter}>
+  <Layout
+    title={frontmatter.title}
+    header={frontmatter.header}
+    footer={frontmatter.footer}
+    prelude={frontmatter}
+  >
     <MarkdownText hast={htmlAst} />
   </Layout>
 );
@@ -19,7 +24,7 @@ export const pageQuery = graphql`
   query($id: String) {
     markdownRemark (id: { eq: $id }) {
       htmlAst
-      frontmatter { title picture swap }
+      frontmatter { title picture swap header footer }
     }
   }
 `;
