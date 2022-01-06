@@ -2,7 +2,7 @@
 BACKEND_URL = "https://back.outdoorvision.fr/auth/"
 
 [context.staging.environment]
-BACKEND_URL = "https://staging-back.outdoorvision.fr/auth/"
+BACKEND_URL = "https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid"
 
 [context.qa.environment]
 BACKEND_URL = "https://qa-back.outdoorvision.fr/auth/"
