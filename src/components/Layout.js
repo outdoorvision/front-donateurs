@@ -14,24 +14,26 @@ const useStyles = makeStyles({
   root: {
     display: 'flex',
     flexDirection: 'column',
-    minHeight: '100vh',
+    minHeight: ({ footer }) => (footer ? '100vh' : 0),
     '& > :last-child': {
       marginTop: 'auto',
     },
   },
   main: {
     marginTop: '2rem',
-    marginBottom: '2rem',
+    marginBottom: ({ footer }) => (footer ? '2rem' : 0),
   },
 });
 
 const Layout = ({
   prelude = null,
   className,
+  header = true,
+  footer = true,
   title = '',
   ...rest
 }) => {
-  const classes = useStyles();
+  const classes = useStyles({ header, footer });
 
   return (
     <div className={classes.root}>
@@ -45,11 +47,15 @@ const Layout = ({
 
       />
 
-      <TopBar />
+      {(header !== false) && (
+        <>
+          <TopBar />
 
-      {React.isValidElement(prelude) && prelude}
+          {React.isValidElement(prelude) && prelude}
 
-      {(prelude && !React.isValidElement(prelude)) && <Prelude {...prelude} />}
+          {(prelude && !React.isValidElement(prelude)) && <Prelude {...prelude} />}
+        </>
+      )}
 
       <Container
         component="main"
@@ -57,7 +63,7 @@ const Layout = ({
         {...rest}
       />
 
-      <Footer />
+      {(footer !== false) && <Footer />}
     </div>
   );
 };

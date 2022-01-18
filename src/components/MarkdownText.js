@@ -7,6 +7,7 @@ import { Box, Typography } from '@material-ui/core';
 import { makeStyles, useTheme } from '@material-ui/core/styles';
 
 import Link from './Link';
+import MDBlock from './MDBlock';
 
 const useStyles = makeStyles(theme => ({
   markdown: {
@@ -46,6 +47,7 @@ const MarkdownText = ({ hast, components, className, ...rest }) => {
       // eslint-disable-next-line jsx-a11y/alt-text
       img: props => <img style={{ maxWidth: '100%' }} {...props} />,
       spacer: props => <Box component="span" style={makeSpacerStyles(props, theme)} />,
+      'md-block': props => <MDBlock {...props} />,
       ...components,
     },
   }).Compiler;
