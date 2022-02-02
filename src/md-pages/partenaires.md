@@ -49,7 +49,7 @@ VisuGPX est un site de création, d'analyse et de partage d'itinéraires GPS. Pa
 #### **Avec la contribution de :**
 <br />
 
-[![Eco-Compteur](/medias/eco-compteur.png)](https://www.eco-compteur.com/)
+[![Eco-Compteur](/medias/ecocompteur.png)](https://www.eco-compteur.com/)
 
 Eco-Compteur est une entreprise technologique implantée à Lannion, dans les Côtes-d’Armor. Spécialisée dans le comptage des piétons et des cyclistes en environnement urbain et naturel depuis plus de 20 ans, elle propose des solutions qui vont des capteurs aux logiciels d’exploitation des données. Ses clients sont les plus beaux sites touristiques et les villes les plus avancées en matière de mobilité douce dans 55 pays.
 
