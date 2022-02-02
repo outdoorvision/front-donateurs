@@ -46,7 +46,7 @@ VisuGPX est un site de création, d'analyse et de partage d'itinéraires GPS. Pa
 ----
 
 
-#### **Avec la coopération de :**
+#### **Avec la contribution de :**
 <br />
 
 [![Eco-Compteur](/medias/eco-compteur.png)](https://www.eco-compteur.com/)
