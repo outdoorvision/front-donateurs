@@ -1,8 +1,6 @@
 ---
-title: Challenge
+title: Jouez pour préserver votre terrain de jeu
 ---
-
-##Jouez pour préserver votre terrain de jeu
 
 
 &nbsp;
