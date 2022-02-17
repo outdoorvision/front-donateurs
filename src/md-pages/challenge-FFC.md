@@ -1,9 +1,9 @@
 ---
-title: Jouez pour préserver votre terrain de jeu
+title: CHALLENGE
 ---
 
+##Jouez pour préserver votre terrain de jeu
 
-&nbsp;
 Partage tes traces GPS et contribue  à la préservation et l'aménagement de tes itinéraires de randonnée cycliste !
 
 &nbsp;
