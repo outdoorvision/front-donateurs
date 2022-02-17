@@ -1,5 +1,5 @@
 ---
-title: CHALLENGE
+title: CHALLENGE FFC | Outdoorvision
 ---
 
 ##Jouez pour préserver votre terrain de jeu
