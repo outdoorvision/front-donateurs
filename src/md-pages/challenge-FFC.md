@@ -4,7 +4,8 @@ title: Challenge FFC
 
 <p align="center">
 ## **Jouez pour préserver votre terrain de jeu**
-
+</p>
+<p align="center">
 Partage tes traces GPS et contribue  à la préservation et l'aménagement de tes itinéraires de randonnée cycliste !
 </p>
 
