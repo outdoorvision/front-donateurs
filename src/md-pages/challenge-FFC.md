@@ -27,7 +27,7 @@ En plus tente de gagner un des compteur Garmin mis en jeu !
 
 ##Comment participer ?
 
-Connetez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto / Polar flow ou communiquez-nous rirectement vos traces GPS. Et n'oubliez pas de taguer une personne en commentaire sous le post de la FFCyclisme !  
+Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto / Polar flow ou communiquez-nous rirectement vos traces GPS. Et n'oubliez pas de taguer une personne en commentaire sous le post de la FFCyclisme !  
 
 <p align="center">
   <img src="/medias/logo-band.png">
@@ -38,7 +38,7 @@ Connetez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto / 
    <img src="/medias/test-challenge-FFC-bouton.jpg">
 </a>
 </p>  
-  
+
 ##Qui sommes-nous ?
 
 <p align="center">
