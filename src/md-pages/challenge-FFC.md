@@ -5,7 +5,7 @@ title: Challenge FFC
 #### **Jouez pour préserver votre terrain de jeu**
 Partage tes traces GPS et contribue  à la préservation et l'aménagement de tes itinéraires de randonnée cycliste ! 
 
-![Je participe](/medias/test-challenge-FFC-bouton.jpg)](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)
+![Je participe](/medias/test-challenge-FFC-bouton.jpg)(https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)
 ![FFC](/medias/test-challenge-FFC-01.jpg)
 
 ##Pourquoi participer ?
@@ -20,7 +20,7 @@ En plus tentez de gagner un des compteur Garmin mis en jeu !
 
 Connetez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto / Polar flow ou communiquez-nous rirectement vos traces GPS. Et n'oubliez pas de taguer une personne en commentaire sous le post de la FFCyclisme !
 
-![Je participe](/medias/test-challenge-FFC-bouton.jpg)](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)
+![Je participe](/medias/test-challenge-FFC-bouton.jpg)(https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)
 
 ![Logo](/medias/logo-band.png)
 
@@ -31,4 +31,4 @@ Connetez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto / 
 ## Quelles sont les données partagées ?
 Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre compte Garmin connect™, Suunto APP (appli Suunto ou Polar flow. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
 
-![Je participe](/medias/test-challenge-FFC-bouton.jpg)](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)
+![Je participe](/medias/test-challenge-FFC-bouton.jpg)(https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)
