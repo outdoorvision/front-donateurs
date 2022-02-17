@@ -2,16 +2,14 @@
 title: Challenge FFC
 ---
 
-<p align="center">
-## **Jouez pour préserver votre terrain de jeu**
-</p>
-<p align="center">
+##**Jouez pour préserver votre terrain de jeu**
+
 Partage tes traces GPS et contribue  à la préservation et l'aménagement de tes itinéraires de randonnée cycliste !
-</p>
+
 
 <p align="center">
-  <a href="https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid"
-  <img src="/medias/test-challenge-FFC-bouton.jpg">
+  <a href="https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid">
+   <img src="/medias/test-challenge-FFC-bouton.jpg">
 </a>
 </p>
 
@@ -34,8 +32,8 @@ En plus tentez de gagner un des compteur Garmin mis en jeu !
 Connetez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto / Polar flow ou communiquez-nous rirectement vos traces GPS. Et n'oubliez pas de taguer une personne en commentaire sous le post de la FFCyclisme !
 
 <p align="center">
-  <a href="https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid"
-  <img src="/medias/test-challenge-FFC-bouton.jpg">
+  <a href="https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid">
+   <img src="/medias/test-challenge-FFC-bouton.jpg">
 </a>
 </p>
 
@@ -56,8 +54,8 @@ Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis vot
 
 
 <p align="center">
-  <a href="https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid"
-  <img src="/medias/test-challenge-FFC-bouton.jpg">
+  <a href="https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid">
+   <img src="/medias/test-challenge-FFC-bouton.jpg">
 </a>
 </p>
 
