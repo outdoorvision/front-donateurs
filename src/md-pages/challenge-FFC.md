@@ -39,9 +39,11 @@ Connetez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto / 
 </a>
 </p>
 
+
 <p align="center">
   <img src="/medias/logo-band.png">
 </p>
+
 
 ##Qui sommes-nous ?
 
@@ -52,8 +54,10 @@ Connetez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto / 
 ##Quelles sont les données partagées ?
 Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre compte Garmin connect™, Suunto APP (appli Suunto ou Polar flow. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
 
+
 <p align="center">
   <a href="https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid"
   <img src="/medias/test-challenge-FFC-bouton.jpg">
 </a>
 </p>
+
