@@ -49,7 +49,7 @@ Connetez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto / 
   <img src="/medias/test-challenge-FFC-video.jpg">
 </p>
 
-## Quelles sont les données partagées ?
+##Quelles sont les données partagées ?
 Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre compte Garmin connect™, Suunto APP (appli Suunto ou Polar flow. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
 
 <p align="center">
