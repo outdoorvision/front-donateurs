@@ -7,13 +7,9 @@ Partage tes traces GPS et contribue  à la préservation et l'aménagement de te
 
 <p align="center">
   <a href="https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid"
-  <img src="test-challenge-FFC-bouton.jpg">
+  <img src="/medias/test-challenge-FFC-bouton.jpg">
 </a>
 </p>
-
-<a href="https://www.sportsdenature.gouv.fr/">
-<img src="../bundles/ftvenapp/images/global/francetfv-education-logo-mini.jpg " alt="francetfv-education-logo-mini éducation"/>
-</a>
 
 <p align="center">
   <img src="/medias/test-challenge-FFC-01.jpg">
@@ -35,7 +31,7 @@ Connetez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto / 
 
 <p align="center">
   <a href="https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid"
-  <img src="test-challenge-FFC-bouton.jpg">
+  <img src="/medias/test-challenge-FFC-bouton.jpg">
 </a>
 </p>
 
@@ -54,6 +50,6 @@ Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis vot
 
 <p align="center">
   <a href="https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid"
-  <img src="test-challenge-FFC-bouton.jpg">
+  <img src="/medias/test-challenge-FFC-bouton.jpg">
 </a>
 </p>
