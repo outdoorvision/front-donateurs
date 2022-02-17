@@ -11,6 +11,10 @@ Partage tes traces GPS et contribue  à la préservation et l'aménagement de te
 </a>
 </p>
 
+<a href="https://www.sportsdenature.gouv.fr/">
+<img src="../bundles/ftvenapp/images/global/francetfv-education-logo-mini.jpg " alt="francetfv-education-logo-mini éducation"/>
+</a>
+
 <p align="center">
   <img src="/medias/test-challenge-FFC-01.jpg">
 </p>
