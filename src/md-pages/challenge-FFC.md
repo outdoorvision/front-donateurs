@@ -2,21 +2,26 @@
 title: Challenge
 ---
 
-#Jouez pour préserver votre terrain de jeu
+#Jouez pour préserver votre terrain de jeu  
+
+
 &nbsp;
+Partage tes traces GPS et contribue  à la préservation et l'aménagement de tes itinéraires de randonnée cycliste !
+
 &nbsp;
-&nbsp;
-&nbsp;
-Partage tes traces GPS et contribue  à la préservation et l'aménagement de tes itinéraires de randonnée cycliste !  
 <p align="center">
   <a href="https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid">
    <img src="/medias/test-challenge-FFC-bouton.jpg">
 </a>
-</p>  
-  
+</p>
+
+
+&nbsp;
 <p align="center">
   <img src="/medias/test-challenge-FFC-01.jpg">
-</p>  
+</p>
+
+
 &nbsp;
 ##Pourquoi participer ?
 
@@ -26,34 +31,44 @@ En tant que passionné des sports outdoor, vous êtes sensible à la qualité de
   <img src="/medias/test-challenge-FFC-02.jpg">
 </p>
 
-En plus tente de gagner un des compteur Garmin mis en jeu !  
+En plus tente de gagner un des compteur Garmin mis en jeu !
 
+
+&nbsp;
 ##Comment participer ?
 
-Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto / Polar flow ou communiquez-nous rirectement vos traces GPS. Et n'oubliez pas de taguer une personne en commentaire sous le post de la FFCyclisme !  
+Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto / Polar flow ou communiquez-nous rirectement vos traces GPS. Et n'oubliez pas de taguer une personne en commentaire sous le post de la FFCyclisme !
 
+
+&nbsp;
 <p align="center">
   <img src="/medias/logo-band.png">
 </p>  
-  
+
+
+&nbsp;
 <p align="center">
   <a href="https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid">
    <img src="/medias/test-challenge-FFC-bouton.jpg">
 </a>
-</p>  
+</p>
 
 ##Qui sommes-nous ?
 
 <p align="center">
   <img src="/medias/test-challenge-FFC-video.jpg">
-</p>  
-
+</p>
 ##Quelles sont les données partagées ?
 
-Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre compte Garmin connect™, Suunto APP (appli Suunto ou Polar flow. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.  
+Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre compte Garmin connect™, Suunto APP (appli Suunto ou Polar flow. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
 
+
+&nbsp;
 <p align="center">
   <a href="https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid">
    <img src="/medias/test-challenge-FFC-bouton.jpg">
 </a>
 </p>  
+
+
+&nbsp;
