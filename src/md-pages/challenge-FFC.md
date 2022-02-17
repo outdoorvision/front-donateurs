@@ -2,7 +2,7 @@
 title: Challenge
 ---
 
-##Jouez pour préserver votre terrain de jeu  
+##Jouez pour préserver votre terrain de jeu
 
 
 &nbsp;
@@ -53,6 +53,8 @@ Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto /
 </a>
 </p>
 
+
+&nbsp;
 ##Qui sommes-nous ?
 
 <p align="center">
