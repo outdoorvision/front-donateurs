@@ -2,9 +2,9 @@
 title: CHALLENGE FFC
 ---
 
-##Jouez pour préserver votre terrain de jeu
+##Jouez pour préserver votre terrain de jeu !
 
-Partage tes traces GPS et contribue  à la préservation et l'aménagement de tes itinéraires de randonnée cycliste !
+Partagez vos traces GPS et contribuez à la préservation et l'aménagement de vos itinéraires de randonnée cycliste !
 
 &nbsp;
 <p align="center">
@@ -29,7 +29,7 @@ En tant que passionné des sports outdoor, vous êtes sensible à la qualité de
   <img src="/medias/test-challenge-FFC-02.jpg">
 </p>
 
-En plus tente de gagner un des compteur Garmin mis en jeu !
+Et en plus, tentez de gagner le dernier compteur GPS de la marque GARMIN mis en jeu : **GPS GARMIN EDGE 1030 PLUS PACK PERFORMANCE !**
 
 
 &nbsp;
@@ -67,6 +67,7 @@ Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto /
 
 Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre compte Garmin connect™, Suunto APP (appli Suunto ou Polar flow. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
 
+Consultez les [conditions de règlement du jeu concours](/media/challenge-FFC-2022-test.pdf)
 
 &nbsp;
 <p align="center">
