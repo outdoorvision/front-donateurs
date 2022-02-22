@@ -6,6 +6,7 @@ title: CHALLENGE FF Cyclisme
 
 Partagez vos traces GPS et contribuez à la préservation et l'aménagement de vos itinéraires de randonnée cycliste !
 
+
 &nbsp;
 <p align="center">
   <a href="https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid">
@@ -30,6 +31,12 @@ En tant que passionné des sports outdoor, vous êtes sensible à la qualité de
 </p>
 
 Et en plus, tentez de gagner le dernier compteur GPS de la marque GARMIN mis en jeu : **GPS GARMIN EDGE 1030 PLUS PACK PERFORMANCE !**
+
+
+&nbsp;
+<p align="center">
+  <img src="/medias/garmin-1030.jpg">
+</p>
 
 
 &nbsp;
