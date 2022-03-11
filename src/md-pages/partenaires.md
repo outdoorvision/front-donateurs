@@ -26,6 +26,12 @@ OpenRunner est une solution web et mobile pour planifier, trouver, suivre et par
 
 ----
 
+[![Polar](/medias/polar.png)](https://www.polar.com/fr/)
+
+Tu autem, Fanni, quod mihi tantum tribui dicis quantum ego nec adgnosco nec postulo, facis amice; sed, ut mihi videris, non recte iudicas de Catone; aut enim nemo, quod quidem magis credo, aut si quisquam, ille sapiens fuit. Quo modo, ut alia omittam, mortem filii tulit! memineram Paulum, videram Galum, sed hi in pueris, Cato in perfecto et spectato viro.
+
+----
+
 [![Sunnto](/medias/sunnto.png)](https://www.suunto.com/fr-fr/)
 
 Marque finlandaise de montres de sport et accessoires de plongée, experte en orientation et aventures depuis 1936, Suunto propose des outils fiables et de qualité à tous les pratiquants d’outdoor. Suunto a mobilisé sa communauté sportive et facilité le transfert des traces GPS de celle-ci vers la plateforme Outdoorvision, améliorant ainsi la fiabilité du projet Outdoorvision tout en participant à la protection de son environnement.
