@@ -17,7 +17,7 @@ vos sites de pratique.
 ## Comment participer ?
 
 Connectez simplement votre compte Garmin Connect™ / Suunto APP (Appli Suunto) ou communiquez-nous directement vos traces GPS.
-![Garmin, Sunnto, Visorando, VisuGPX](/medias/logo-band.png)
+![Garmin, Sunnto, Visorando, VisuGPX](/medias/logo-band7.png)
 
 <participate></participate>
 
