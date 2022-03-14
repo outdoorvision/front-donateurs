@@ -42,7 +42,7 @@ SIRET 193 895 222 000 16
 
 Makina Corpus  
 52 rue Jacques Babinet - 31100 Toulouse  
-Tel. +33 (0)9 53 73 22 74
+Tel. +33 (0)9 70 33 21 50
 
 **Déléguée à la protection des données**
 
