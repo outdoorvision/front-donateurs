@@ -50,7 +50,7 @@ Le gagnant sera tagué dans un commentaire sous le post du jeu concours puis con
 
 ##Comment participer ?
 
-Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto) / Polar flow ou communiquez-nous rirectement vos traces GPS. Et n'oubliez pas de taguer une personne en commentaire sous le post de la FFRandonnée !
+Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto) / Polar flow ou communiquez-nous directement vos traces GPS. Et n'oubliez pas de taguer une personne en commentaire sous le post de la FFRandonnée !
 
 
 &nbsp;
