@@ -47,7 +47,7 @@ Le gagnant sera tagué dans un commentaire sous le post du jeu concours puis con
 
 &nbsp;
 <p align="center">
-  <img src="/medias/garmin-1030.jpg">
+  <img src="/medias/challenge-FFRando-03.jpg">
 </p>
 
 
@@ -86,7 +86,7 @@ Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto /
 
 Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre compte Garmin connect™, Suunto APP (appli Suunto) ou Polar flow. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
 
-Consultez les [conditions de règlement du jeu concours](/medias/Test challenge FFC 2022.pdf)
+Consultez les [conditions de règlement du jeu concours](/medias/Règlement_Jeu_Concours_Challenge_OutdoorvisionxFFR.pdf)
 
 &nbsp;
 <p align="center">
