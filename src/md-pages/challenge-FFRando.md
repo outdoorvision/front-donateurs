@@ -44,14 +44,10 @@ Lot 2, 3, 4, 5, 6, 7, 8 et 9 : **un abonnement au Passion rando Magazine (durée
 Le tirage au sort sera effectué le 17 Avril 2022.
 Le gagnant sera tagué dans un commentaire sous le post du jeu concours puis contacté par email.
 
-
-&nbsp;
 <p align="center">
   <img src="/medias/challenge-FFRando-03_511x383.jpg">
 </p>
 
-
-&nbsp;
 ##Comment participer ?
 
 Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto / Polar flow ou communiquez-nous rirectement vos traces GPS. Et n'oubliez pas de taguer une personne en commentaire sous le post de la FFCyclisme !
