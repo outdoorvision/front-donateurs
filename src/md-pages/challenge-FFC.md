@@ -1,5 +1,5 @@
 ---
-title: CHALLENGE FF Cyclisme
+title: CHALLENGE FF CYCLISME
 ---
 
 ##Jouez pour préserver votre terrain de jeu !
