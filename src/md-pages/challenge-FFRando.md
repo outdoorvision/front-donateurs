@@ -30,7 +30,19 @@ En tant que passionné des sports outdoor, vous êtes sensible à la qualité de
   <img src="/medias/test-challenge-FFC-02.jpg">
 </p>
 
-Et en plus, tentez de gagner le dernier compteur GPS de la marque GARMIN mis en jeu : **GPS GARMIN EDGE 1030 PLUS !**
+Tentez de remporter un cadeau en : 
+1) Vous abonnant aux pages facebook ffrandonnée et Outdoorvision
+2) Mettant un "j'aime" sur la publication du challenge publiée sur la page Facebook ffrandonnée
+3) Vous créant un compte sur la plateforme Outdoorvision pour y partager vos traces GPS
+
+En participant, vous aurez également l’opportunité de gagner 1 des 10 cadeaux mis en jeux : 
+
+Lot 1 : **une montre connectée de la marque POLAR, modèle GRIT X** 
+
+Lot 2, 3, 4, 5, 6, 7, 8 et 9 : un abonnement au Passion rando Magazine (durée d'un an) + un topoguide
+
+Le tirage au sort sera effectué le 17 Avril 2022.
+Le gagnant sera tagué dans un commentaire sous le post du jeu concours puis contacté par email.
 
 
 &nbsp;
@@ -72,7 +84,7 @@ Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto /
 &nbsp;
 ##Pourquoi participer ?
 
-Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre compte Garmin connect™, Suunto APP (appli Suunto ou Polar flow. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
+Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre compte Garmin connect™, Suunto APP (appli Suunto) ou Polar flow. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
 
 Consultez les [conditions de règlement du jeu concours](/medias/Test challenge FFC 2022.pdf)
 
