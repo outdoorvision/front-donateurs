@@ -47,7 +47,7 @@ Le gagnant sera tagué dans un commentaire sous le post du jeu concours puis con
 
 &nbsp;
 <p align="center">
-  <img src="/medias/challenge-FFRando-03.jpg">
+  <img src="/medias/challenge-FFRando-03_511x383.jpg">
 </p>
 
 
