@@ -1,5 +1,5 @@
 ---
-title: CHALLENGE FÉDÉRATION FRANÇAISE DE CYCILSME
+title: CHALLENGE FF Cyclisme
 ---
 
 ##Jouez pour préserver votre terrain de jeu !
