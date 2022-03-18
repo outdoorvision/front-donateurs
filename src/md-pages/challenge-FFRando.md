@@ -17,7 +17,7 @@ Partagez vos traces GPS et contribuez à la préservation et l'aménagement de v
 
 &nbsp;
 <p align="center">
-  <img src="/medias/test-challenge-FFC-01.jpg">
+  <img src="/medias/challenge-FFRando-01.jpg">
 </p>
 
 
@@ -27,7 +27,7 @@ Partagez vos traces GPS et contribuez à la préservation et l'aménagement de v
 En tant que passionné des sports outdoor, vous êtes sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de votre sport favori dans les politiques territoriales. En partageant vos traces GPS - et uniquement vos traces GPS - vous contribuez à la meilleure connaissance des sports outdoor et à la préservation de vos sites de pratique.  
 
 <p align="center">
-  <img src="/medias/test-challenge-FFC-02.jpg">
+  <img src="/medias/challenge-FFRando-02.jpg">
 </p>
 
 Tentez de remporter un cadeau en : 
