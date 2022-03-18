@@ -17,7 +17,7 @@ Partagez vos traces GPS et contribuez à la préservation et l'aménagement de v
 
 &nbsp;
 <p align="center">
-  <img src="/medias/challenge-FFRando-01.jpg">
+  <img src="/medias/challenge-FFRando-01_675x492.jpg">
 </p>
 
 
