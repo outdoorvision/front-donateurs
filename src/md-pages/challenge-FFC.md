@@ -31,6 +31,7 @@ En tant que passionné des sports outdoor, vous êtes sensible à la qualité de
 </p>
 
 Et en plus, tentez de gagner de nombreux lots* comme : le dernier **compteur GPS EDGE 1030 PLUS** de la marque GARMIN, **2 places VIP** pour les mondiaux de VTT aux Gets, **9 maillots** VTT, gravel et cyclosport, ou encore **3 abonnements** d'un an au magazine "France Cyclisme" !
+
 **lots répartis sur les 2 challenges Facebook et Instagram*
 
 <p align="center">
