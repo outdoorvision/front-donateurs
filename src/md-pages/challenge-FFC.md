@@ -1,5 +1,5 @@
 ---
-title: CHALLENGE FFCyclisme
+title: CHALLENGE FÉDÉRATION FRANÇAISE DE CYCILSME
 ---
 
 ##Jouez pour préserver votre terrain de jeu !
@@ -30,7 +30,7 @@ En tant que passionné des sports outdoor, vous êtes sensible à la qualité de
   <img src="/medias/test-challenge-FFC-02.jpg">
 </p>
 
-Et en plus, tentez de gagner le dernier compteur GPS de la marque GARMIN mis en jeu : **GPS GARMIN EDGE 1030 PLUS PACK PERFORMANCE !**
+Et en plus, tentez de gagner le dernier compteur GPS de la marque GARMIN mis en jeu : **GPS GARMIN EDGE 1030 PLUS !**
 
 
 &nbsp;
@@ -47,7 +47,7 @@ Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto /
 
 &nbsp;
 <p align="center">
-  <img src="/medias/logo-band.png">
+  <img src="/medias/logo-band7.png">
 </p>  
 
 
