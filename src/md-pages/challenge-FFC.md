@@ -17,7 +17,7 @@ Partagez vos traces GPS et contribuez à la préservation et l'aménagement de v
 
 &nbsp;
 <p align="center">
-  <img src="/medias/test-challenge-FFC-01.jpg">
+  <img src="/medias/challenge-FFC-01.jpg">
 </p>
 
 
@@ -27,19 +27,16 @@ Partagez vos traces GPS et contribuez à la préservation et l'aménagement de v
 En tant que passionné des sports outdoor, vous êtes sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de votre sport favori dans les politiques territoriales. En partageant vos traces GPS - et uniquement vos traces GPS - vous contribuez à la meilleure connaissance des sports outdoor et à la préservation de vos sites de pratique.  
 
 <p align="center">
-  <img src="/medias/test-challenge-FFC-02.jpg">
+  <img src="/medias/challenge-FFC-02.jpg">
 </p>
 
-Et en plus, tentez de gagner le dernier compteur GPS de la marque GARMIN mis en jeu : **GPS GARMIN EDGE 1030 PLUS !**
+Et en plus, tentez de gagner de nombreux lots* comme : le dernier **compteur GPS EDGE 1030 PLUS** de la marque GARMIN, **2 places VIP** pour les mondiaux de VTT aux Gets, **9 maillots** VTT, gravel et cyclosport, ou encore **3 abonnements** d'un an au magazine "France Cyclisme" !
+*lots répartis sur les 2 challenges Facebook et Instagram*
 
-
-&nbsp;
 <p align="center">
-  <img src="/medias/garmin-1030.jpg">
+  <img src="/medias/challenge-FFC-03.jpg">
 </p>
 
-
-&nbsp;
 ##Comment participer ?
 
 Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto) / Polar flow ou communiquez-nous directement vos traces GPS. Et n'oubliez pas de taguer une personne en commentaire sous le post de la FFCyclisme !
