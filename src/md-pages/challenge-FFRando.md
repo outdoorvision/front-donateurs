@@ -39,7 +39,7 @@ En participant, vous aurez également l’opportunité de gagner 1 des 10 cadeau
 
 Lot 1 : **une montre connectée de la marque POLAR, modèle GRIT X** 
 
-Lot 2, 3, 4, 5, 6, 7, 8 et 9 : un abonnement au Passion rando Magazine (durée d'un an) + un topoguide
+Lot 2, 3, 4, 5, 6, 7, 8 et 9 : **un abonnement au Passion rando Magazine (durée d'un an) + un topoguide**
 
 Le tirage au sort sera effectué le 17 Avril 2022.
 Le gagnant sera tagué dans un commentaire sous le post du jeu concours puis contacté par email.
