@@ -28,7 +28,7 @@ OpenRunner est une solution web et mobile pour planifier, trouver, suivre et par
 
 [![Polar](/medias/polar.png)](https://www.polar.com/fr/)
 
-Tu autem, Fanni, quod mihi tantum tribui dicis quantum ego nec adgnosco nec postulo, facis amice; sed, ut mihi videris, non recte iudicas de Catone; aut enim nemo, quod quidem magis credo, aut si quisquam, ille sapiens fuit. Quo modo, ut alia omittam, mortem filii tulit! memineram Paulum, videram Galum, sed hi in pueris, Cato in perfecto et spectato viro.
+Depuis 1977, Polar fabrique des montres de sport et des montres connectées. La marque est particulièrement connue pour avoir développé le premier moniteur de fréquence cardiaque sans fil au monde. Polar est ravis que ces utilisateurs contribuent à Outdoorvision en partageant leurs traces GPS depuis leur compte Polar Flow.
 
 ----
 
