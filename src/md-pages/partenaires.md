@@ -28,7 +28,7 @@ OpenRunner est une solution web et mobile pour planifier, trouver, suivre et par
 
 [![Polar](/medias/polar.png)](https://www.polar.com/fr/)
 
-Depuis 1977, Polar fabrique des montres de sport et des montres connectées. La marque est particulièrement connue pour avoir développée le premier moniteur de fréquence cardiaque sans fil au monde. Polar est ravi que ces utilisateurs contribuent à Outdoorvision en partageant leurs traces GPS depuis leur compte Polar Flow.
+Depuis 1977, Polar fabrique des montres de sport et des montres connectées. La marque est particulièrement connue pour avoir développé le premier moniteur de fréquence cardiaque sans fil au monde. Polar est ravi que ces utilisateurs contribuent à Outdoorvision en partageant leurs traces GPS depuis leur compte Polar Flow.
 
 ----
 
