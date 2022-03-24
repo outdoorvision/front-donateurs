@@ -18,6 +18,13 @@ const useStyles = makeStyles(theme => ({
       marginTop: theme.spacing(4),
     },
   },
+  separator: {
+    backgroundColor: theme.palette.primary.main,
+    width: 50,
+    height: 5,
+    display: 'block',
+    margin: theme.spacing(4, 0),
+  },
 }));
 
 const makeSpacerStyles = ({ w = 0, h = 0, ...props }, theme) => ({
@@ -47,6 +54,7 @@ const MarkdownText = ({ hast, components, className, ...rest }) => {
       // eslint-disable-next-line jsx-a11y/alt-text
       img: props => <img style={{ maxWidth: '100%' }} {...props} />,
       spacer: props => <Box component="span" style={makeSpacerStyles(props, theme)} />,
+      hr: props => <Box className={classes.separator} {...props} />,
       'md-block': props => <MDBlock {...props} />,
       ...components,
     },
