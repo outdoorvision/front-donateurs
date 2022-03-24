@@ -14,8 +14,9 @@ import {
   MenuItem,
   Menu,
 } from '@material-ui/core';
-import { Home, Menu as MenuIcon } from '@material-ui/icons';
+import { Menu as MenuIcon } from '@material-ui/icons';
 import useSiteMetadata from '../hooks/useSiteMetadata';
+import { HOME_LINKS } from '../settings';
 
 const useStyles = makeStyles(theme => ({
   appbar: {
@@ -115,19 +116,24 @@ const TopBar = () => {
                 open={Boolean(anchorEl)}
                 onClose={handleClose}
               >
-                <MenuItem component={Link} activeStyle={activeStyle} to="/">Outdoorvision</MenuItem>
-                <MenuItem component={Link} activeStyle={activeStyle} to="/partenaires">Partenaires</MenuItem>
-                <MenuItem component={Link} activeStyle={activeStyle} to="/territoires">Territoires</MenuItem>
-                <MenuItem component={Link} activeStyle={activeStyle} to="/actualites">Actualités</MenuItem>
+                {HOME_LINKS.map(({ to, label }) => (
+                  <MenuItem
+                    key={`menu-${label}`}
+                    component={Link}
+                    activeStyle={activeStyle}
+                    to={to}
+                  >
+                    {label}
+                  </MenuItem>
+                ))}
                 <MenuItem component={Link} to={backendUrl}>Participer</MenuItem>
               </Menu>
             </Grid>
 
             <Grid item className={classes.nav} component="nav">
-              <Button activeStyle={activeStyle} to="/" startIcon={<Home />}>Outdoorvision</Button>
-              <Button activeStyle={activeStyle} to="/partenaires">Partenaires</Button>
-              <Button activeStyle={activeStyle} to="/territoires">Territoires</Button>
-              <Button activeStyle={activeStyle} to="/actualites">Actualités</Button>
+              {HOME_LINKS.map(({ to, label }) => (
+                <Button key={`button-${label}`} activeStyle={activeStyle} to={to}>{label}</Button>
+              ))}
               <Button variant="outlined" href={backendUrl}>Participer</Button>
             </Grid>
           </Grid>
