@@ -132,7 +132,13 @@ const TopBar = () => {
 
             <Grid item className={classes.nav} component="nav">
               {HOME_LINKS.map(({ to, label }) => (
-                <Button key={`button-${label}`} activeStyle={activeStyle} to={to}>{label}</Button>
+                <Button
+                  key={`button-${label}`}
+                  activeStyle={to === '/' ? null : activeStyle} // do not add activeStyle on home button
+                  to={to}
+                >
+                  {label}
+                </Button>
               ))}
               <Button variant="outlined" href={backendUrl}>Participer</Button>
             </Grid>
