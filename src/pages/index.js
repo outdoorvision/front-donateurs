@@ -79,7 +79,7 @@ const Disciplines = () => {
   );
 };
 
-const Participate = () => {
+const Participate = ({ label = 'Je participe' }) => {
   const classes = useStyles();
 
   const { backendUrl } = useSiteMetadata();
@@ -87,7 +87,7 @@ const Participate = () => {
   return (
     <Box className={classes.bodyButtonWrapper} component="span">
       <Button size="large" component={Link} to={backendUrl} variant="contained" color="primary">
-        Je participe
+        {label}
       </Button>
     </Box>
   );
