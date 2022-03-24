@@ -8,4 +8,9 @@ export const HOME_LINKS = [
   { to: '/challenge', label: 'Challenge' },
 ];
 
+export const SOCIALMEDIA_LINKS = {
+  facebook: 'https://www.facebook.com/Outdoorvision.fr',
+  linkedin: 'https://www.facebook.com/Outdoorvision.fr',
+};
+
 export default {};
