@@ -2,7 +2,7 @@ import React from 'react';
 import clsx from 'clsx';
 import { Link, withPrefix } from 'gatsby';
 
-import { Box, Button, Grid } from '@material-ui/core';
+import { Box, Button, Grid, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 
 import useSiteMetadata from '../hooks/useSiteMetadata';
@@ -21,6 +21,19 @@ const useStyles = makeStyles(theme => ({
   disciplines: {
     '& img': {
       width: '100%',
+    },
+  },
+  swap: {
+    flexDirection: 'row-reverse',
+
+    // do not apply swap for < xs screens to keep [img, text] order
+    [theme.breakpoints.only('xs')]: {
+      flexDirection: 'row',
+    },
+  },
+  pictureWrapper: {
+    '& img': {
+      maxWidth: '100%',
     },
   },
 }));
@@ -64,8 +77,34 @@ const CustomMap = () => (
   <img src={withPrefix('/medias/custom-map-1.jpg')} alt="" className="half-bleed" />
 );
 
+const ImageTextBlock = ({ title, picture, swap = false, children }) => {
+  const classes = useStyles();
+
+  return (
+    <Box>
+      <Grid container spacing={6} className={clsx({ [classes.swap]: swap })}>
+        <Grid item xs>
+          {React.isValidElement(title)
+            ? title
+            : <Typography variant="h2" color="secondary" gutterBottom>{title}</Typography>}
+          {React.isValidElement(children)
+            ? children
+            : <Typography variant="body1" color="secondary" align="justify">{children}</Typography>}
+        </Grid>
+        {picture && (
+          <Grid item md={3} sm={4} className={classes.pictureWrapper}>
+            <img src={picture} alt="" />
+          </Grid>
+        )}
+      </Grid>
+    </Box>
+  );
+};
+
 export default {
   participate: ({ label }) => <Participate label={label} />,
   disciplines: () => <Disciplines />,
   custommap: () => <CustomMap />,
+  imagetextblock: ({ title, picture, swap, ...rest }) =>
+    <ImageTextBlock title={title} picture={picture} swap={swap} {...rest} />,
 };
