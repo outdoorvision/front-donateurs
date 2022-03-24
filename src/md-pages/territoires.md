@@ -1,6 +1,6 @@
 ---
 title: L'expertise OUTDOOR des territoires
-picture: about:blank
+picture: /medias/test_bandeau.png
 swap: false
 ---
 
