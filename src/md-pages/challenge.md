@@ -4,6 +4,8 @@ picture: /medias/test_bandeau.png
 swap: false
 ---
 
+<participate label="Je participe au challenge"></participate>
+
 ---
 
 ## Pourquoi participer

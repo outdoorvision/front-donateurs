@@ -8,6 +8,7 @@ import { makeStyles, useTheme } from '@material-ui/core/styles';
 
 import Link from './Link';
 import MDBlock from './MDBlock';
+import MarkdwonCustomComponents from './MarkdwonCustomComponents';
 
 const useStyles = makeStyles(theme => ({
   markdown: {
@@ -34,7 +35,7 @@ const makeSpacerStyles = ({ w = 0, h = 0, ...props }, theme) => ({
   ...props,
 });
 
-const MarkdownText = ({ hast, components, className, ...rest }) => {
+const MarkdownText = ({ hast, components = MarkdwonCustomComponents, className, ...rest }) => {
   const classes = useStyles();
   const theme = useTheme();
 
