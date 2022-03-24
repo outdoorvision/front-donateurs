@@ -15,12 +15,6 @@ const useStyles = makeStyles(theme => ({
     [theme.breakpoints.down('sm')]: {
       textAlign: 'center',
     },
-    '& h3': {
-      fontWeight: 500,
-    },
-    '& h2': {
-      fontWeight: 500,
-    },
     '& img': {
       display: 'block',
       marginLeft: 'auto',
