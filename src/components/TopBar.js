@@ -30,9 +30,9 @@ const useStyles = makeStyles(theme => ({
     '& img': {
       display: 'block',
       maxWidth: '100%',
-      maxHeight: 180,
+      maxHeight: 110,
       [theme.breakpoints.down('md')]: {
-        maxHeight: 145,
+        maxHeight: 80,
       },
     },
 
