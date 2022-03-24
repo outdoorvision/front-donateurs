@@ -14,6 +14,8 @@ vos sites de pratique.
 
 ![« Je participe pour que mes itinéraires restent praticables »](/medias/running-legs.jpg)
 
+---
+
 ## Comment participer ?
 
 Connectez simplement votre compte Garmin Connect™ / Polar Flow / Suunto APP (Appli Suunto) ou communiquez-nous directement vos traces GPS.
@@ -22,6 +24,8 @@ Connectez simplement votre compte Garmin Connect™ / Polar Flow / Suunto APP (A
 <participate></participate>
 
 ![Outdoorvision](/medias/carousel.jpg)
+
+---
 
 ## Quelles sont les données partagées ?
 
@@ -32,6 +36,8 @@ Outdoorvision. [Plus d'informations dans la FAQ](/faq).
 
 <custommap></custommap>
 
+---
+
 ## Qui sommes-nous ?
 
 Outdoorvision est un service proposé par le Pôle ressources national sports de nature, mission d’appui du ministère chargé des Sports.
@@ -40,3 +46,9 @@ Il est le fruit d'un [partenariat innovant](/partenaires) entre des territoires,
 <participate></participate>
 
 [Participer]: https://dev-prnsn.makina-corpus.net/auth/
+
+---
+
+## A quoi ça sert ?
+
+Découvrez comment OUTDOORVISION contribue concrètement à la meilleure connaissance des spots outdoor et à la préservation des sites de pratique sur tout le territoire. 
