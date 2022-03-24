@@ -30,4 +30,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a fermentum nunc. V
 
 ## Je veux une démo
 
+<contactformwithtext>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a fermentum nunc. Vestibulum et interdum nisi. Aliquam aliquet felis sit amet ligula convallis, non sodales mauris auctor.
+</contactformwithtext>
+
 <br />

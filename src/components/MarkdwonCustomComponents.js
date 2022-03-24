@@ -5,6 +5,7 @@ import { Link, withPrefix } from 'gatsby';
 import { Box, Button, Grid, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 
+import ContactForm from './ContactForm';
 import useSiteMetadata from '../hooks/useSiteMetadata';
 
 const useStyles = makeStyles(theme => ({
@@ -34,6 +35,11 @@ const useStyles = makeStyles(theme => ({
   pictureWrapper: {
     '& img': {
       maxWidth: '100%',
+    },
+  },
+  contactTextContent: {
+    [theme.breakpoints.up('sm')]: {
+      marginLeft: theme.spacing(4),
     },
   },
 }));
@@ -101,10 +107,28 @@ const ImageTextBlock = ({ title, picture, swap = false, children }) => {
   );
 };
 
+const ContactFormWithText = ({ children }) => {
+  const classes = useStyles();
+
+  return (
+    <Grid container spacing={3} justifyContent="center" alignItems="center">
+      <Grid item xs={12} sm={6}>
+        <ContactForm />
+      </Grid>
+      <Grid item xs={12} sm={6}>
+        <Box className={classes.contactTextContent}>
+          {children}
+        </Box>
+      </Grid>
+    </Grid>
+  );
+};
+
 export default {
   participate: ({ label }) => <Participate label={label} />,
   disciplines: () => <Disciplines />,
   custommap: () => <CustomMap />,
   imagetextblock: ({ title, picture, swap, ...rest }) =>
     <ImageTextBlock title={title} picture={picture} swap={swap} {...rest} />,
+  contactformwithtext: props => <ContactFormWithText {...props} />,
 };
