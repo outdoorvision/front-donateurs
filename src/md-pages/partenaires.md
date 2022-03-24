@@ -4,7 +4,9 @@ picture: /medias/test_bandeau.png
 swap: false
 ---
 
-#### **Des marques d’objets connectés soutiennent la démarche**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a fermentum nunc. Vestibulum et interdum nisi. Aliquam aliquet felis sit amet ligula convallis, non sodales mauris auctor. Pellentesque malesuada a sapien non consequat. Duis cursus ac erat non viverra. Phasellus pretium commodo risus sed pellentesque.
+
+## Découvrez les partenaires OUTDOORVISION
 
 <br />
 
