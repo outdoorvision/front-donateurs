@@ -5,7 +5,7 @@ export const HOME_LINKS = [
   { to: '/partenaires', label: 'Partenaires' },
   { to: '/territoires', label: 'Territoires' },
   { to: '/actualites', label: 'Actualités' },
-  { to: '/challenge', label: 'Challenge' },
+  // { to: '/challenge', label: 'Challenge' },
 ];
 
 export const SOCIALMEDIA_LINKS = {
