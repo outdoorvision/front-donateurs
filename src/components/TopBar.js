@@ -9,18 +9,23 @@ import {
   Container,
   makeStyles,
   Grid,
+  Box,
   useTheme,
   IconButton,
+  Button as MuiButton,
   MenuItem,
   Menu,
 } from '@material-ui/core';
-import { Menu as MenuIcon } from '@material-ui/icons';
+import { Menu as MenuIcon, PeopleOutline } from '@material-ui/icons';
 import useSiteMetadata from '../hooks/useSiteMetadata';
 import { HOME_LINKS } from '../settings';
 
 const useStyles = makeStyles(theme => ({
   appbar: {
     border: 'none',
+  },
+  proToolBar: {
+    backgroundColor: '#f5f5f5',
   },
   logo: {
     '& a': {
@@ -79,7 +84,7 @@ const TopBar = () => {
   const theme = useTheme();
   const [anchorEl, setAnchorEl] = React.useState(null);
 
-  const { backendUrl } = useSiteMetadata();
+  const { backendUrl, labUrl } = useSiteMetadata();
 
   const handleClick = event => setAnchorEl(event.currentTarget);
   const handleClose = () => setAnchorEl(null);
@@ -91,6 +96,24 @@ const TopBar = () => {
 
   return (
     <AppBar position="static" color="transparent" variant="outlined" className={classes.appbar}>
+      <Toolbar disableGutters className={classes.proToolBar}>
+        <Container>
+          <Box display="flex" justifyContent="flex-end">
+            <MuiButton
+              variant="text"
+              color="default"
+              size="small"
+              href={labUrl}
+              rel="noreferrer"
+              target="_blank"
+              className={classes.button}
+              startIcon={<PeopleOutline />}
+            >
+              Accès pro
+            </MuiButton>
+          </Box>
+        </Container>
+      </Toolbar>
       <Toolbar disableGutters>
         <Container>
           <Grid container wrap="nowrap" spacing={2}>

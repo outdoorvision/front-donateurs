@@ -10,6 +10,7 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     backendUrl: process.env.BACKEND_URL || '/fallback/',
+    labUrl: process.env.LAB_URL || '/fallback/',
   },
   plugins: [
     {
