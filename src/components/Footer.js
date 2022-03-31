@@ -50,7 +50,7 @@ const Footer = () => {
                 <Facebook />
               </IconButton>
             )}
-            <GatsbyIconButton aria-label="mail" style={{ color: 'white' }} to="/faq">
+            <GatsbyIconButton aria-label="mail" style={{ color: 'white' }} to="/contact">
               <Email />
             </GatsbyIconButton>
           </Grid>
