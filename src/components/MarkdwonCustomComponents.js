@@ -43,6 +43,13 @@ const useStyles = makeStyles(theme => ({
       marginLeft: theme.spacing(4),
     },
   },
+  blocContent: {
+    padding: theme.spacing(0.5),
+    '& iframe': {
+      width: '100%',
+      minHeight: 200,
+    },
+  },
 }));
 
 const Disciplines = () => {
@@ -62,6 +69,29 @@ const Disciplines = () => {
       <Grid item sm={6} xs={12} component="span">
         <RandomPicture folder="random-course" />
       </Grid>
+    </Grid>
+  );
+};
+
+const RowGrid = ({ children }) => {
+  const classes = useStyles();
+  const blocs = children.filter(child => React.isValidElement(child));
+  const blocMd = Math.round(12 / blocs.length);
+
+  return (
+    <Grid
+      container
+      spacing={4}
+      justifyContent="space-between"
+      alignItems="center"
+    >
+      {blocs.map(child => (
+        <Grid item xs={12} sm={blocMd}>
+          <Box boxShadow={3} className={classes.blocContent}>
+            {child}
+          </Box>
+        </Grid>
+      ))}
     </Grid>
   );
 };
@@ -132,4 +162,5 @@ export default {
   imagetextblock: ({ title, picture, swap, ...rest }) =>
     <ImageTextBlock title={title} picture={picture} swap={swap} {...rest} />,
   contactformwithtext: props => <ContactFormWithText {...props} />,
+  rowgrid: props => <RowGrid {...props} />,
 };

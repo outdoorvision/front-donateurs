@@ -52,3 +52,9 @@ Il est le fruit d'un [partenariat innovant](/partenaires) entre des territoires,
 ## A quoi ça sert ?
 
 Découvrez comment OUTDOORVISION contribue concrètement à la meilleure connaissance des spots outdoor et à la préservation des sites de pratique sur tout le territoire. 
+
+<rowgrid>
+<iframe src="https://www.youtube.com/embed/Sua7VDlhBs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Sua7VDlhBs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Sua7VDlhBs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</rowgrid>
