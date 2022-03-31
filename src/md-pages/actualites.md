@@ -1,7 +1,7 @@
 ---
 title: Nos actualités
-picture: /medias/test_bandeau.png
 swap: false
+randompicfolder: random
 ---
 
 <imagetextblock title="6,5 millions de traces" picture="/medias/challenge-FFC-02.jpg">

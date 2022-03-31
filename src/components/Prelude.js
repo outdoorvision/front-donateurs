@@ -3,6 +3,8 @@ import React from 'react';
 import { Box, makeStyles, Grid, Typography } from '@material-ui/core';
 import clsx from 'clsx';
 
+import RandomPicture from './RandomPicture';
+
 const useStyles = makeStyles(theme => ({
   prelude: {
     color: theme.palette.secondary.main,
@@ -34,7 +36,7 @@ const useStyles = makeStyles(theme => ({
   },
 }));
 
-const Prelude = ({ title, picture, swap, ...props }) => {
+const Prelude = ({ title, picture, randompicfolder, swap, ...props }) => {
   const classes = useStyles();
 
   return (
@@ -45,9 +47,10 @@ const Prelude = ({ title, picture, swap, ...props }) => {
             ? title
             : <Typography variant="h1">{title}</Typography>}
         </Grid>
-        {picture && (
+        {(picture || randompicfolder) && (
           <Grid item xs={12} className={classes.pictureWrapper}>
-            <img src={picture} alt="" />
+            {randompicfolder && (<RandomPicture folder={randompicfolder} />)}
+            {picture && (<img src={picture} alt="" />)}
           </Grid>
         )}
       </Grid>

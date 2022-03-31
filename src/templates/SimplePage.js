@@ -24,7 +24,7 @@ export const pageQuery = graphql`
   query($id: String) {
     markdownRemark (id: { eq: $id }) {
       htmlAst
-      frontmatter { title picture swap header footer }
+      frontmatter { title picture randompicfolder swap header footer }
     }
   }
 `;
