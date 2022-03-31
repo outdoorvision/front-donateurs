@@ -24,7 +24,7 @@ const useStyles = makeStyles(theme => ({
     width: 50,
     height: 5,
     display: 'block',
-    margin: theme.spacing(4, 0),
+    margin: theme.spacing(5, 0),
   },
 }));
 
