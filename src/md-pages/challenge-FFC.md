@@ -9,7 +9,7 @@ Partagez vos traces GPS et contribuez à la préservation et l'aménagement de v
 
 &nbsp;
 <p align="center">
-  <a href="https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid">
+  <a href="https://auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://back.outdoorvision.fr/auth/done/&scope=openid">
    <img src="/medias/test-challenge-FFC-bouton.jpg">
 </a>
 </p>
@@ -51,7 +51,7 @@ Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto) 
 
 &nbsp;
 <p align="center">
-  <a href="https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid">
+  <a href="https://auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://back.outdoorvision.fr/auth/done/&scope=openid">
    <img src="/medias/test-challenge-FFC-bouton.jpg">
 </a>
 </p>
@@ -76,7 +76,7 @@ Consultez les [conditions de règlement du jeu concours](/medias/Règlement_Jeu_
 
 &nbsp;
 <p align="center">
-  <a href="https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid">
+  <a href="https://auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://back.outdoorvision.fr/auth/done/&scope=openid">
    <img src="/medias/test-challenge-FFC-bouton.jpg">
 </a>
 </p>  
