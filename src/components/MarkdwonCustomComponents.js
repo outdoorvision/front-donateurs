@@ -6,6 +6,7 @@ import { Box, Button, Grid, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 
 import ContactForm from './ContactForm';
+import RandomPicture from './RandomPicture';
 import useSiteMetadata from '../hooks/useSiteMetadata';
 
 const useStyles = makeStyles(theme => ({
@@ -50,16 +51,16 @@ const Disciplines = () => {
   return (
     <Grid container spacing={0} className={clsx(classes.disciplines, 'half-bleed')} component="span">
       <Grid item sm={6} xs={12} component="span">
-        <img src={withPrefix('/medias/discipline-1.jpg')} alt="" />
+        <RandomPicture folder="random-rando" />
       </Grid>
       <Grid item sm={6} xs={12} component="span">
-        <img src={withPrefix('/medias/discipline-2.jpg')} alt="" />
+        <RandomPicture folder="random-ski" />
       </Grid>
       <Grid item sm={6} xs={12} component="span">
-        <img src={withPrefix('/medias/discipline-3.jpg')} alt="" />
+        <RandomPicture folder="random-velo" />
       </Grid>
       <Grid item sm={6} xs={12} component="span">
-        <img src={withPrefix('/medias/discipline-4.jpg')} alt="" />
+        <RandomPicture folder="random-course" />
       </Grid>
     </Grid>
   );
