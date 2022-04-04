@@ -4,7 +4,8 @@ picture: /medias/test_bandeau.png
 swap: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a fermentum nunc. Vestibulum et interdum nisi. Aliquam aliquet felis sit amet ligula convallis, non sodales mauris auctor. Pellentesque malesuada a sapien non consequat. Duis cursus ac erat non viverra. Phasellus pretium commodo risus sed pellentesque.
+Les grandes marques de montres connectées (Garmin, Suunto, Polar) et les applications ou sites de référence des sports outdoor soutiennent OUTDOORVISION. 
+Grâce à ces partenariats, 6,5 millions de traces GPS alimentent déjà la plateforme pour développer la connaissance et la protection des sites de pratique outdoor.   
 
 ## Découvrez les partenaires OUTDOORVISION
 
@@ -15,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a fermentum nunc. V
 <img src="/medias/garmin.png">
 </a>
 <p>
-Garmin fourni une technologie GPS innovante dans divers marchés comme l’aviation, la marine, le sport, les loisirs de plein air, le suivi et les applications mobiles. Partout sur le territoire et toute l’année, nos clients planifient, enregistrent et stockent leurs pratiques d’activités en extérieur. En les partageant volontairement avec Outdoorvision, notre communauté agit pour la préservation du terrain de jeu.
+Garmin fournit une technologie GPS innovante dans divers marchés comme l’aviation, la marine, le sport, les loisirs de plein air, le suivi et les applications mobiles. Partout sur le territoire et toute l’année, nos clients planifient, enregistrent et stockent leurs pratiques d’activités en extérieur. En les partageant volontairement avec Outdoorvision, notre communauté agit pour la préservation du terrain de jeu.
 </p>
 </imagetextblock>
 
@@ -89,7 +90,7 @@ VisuGPX est un site de création, d'analyse et de partage d'itinéraires GPS. Pa
 ----
 
 
-#### **Avec la contribution de :**
+#### **Avec le soutien opérationnel, technique ou financier de :**
 <br />
 
 <imagetextblock picture="/medias/challenge-FFC-02.jpg">

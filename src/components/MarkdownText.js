@@ -50,7 +50,7 @@ const MarkdownText = ({ hast, components = MarkdwonCustomComponents, className, 
       h5: props => <Typography variant="h5" color="secondary" gutterBottom {...props} />,
       h6: props => <Typography variant="h6" color="secondary" gutterBottom {...props} />,
       p: props => <Typography variant="body1" color="secondary" {...props} />,
-      li: props => <Typography variant="body1" component="li" {...props} />,
+      li: props => <Typography variant="body1" component="li" color="secondary" {...props} />,
       a: ({ href, ...props }) => <Link to={href} {...props} />,
       // eslint-disable-next-line jsx-a11y/alt-text
       img: props => <img style={{ maxWidth: '100%' }} {...props} />,
