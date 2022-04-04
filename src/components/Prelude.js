@@ -41,7 +41,7 @@ const Prelude = ({ title, picture, randompicfolder, swap, ...props }) => {
 
   return (
     <Box className={classes.prelude} {...props}>
-      <Grid container spacing={1} className={clsx({ [classes.swap]: swap })}>
+      <Grid container className={clsx({ [classes.swap]: swap })}>
         <Grid item xs={12} className={classes.titleWrapper}>
           {React.isValidElement(title)
             ? title
