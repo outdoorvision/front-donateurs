@@ -27,6 +27,9 @@ const useStyles = makeStyles(theme => ({
   proToolBar: {
     backgroundColor: '#f5f5f5',
   },
+  menubar: {
+    marginTop: theme.spacing(3),
+  },
   logo: {
     '& a': {
       display: 'inline-block',
@@ -96,7 +99,7 @@ const TopBar = () => {
 
   return (
     <AppBar position="static" color="transparent" variant="outlined" className={classes.appbar}>
-      <Toolbar disableGutters className={classes.proToolBar}>
+      <Toolbar className={classes.proToolBar} variant="dense">
         <Container>
           <Box display="flex" justifyContent="flex-end">
             <MuiButton
@@ -114,7 +117,7 @@ const TopBar = () => {
           </Box>
         </Container>
       </Toolbar>
-      <Toolbar disableGutters>
+      <Toolbar disableGutters className={classes.menubar}>
         <Container>
           <Grid container wrap="nowrap" spacing={2}>
             <Grid item className={classes.logo}>
