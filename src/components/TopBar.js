@@ -143,7 +143,7 @@ const TopBar = () => {
                   <MenuItem
                     key={`menu-${label}`}
                     component={Link}
-                    activeStyle={activeStyle}
+                    activeStyle={to === '/' ? null : activeStyle} // do not add activeStyle on home button
                     to={to}
                   >
                     {label}
