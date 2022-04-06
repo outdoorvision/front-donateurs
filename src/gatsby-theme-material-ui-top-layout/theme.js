@@ -17,6 +17,11 @@ const theme = createMuiTheme({
       default: '#fff',
     },
   },
+  shape: {
+    mainButton: {
+      borderRadius: 23,
+    },
+  },
   typography: {
     fontSize: 16,
     h1: { fontSize: '3rem', fontWeight: 800 },

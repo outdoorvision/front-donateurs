@@ -15,7 +15,7 @@ const useStyles = makeStyles(theme => ({
     textAlign: 'center',
     padding: theme.spacing(6, 0),
     '& a': {
-      borderRadius: 23,
+      borderRadius: theme.shape.mainButton.borderRadius,
       boxShadow: 'none',
       textTransform: 'none',
     },
