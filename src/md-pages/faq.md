@@ -46,7 +46,7 @@ L’objectif d'Outdoorvision est d'être ouvert à différents [partenaires](/pa
 
 ---
 
-## Pourquoi collectez-vous les traces GPS alors que Garmin, POlar, Suunto ou Strava le font déjà&nbsp;?
+## Pourquoi collectez-vous les traces GPS alors que Garmin, Polar, Suunto ou Strava le font déjà&nbsp;?
 Ces marques génèrent des cartes de chaleur qui apportent des informations intéressantes pour les pratiquants. Notre but, avec Outdoorvision, est d'apporter des informations complémentaires, par exemple :
 Quelle est le nombre de personnes qui pratiquent le week-end, la semaine, l'été ou l'hiver, etc ? Quels sont les chemins – ou les portions - les plus fréquentés ? Et ainsi apporter des réponses aux territoires qui cherchent à savoir, par exemple, quels aménagements sont manquants (parking, point d'eau, toilettes...)&nbsp;?
 
