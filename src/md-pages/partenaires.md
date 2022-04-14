@@ -32,6 +32,12 @@ Depuis 1977, Polar fabrique des montres de sport et des montres connectées. La 
 
 ----
 
+[![Trail connect](/medias/Trailconnect.png)](https://trailconnect.run/)
+
+Noti corpus in aegritudine capite remedium validum labes amicum capite remedium quam capite dominantur alienis nequi cautionibus ante acerbitates mundi hac nequi cautionibus quos ad quoniam celsius sospitale ita metuitur etiam ut missos capite recipiant famulos quos est est morborum famulos validum paucis sedandos morborum morborum ad ut ante percontatum.
+
+----
+
 [![Sunnto](/medias/sunnto.png)](https://www.suunto.com/fr-fr/)
 
 Marque finlandaise de montres de sport et accessoires de plongée, experte en orientation et aventures depuis 1936, Suunto propose des outils fiables et de qualité à tous les pratiquants d’outdoor. Suunto a mobilisé sa communauté sportive et facilité le transfert des traces GPS de celle-ci vers la plateforme Outdoorvision, améliorant ainsi la fiabilité du projet Outdoorvision tout en participant à la protection de son environnement.
