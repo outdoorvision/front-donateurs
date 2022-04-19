@@ -34,7 +34,7 @@ Depuis 1977, Polar fabrique des montres de sport et des montres connectées. La 
 
 [![Trail connect](/medias/Trailconnect.png)](https://trailconnect.run/)
 
-Noti corpus in aegritudine capite remedium validum labes amicum capite remedium quam capite dominantur alienis nequi cautionibus ante acerbitates mundi hac nequi cautionibus quos ad quoniam celsius sospitale ita metuitur etiam ut missos capite recipiant famulos quos est est morborum famulos validum paucis sedandos morborum morborum ad ut ante percontatum.
+Trail Connect est une application mobile spécialement dédiée à la pratique du trail et des activités outdoor. L’application permet de suivre un itinéraire existant ou de se localiser à tout moment sur les cartes IGN, y compris en mode hors ligne, être alerté en cas de sortie d’itinéraire ou encore d’être suivi pendant la sortie par ses proches grâce à la fonction suivi live. Trail Connect est ravie de s’associer au projet Outdoorvision en permettant à ses utilisateurs de partager leurs sorties et ainsi contribuer à la préservation des itinéraires de pleine nature. 
 
 ----
 
