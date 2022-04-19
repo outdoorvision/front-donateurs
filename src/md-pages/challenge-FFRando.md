@@ -55,7 +55,7 @@ Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto) 
 
 &nbsp;
 <p align="center">
-  <img src="/medias/logo-band7.png">
+  <img src="/medias/logo-band8.png">
 </p>  
 
 
