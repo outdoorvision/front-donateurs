@@ -10,7 +10,7 @@ swap: false
 
 [![Garmin](/medias/garmin.png)](https://www.garmin.com/fr-FR/)
 
-Garmin fourni une technologie GPS innovante dans divers marchés comme l’aviation, la marine, le sport, les loisirs de plein air, le suivi et les applications mobiles. Partout sur le territoire et toute l’année, nos clients planifient, enregistrent et stockent leurs pratiques d’activités en extérieur. En les partageant volontairement avec Outdoorvision, notre communauté agit pour la préservation du terrain de jeu.
+Garmin fournit une technologie GPS innovante dans divers marchés comme l’aviation, la marine, le sport, les loisirs de plein air, le suivi et les applications mobiles. Partout sur le territoire et toute l’année, nos clients planifient, enregistrent et stockent leurs pratiques d’activités en extérieur. En les partageant volontairement avec Outdoorvision, notre communauté agit pour la préservation du terrain de jeu.
 
 ----
 
