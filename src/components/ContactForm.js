@@ -57,7 +57,9 @@ const ContactForm = () => {
 
         buttons: {
           mode: 'fill',
-          roundness: theme.shape.borderRadius,
+          textColor: theme.palette.primary.contrastText,
+          roundness: theme.shape.mainButton.borderRadius,
+          baseColor: theme.palette.primary.main,
         },
       },
       attachments,

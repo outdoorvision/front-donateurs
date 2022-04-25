@@ -10,6 +10,7 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     backendUrl: process.env.BACKEND_URL || '/fallback/',
+    labUrl: process.env.LAB_URL || '/fallback/',
   },
   plugins: [
     {
@@ -59,6 +60,13 @@ module.exports = {
       options: {
         name: 'markdown-blocks',
         path: `${__dirname}/src/md-blocks`,
+      },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'medias',
+        path: `${__dirname}/static/medias`,
       },
     },
     {

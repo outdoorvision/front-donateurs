@@ -9,17 +9,26 @@ import {
   Container,
   makeStyles,
   Grid,
+  Box,
   useTheme,
   IconButton,
+  Button as MuiButton,
   MenuItem,
   Menu,
 } from '@material-ui/core';
-import { Home, Menu as MenuIcon } from '@material-ui/icons';
+import { Menu as MenuIcon, PeopleOutline } from '@material-ui/icons';
 import useSiteMetadata from '../hooks/useSiteMetadata';
+import { HOME_LINKS } from '../settings';
 
 const useStyles = makeStyles(theme => ({
   appbar: {
     border: 'none',
+  },
+  proToolBar: {
+    backgroundColor: '#f5f5f5',
+  },
+  menubar: {
+    marginTop: theme.spacing(3),
   },
   logo: {
     '& a': {
@@ -29,9 +38,9 @@ const useStyles = makeStyles(theme => ({
     '& img': {
       display: 'block',
       maxWidth: '100%',
-      maxHeight: 180,
+      maxHeight: 110,
       [theme.breakpoints.down('md')]: {
-        maxHeight: 145,
+        maxHeight: 80,
       },
     },
 
@@ -78,7 +87,7 @@ const TopBar = () => {
   const theme = useTheme();
   const [anchorEl, setAnchorEl] = React.useState(null);
 
-  const { backendUrl } = useSiteMetadata();
+  const { backendUrl, labUrl } = useSiteMetadata();
 
   const handleClick = event => setAnchorEl(event.currentTarget);
   const handleClose = () => setAnchorEl(null);
@@ -90,7 +99,25 @@ const TopBar = () => {
 
   return (
     <AppBar position="static" color="transparent" variant="outlined" className={classes.appbar}>
-      <Toolbar disableGutters>
+      <Toolbar className={classes.proToolBar} variant="dense">
+        <Container>
+          <Box display="flex" justifyContent="flex-end">
+            <MuiButton
+              variant="text"
+              color="default"
+              size="small"
+              href={labUrl}
+              rel="noreferrer"
+              target="_blank"
+              className={classes.button}
+              startIcon={<PeopleOutline />}
+            >
+              Accès pro
+            </MuiButton>
+          </Box>
+        </Container>
+      </Toolbar>
+      <Toolbar disableGutters className={classes.menubar}>
         <Container>
           <Grid container wrap="nowrap" spacing={2}>
             <Grid item className={classes.logo}>
@@ -115,17 +142,30 @@ const TopBar = () => {
                 open={Boolean(anchorEl)}
                 onClose={handleClose}
               >
-                <MenuItem component={Link} activeStyle={activeStyle} to="/">Outdoorvision</MenuItem>
-                <MenuItem component={Link} activeStyle={activeStyle} to="/partenaires">Partenaires</MenuItem>
-                <MenuItem component={Link} activeStyle={activeStyle} to="/faq">Faq</MenuItem>
+                {HOME_LINKS.map(({ to, label }) => (
+                  <MenuItem
+                    key={`menu-${label}`}
+                    component={Link}
+                    activeStyle={to === '/' ? null : activeStyle} // do not add activeStyle on home button
+                    to={to}
+                  >
+                    {label}
+                  </MenuItem>
+                ))}
                 <MenuItem component={Link} to={backendUrl}>Participer</MenuItem>
               </Menu>
             </Grid>
 
             <Grid item className={classes.nav} component="nav">
-              <Button activeStyle={activeStyle} to="/" startIcon={<Home />}>Outdoorvision</Button>
-              <Button activeStyle={activeStyle} to="/partenaires">Partenaires</Button>
-              <Button activeStyle={activeStyle} to="/faq">Faq</Button>
+              {HOME_LINKS.map(({ to, label }) => (
+                <Button
+                  key={`button-${label}`}
+                  activeStyle={to === '/' ? null : activeStyle} // do not add activeStyle on home button
+                  to={to}
+                >
+                  {label}
+                </Button>
+              ))}
               <Button variant="outlined" href={backendUrl}>Participer</Button>
             </Grid>
           </Grid>
