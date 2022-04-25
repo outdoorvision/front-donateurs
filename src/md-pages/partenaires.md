@@ -55,11 +55,22 @@ Depuis 1977, Polar fabrique des montres de sport et des montres connectées. La 
 
 ----
 
+<<<<<<< HEAD
 <imagetextblock picture="/medias/challenge-FFC-02.jpg">
 <a href="https://www.suunto.com/fr-fr/">
 <img src="/medias/sunnto.png">
 </a>
 <p>
+=======
+[![Trail connect](/medias/Trailconnect.png)](https://trailconnect.run/)
+
+Trail Connect est une application mobile spécialement dédiée à la pratique du trail et des activités outdoor. L’application permet de suivre un itinéraire existant ou de se localiser à tout moment sur les cartes IGN, y compris en mode hors ligne, être alerté en cas de sortie d’itinéraire ou encore d’être suivi pendant la sortie par ses proches grâce à la fonction suivi live. Trail Connect est ravie de s’associer au projet Outdoorvision en permettant à ses utilisateurs de partager leurs sorties et ainsi contribuer à la préservation des itinéraires de pleine nature. 
+
+----
+
+[![Sunnto](/medias/sunnto.png)](https://www.suunto.com/fr-fr/)
+
+>>>>>>> staging
 Marque finlandaise de montres de sport et accessoires de plongée, experte en orientation et aventures depuis 1936, Suunto propose des outils fiables et de qualité à tous les pratiquants d’outdoor. Suunto a mobilisé sa communauté sportive et facilité le transfert des traces GPS de celle-ci vers la plateforme Outdoorvision, améliorant ainsi la fiabilité du projet Outdoorvision tout en participant à la protection de son environnement.
 </p>
 </imagetextblock>
