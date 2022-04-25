@@ -19,7 +19,7 @@ vos sites de pratique.
 ## Comment participer ?
 
 Connectez simplement votre compte Garmin Connect™ / Polar Flow / Suunto APP (Appli Suunto) ou communiquez-nous directement vos traces GPS.
-![Garmin, IGN Rando, Openrunner, Polar, Trail connect, Sunnto, Visorando, VisuGPX](/medias/logo-band8-nb.png)
+![Garmin, IGN Rando, Openrunner, Polar, Trail connect, Sunnto, Visorando, VisuGPX](/medias/logo-band8-nb.jpg)
 
 <participate></participate>
 
