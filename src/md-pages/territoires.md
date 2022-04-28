@@ -106,8 +106,8 @@ Réservé à des professionnels qualifiés, l’accès à la plateforme OUTDOORV
 ## Je veux une démo
 
 <contactformwithtext>
-Pour en savoir plus sur la plateforme OUTDOORVISION et avoir une démo, le mieux c’est de nous contacter en remplissant ce formulaire. 
-A très bientôt ! 
+Pour en savoir plus sur la plateforme OUTDOORVISION et avoir une démo, le mieux c’est de nous contacter en remplissant ce formulaire.<br>
+A très bientôt ! <br>
 L’équipe OUTDOORVISION
 </contactformwithtext>
 
