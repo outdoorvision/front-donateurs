@@ -53,8 +53,9 @@ Il est le fruit d'un [partenariat innovant](/partenaires) entre des territoires,
 
 Découvrez comment OUTDOORVISION contribue concrètement à la meilleure connaissance des spots outdoor et à la préservation des sites de pratique sur tout le territoire. 
 
+---
 
-<imagetextblock title="En randonnée pédestre" picture="/medias/challenge-FFC-02.jpg" swap="true">
+<imagetextblock title="En randonnée pédestre" picture="/medias/challenge-FFC-02.jpg">
 L’objectif est de garantir la qualité des itinéraires, de faire en sorte qu’ils soient accessibles à tous, de mettre à jour les fonds de cartes, la signalétique et les informations liées à la nature et au patrimoine, de favoriser la prise en compte de la pratique dans les choix d’aménagement. La randonnée en raquettes à neige est également prise en compte dans la plateforme Outdoorvision.
 </imagetextblock>
 
@@ -62,7 +63,7 @@ L’objectif est de garantir la qualité des itinéraires, de faire en sorte qu�
 L’objectif est de favoriser la création d’itinéraires sécurisés, d’encourager les territoires à développer une offre de trail qui soit de qualité, de se coordonner avec les organisateurs d’événements pour respecter les espaces naturels ou encore d’améliorer l’expérience des pratiquants (points d’eau, stationnements, panoramas et tables d’orientation par exemple).
 </imagetextblock>
 
-<imagetextblock title="En VTT" picture="/medias/challenge-FFC-02.jpg" swap="true">
+<imagetextblock title="En VTT" picture="/medias/challenge-FFC-02.jpg">
 L’objectif est d’avoir des itinéraires validés et bien entretenus, de s’assurer qu’ils restent durablement praticables, de prendre en compte des attentes nouvelles liées au développement du VTTAE (bornes de recharges, stations d’entretien) et à la mobilité douce (connexion avec des voies vertes et des liaisons en train par exemple).
 </imagetextblock>
 
@@ -70,7 +71,7 @@ L’objectif est d’avoir des itinéraires validés et bien entretenus, de s’
 L’objectif est d’encourager la création de voies sécurisées et d’espaces sans voitures, d’inciter les territoires à prendre en compte de nouvelles attentes liées au développement du VAE.
 </imagetextblock>
 
-<imagetextblock title="En ski de randonnée" picture="/medias/challenge-FFC-02.jpg" swap="true">
+<imagetextblock title="En ski de randonnée" picture="/medias/challenge-FFC-02.jpg">
 L’objectif est de mieux prendre en compte les enjeux de sécurité et de protection de la biodiversité dans une pratique en fort développement tout en apportant plus de services aux pratiquants (zones de stationnement, toilettes sèches sur les points de départ / arrivée) en coordination avec les territoires de montagne. Le ski nordique est également pris en compte dans la plateforme Outdoorvision.
 </imagetextblock>
 
