@@ -8,8 +8,6 @@ picture: /medias/test_bandeau.png
 Partagez vos traces GPS et contribuez à la préservation et l'aménagement de vos itinéraires de randonnée cycliste !
 
 
-<participate></participate>
-
 &nbsp;
 <p align="center">
   <a href="https://auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://back.outdoorvision.fr/auth/done/&scope=openid">
