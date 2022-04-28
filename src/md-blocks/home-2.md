@@ -51,9 +51,7 @@ Il est le fruit d'un [partenariat innovant](/partenaires) entre des territoires,
 
 ## A quoi ça sert ?
 
-Découvrez comment OUTDOORVISION contribue concrètement à la meilleure connaissance des spots outdoor et à la préservation des sites de pratique sur tout le territoire. 
-
-  
+Découvrez comment OUTDOORVISION contribue concrètement à la meilleure connaissance des spots outdoor et à la préservation des sites de pratique sur tout le territoire.  
 
 <imagetextblock title="En randonnée pédestre" picture="/medias/challenge-FFC-02.jpg">
 L’objectif est de garantir la qualité des itinéraires, de faire en sorte qu’ils soient accessibles à tous, de mettre à jour les fonds de cartes, la signalétique et les informations liées à la nature et au patrimoine, de favoriser la prise en compte de la pratique dans les choix d’aménagement. La randonnée en raquettes à neige est également prise en compte dans la plateforme Outdoorvision.
