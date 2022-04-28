@@ -1,5 +1,6 @@
 ---
 title: CHALLENGE FF Cyclisme
+picture: /medias/test_bandeau.png
 ---
 
 ##Jouez pour préserver votre terrain de jeu !
