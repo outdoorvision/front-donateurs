@@ -67,20 +67,15 @@ L’objectif est de favoriser la création d’itinéraires sécurisés, d’enc
 
 ---
 
-<imagetextblock title="En VTT" picture="/medias/challenge-FFC-02.jpg">
-L’objectif est d’avoir des itinéraires validés et bien entretenus, de s’assurer qu’ils restent durablement praticables, de prendre en compte des attentes nouvelles liées au développement du VTTAE (bornes de recharges, stations d’entretien) et à la mobilité douce (connexion avec des voies vertes et des liaisons en train par exemple).
+<imagetextblock picture="/medias/challenge-FFC-02.jpg">
+En VTT, L’objectif est d’avoir des itinéraires validés et bien entretenus, de s’assurer qu’ils restent durablement praticables, de prendre en compte des attentes nouvelles liées au développement du VTTAE (bornes de recharges, stations d’entretien) et à la mobilité douce (connexion avec des voies vertes et des liaisons en train par exemple).
+En cyclcotourisme, l’objectif est d’encourager la création de voies sécurisées et d’espaces sans voitures, d’inciter les territoires à prendre en compte de nouvelles attentes liées au développement du VAE.
 </imagetextblock>
 
 ---
 
-<imagetextblock title="En cyclotourisme" picture="/medias/challenge-FFC-02.jpg" swap="true">
-L’objectif est d’encourager la création de voies sécurisées et d’espaces sans voitures, d’inciter les territoires à prendre en compte de nouvelles attentes liées au développement du VAE.
-</imagetextblock>
-
----
-
-<imagetextblock title="En ski de randonnée" picture="/medias/challenge-FFC-02.jpg">
-L’objectif est de mieux prendre en compte les enjeux de sécurité et de protection de la biodiversité dans une pratique en fort développement tout en apportant plus de services aux pratiquants (zones de stationnement, toilettes sèches sur les points de départ / arrivée) en coordination avec les territoires de montagne. Le ski nordique est également pris en compte dans la plateforme Outdoorvision.
+<imagetextblock picture="/medias/challenge-FFC-02.jpg">
+En ski de randonnée, l’objectif est de mieux prendre en compte les enjeux de sécurité et de protection de la biodiversité dans une pratique en fort développement tout en apportant plus de services aux pratiquants (zones de stationnement, toilettes sèches sur les points de départ / arrivée) en coordination avec les territoires de montagne. Le ski nordique est également pris en compte dans la plateforme Outdoorvision.
 </imagetextblock>
 
 <rowgrid>
