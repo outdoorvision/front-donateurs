@@ -75,9 +75,3 @@ L’objectif est de mieux prendre en compte les enjeux de sécurité et de prote
 </imagetextblock>
 
 <participate></participate>
-
-<rowgrid>
-<iframe src="https://www.youtube.com/embed/Sua7VDlhBs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe src="https://www.youtube.com/embed/Sua7VDlhBs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe src="https://www.youtube.com/embed/Sua7VDlhBs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</rowgrid>
