@@ -21,7 +21,7 @@ Pour développer une expertise objectivée par des données de terrain, la plate
 
 ## Les cas d'usages
 
-Les cas d’usages détaillés sont disponibles sur simple demande auprès de l’équipe Outdoorvision. Cliquez ici pour les obtenir
+Les cas d’usages détaillés sont disponibles sur simple demande auprès de l’équipe Outdoorvision. [Cliquez ici pour les obtenir !](/contact)
 
 ### Protection de la biodiversité
 
