@@ -31,7 +31,7 @@ Les cas d’usages détaillés sont disponibles sur simple demande auprès de l�
 >>> ![Cas d'usage 01](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_01.jpg)
 _Du fait de sa proximité avec la station de Chamrousse, cette zone Natura 2000 est fréquentée l’hiver pour le ski de randonnée. L’emprise géographique de la zone peut être sélectionnée sur la plateforme afin de visualiser les flux et avoir l’indication du nombre de passages._
  <br>
-
+ <br>
 >>> **Anticiper la mise en place de chantiers écologiques** - Puy Mary - Grand Site de France <br>
 
 >>> ![Cas d'usage 02](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_02.jpg)
