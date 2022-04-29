@@ -1,6 +1,6 @@
 ---
 title: Partenaires
-picture: /medias/test_bandeau.png
+picture: /medias/VISUELS_PARTENAIRES/RUNNINGTRAIL_HOMME SOMMET_1346X311_OUTDOORVISION_D-Frobert.jpg
 swap: false
 ---
 
@@ -11,7 +11,7 @@ Grâce à ces partenariats, 6,5 millions de traces GPS alimentent déjà la plat
 
 <br />
 
-<imagetextblock picture="/medias/challenge-FFC-02.jpg">
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/GARMIN_272X272.jpg">
 <a href="https://www.garmin.com/fr-FR/">
 <img src="/medias/garmin.png">
 </a>
@@ -22,7 +22,7 @@ Garmin fournit une technologie GPS innovante dans divers marchés comme l’avia
 
 ----
 
-<imagetextblock picture="/medias/challenge-FFC-02.jpg">
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/IGN_272X272.jpg">
 <a href="https://ignrando.fr/boutique/appli-randonnee-ignrando">
 <img src="/medias/IGNrando.png">
 </a>
@@ -33,7 +33,7 @@ IGNrando’, l’application de référence pour vos activités nature. Toute la
 
 ----
 
-<imagetextblock picture="/medias/challenge-FFC-02.jpg">
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/OPENRUNNER_272X272.jpg">
 <a href="https://www.openrunner.com/">
 <img src="/medias/openrunner.png">
 </a>
@@ -44,7 +44,7 @@ OpenRunner est une solution web et mobile pour planifier, trouver, suivre et par
 
 ----
 
-<imagetextblock picture="/medias/challenge-FFC-02.jpg">
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/POLAR_272X272.jpg">
 <a href="https://www.polar.com/fr/">
 <img src="/medias/polar.png">
 </a>
@@ -55,7 +55,7 @@ Depuis 1977, Polar fabrique des montres de sport et des montres connectées. La 
 
 ----
 
-<imagetextblock picture="/medias/challenge-FFC-02.jpg">
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/SUUNTO_272X272.jpg">
 <a href="https://www.suunto.com/fr-fr/">
 <img src="/medias/sunnto.png">
 </a>
@@ -66,7 +66,7 @@ Marque finlandaise de montres de sport et accessoires de plongée, experte en or
 
 ----
 
-<imagetextblock picture="/medias/challenge-FFC-02.jpg">
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/TRAIL_CONNECT_272X272.jpg">
 <a href="https://trailconnect.run/">
 <img src="/medias/Trailconnect.png">
 </a>
@@ -77,7 +77,7 @@ Trail Connect est une application mobile spécialement dédiée à la pratique d
 
 ----
 
-<imagetextblock picture="/medias/challenge-FFC-02.jpg">
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/VISORANDO_272X272.jpg">
 <a href="https://www.visorando.com/">
 <img src="/medias/visorando.png">
 </a>
@@ -89,7 +89,7 @@ L'application Visorando permet de se servir de son smartphone ou de sa tablette 
 
 ----
 
-<imagetextblock picture="/medias/challenge-FFC-02.jpg">
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/VISUGPX_272X272.jpg">
 <a href="https://www.visugpx.com/">
 <img src="/medias/visugpx.png">
 </a>
@@ -104,7 +104,7 @@ VisuGPX est un site de création, d'analyse et de partage d'itinéraires GPS. Pa
 #### **Avec la contribution de :**
 <br />
 
-<imagetextblock picture="/medias/challenge-FFC-02.jpg">
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/ECO_COMPTEUR_272X272.jpg">
 <a href="https://www.eco-compteur.com/">
 <img src="/medias/ecocompteur.png">
 </a>
