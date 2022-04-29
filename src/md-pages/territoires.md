@@ -1,6 +1,6 @@
 ---
 title: L'expertise OUTDOOR des territoires
-picture: /medias/test_bandeau.png
+picture: /medias/VISUELS_TERRITOIRES/RANDONNE FEMME SUNSET_1346X311_OUTDOORVISION_P-Jayet.jpg
 swap: false
 ---
 
@@ -108,6 +108,7 @@ Réservé à des professionnels qualifiés, l’accès à la plateforme OUTDOORV
 <contactformwithtext>
 Pour en savoir plus sur la plateforme OUTDOORVISION et avoir une démo, le mieux c’est de nous contacter en remplissant ce formulaire.<br>
 A très bientôt ! <br>
+<br>
 L’équipe OUTDOORVISION
 </contactformwithtext>
 
