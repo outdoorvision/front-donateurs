@@ -4,7 +4,7 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="6,5 millions de traces" picture="/medias/challenge-FFC-02.jpg">
+<imagetextblock title="6,5 millions de traces" picture="/medias/VISUELS_ACTUALITES/6.5_millions_de traces_272X272.jpg">
 Le cap des 6,5 millions de traces GPS a été franchi le 15 janvier dernier et ce n’est qu’un début ! Nos partenariats avec les plus grandes marques de montres connectés et les applications de référence des sports outdoor et la contribution directe de milliers de pratiquants sont à l’origine de ce succès.
 </imagetextblock>
 
