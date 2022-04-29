@@ -34,8 +34,8 @@ _Du fait de sa proximité avec la station de Chamrousse, cette zone Natura 2000 
 
 >>> **Anticiper la mise en place de chantiers écologiques** - Puy Mary - Grand Site de France <br>
 
->>> ![Cas d'usage 02](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_02.jpg "Title here")
-_Le territoire du Puy-Mary, labellisé Grand Site de France, œuvre pour la valorisation et la préservation de ces espaces. L’observation des flux sur Outdoorvision a permis la mise en place d’un chantier de génie écologique sur la face est du territoire, afin de restaurer des écosystèmes._
+>>> ![Cas d'usage 02](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_02.jpg "Le territoire du Puy-Mary, labellisé Grand Site de France, œuvre pour la valorisation et la préservation de ces espaces. L’observation des flux sur Outdoorvision a permis la mise en place d’un chantier de génie écologique sur la face est du territoire, afin de restaurer des écosystèmes.")
+
 
 ### Aménagement du territoire
 
