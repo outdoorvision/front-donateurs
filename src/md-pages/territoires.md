@@ -25,14 +25,15 @@ Les cas d’usages détaillés sont disponibles sur simple demande auprès de l�
 
 ### Protection de la biodiversité
 
-#### Concilier usages sportifs et problématiques environnementales
->>> Visualiser la fréquentation dans les espaces sensibles - Massif de Belledonne - Zone natura 2000 « Cembraie, pelouses, lacs et tourbières » <br>
-_Du fait de sa proximité avec la station de Chamrousse, cette zone Natura 2000 est fréquentée l’hiver pour le ski de randonnée. L’emprise géographique de la zone peut être sélectionnée sur la plateforme afin de visualiser les flux et avoir l’indication du nombre de passages._
+**Concilier usages sportifs et problématiques environnementales**
+>>> **Visualiser la fréquentation dans les espaces sensibles** - Massif de Belledonne - Zone natura 2000 « Cembraie, pelouses, lacs et tourbières » <br>
 
 >>> ![Cas d'usage 01](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_01.jpg)
+_Du fait de sa proximité avec la station de Chamrousse, cette zone Natura 2000 est fréquentée l’hiver pour le ski de randonnée. L’emprise géographique de la zone peut être sélectionnée sur la plateforme afin de visualiser les flux et avoir l’indication du nombre de passages._
 
-#### Concilier usages sportifs et problématiques environnementales
->>> Anticiper la mise en place de chantiers écologiques - Puy Mary - Grand Site de France <br>
+
+**Concilier usages sportifs et problématiques environnementales**
+>>> **Anticiper la mise en place de chantiers écologiques** - Puy Mary - Grand Site de France <br>
 _Le territoire du Puy-Mary, labellisé Grand Site de France, œuvre pour la valorisation et la préservation de ces espaces. L’observation des flux sur Outdoorvision a permis la mise en place d’un chantier de génie écologique sur la face est du territoire, afin de restaurer des écosystèmes._
 
 >>> ![Cas d'usage 02](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_02.jpg)
