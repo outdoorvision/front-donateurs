@@ -10,12 +10,12 @@ Pour développer une expertise objectivée par des données de terrain, la plate
 
 ## Les fonctionnalités principales
 
-- La vue des flux de pratiquants (générale ou par famille d’activités), 
-- Le comptage des pratiquants dans un périmètre géographique défini,
-- La mesure de fréquentation d’un itinéraire défini,
-- La visualisation des zones de départs, de pauses et d’arrivées,
-- La comparaison temporelle des flux de pratiquants (par mois, jour, année…)
-- La répartition des parcours les plus utilisés pour chaque activité (…)
+- La vue des flux de pratiquants (générale ou par famille d’activités) ;
+- Le comptage des pratiquants dans un périmètre géographique défini ;
+- La mesure de fréquentation d’un itinéraire défini ;
+- La visualisation des zones de départs, de pauses et d’arrivées ;
+- La comparaison temporelle des flux de pratiquants (par mois, jour, année…) ;
+- La répartition des parcours les plus utilisés pour chaque activité (…).
 
 ---
 
