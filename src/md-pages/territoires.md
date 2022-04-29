@@ -26,9 +26,10 @@ Les cas d’usages détaillés sont disponibles sur simple demande auprès de l�
 ### Protection de la biodiversité
 
 Concilier usages sportifs et problématiques environnementales
->>> Visualiser la fréquentation dans les espaces sensibles
-Massif de Belledonne - Zone natura 2000 « Cembraie, pelouses, lacs et tourbières »
-(+ image P7/ Doc Elodie)
+>>> Visualiser la fréquentation dans les espaces sensibles - Massif de Belledonne - Zone natura 2000 « Cembraie, pelouses, lacs et tourbières »
+Du fait de sa proximité avec la station de Chamrousse, cette zone Natura 2000 est fréquentée l’hiver pour le ski de randonnée. L’emprise géographique de la zone peut être sélectionnée sur la plateforme afin de visualiser les flux et avoir l’indication du nombre de passages.
+
+![Cas d'usage 01](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_01.jpg)
 
 Concilier usages sportifs et problématiques environnementales
 >>> Anticiper la mise en place de chantiers écologiques
