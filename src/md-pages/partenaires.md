@@ -55,7 +55,7 @@ Depuis 1977, Polar fabrique des montres de sport et des montres connectées. La 
 
 ----
 
-<imagetextblock picture="/medias/VISUELS_PARTENAIRES/SUUNTO_272X272.jpg">
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/SUUNTO_272X272_02.jpg">
 <a href="https://www.suunto.com/fr-fr/">
 <img src="/medias/sunnto.png">
 </a>
