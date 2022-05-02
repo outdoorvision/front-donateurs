@@ -26,25 +26,25 @@ Les cas d’usages détaillés sont disponibles sur simple demande auprès de l�
 ### Protection de la biodiversité
 
 **Concilier usages sportifs et problématiques environnementales**
->>> **Visualiser la fréquentation dans les espaces sensibles** - Massif de Belledonne - Zone natura 2000 « Cembraie, pelouses, lacs et tourbières » <br>
->>> ![Cas d'usage 01](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_01.jpg)
+**Visualiser la fréquentation dans les espaces sensibles** - Massif de Belledonne - Zone natura 2000 « Cembraie, pelouses, lacs et tourbières » <br>
+![Cas d'usage 01](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_01.jpg)
 _Du fait de sa proximité avec la station de Chamrousse, cette zone Natura 2000 est fréquentée l’hiver pour le ski de randonnée. L’emprise géographique de la zone peut être sélectionnée sur la plateforme afin de visualiser les flux et avoir l’indication du nombre de passages._
  <br>
  <br>
->>> **Anticiper la mise en place de chantiers écologiques** - Puy Mary - Grand Site de France <br>
->>> ![Cas d'usage 02](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_02.jpg)
+**Anticiper la mise en place de chantiers écologiques** - Puy Mary - Grand Site de France <br>
+![Cas d'usage 02](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_02.jpg)
 _Le territoire du Puy-Mary, labellisé Grand Site de France, œuvre pour la valorisation et la préservation de ces espaces. L’observation des flux sur Outdoorvision a permis la mise en place d’un chantier de génie écologique sur la face est du territoire, afin de restaurer des écosystèmes._
 
 ### Aménagement du territoire
 
 **Améliorer l’accueil et l’information des pratiquants**
->>> **Mieux positionner les panneaux d’information ou de réglementation** - Cévennes d’Ardèche <br>
->>> ![Cas d'usage 03](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_03.jpg)
+**Mieux positionner les panneaux d’information ou de réglementation** - Cévennes d’Ardèche <br>
+![Cas d'usage 03](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_03.jpg)
 _Dans le territoire des Cévennes d’Ardèche, plusieurs villages sont d’importants lieux de départs pour les pratiquants. Ces informations issues d’Outdoorvision permettent à la collectivité d’installer de nouveaux panneaux porte d’entrée aux points de départs les plus fréquentés._
  <br>
  <br>
->>> **Mieux organiser le stationnement au départ des sites** - Vercors - Gorges d’Omblèze <br>
->>> ![Cas d'usage 04](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_04.jpg)
+**Mieux organiser le stationnement au départ des sites** - Vercors - Gorges d’Omblèze <br>
+![Cas d'usage 04](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_04.jpg)
 _Les gorges d’Omblèze sont propices pour les activités de plein air (GRP Grand Tour du Vercors, sites d’escalade…). La zone observée sur la plateforme Outdoorvision se situe à proximité de la cascade de Pissoire, lieu prisé par les touristes et excursionnistes. Sur la plateforme, plusieurs zones de départs et d’arrivées apparaissent le long de l’axe routier, pouvant refléter des problématiques de stationnement._
 
 ### Prévention des accidents et sécurité des pratiquants
