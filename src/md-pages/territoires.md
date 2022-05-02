@@ -38,13 +38,14 @@ _Le territoire du Puy-Mary, labellisé Grand Site de France, œuvre pour la valo
 ### Aménagement du territoire
 
 **Améliorer l’accueil et l’information des pratiquants** <br>
-**Mieux positionner les panneaux d’information ou de réglementation** - Cévennes d’Ardèche <br>
 ![Cas d'usage 03](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_03.jpg) <br>
+**Mieux positionner les panneaux d’information ou de réglementation** - Cévennes d’Ardèche <br>
 _Dans le territoire des Cévennes d’Ardèche, plusieurs villages sont d’importants lieux de départs pour les pratiquants. Ces informations issues d’Outdoorvision permettent à la collectivité d’installer de nouveaux panneaux porte d’entrée aux points de départs les plus fréquentés._
  <br>
  <br>
-**Mieux organiser le stationnement au départ des sites** - Vercors - Gorges d’Omblèze <br>
+**Améliorer l’accueil et l’information des pratiquants** <br>
 ![Cas d'usage 04](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_04.jpg) <br>
+**Mieux organiser le stationnement au départ des sites** - Vercors - Gorges d’Omblèze <br>
 _Les gorges d’Omblèze sont propices pour les activités de plein air (GRP Grand Tour du Vercors, sites d’escalade…). La zone observée sur la plateforme Outdoorvision se situe à proximité de la cascade de Pissoire, lieu prisé par les touristes et excursionnistes. Sur la plateforme, plusieurs zones de départs et d’arrivées apparaissent le long de l’axe routier, pouvant refléter des problématiques de stationnement._
 
 ### Prévention des accidents et sécurité des pratiquants
