@@ -33,7 +33,7 @@ Grâce à la plateforme OUTDOORVISION, les Monts du Lyonnais ont pu visualiser e
 ---
 
 <imagetextblock title="Polar, nouveau partenaire OUTDOORVISION" picture="/medias/VISUELS_ACTUALITES/POLAR_272X272.jpg">
-La marque POLAR s’associe depuis janvier 2022 à OUTDOORVISION. Grâce à ce partenariat, tous les pratiquants équipés de montres connectées POLAR peuvent contribuer à la plateforme en partageant leurs traces GPS via l’application POLAR FLOW. <br>
+La marque POLAR s’associe à OUTDOORVISION. Grâce à ce partenariat, tous les pratiquants équipés de montres connectées POLAR peuvent contribuer à la plateforme en partageant leurs traces GPS via l’application POLAR FLOW. <br>
 (24 octobre 2021)
 </imagetextblock>
 
