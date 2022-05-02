@@ -70,7 +70,7 @@ L’objectif est d’avoir des itinéraires validés et bien entretenus, de s’
 L’objectif est d’encourager la création de voies sécurisées et d’espaces sans voitures, d’inciter les territoires à prendre en compte de nouvelles attentes liées au développement du VAE.
 </imagetextblock>
 
->>> <imagetextblock title="En ski de randonnée" picture="/medias/VISUELS_DESK/SKI_RANDO_FEMME_EN_MONTEE_272X272_OUTDOORVISION_AdobeStock.jpg">
+<imagetextblock title="En ski de randonnée" picture="/medias/VISUELS_DESK/SKI_RANDO_FEMME_EN_MONTEE_272X272_OUTDOORVISION_AdobeStock.jpg">
 L’objectif est de mieux prendre en compte les enjeux de sécurité et de protection de la biodiversité dans une pratique en fort développement tout en apportant plus de services aux pratiquants (zones de stationnement, toilettes sèches sur les points de départ / arrivée) en coordination avec les territoires de montagne. Le ski nordique est également pris en compte dans la plateforme Outdoorvision.
 </imagetextblock>
 
