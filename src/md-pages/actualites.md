@@ -18,6 +18,13 @@ Ce challenge national qui propose aux pratiquants de contribuer à la préservat
 
 ---
 
+<imagetextblock title="Polar, nouveau partenaire OUTDOORVISION" picture="/medias/VISUELS_ACTUALITES/POLAR_272X272.jpg">
+Depuis janvier 2022, la marque POLAR s’associe à OUTDOORVISION. Grâce à ce partenariat, tous les pratiquants équipés de montres connectées POLAR peuvent contribuer à la plateforme en partageant leurs traces GPS via l’application POLAR FLOW. <br>
+(14 février 2021)
+</imagetextblock>
+
+---
+
 <imagetextblock title="Interview de Noémie Le Govic, SUUNTO" picture="/medias/VISUELS_ACTUALITES/INTERVIEW_SUUNTO_272X272.jpg">
 « L’exploration et l’aventure sont au cœur de l’ADN Suunto ; des océans aux sommets des montagnes et autres terrains accidentés, nous avons une connexion profonde avec les grands espaces. C’est notre terrain de jeu quotidien, notre plateforme d’aventure. Et c’est pourquoi il était naturel pour nous d’accompagner le développement d’OUTDOORVISION pour la préservation de notre environnement outdoor ». <br>
 (11 janvier 2022)
@@ -28,13 +35,6 @@ Ce challenge national qui propose aux pratiquants de contribuer à la préservat
 <imagetextblock title="Monts du Lyonnais" picture="/medias/VISUELS_ACTUALITES/MONTS DU LYONNAIS_AdobeStock_272X272.jpg" swap="true">
 Grâce à la plateforme OUTDOORVISION, les Monts du Lyonnais ont pu visualiser et analyser les pratiques outdoor à l’échelle de leur territoire. Une aide stratégique pour développer les pratiques sur certains secteurs moins fréquentés et décider des investissements sur des circuits et sites labellisés de VTT. <br>
 (18 décembre 2021)
-</imagetextblock>
-
----
-
-<imagetextblock title="Polar, nouveau partenaire OUTDOORVISION" picture="/medias/VISUELS_ACTUALITES/POLAR_272X272.jpg">
-La marque POLAR s’associe à OUTDOORVISION. Grâce à ce partenariat, tous les pratiquants équipés de montres connectées POLAR peuvent contribuer à la plateforme en partageant leurs traces GPS via l’application POLAR FLOW. <br>
-(24 octobre 2021)
 </imagetextblock>
 
 
