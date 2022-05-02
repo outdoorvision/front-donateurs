@@ -39,24 +39,24 @@ _Le territoire du Puy-Mary, labellisé Grand Site de France, œuvre pour la valo
 
 **Améliorer l’accueil et l’information des pratiquants**
 **Mieux positionner les panneaux d’information ou de réglementation** - Cévennes d’Ardèche <br>
-![Cas d'usage 03](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_03.jpg)
+![Cas d'usage 03](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_03.jpg) <br>
 _Dans le territoire des Cévennes d’Ardèche, plusieurs villages sont d’importants lieux de départs pour les pratiquants. Ces informations issues d’Outdoorvision permettent à la collectivité d’installer de nouveaux panneaux porte d’entrée aux points de départs les plus fréquentés._
  <br>
  <br>
 **Mieux organiser le stationnement au départ des sites** - Vercors - Gorges d’Omblèze <br>
-![Cas d'usage 04](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_04.jpg)
+![Cas d'usage 04](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_04.jpg) <br>
 _Les gorges d’Omblèze sont propices pour les activités de plein air (GRP Grand Tour du Vercors, sites d’escalade…). La zone observée sur la plateforme Outdoorvision se situe à proximité de la cascade de Pissoire, lieu prisé par les touristes et excursionnistes. Sur la plateforme, plusieurs zones de départs et d’arrivées apparaissent le long de l’axe routier, pouvant refléter des problématiques de stationnement._
 
 ### Prévention des accidents et sécurité des pratiquants
 
 **Sécuriser les pratiques sportives**
 >>>**Visualiser les flux nocturnes de randonneurs à ski** - Massif de Belledonne - Station de Chamrousse
->>> ![Cas d'usage 05](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_05.jpg)
+>>> ![Cas d'usage 05](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_05.jpg) <br>
 _Le massif de Belledonne est fréquenté par les randonneurs à skis, notamment dans le secteur de Chamrousse. Cette pratique peut s’effectuer de nuit sur le domaine skiable, alors que celui-ci est fermé. En dehors des horaires d’ouverture du domaine, le service des pistes effectue le damage, ce qui peut s’avérer extrêmement dangereux pour les pratiquants et causer des accidents, parfois mortels. La visualisation des flux de ski de randonnée en dehors des horaires d’ouvertures du domaine permet de mieux gérer cette cohabitation des usages et d’orienter les actions de sensibilisation._
  <br>
  <br>
 >>> **Visualiser la fréquentation dans des zones accidentées** - Ardèche - Bois des Egaux
->>> ![Cas d'usage 06](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_06.jpg)
+>>> ![Cas d'usage 06](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_06.jpg) <br>
 _Le sentier des Bois des Egaux offre de beaux points de vue au-dessus de l’Ardèche. L’un de ces points de vue apparaît sur la plateforme Outdoorvision. Situé hors-sentier et dans un pierrier, cette zone peut représenter un danger pour les pratiquants notamment s’ils s’éloignent du sentier balisé._
 
 ### Développement des pratiques sportives et santé
