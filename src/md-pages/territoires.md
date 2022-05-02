@@ -51,39 +51,40 @@ _Les gorges d’Omblèze sont propices pour les activités de plein air (GRP Gra
 ### Prévention des accidents et sécurité des pratiquants
 
 **Sécuriser les pratiques sportives** <br>
-**Visualiser les flux nocturnes de randonneurs à ski** - Massif de Belledonne - Station de Chamrousse <br>
 ![Cas d'usage 05](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_05.jpg) <br>
+**Visualiser les flux nocturnes de randonneurs à ski** - Massif de Belledonne - Station de Chamrousse <br>
 _Le massif de Belledonne est fréquenté par les randonneurs à skis, notamment dans le secteur de Chamrousse. Cette pratique peut s’effectuer de nuit sur le domaine skiable, alors que celui-ci est fermé. En dehors des horaires d’ouverture du domaine, le service des pistes effectue le damage, ce qui peut s’avérer extrêmement dangereux pour les pratiquants et causer des accidents, parfois mortels. La visualisation des flux de ski de randonnée en dehors des horaires d’ouvertures du domaine permet de mieux gérer cette cohabitation des usages et d’orienter les actions de sensibilisation._
  <br>
  <br>
-**Visualiser la fréquentation dans des zones accidentées** - Ardèche - Bois des Egaux <br>
+**Sécuriser les pratiques sportives** <br>
 ![Cas d'usage 06](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_06.jpg) <br>
+**Visualiser la fréquentation dans des zones accidentées** - Ardèche - Bois des Egaux <br>
 _Le sentier des Bois des Egaux offre de beaux points de vue au-dessus de l’Ardèche. L’un de ces points de vue apparaît sur la plateforme Outdoorvision. Situé hors-sentier et dans un pierrier, cette zone peut représenter un danger pour les pratiquants notamment s’ils s’éloignent du sentier balisé._
 
 ### Développement des pratiques sportives et santé
 
 **Garantir l’accès aux espaces ou sites de pratiques** <br>
-**Visualiser une concentration de flux sur des parcelles privées** - Vercors - Gorges d’Omblèze <br>
 ![Cas d'usage 07](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_07.jpg) <br>
+**Visualiser une concentration de flux sur des parcelles privées** - Vercors - Gorges d’Omblèze <br>
 _Dans le secteur des Gorges d’Omblèze, les pratiquants empruntent un sentier permettant de couper pour rejoindre l’un des sentiers balisés. Or, ce tronçon traverse une parcelle privée, comme le montre la vue cadastrale._
  <br>
  <br>
 **Justifier l’investissement dans des circuits ou sites labellisés** <br>
-**Visualiser des secteurs fréquentés** - Monts du Lyonnais <br>
 ![Cas d'usage 08](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_08.jpg) <br>
+**Visualiser des secteurs fréquentés** - Monts du Lyonnais <br>
 _Dans le territoire des Monts du Lyonnais, la visualisation des secteurs fréquentés par les cyclistes a notamment permis de justifier l’investissement des collectivités dans des circuits VTT._
 
 ### Promotion touristique et attractivité des destinations
 
 **Identifier des zones à enjeu ou à fort potentiel** <br>
-**Visualiser les principaux points de départs et d’arrivées** - Massif des Bauges - Plateau du Revard <br>
 ![Cas d'usage 09](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_09.jpg) <br>
+**Visualiser les principaux points de départs et d’arrivées** - Massif des Bauges - Plateau du Revard <br>
 _Le Plateau du Revard dans le Massif des Bauges connaît de nombreux usages : activités pastorales, exploitation forestière, activités de plein air… Afin de mieux concilier ces usages, un diagnostic a été mené pour mieux comprendre la fréquentation des pratiquants d’activités outdoor. Pour cela, ont été identifiés sur la plateforme les principaux points de départs et d’arrivées des pratiquants, pour comprendre comment s’organisent ces flux._
  <br>
  <br>
 **Evaluer la fréquentation des sites** <br>
-**Observer l’évolution temporelle des pratiques** - Vercors - Plateau d’Ambel <br>
 ![Cas d'usage 10](/medias/VISUELS_TERRITOIRES/CAS_USAGE_1000x500_10.jpg) <br>
+**Observer l’évolution temporelle des pratiques** - Vercors - Plateau d’Ambel <br>
 _Le plateau d’Ambel est situé dans le sud du Parc du Vercors. Dans cet espace sensible, la fonction comparaison temporelle permet ici d’observer l’évolution de la fréquentation entre les années 2018 et 2020._
 
 ---
