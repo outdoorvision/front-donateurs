@@ -77,7 +77,7 @@ Trail Connect est une application mobile spécialement dédiée à la pratique d
 
 ----
 
-<imagetextblock picture="/medias/VISUELS_PARTENAIRES/VISORANDO_272X272.jpg">
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/VISORANDO_272X272_02.jpg">
 <a href="https://www.visorando.com/">
 <img src="/medias/visorando.png">
 </a>
