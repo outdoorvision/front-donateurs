@@ -4,7 +4,7 @@ picture: /medias/VISUELS_PARTENAIRES/RUNNINGTRAIL_HOMME SOMMET_1346X311_OUTDOORV
 swap: false
 ---
 
-Les grandes marques de montres connectées (Garmin, Suunto, Polar) et les applications ou sites de référence des sports outdoor soutiennent OUTDOORVISION. 
+Les grandes marques de montres connectées (Garmin, Polar, Suunto) et les applications ou sites de référence des sports outdoor soutiennent OUTDOORVISION. 
 Grâce à ces partenariats, 6,5 millions de traces GPS alimentent déjà la plateforme pour développer la connaissance et la protection des sites de pratique outdoor.   
 
 ## Découvrez les partenaires OUTDOORVISION
@@ -77,7 +77,7 @@ Trail Connect est une application mobile spécialement dédiée à la pratique d
 
 ----
 
-<imagetextblock picture="/medias/VISUELS_PARTENAIRES/VISORANDO_272X272.jpg">
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/VISORANDO_272X272_02.jpg">
 <a href="https://www.visorando.com/">
 <img src="/medias/visorando.png">
 </a>
