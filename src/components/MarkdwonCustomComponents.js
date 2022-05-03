@@ -25,12 +25,16 @@ const useStyles = makeStyles(theme => ({
       width: '100%',
     },
   },
-  swap: {
-    flexDirection: 'row-reverse',
-
-    // do not apply swap for < xs screens to keep [img, text] order
+  imagetextblock: {
     [theme.breakpoints.only('xs')]: {
-      flexDirection: 'row',
+      flexDirection: 'column',
+    },
+  },
+  swap: {
+    // do not apply swap for xs screens to keep [img, text] order
+    // ie for md and higher breakpoints
+    [theme.breakpoints.up('md')]: {
+      flexDirection: 'row-reverse',
     },
   },
   pictureWrapper: {
@@ -119,7 +123,13 @@ const ImageTextBlock = ({ title, picture, swap = false, children }) => {
 
   return (
     <Box>
-      <Grid container spacing={6} className={clsx({ [classes.swap]: swap })}>
+      <Grid
+        container
+        spacing={6}
+        justifyContent="center"
+        alignItems="center"
+        className={clsx(classes.imagetextblock, { [classes.swap]: swap })}
+      >
         <Grid item xs>
           {React.isValidElement(title)
             ? title
