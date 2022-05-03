@@ -4,6 +4,15 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Challenge OUTDOORVISION" picture="/medias/VISUELS_ACTUALITES/JOURNEES_PARTENARIALES_DES_APN_2022.jpg" swap="true">
+Les mardi 15 et mercredi 16 mars matin, le CRTL Occitanie a organisé la 2ème édition des Journées partenariales des activités de pleine nature, au Théâtre de la Maison du Peuple, à Millau, avec le soutien logistique de l’office de tourisme de Millau. Cet événement gratuit était ouvert à tous les acteurs régionaux des APN.
+Outdoorvision était à l’honneur en plènière introductive de la seconde journée. Retrouvez [l’intervention en replay](https://youtu.be/YJ9quTeV-TQ) d’Elodie Villard et Christophe Martinez. <br>
+(03 mai 2022)
+
+</imagetextblock>
+
+---
+
 <imagetextblock title="6,5 millions de traces" picture="/medias/VISUELS_ACTUALITES/6.5_millions_de traces_272X272.jpg">
 Le cap des 6,5 millions de traces GPS a été franchi le 15 janvier dernier et ce n’est qu’un début ! Nos partenariats avec les plus grandes marques de montres connectés et les applications de référence des sports outdoor et la contribution directe de milliers de pratiquants sont à l’origine de ce succès. <br>
 (08 mars 2022)
