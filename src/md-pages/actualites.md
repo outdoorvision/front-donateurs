@@ -6,7 +6,7 @@ randompicfolder: random
 
 <imagetextblock title="Journées partenariales des activités de pleine nature d'Occitanie" picture="/medias/VISUELS_ACTUALITES/JOURNEES_PARTENARIALES_DES_APN_2022.jpg" swap="true">
 Les mardi 15 et mercredi 16 mars matin, le CRTL Occitanie a organisé la 2ème édition des Journées partenariales des activités de pleine nature, au Théâtre de la Maison du Peuple, à Millau, avec le soutien logistique de l’office de tourisme de Millau. Cet événement gratuit était ouvert à tous les acteurs régionaux des APN.
-Outdoorvision était à l’honneur en plènière introductive de la seconde journée. Retrouvez <a target="_blank" href="https://youtu.be/YJ9quTeV-TQ/">l'intervention en replay</a> d’Elodie Villard et Christophe Martinez. <br>
+Outdoorvision était à l’honneur en plènière introductive de la seconde journée. <a target="_blank" href="https://youtu.be/YJ9quTeV-TQ/">Visionnez l'intervention en replay</a> d’Elodie Villard et Christophe Martinez. <br>
 (03 mai 2022)
 
 </imagetextblock>
