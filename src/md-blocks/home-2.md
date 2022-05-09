@@ -63,7 +63,7 @@ L’objectif est de favoriser la création d’itinéraires sécurisés, d’enc
 <imagetextblock title="En VTT" picture="/medias/VISUELS_DESK/VTT_HOMME_272X272_OUTDOORVISION_D-Frobert.jpg">
 L’objectif est d’avoir des itinéraires validés et bien entretenus, de s’assurer qu’ils restent durablement praticables, de prendre en compte des attentes nouvelles liées au développement du VTTAE (bornes de recharges, stations d’entretien) et à la mobilité douce (connexion avec des voies vertes et des liaisons en train par exemple).</imagetextblock>
  <br>
-<imagetextblock title="En cyclotourisme" picture="/medias/VISUELS_DESK/VELO_ROUTE_272X272_OUTDOORVISION_AdobeStock.jpg">
+<imagetextblock title="En vélo de route" picture="/medias/VISUELS_DESK/VELO_ROUTE_272X272_OUTDOORVISION_AdobeStock.jpg">
 L’objectif est d’encourager la création de voies sécurisées et d’espaces sans voitures, d’inciter les territoires à prendre en compte de nouvelles attentes liées au développement du VAE.</imagetextblock>
  <br>
 <imagetextblock title="En ski de randonnée" picture="/medias/VISUELS_DESK/SKI_RANDO_FEMME_EN_MONTEE_272X272_OUTDOORVISION_AdobeStock.jpg">
