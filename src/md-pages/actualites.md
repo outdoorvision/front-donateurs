@@ -4,6 +4,29 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Relevez le challenge Outdoorvision-Running Heroes !" picture="/medias/VISUELS_ACTUALITES/Challenge_RunningHeroes_2022.jpg">
+Et si chacune de vos sessions de course à pied, randonnées, sorties vélos pouvaient contribuer à la préservation et l’aménagement de votre terrain de jeu ? Cumulez un maximum de kilomètres pendant 1 mois du 15 mai au 15 juin 2022 !<br>
+ <br>
+Comment ? 
+<ul type="disc">
+<li><a target="_blank" href="https://fr.runningheroes.com/fr/challenges/details/6268f6a81528a40008355c14">Inscrivez-vous au challenge</a></li>
+<li>Créez votre compte Outdoorvision</li>
+<li>Sortez courir ou faire une randonnée et partagez vos traces sur Outdoorvision.fr</li>
+<li>Participez à faire grossir le compteur de km collectif </li>
+<li>Et surtout : <b>tentez de gagner des cadeaux pour récompenser vos efforts !</b></li>
+</ul>
+Plus votre contribution sera grande, plus votre chance de gagner sera importante !<br>
+  <ul type="disc">
+  <li>150 km : 1 montre Suunto Spartan Sport Wrist HR Baro Stealth et 20 abonnements Trail connect- "Trailer+"</li>
+  <li>100 km : 1 montre Suunto Spartan Sport Wrist HR Baro Stealth et 20 abonnements GR access et 20 abonnements Club "Visorando"</li>
+  <li>50 km : 1 montre Suunto Spartan Sport Wrist HR Baro Stealth et 20 abonnements IGN rando app et 10 cycloguides Glénat Voyages à vélo et VAE dans les alpes du Nord</li>
+  <li>25 km : 20 abonnements Passion rando magazine et 10 cycloguides Glénat Voyages à vélo et VAE Ardèche&Drôme </li>
+</ul>
+(10 mai 2022)
+</imagetextblock>
+
+---
+
 <imagetextblock title="Journées partenariales des activités de pleine nature" picture="/medias/VISUELS_ACTUALITES/JOURNEES_PARTENARIALES_DES_APN_2022.jpg" swap="true">
 Les mardi 15 et mercredi 16 mars matin, avec le soutien logistique de l’office de tourisme de Millau, le CRTL Occitanie a organisé la 2ème édition des journées partenariales des activités de pleine nature, au Théâtre de la Maison du Peuple de Millau. Cet événement gratuit était ouvert à tous les acteurs régionaux des activités de pleine nature. Outdoorvision était à l’honneur en plènière introductive de la seconde journée. <br><a target="_blank" href="https://youtu.be/YJ9quTeV-TQ/">Visionnez l'intervention en replay</a> d’Elodie Villard et Christophe Martinez. <br>
 (03 mai 2022)
