@@ -5,8 +5,8 @@ randompicfolder: random
 ---
 
 <imagetextblock title="Relevez le challenge Outdoorvision-Running Heroes et gagnez des cadeaux !" picture="/medias/VISUELS_ACTUALITES/6.5_millions_de traces_272X272.jpg">
-Et si chacune de vos sessions de course à pied, randonnées, sorties vélos pouvaient contribuer à la préservation et l’aménagement de votre terrain de jeu ? 
-Cumulez un maximum de kilomètres pendant 1 mois du 15 mai au 15 juin 2022 <br>
+Et si chacune de vos sessions de course à pied, randonnées, sorties vélos pouvaient contribuer à la préservation et l’aménagement de votre terrain de jeu ? Cumulez un maximum de kilomètres pendant 1 mois du 15 mai au 15 juin 2022 !<br>
+
 Comment ? 
 <ul type="circle">
 <li><a target="_blank" href="https://fr.runningheroes.com/fr/challenges/details/6268f6a81528a40008355c14">Inscrivez-vous au challenge</a></li>
