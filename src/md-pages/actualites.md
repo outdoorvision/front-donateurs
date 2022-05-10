@@ -4,7 +4,7 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="Relevez le challenge Outdoorvision-Running Heroes et gagnez des cadeaux !" picture="/medias/VISUELS_ACTUALITES/Challenge_RunningHeroes_2022.jpg">
+<imagetextblock title="Relevez le challenge Outdoorvision-Running Heroes !" picture="/medias/VISUELS_ACTUALITES/Challenge_RunningHeroes_2022.jpg">
 Et si chacune de vos sessions de course à pied, randonnées, sorties vélos pouvaient contribuer à la préservation et l’aménagement de votre terrain de jeu ? Cumulez un maximum de kilomètres pendant 1 mois du 15 mai au 15 juin 2022 !<br>
  <br>
 Comment ? 
@@ -13,7 +13,7 @@ Comment ?
 <li>Créez votre compte Outdoorvision</li>
 <li>Sortez courir ou faire une randonnée et partagez vos traces sur Outdoorvision.fr</li>
 <li>Participez à faire grossir le compteur de km collectif </li>
-<li>Et surtout : tentez de gagner des cadeaux pour récompenser vos efforts !</li>
+<li>Et surtout : <b>tentez de gagner des cadeaux pour récompenser vos efforts !</b></li>
 </ul>
 Plus votre contribution sera grande, plus votre chance de gagner sera importante !<br>
   <ul type="disc">
