@@ -22,7 +22,7 @@ Plus votre contribution sera grande, plus votre chance de gagner sera importante
   <li>50 km : 1 montre Suunto Spartan Sport Wrist HR Baro Stealth et 20 abonnements IGN rando app et 10 cycloguides Glénat Voyages à vélo et VAE dans les alpes du Nord</li>
   <li>25 km : 20 abonnements Passion rando magazine et 10 cycloguides Glénat Voyages à vélo et VAE Ardèche&Drôme </li>
 </ul>
-(14 février 2021)
+(10 mai 2022)
 </imagetextblock>
 
 ---
