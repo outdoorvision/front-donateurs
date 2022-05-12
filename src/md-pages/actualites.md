@@ -4,7 +4,7 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="Relevez le challenge Outdoorvision-Running Heroes !" picture="/medias/VISUELS_ACTUALITES/Challenge_RunningHeroes_2022.jpg">
+<imagetextblock title="Relevez le challenge Outdoorvision-Running Heroes !" picture="/medias/VISUELS_ACTUALITES/Challenge_RunningHeroes_2022_02.jpg">
 Et si chacune de vos sessions de course à pied, randonnées, sorties vélos pouvaient contribuer à la préservation et l’aménagement de votre terrain de jeu ? Cumulez un maximum de kilomètres pendant 1 mois du 15 mai au 15 juin 2022 !<br>
  <br>
 Comment ? 
