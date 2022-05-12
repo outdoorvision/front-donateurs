@@ -54,11 +54,11 @@ Il est le fruit d'un [partenariat innovant](/partenaires) entre des territoires,
 Découvrez comment OUTDOORVISION contribue concrètement à la meilleure connaissance des spots outdoor et à la préservation des sites de pratique sur tout le territoire.
  <br>
  <br>
-<imagetextblock title="En randonnée pédestre" picture="/medias/VISUELS_DESK/RANDONNEE_HOMME_SUNSET_272X272_OUTDOORVISION_P-Jayet.jpg">
-L’objectif est de garantir la qualité des itinéraires, de faire en sorte qu’ils soient accessibles à tous, de mettre à jour les fonds de cartes, la signalétique et les informations liées à la nature et au patrimoine, de favoriser la prise en compte de la pratique dans les choix d’aménagement. La randonnée en raquettes à neige est également prise en compte dans la plateforme Outdoorvision.</imagetextblock>
+<imagetextblock picture="/medias/VISUELS_DESK/RANDONNEE_HOMME_SUNSET_272X272_OUTDOORVISION_P-Jayet.jpg">
+<b>En randonnée pédestre</b> <br>L’objectif est de garantir la qualité des itinéraires, de faire en sorte qu’ils soient accessibles à tous, de mettre à jour les fonds de cartes, la signalétique et les informations liées à la nature et au patrimoine, de favoriser la prise en compte de la pratique dans les choix d’aménagement. La randonnée en raquettes à neige est également prise en compte dans la plateforme Outdoorvision.</imagetextblock>
  <br>
-<imagetextblock title="En Trail/Running" picture="/medias/VISUELS_DESK/RUNNING_TRAIL_COUPLE_272X272_OUTDOORVISION_AdobeStock.jpg">
-L’objectif est de favoriser la création d’itinéraires sécurisés, d’encourager les territoires à développer une offre de trail qui soit de qualité, de se coordonner avec les organisateurs d’événements pour respecter les espaces naturels ou encore d’améliorer l’expérience des pratiquants (points d’eau, stationnements, panoramas et tables d’orientation par exemple).</imagetextblock>
+<imagetextblock picture="/medias/VISUELS_DESK/RUNNING_TRAIL_COUPLE_272X272_OUTDOORVISION_AdobeStock.jpg">
+<b>En Trail/Running</b> <br>L’objectif est de favoriser la création d’itinéraires sécurisés, d’encourager les territoires à développer une offre de trail qui soit de qualité, de se coordonner avec les organisateurs d’événements pour respecter les espaces naturels ou encore d’améliorer l’expérience des pratiquants (points d’eau, stationnements, panoramas et tables d’orientation par exemple).</imagetextblock>
  <br>
 <imagetextblock title="En VTT" picture="/medias/VISUELS_DESK/VTT_HOMME_272X272_OUTDOORVISION_D-Frobert.jpg">
 L’objectif est d’avoir des itinéraires validés et bien entretenus, de s’assurer qu’ils restent durablement praticables, de prendre en compte des attentes nouvelles liées au développement du VTTAE (bornes de recharges, stations d’entretien) et à la mobilité douce (connexion avec des voies vertes et des liaisons en train par exemple).</imagetextblock>
