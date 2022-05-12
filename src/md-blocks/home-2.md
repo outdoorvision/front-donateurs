@@ -60,13 +60,13 @@ Découvrez comment OUTDOORVISION contribue concrètement à la meilleure connais
 <imagetextblock picture="/medias/VISUELS_DESK/RUNNING_TRAIL_COUPLE_272X272_OUTDOORVISION_AdobeStock.jpg">
 <b>En Trail/Running</b> <br>L’objectif est de favoriser la création d’itinéraires sécurisés, d’encourager les territoires à développer une offre de trail qui soit de qualité, de se coordonner avec les organisateurs d’événements pour respecter les espaces naturels ou encore d’améliorer l’expérience des pratiquants (points d’eau, stationnements, panoramas et tables d’orientation par exemple).</imagetextblock>
  <br>
-<imagetextblock title="En VTT" picture="/medias/VISUELS_DESK/VTT_HOMME_272X272_OUTDOORVISION_D-Frobert.jpg">
-L’objectif est d’avoir des itinéraires validés et bien entretenus, de s’assurer qu’ils restent durablement praticables, de prendre en compte des attentes nouvelles liées au développement du VTTAE (bornes de recharges, stations d’entretien) et à la mobilité douce (connexion avec des voies vertes et des liaisons en train par exemple).</imagetextblock>
+<imagetextblock picture="/medias/VISUELS_DESK/VTT_HOMME_272X272_OUTDOORVISION_D-Frobert.jpg">
+<b>En VTT</b> <br>L’objectif est d’avoir des itinéraires validés et bien entretenus, de s’assurer qu’ils restent durablement praticables, de prendre en compte des attentes nouvelles liées au développement du VTTAE (bornes de recharges, stations d’entretien) et à la mobilité douce (connexion avec des voies vertes et des liaisons en train par exemple).</imagetextblock>
  <br>
-<imagetextblock title="En vélo de route" picture="/medias/VISUELS_DESK/VELO_ROUTE_272X272_OUTDOORVISION_AdobeStock.jpg">
-L’objectif est d’encourager la création de voies sécurisées et d’espaces sans voitures, d’inciter les territoires à prendre en compte de nouvelles attentes liées au développement du VAE.</imagetextblock>
+<imagetextblock picture="/medias/VISUELS_DESK/VELO_ROUTE_272X272_OUTDOORVISION_AdobeStock.jpg">
+<b>En vélo de route</b> <br>L’objectif est d’encourager la création de voies sécurisées et d’espaces sans voitures, d’inciter les territoires à prendre en compte de nouvelles attentes liées au développement du VAE.</imagetextblock>
  <br>
-<imagetextblock title="En ski de randonnée" picture="/medias/VISUELS_DESK/SKI_RANDO_FEMME_EN_MONTEE_272X272_OUTDOORVISION_AdobeStock.jpg">
-L’objectif est de mieux prendre en compte les enjeux de sécurité et de protection de la biodiversité dans une pratique en fort développement tout en apportant plus de services aux pratiquants (zones de stationnement, toilettes sèches sur les points de départ / arrivée) en coordination avec les territoires de montagne. Le ski nordique est également pris en compte dans la plateforme Outdoorvision.</imagetextblock>
+<imagetextblock picture="/medias/VISUELS_DESK/SKI_RANDO_FEMME_EN_MONTEE_272X272_OUTDOORVISION_AdobeStock.jpg">
+<b>En ski de randonnée</b> <br>L’objectif est de mieux prendre en compte les enjeux de sécurité et de protection de la biodiversité dans une pratique en fort développement tout en apportant plus de services aux pratiquants (zones de stationnement, toilettes sèches sur les points de départ / arrivée) en coordination avec les territoires de montagne. Le ski nordique est également pris en compte dans la plateforme Outdoorvision.</imagetextblock>
 
 <participate></participate>
