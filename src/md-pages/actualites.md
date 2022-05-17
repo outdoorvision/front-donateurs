@@ -6,8 +6,10 @@ randompicfolder: random
 
 <imagetextblock title="Enquête sur les pratiques de sports de nature en moyenne montagne face au changement climatique" picture="/medias/VISUELS_ACTUALITES/Enquete-Université-Savoie-Mont-Blanc_272X272.jpg" swap="true">
 L’Université Savoie-Mont-Blanc mène actuellement une étude visant à mieux cerner l’évolution des pratiques de sports de nature de moyenne montagne face au changement climatique.  Cette enquête par questionnaire s’adresse aux pratiquants autonomes de sports de nature, c’est-à-dire ne nécessitant pas de recours à un professionnel de l’encadrement pour la pratique de leur activité. <br>
-En diffusant ce questionnaire auprès de vos réseaux de pratiquants, vous contribuerez à l’avancée de la recherche sur les pratiques de sports de nature dans un contexte de changement environnemental et climatique.  Si vous êtes vous-même pratiquant de sports de nature, vous pouvez également prendre 15 minutes pour le remplir. <br>
+Nous vous invitons à cliquer sur le lien afin de remplir ce questionnaire de 15 minutes environ. N’hésitez pas à le relayer auprès de vos réseaux. Merci ! <br>
+ <br>
 <a target="_blank" href="https://enquetes.univ-grenoble-alpes.fr/SurveyServer/s/sens-doct-tourisme/sports-de-nature-2022/questionnaire.htm">Lien vers l’enquête</a> <br>
+ <br>
 (17 mai 2022)
 
 </imagetextblock>
