@@ -4,6 +4,17 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Enquête sur les pratiques de sports de nature en moyenne montagne face au changement climatique" picture="/medias/VISUELS_ACTUALITES/Enquete-Université-Savoie-Mont-Blanc_272X272.jpg" swap="true">
+L’Université Savoie-Mont-Blanc mène actuellement une étude visant à mieux cerner l’évolution des pratiques de sports de nature de moyenne montagne face au changement climatique.  Cette enquête par questionnaire s’adresse aux pratiquants autonomes de sports de nature, c’est-à-dire ne nécessitant pas de recours à un professionnel de l’encadrement pour la pratique de leur activité. <br>
+Nous vous invitons à cliquer sur le lien afin de remplir ce questionnaire de 15 minutes environ. N’hésitez pas à le relayer auprès de vos réseaux. Merci ! <br>
+ <br>
+<li><a target="_blank" href="https://enquetes.univ-grenoble-alpes.fr/SurveyServer/s/sens-doct-tourisme/sports-de-nature-2022/questionnaire.htm">Lien vers l’enquête</a></li> <br>
+(17 mai 2022)
+
+</imagetextblock>
+
+---
+
 <imagetextblock title="Relevez le challenge Outdoorvision-Running Heroes !" picture="/medias/VISUELS_ACTUALITES/Challenge_RunningHeroes_2022_02.jpg">
 Et si chacune de vos sessions de course à pied, randonnées, sorties vélos pouvaient contribuer à la préservation et l’aménagement de votre terrain de jeu ? Cumulez un maximum de kilomètres pendant 1 mois du 15 mai au 15 juin 2022 !<br>
  <br>
@@ -29,6 +40,7 @@ Plus votre contribution sera grande, plus votre chance de gagner sera importante
 
 <imagetextblock title="Journées partenariales des activités de pleine nature" picture="/medias/VISUELS_ACTUALITES/JOURNEES_PARTENARIALES_DES_APN_2022.jpg" swap="true">
 Les mardi 15 et mercredi 16 mars matin, avec le soutien logistique de l’office de tourisme de Millau, le CRTL Occitanie a organisé la 2ème édition des journées partenariales des activités de pleine nature, au Théâtre de la Maison du Peuple de Millau. Cet événement gratuit était ouvert à tous les acteurs régionaux des activités de pleine nature. Outdoorvision était à l’honneur en plènière introductive de la seconde journée. <br><a target="_blank" href="https://youtu.be/YJ9quTeV-TQ/">Visionnez l'intervention en replay</a> d’Elodie Villard et Christophe Martinez. <br>
+ <br>
 (03 mai 2022)
 
 </imagetextblock>
