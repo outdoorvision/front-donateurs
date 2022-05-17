@@ -9,7 +9,6 @@ L’Université Savoie-Mont-Blanc mène actuellement une étude visant à mieux 
 Nous vous invitons à cliquer sur le lien afin de remplir ce questionnaire de 15 minutes environ. N’hésitez pas à le relayer auprès de vos réseaux. Merci ! <br>
  <br>
 <li><a target="_blank" href="https://enquetes.univ-grenoble-alpes.fr/SurveyServer/s/sens-doct-tourisme/sports-de-nature-2022/questionnaire.htm">Lien vers l’enquête</a></li> <br>
-
 (17 mai 2022)
 
 </imagetextblock>
