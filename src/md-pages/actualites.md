@@ -4,6 +4,16 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Enquête sur les pratiques de sports de nature en moyenne montagne face au changement climatique" picture="/medias/VISUELS_ACTUALITES/Enquete-Université-Savoie-Mont-Blanc_272X272.jpg" swap="true">
+L’Université Savoie-Mont-Blanc mène actuellement une étude visant à mieux cerner l’évolution des pratiques de sports de nature de moyenne montagne face au changement climatique.  Cette enquête par questionnaire s’adresse aux pratiquants autonomes de sports de nature, c’est-à-dire ne nécessitant pas de recours à un professionnel de l’encadrement pour la pratique de leur activité. <br>
+En diffusant ce questionnaire auprès de vos réseaux de pratiquants, vous contribuerez à l’avancée de la recherche sur les pratiques de sports de nature dans un contexte de changement environnemental et climatique.  Si vous êtes vous-même pratiquant de sports de nature, vous pouvez également prendre 15 minutes pour le remplir. <br>
+<a target="_blank" href="https://enquetes.univ-grenoble-alpes.fr/SurveyServer/s/sens-doct-tourisme/sports-de-nature-2022/questionnaire.htm">Lien vers l’enquête</a> <br>
+(17 mai 2022)
+
+</imagetextblock>
+
+---
+
 <imagetextblock title="Relevez le challenge Outdoorvision-Running Heroes !" picture="/medias/VISUELS_ACTUALITES/Challenge_RunningHeroes_2022_02.jpg">
 Et si chacune de vos sessions de course à pied, randonnées, sorties vélos pouvaient contribuer à la préservation et l’aménagement de votre terrain de jeu ? Cumulez un maximum de kilomètres pendant 1 mois du 15 mai au 15 juin 2022 !<br>
  <br>
