@@ -66,7 +66,7 @@ Marque finlandaise de montres de sport et accessoires de plongée, experte en or
 
 ----
 
-<imagetextblock picture="/medias/VISUELS_PARTENAIRES/TRAIL_CONNECT_272X272.jpg">
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/TRAIL_CONNECT_272X272_02.jpg">
 <a href="https://trailconnect.run/">
 <img src="/medias/Trailconnect.png">
 </a>
