@@ -10,7 +10,7 @@ Des critères d'éligibilité avaient été établis pour permettre de sélectio
   <ul type="disc">
   <li>des commissions départementales des espaces, sites et itinéraires (CDESI)</li>
   <li>des plans départementaux des espaces, sites et itinéraires (PDESI)</li>
-  <li>dlans départementaux des itinéraires de promenade et de randonnée (PDIPR)</li>
+  <li>des départementaux des itinéraires de promenade et de randonnée (PDIPR)</li>
  </ul>
 Sur les 21 conseils départementaux retenus, tous disposent d'un PDIPR, 19 ont installé une CDESI, dont 16 ont déjà voté un PDESI.<br>
  <br>
