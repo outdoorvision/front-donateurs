@@ -6,7 +6,7 @@ randompicfolder: random
 
 <imagetextblock title="21 de conseils départementaux bénéficient d'Outdoorvision en 2022" picture="/medias/VISUELS_ACTUALITES/Carte_deFrance_AMI2022_272x272.jpg">
 Dans le cadre d’un appel à manifestation d’intérêt lancé le 10 mars 2022, le Pôle ressources national sports de nature a retenu 21 conseils départementaux pour bénéficier d'un accès pendant un an à Outdoorvision et à ses services (en violet). Ils rejoignent ainsi les 5 départements profitant déjà d'un accompagnement personnalisé (en pourpre). <br>
-Des critères d'éligibilité avaient été établis pour permettre de sélectionner une vingtaine de conseils départementaux pour 2022. Parmi ces critères, l'engagement du territoire dans des démarches de développement maîtrisé des sports de nature, au travers :<br>
+Des critères d'éligibilité avaient été établis pour permettre de sélectionner une vingtaine de conseils départementaux pour 2022. Parmi ces indicateurs, l'engagement du territoire dans des démarches de développement maîtrisé des sports de nature, au travers :<br>
   <ul type="disc">
   <li>des commissions départementales des espaces, sites et itinéraires (CDESI)</li>
   <li>des plans départementaux des espaces, sites et itinéraires (PDESI)</li>
