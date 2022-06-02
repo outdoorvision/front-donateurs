@@ -4,9 +4,16 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="21 conseils départementaux bénéficient d'Outdoorvision en 2022" picture="/medias/VISUELS_ACTUALITES/Challenge_RunningHeroes_2022_02.jpg">
-Dans le cadre d’un appel à manifestation d’intérêt lancé le 10 mars 2022, le PRNSN a retenu 21 conseils départementaux pour bénéficier d'un accès pendant un an à Outdoorvision et à ses services (en bleu ci-dessous). Ils rejoignent ainsi les 5 départements profitant déjà d'un accompagnement personnalisé (en violet). <br>
-Des critères d'éligibilité avaient été établis pour permettre de sélectionner une vingtaine de conseils départementaux pour 2022. Parmi ces critères, l'engagement du territoire dans des démarches de développement maîtrisé des sports de nature, au travers des Plans départementaux des espaces, sites et itinéraires (PDESI), Commissions départementales des espaces, sites et itinéraires (CDESI) et Plans départementaux des itinéraires de promenade et de randonnée (PDIPR). Sur les 21 conseils départementaux retenus, tous disposent d'un PDIPR, 19 ont installé une CDESI, dont 16 ont voté un PDESI.<br>
+<imagetextblock title="Des conseils départementaux bénéficient d'Outdoorvision en 2022" picture="/medias/VISUELS_ACTUALITES/Carte_deFrance_AMI2022_272x272.jpg">
+Dans le cadre d’un appel à manifestation d’intérêt lancé le 10 mars 2022, le PRNSN a retenu 21 conseils départementaux pour bénéficier d'un accès pendant un an à Outdoorvision et à ses services (en violet). Ils rejoignent ainsi les 5 départements profitant déjà d'un accompagnement personnalisé (en pourpre). <br>
+Des critères d'éligibilité avaient été établis pour permettre de sélectionner une vingtaine de conseils départementaux pour 2022. Parmi ces critères, l'engagement du territoire dans des démarches de développement maîtrisé des sports de nature, au travers :<br>
+  <ul type="disc">
+  <li>des commissions départementales des espaces, sites et itinéraires (CDESI)</li>
+  <li>des plans départementaux des espaces, sites et itinéraires (PDESI)</li>
+  <li>dlans départementaux des itinéraires de promenade et de randonnée (PDIPR)</li>
+ </ul>
+Sur les 21 conseils départementaux retenus, tous disposent d'un PDIPR, 19 ont installé une CDESI, dont 16 ont déjà voté un PDESI.<br>
+ <br>
 En 2023, un nouvel appel à manifestation d’intérêt sera proposé pour permettre à de nouveaux Conseils départementaux d’accéder à la plateforme.
 <br>
 <br>
