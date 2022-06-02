@@ -14,7 +14,7 @@ Des critères d'éligibilité avaient été établis pour permettre de sélectio
  </ul>
 Sur les 21 conseils départementaux retenus, tous disposent d'un PDIPR, 19 ont installé une CDESI, dont 16 ont déjà voté un PDESI.<br>
  <br>
-En 2023, un nouvel appel à manifestation d’intérêt sera proposé pour permettre à de nouveaux Conseils départementaux d’accéder à la plateforme.
+En 2023, un nouvel appel à manifestation d’intérêt sera proposé pour permettre à de nouveaux conseils départementaux d’accéder à la plateforme Outdoorvision.
 <br>
 <br>
 (02 juin 2022)
