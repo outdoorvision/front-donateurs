@@ -34,6 +34,18 @@ const ContactForm = () => {
     run({
       element: formWrapper.current,
       definition,
+      // workaround to change the Submit button to french
+      // provide a specific translation
+      // (adding fr in definition.language have no effect)
+      l10n: {
+        contract: { name: 'tripetto-runner-classic', version: '2.0.2' },
+        locale: 'auto',
+        translations: {
+          '': { language: 'fr', 'plural-forms': 'nplurals=2; plural=(n > 1);', 'plural-family': 'Romanic (French, Brazilian Portuguese)' },
+          'runner#1|🆗 Buttons\u0004Submit': [null, 'Envoyer'],
+        },
+      },
+      //
       styles: {
         mode: 'progressive',
         noBranding: true,

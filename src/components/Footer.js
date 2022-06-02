@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Container, Grid, Toolbar, IconButton, makeStyles } from '@material-ui/core';
 import { Button, IconButton as GatsbyIconButton } from 'gatsby-theme-material-ui';
-import { Email, Facebook, LinkedIn } from '@material-ui/icons';
+import { Email, Facebook, Instagram } from '@material-ui/icons';
 
 import { SOCIALMEDIA_LINKS } from '../settings';
 
@@ -40,13 +40,13 @@ const Footer = () => {
             <Button color="inherit" variant="text" to="/faq">Foire aux questions</Button>
           </Grid>
           <Grid item>
-            {SOCIALMEDIA_LINKS?.facebook && (
-              <IconButton aria-label="linkedin" style={{ color: 'white' }} href={SOCIALMEDIA_LINKS.facebook} target="_blank">
-                <LinkedIn />
+            {SOCIALMEDIA_LINKS?.instagram && (
+              <IconButton aria-label="instagram" style={{ color: 'white' }} href={SOCIALMEDIA_LINKS.instagram} target="_blank">
+                <Instagram />
               </IconButton>
             )}
-            {SOCIALMEDIA_LINKS?.linkedin && (
-              <IconButton aria-label="facebook" style={{ color: 'white' }} href={SOCIALMEDIA_LINKS.linkedin} target="_blank">
+            {SOCIALMEDIA_LINKS?.facebook && (
+              <IconButton aria-label="facebook" style={{ color: 'white' }} href={SOCIALMEDIA_LINKS.facebook} target="_blank">
                 <Facebook />
               </IconButton>
             )}

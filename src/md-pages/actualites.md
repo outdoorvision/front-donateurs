@@ -4,6 +4,24 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="21 de conseils départementaux bénéficient d'Outdoorvision en 2022" picture="/medias/VISUELS_ACTUALITES/Carte_deFrance_AMI2022_272x272.jpg">
+Dans le cadre d’un appel à manifestation d’intérêt lancé le 10 mars 2022, le Pôle ressources national sports de nature a retenu 21 conseils départementaux pour bénéficier d'un accès pendant un an à Outdoorvision et à ses services (en violet). Ils rejoignent ainsi les 5 départements profitant déjà d'un accompagnement personnalisé (en pourpre). <br>
+Des critères d'éligibilité avaient été établis pour permettre de sélectionner une vingtaine de conseils départementaux pour 2022. Parmi ces indicateurs, l'engagement du territoire dans des démarches de développement maîtrisé des sports de nature, au travers :<br>
+  <ul type="disc">
+  <li>des commissions départementales des espaces, sites et itinéraires (CDESI)</li>
+  <li>des plans départementaux des espaces, sites et itinéraires (PDESI)</li>
+  <li>dlans départementaux des itinéraires de promenade et de randonnée (PDIPR)</li>
+ </ul>
+Sur les 21 conseils départementaux retenus, tous disposent d'un PDIPR, 19 ont installé une CDESI, dont 16 ont déjà voté un PDESI.<br>
+ <br>
+En 2023, un nouvel appel à manifestation d’intérêt sera proposé pour permettre à de nouveaux conseils départementaux d’accéder à la plateforme Outdoorvision.
+<br>
+<br>
+(02 juin 2022)
+</imagetextblock>
+
+---
+
 <imagetextblock title="Enquête sur les pratiques de sports de nature en moyenne montagne face au changement climatique" picture="/medias/VISUELS_ACTUALITES/Enquete-Université-Savoie-Mont-Blanc_272X272.jpg" swap="true">
 L’Université Savoie-Mont-Blanc mène actuellement une étude visant à mieux cerner l’évolution des pratiques de sports de nature de moyenne montagne face au changement climatique.  Cette enquête par questionnaire s’adresse aux pratiquants autonomes de sports de nature, c’est-à-dire ne nécessitant pas de recours à un professionnel de l’encadrement pour la pratique de leur activité. <br>
 Nous vous invitons à cliquer sur le lien afin de remplir ce questionnaire de 15 minutes environ. N’hésitez pas à le relayer auprès de vos réseaux. Merci ! <br>
