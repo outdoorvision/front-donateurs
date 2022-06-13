@@ -89,8 +89,8 @@ Depuis janvier 2022, la marque POLAR s’associe à OUTDOORVISION. Grâce à ce 
 ---
 
 <imagetextblock title="Interview de Noémie Le Govic, SUUNTO" picture="/medias/VISUELS_ACTUALITES/INTERVIEW_SUUNTO_272X272.jpg" swap="true">
-« L’exploration et l’aventure sont au cœur de l’ADN Suunto ; des océans aux sommets des montagnes et autres terrains accidentés, nous avons une connexion profonde avec les grands espaces. C’est notre terrain de jeu quotidien, notre plateforme d’aventure. Et c’est pourquoi il était naturel pour nous d’accompagner le développement d’OUTDOORVISION pour la préservation de notre environnement outdoor ». <br><a target="_blank" href="[https://youtu.be/YJ9quTeV-TQ/](https://youtu.be/E-0ErJEaYkc)">Visionnez l'intervention de Noémie Le Govic</a>
-  <br>
+« L’exploration et l’aventure sont au cœur de l’ADN Suunto ; des océans aux sommets des montagnes et autres terrains accidentés, nous avons une connexion profonde avec les grands espaces. C’est notre terrain de jeu quotidien, notre plateforme d’aventure. Et c’est pourquoi il était naturel pour nous d’accompagner le développement d’OUTDOORVISION pour la préservation de notre environnement outdoor ». <br><a target="_blank" href="https://youtu.be/E-0ErJEaYkc/">Visionnez l'interview de Noémie Le Govic</a> <br>
+ <br>
 (11 janvier 2022)
 </imagetextblock>
 
