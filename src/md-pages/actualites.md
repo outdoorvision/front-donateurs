@@ -8,7 +8,7 @@ randompicfolder: random
 Du 2 au 5 mai 2022 s’est déroulée la 6ème édition du <a target="_blank" href="https://www.digital-x-outdoor.com/">Digital x Outdoor (DxO)</a>. Organisé par Outdoor Sports Valley, Open Geneva, le Pôle métropolitain du Genevois français et Archparc, ce rendez-vous est l’occasion pour les acteurs des sports outdoor d’imaginer et construire ensemble l’avenir de leur filière grâce aux solutions digitales.  <br>
 Eric Thouvenin - Fondateur d'OPENRUNNER, Véronique Lucas - Chargée de mission Tourisme Espace Belledonne et Christophe Martinez - Coordinateur du projet Outdoorvision au Pôle ressources national des sports de nature ont pu témoigner de l’intérêt du digital pour la préservation des terrains de jeux .
  <br>
-<a target="_blank" href="https://youtu.be/YJ9quTeV-TQ/">Retrouvez l’interview ici.</a>
+<a target="_blank" href="https://youtu.be/rg4uockJjRY">Retrouvez l’interview ici.</a> 
 <br>
 <br>
 (13 juin 2022)
