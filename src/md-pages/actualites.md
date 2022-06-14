@@ -4,6 +4,18 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Outdoorvision à l’honneur sur le Digital X Outdoor" picture="/medias/VISUELS_ACTUALITES/DxO_2022_272X272.jpg" swap="true">
+Du 2 au 5 mai 2022 s’est déroulée la 6ème édition du <a target="_blank" href="https://www.digital-x-outdoor.com/">Digital x Outdoor (DxO)</a>. Organisé par Outdoor Sports Valley, Open Geneva, le Pôle métropolitain du Genevois français et Archparc, ce rendez-vous est l’occasion pour les acteurs des sports outdoor d’imaginer et construire ensemble l’avenir de leur filière grâce aux solutions digitales.  <br>
+Eric Thouvenin - Fondateur d'OPENRUNNER, Véronique Lucas - Chargée de mission Tourisme Espace Belledonne et Christophe Martinez - Coordinateur du projet Outdoorvision au Pôle ressources national des sports de nature ont pu témoigner de l’intérêt du digital pour la préservation des terrains de jeux .
+ <br>
+<a target="_blank" href="https://youtu.be/rg4uockJjRY">Retrouvez l’interview ici.</a> 
+<br>
+<br>
+(13 juin 2022)
+</imagetextblock>
+
+---
+
 <imagetextblock title="21 de conseils départementaux bénéficient d'Outdoorvision en 2022" picture="/medias/VISUELS_ACTUALITES/Carte_deFrance_AMI2022_272x272.jpg">
 Dans le cadre d’un appel à manifestation d’intérêt lancé le 10 mars 2022, le Pôle ressources national sports de nature a retenu 21 conseils départementaux pour bénéficier d'un accès pendant un an à Outdoorvision et à ses services (en violet). Ils rejoignent ainsi les 5 départements profitant déjà d'un accompagnement personnalisé (en pourpre). <br>
 Des critères d'éligibilité avaient été établis pour permettre de sélectionner une vingtaine de conseils départementaux pour 2022. Parmi ces indicateurs, l'engagement du territoire dans des démarches de développement maîtrisé des sports de nature, au travers :<br>
@@ -89,8 +101,8 @@ Depuis janvier 2022, la marque POLAR s’associe à OUTDOORVISION. Grâce à ce 
 ---
 
 <imagetextblock title="Interview de Noémie Le Govic, SUUNTO" picture="/medias/VISUELS_ACTUALITES/INTERVIEW_SUUNTO_272X272.jpg" swap="true">
-« L’exploration et l’aventure sont au cœur de l’ADN Suunto ; des océans aux sommets des montagnes et autres terrains accidentés, nous avons une connexion profonde avec les grands espaces. C’est notre terrain de jeu quotidien, notre plateforme d’aventure. Et c’est pourquoi il était naturel pour nous d’accompagner le développement d’OUTDOORVISION pour la préservation de notre environnement outdoor ». <br>
-  <br>
+« L’exploration et l’aventure sont au cœur de l’ADN Suunto ; des océans aux sommets des montagnes et autres terrains accidentés, nous avons une connexion profonde avec les grands espaces. C’est notre terrain de jeu quotidien, notre plateforme d’aventure. Et c’est pourquoi il était naturel pour nous d’accompagner le développement d’OUTDOORVISION pour la préservation de notre environnement outdoor ». <br><a target="_blank" href="https://youtu.be/E-0ErJEaYkc/">Visionnez l'interview</a> de Noémie Le Govic<br>
+ <br>
 (11 janvier 2022)
 </imagetextblock>
 
@@ -98,6 +110,7 @@ Depuis janvier 2022, la marque POLAR s’associe à OUTDOORVISION. Grâce à ce 
 
 <imagetextblock title="Monts du Lyonnais" picture="/medias/VISUELS_ACTUALITES/MONTS DU LYONNAIS_AdobeStock_272X272.jpg">
 Grâce à la plateforme OUTDOORVISION, les Monts du Lyonnais ont pu visualiser et analyser les pratiques outdoor à l’échelle de leur territoire. Une aide stratégique pour développer les pratiques sur certains secteurs moins fréquentés et décider des investissements sur des circuits et sites labellisés de VTT. <br>
+ <br>
 (18 décembre 2021)
 </imagetextblock>
 
