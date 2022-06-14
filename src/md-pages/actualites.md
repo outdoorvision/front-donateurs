@@ -110,6 +110,7 @@ Depuis janvier 2022, la marque POLAR s’associe à OUTDOORVISION. Grâce à ce 
 
 <imagetextblock title="Monts du Lyonnais" picture="/medias/VISUELS_ACTUALITES/MONTS DU LYONNAIS_AdobeStock_272X272.jpg">
 Grâce à la plateforme OUTDOORVISION, les Monts du Lyonnais ont pu visualiser et analyser les pratiques outdoor à l’échelle de leur territoire. Une aide stratégique pour développer les pratiques sur certains secteurs moins fréquentés et décider des investissements sur des circuits et sites labellisés de VTT. <br>
+ <br>
 (18 décembre 2021)
 </imagetextblock>
 
