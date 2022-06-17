@@ -1,4 +1,4 @@
-[![Le Ministère chargé des Sports](/medias/ministere-sports.png)](https://www.sports.gouv.fr/)<spacer w="1"></spacer>
+[![Le Ministère chargé des Sports](/medias/Ministere_sports_2022.png)](https://www.sports.gouv.fr/)<spacer w="1"></spacer>
 [![Le Pôle ressources national sports de nature (PRNSN)](/medias/prnsn.png)](https://www.sportsdenature.gouv.fr/)<spacer w="1"></spacer>
 ![France Relance](/medias/France_Relance.png)<spacer w="0"></spacer>
 ![Next Generation EU](/medias/NextGenerationEU.png)<spacer w="0"></spacer>
