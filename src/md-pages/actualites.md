@@ -13,7 +13,7 @@ Début du contrat en septembre 2022.
  </ul>
 (21 juin 2022)
 </imagetextblock>
-https://sentinelles.sportsdenature.fr/docs/userfiles/actu/offre%20de%20contrat%20en%20apprentissage%20Outdoorvision%20+%20Suricate.pdf
+
 ---
 
 <imagetextblock title="Outdoorvision à l’honneur sur le Digital X Outdoor" picture="/medias/VISUELS_ACTUALITES/DxO_2022_272X272.jpg" swap="true">
