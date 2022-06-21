@@ -9,7 +9,7 @@ Le Pôle ressources national sports de nature (PRNSN) vient de publier une offre
 Début du contrat en septembre 2022.
   <ul type="disc">
   <li>
-<a target="_blank" href="https://sentinelles.sportsdenature.fr/docs/userfiles/actu/offre%20de%20contrat%20en%20apprentissage%20Outdoorvision%20+%20Suricate.pdf">Consultez l'offre de contrat en apprentissage détaillée.</a></li>
+<a target="_blank" href="https://sentinelles.sportsdenature.fr/docs/userfiles/actu/offre%20de%20contrat%20en%20apprentissage%20Outdoorvision%20+%20Suricate.pdf">Consultez l'offre détaillée de contrat en apprentissage.</a></li>
  </ul>
 (21 juin 2022)
 </imagetextblock>
