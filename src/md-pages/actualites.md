@@ -5,7 +5,7 @@ randompicfolder: random
 ---
 
 <imagetextblock title="On recrute un(e) apprenti(e) !" picture="/medias/VISUELS_ACTUALITES/recrutement-apprentissage_272x272.png">
-Vous souhaitez vous former et contribuer déploiement des dispositifs Outdoorvision et Suricate ?<br>
+Vous souhaitez vous former et contribuer au déploiement des dispositifs Outdoorvision et Suricate ?<br>
  <br>
 Le Pôle ressources national sports de nature (PRNSN) recherche un(e) apprenti(e) en communication. Votre mission en tant qu'alternant(e) portera principalement sur le déploiement des plans de communication Suricate et Outdoorvision.<br>
 Une véritable opportunité de travailler dans le champ des sports de nature, une thématique en plein essor, au sein d'une équipe spécialisée sur le sujet !<br>
