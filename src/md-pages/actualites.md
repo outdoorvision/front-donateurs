@@ -4,6 +4,18 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="On recrute un(e) apprenti(e) !" picture="/medias/VISUELS_ACTUALITES/recrutement-apprentissage_272x272.png">
+Le Pôle ressources national sports de nature (PRNSN) vient de publier une offre de contrat en apprentissage ayant pour objet le déploiement du plan de communication des projets Outdoorvision et Suricate. <br>
+Début du contrat en septembre 2022.
+  <ul type="disc">
+  <li>
+<a target="_blank" href="https://sentinelles.sportsdenature.fr/docs/userfiles/actu/offre%20de%20contrat%20en%20apprentissage%20Outdoorvision%20+%20Suricate.pdf">Consultez l'offre détaillée de contrat en apprentissage.</a></li>
+ </ul>
+(21 juin 2022)
+</imagetextblock>
+
+---
+
 <imagetextblock title="Outdoorvision à l’honneur sur le Digital X Outdoor" picture="/medias/VISUELS_ACTUALITES/DxO_2022_272X272.jpg" swap="true">
 Du 2 au 5 mai 2022 s’est déroulée la 6ème édition du <a target="_blank" href="https://www.digital-x-outdoor.com/">Digital x Outdoor (DxO)</a>. Organisé par Outdoor Sports Valley, Open Geneva, le Pôle métropolitain du Genevois français et Archparc, ce rendez-vous est l’occasion pour les acteurs des sports outdoor d’imaginer et construire ensemble l’avenir de leur filière grâce aux solutions digitales.  <br>
 Eric Thouvenin - Fondateur d'OPENRUNNER, Véronique Lucas - Chargée de mission Tourisme Espace Belledonne et Christophe Martinez - Coordinateur du projet Outdoorvision au Pôle ressources national des sports de nature ont pu témoigner de l’intérêt du digital pour la préservation des terrains de jeux .
