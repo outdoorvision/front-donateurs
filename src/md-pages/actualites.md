@@ -8,8 +8,8 @@ randompicfolder: random
 Vous souhaitez vous former et contribuer au déploiement des dispositifs Outdoorvision et Suricate ?<br>
  <br>
 Le Pôle ressources national sports de nature (PRNSN) recherche un(e) apprenti(e) en communication. Votre mission en tant qu'alternant(e) portera principalement sur le déploiement des plans de communication Suricate et Outdoorvision.<br>
-Une véritable opportunité de travailler dans le champ des sports de nature, une thématique en plein essor, au sein d'une équipe spécialisée sur le sujet !<br>
-Le poste est basé au sein du CREPS Auvergne Rhône Alpes à Vallon Pont d’Arc (Ardèche). 
+Une véritable opportunité de travailler dans le champ des sports de nature, au sein d'une équipe spécialisée sur le sujet !<br>
+Le poste est basé au sein du CREPS Auvergne Rhône Alpes à Vallon Pont d’Arc (Ardèche) et il est à pourvoir pour septembre. 
 <br>
   <ul type="disc">
   <li>
