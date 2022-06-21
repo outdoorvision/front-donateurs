@@ -5,8 +5,12 @@ randompicfolder: random
 ---
 
 <imagetextblock title="On recrute un(e) apprenti(e) !" picture="/medias/VISUELS_ACTUALITES/recrutement-apprentissage_272x272.png">
-Le Pôle ressources national sports de nature (PRNSN) vient de publier une offre de contrat en apprentissage ayant pour objet le déploiement du plan de communication des projets Outdoorvision et Suricate. <br>
-Début du contrat en septembre 2022.
+Vous souhaitez vous former et contribuer déploiement des dispositifs Outdoorvision et Suricate ?<br>
+ <br>
+Le Pôle ressources national sports de nature (PRNSN) recherche un(e) apprenti(e) en communication. Votre mission en tant qu'alternant(e) portera principalement sur le déploiement des plans de communication Suricate et Outdoorvision.<br>
+Une véritable opportunité de travailler dans le champ des sports de nature, une thématique en plein essor, au sein d'une équipe spécialisée sur le sujet !<br>
+Le poste est basé au sein du CREPS Auvergne Rhône Alpes à Vallon Pont d’Arc (Ardèche). 
+<br>
   <ul type="disc">
   <li>
 <a target="_blank" href="https://sentinelles.sportsdenature.fr/docs/userfiles/actu/offre%20de%20contrat%20en%20apprentissage%20Outdoorvision%20+%20Suricate.pdf">Consultez l'offre détaillée de contrat en apprentissage.</a></li>
