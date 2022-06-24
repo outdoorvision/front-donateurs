@@ -30,6 +30,7 @@ Garmin fournit une technologie GPS innovante dans divers marchés comme l’avia
 IGNrando’, l’application de référence pour vos activités nature. Toute la cartographie IGN et des milliers de parcours labellisés sur toute la France. Des outils  de création, d’ enregistrement et de guidage offrent à l’utilisateur une expérience complète de la préparation jusque sur le terrain. IGNrando’ mobilise sa communauté pour soutenir le projet Outdoorvision en partageant ses traces pour la préservation de l’environnement.
 </p>
 </imagetextblock>
+
 ----
 
 <imagetextblock picture="/medias/VISUELS_PARTENAIRES/ONPISTE_272X272.jpg">
