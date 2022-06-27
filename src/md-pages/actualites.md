@@ -4,6 +4,21 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="On Piste rejoint Outdoorvision !" picture="/medias/VISUELS_ACTUALITES/ON-PISTE-CARRE-272x272.jpg" swap="true">
+Soucieuse de préserver son terrain de jeu (ces espaces naturels qu’on aime tant arpenter !), l’équipe <a target="_blank" href="https://www.onpiste.com/">On Piste</a> (la solution outdoor du groupe Rossignol) s’est naturellement associée au projet Outdoorvision, qui est en accord total avec notre positionnement. <br>
+  <br>
+En effet, On Piste ne valorise que des parcours validés avec l’ensemble des acteurs locaux et qui n’entrent pas en conflit avec les milieux protégés, les autres usagers du territoire, … <br>
+Moins de traces mais plus de qualité, c’est le leitmotiv de On Piste qui ne s’arrête pas à la mise en avant de parcours, mais valorise également les points d’intérêts de la destination à proximité des parcours (naturels, touristiques, etc.). Parce que pour protéger la nature, il faut la connaitre et l’aimer ! Conscients du rôle de pédagogue que nous devons avoir auprès des sportifs, nous rappelons également les bonnes pratiques au départ de chaque parcours.
+ <br>
+ <br>
+<a target="_blank" href="https://www.onpiste.com/">Découvrez On Piste !</a> 
+<br>
+<br>
+(24 juin 2022)
+</imagetextblock>
+
+--- 
+
 <imagetextblock title="On recrute un(e) apprenti(e) !" picture="/medias/VISUELS_ACTUALITES/recrutement-apprentissage_272x272.png">
 Vous souhaitez vous former et contribuer au déploiement des dispositifs Outdoorvision et Suricate ?<br>
  <br>

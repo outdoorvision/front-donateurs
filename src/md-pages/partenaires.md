@@ -33,6 +33,22 @@ IGNrando’, l’application de référence pour vos activités nature. Toute la
 
 ----
 
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/ONPISTE_272X272.jpg">
+<a href="https://www.onpiste.com/">
+<img src="/medias/VISUELS_PARTENAIRES/Logo_ONPISTE.png">
+</a>
+<p>
+On Piste c’est un site et une application mobile 100% gratuits, pour faciliter l’organisation d’une sortie ou d’un séjour sportif et vous garantir une expérience positive !
+Retrouvez sur une sélection de destinations, des parcours balisés Stations de Trail, Marche nordique, Vélo (VTT, Gravel) et Ski de Rando, tous niveaux, vérifiés par les équipes sur place dans le respect des ressources locales. Découvrez aussi les bonnes adresses et les bons plans de la destination sportive !
+Grâce à l’appli, vous pourrez également vous laisser guider sur de nombreux parcours.
+A pied, à vélo et à skis, Bougez sur les bons spots  avec On Piste!
+Le partenariat avec Outdoorvision est en parfaite adéquation avec les valeurs et le positionnement de On Piste dont les parcours sont réalisés par les équipes sur place dans le respect des ressources locales.
+
+</p>
+</imagetextblock>
+
+----
+
 <imagetextblock picture="/medias/VISUELS_PARTENAIRES/OPENRUNNER_272X272.jpg">
 <a href="https://www.openrunner.com/">
 <img src="/medias/openrunner.png">
