@@ -4,6 +4,18 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Le Parc National des Ecrins part à la rencontre des pratiquants outdoor connectés" picture="/medias/VISUELS_ACTUALITES/PNR_272x272.jpg">
+Le Parc national des Écrins réinvesti le sujet de la connaissance de la fréquentation. Dans ce contexte, Maëlle Bouchez réalise son stage de fin d’études d’ingénieure pour repositionner les enjeux de connaissance des flux dans les Ecrins. Il s’agit d’abord de bien préciser les besoins du Parc en matière de connaissance de la fréquentation. L’objectif est ensuite d’identifier les outils, les partenariats et de définir un cadre stratégique pour agir sur le long terme. <br>
+ <br>
+Cet été et sur différents sites, des agents du Parc National iront à la rencontre des visiteurs et plus particulièrement des randonneurs/VTTistes et autres pratiquants de sports de nature pour connaître entre autres leurs motivations et usages des objets connectés. Déterminer au plan local la proportion des visiteurs susceptibles de partager leurs traces GPS avec Outdoorvision sera un indicateur utile pour le Parc. Ce dernier est investi dans le déploiement d’Outdoorvision pour étudier dans quelle mesure il répond au besoin de connaissance de l’espace protégé. <br>
+Le potentiel est prometteur avec la possibilité de cartographier, à différentes échelles, les passages de pratiquants, d’identifier les lieux de départs, les lieux de pauses ou encore d’avoir une vision des pratiques sur une année complète. <br>
+<br>
+<br>
+(05 juillet 2022)
+</imagetextblock>
+
+---
+
 <imagetextblock title="On Piste rejoint Outdoorvision !" picture="/medias/VISUELS_ACTUALITES/ON-PISTE-CARRE-272x272.jpg" swap="true">
 Soucieuse de préserver son terrain de jeu (ces espaces naturels qu’on aime tant arpenter !), l’équipe <a target="_blank" href="https://www.onpiste.com/">On Piste</a> (la solution outdoor du groupe Rossignol) s’est naturellement associée au projet Outdoorvision, qui est en accord total avec notre positionnement. <br>
   <br>
