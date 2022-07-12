@@ -7,7 +7,7 @@ title: CHALLENGE FF Course d'orientation
 Partagez vos traces GPS et contribuez à la préservation et l'aménagement de vos espaces de pratique de course d'orientation !
 
 <participate></participate>
-&nbsp;
+
 <p align="center">
   <img src="/medias/challenge-FFCO-01.jpg">
 </p>
@@ -41,7 +41,7 @@ Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto) 
 </p>  
 
 <participate></participate>
-&nbsp;
+
 ##Qui sommes-nous ?
 
 
@@ -58,5 +58,3 @@ Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis vot
 
 Consultez les [conditions de règlement du jeu concours](/medias/Règlement_Jeu_Concours_Challenge_OutdoorvisionxFFC.pdf)
 <participate></participate>
-
-&nbsp;
