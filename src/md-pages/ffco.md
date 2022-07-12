@@ -14,6 +14,7 @@ Partagez vos traces GPS et contribuez à la préservation et l'aménagement de v
 </a>
 </p>
 
+<participate></participate>
 
 &nbsp;
 <p align="center">
