@@ -60,12 +60,6 @@ Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis vot
 
 Consultez les [conditions de règlement du jeu concours](/medias/Règlement_Jeu_Concours_Challenge_OutdoorvisionxFFC.pdf)
 
-&nbsp;
-<p align="center">
-  <a href="https://auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://back.outdoorvision.fr/auth/done/&scope=openid">
-   <img src="/medias/test-challenge-FFC-bouton.jpg">
-</a>
-</p>  
-
+<participate></participate>
 
 &nbsp;
