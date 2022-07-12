@@ -6,14 +6,6 @@ title: CHALLENGE FF Course d'orientation
 
 Partagez vos traces GPS et contribuez à la préservation et l'aménagement de vos espaces de pratique de course d'orientation !
 
-
-&nbsp;
-<p align="center">
-  <a href="https://auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://back.outdoorvision.fr/auth/done/&scope=openid">
-   <img src="/medias/test-challenge-FFC-bouton.jpg">
-</a>
-</p>
-
 <participate></participate>
 
 &nbsp;
@@ -49,14 +41,7 @@ Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto) 
   <img src="/medias/VISUELS_DESK/logo-band9-nb.jpg">
 </p>  
 
-
-&nbsp;
-<p align="center">
-  <a href="https://auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://back.outdoorvision.fr/auth/done/&scope=openid">
-   <img src="/medias/test-challenge-FFC-bouton.jpg">
-</a>
-</p>
-
+<participate></participate>
 
 &nbsp;
 ##Qui sommes-nous ?
