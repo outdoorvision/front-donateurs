@@ -1,5 +1,5 @@
 ---
-title: CHALLENGE FF Course d'orientation
+title: CHALLENGE FF Course d'Orientation
 ---
 
 ##Jouez pour préserver votre terrain de jeu !
