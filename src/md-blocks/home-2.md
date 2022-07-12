@@ -60,6 +60,9 @@ Découvrez comment OUTDOORVISION contribue concrètement à la meilleure connais
 <imagetextblock picture="/medias/VISUELS_DESK/RUNNING_TRAIL_COUPLE_272X272_OUTDOORVISION_AdobeStock.jpg">
 <b>En Trail/Running</b> <br>L’objectif est de favoriser la création d’itinéraires sécurisés, d’encourager les territoires à développer une offre de trail qui soit de qualité, de se coordonner avec les organisateurs d’événements pour respecter les espaces naturels ou encore d’améliorer l’expérience des pratiquants (points d’eau, stationnements, panoramas et tables d’orientation par exemple).</imagetextblock>
  <br>
+<imagetextblock picture="/medias/VISUELS_DESK/CO_FEMME_272x272_©P.Alessandri.jpg">
+<b>En course d'orientation</b> <br>L’objectif est de garantir l'accès aux espaces de pratique, d'éclairer les gestionnaires d'espaces naturels sur la réalité des fréquentations liées à la course d'orientation, de mieux prendre en compte les enjeux de protection de la biodiversité et de pérenniser les organisations de manifestations.</imagetextblock>
+ <br>
 <imagetextblock picture="/medias/VISUELS_DESK/VTT_HOMME_272X272_OUTDOORVISION_D-Frobert.jpg">
 <b>En VTT</b> <br>L’objectif est d’avoir des itinéraires validés et bien entretenus, de s’assurer qu’ils restent durablement praticables, de prendre en compte des attentes nouvelles liées au développement du VTTAE (bornes de recharges, stations d’entretien) et à la mobilité douce (connexion avec des voies vertes et des liaisons en train par exemple).</imagetextblock>
  <br>
