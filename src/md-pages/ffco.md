@@ -4,7 +4,7 @@ title: CHALLENGE FF Course d'Orientation
 
 ##Jouez pour préserver votre terrain de jeu !
 
-Partagez vos traces GPS et contribuez à la préservation et l'aménagement de vos espaces de pratique de course d'orientation !
+Dans le cadre des championnats de France à Risoul, partagez vos traces GPS et contribuez à la préservation et l'aménagement de vos espaces de pratique de course d'orientation !
 
 <participate></participate>
 
@@ -22,9 +22,11 @@ En tant que passionné des sports outdoor, vous êtes sensible à la qualité de
   <img src="/medias/challenge-FFCO-02.jpg">
 </p>
 
-Et en plus, tentez de gagner de nombreux lots* comme : le dernier **compteur GPS EDGE 1030 PLUS** de la marque GARMIN, **2 places VIP** pour les mondiaux de VTT aux Gets, **9 maillots** VTT, gravel et cyclosport, ou encore **3 abonnements** d'un an au magazine "France Cyclisme" !
-
-**lots répartis sur les 2 challenges Facebook et Instagram*
+Et en plus, tentez de gagner 1 des 7 lots* mis en jeux :
+- lot 1 : une **montre Forerunner 245** de la marque GARMIN,
+- Lot 2, 3, 4 et 5: **votre inscription pour O’France 2023** du 29 juillet au 04 out 2023 dans les Pyrénées.
+- Lot 6 et 7: **votre licence FFCO 2023** (part fédérale)
+*Le tirage au sort sera effectué le 17 Avril 2022. Les gagnants seront contactés par courriel.
 
 <p align="center">
   <img src="/medias/challenge-FFC-03.jpg">
