@@ -29,7 +29,7 @@ Et en plus, tentez de gagner 1 des 7 lots* mis en jeux :
 *Le tirage au sort sera effectué le 17 Avril 2022. Les gagnants seront contactés par courriel.
 
 <p align="center">
-  <img src="/medias/challenge-FFC-03.jpg">
+  <img src="/medias/challenge-FFCO-03-.jpg">
 </p>
 
 ##Comment participer ?
