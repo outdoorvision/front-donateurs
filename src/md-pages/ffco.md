@@ -23,14 +23,14 @@ En tant que passionné des sports outdoor, vous êtes sensible à la qualité de
 </p>
 
 Et en plus, tentez de gagner 1 des 7 lots* mis en jeux :
-- lot 1 : une **montre Forerunner 245** de la marque GARMIN,
+- lot 1 : une **montre Instinct 2** de la marque GARMIN,
 - Lot 2, 3, 4 et 5 : votre **inscription pour O’France 2023** du 29 juillet au 04 août dans les Pyrénées-Orientales.
 - Lot 6 et 7 : votre **licence FFCO 2023** (part fédérale)
  
 *Le tirage au sort sera effectué le 17 Avril 2022. Les gagnants seront contactés par courriel.
 
 <p align="center">
-  <img src="/medias/challenge-FFCO-03-.jpg">
+  <img src="/medias/challenge-FFCO-03.jpg">
 </p>
 
 ##Comment participer ?
@@ -59,5 +59,5 @@ Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto) 
 
 Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre compte Garmin connect™, Suunto APP (appli Suunto) ou Polar flow. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
 
-Consultez les [conditions de règlement du jeu concours](/medias/Règlement_Jeu_Concours_Challenge_OutdoorvisionxFFC.pdf)
+Consultez les [conditions de règlement du jeu concours](/medias/Règlement_Jeu_Concours_Challenge_OutdoorvisionxFFCO.pdf)
 <participate></participate>
