@@ -8,6 +8,7 @@ Avec Outdoorvision, partagez vos traces GPS enregistrées lors de vos sorties ou
 
 <button button_url="https://auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://back.outdoorvision.fr/auth/done/&scope=openid" button_type="Info" button_label="Je valide ma participation"></button>
 
+<button name="button" onclick="https://auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://back.outdoorvision.fr/auth/done/&scope=openid">Je valide ma participation</button>
 
 <p align="center">
   <img src="/medias/challenge-STRAVA-01.jpg">
