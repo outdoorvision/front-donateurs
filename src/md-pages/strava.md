@@ -14,15 +14,15 @@ Avec Outdoorvision, partagez vos traces GPS enregistrées lors de vos sorties ou
 
 
 &nbsp;
-##Gagnez un lot !
+##Gagnez 1 des 5 lots mis en jeu !
 
-Participez au challenge pour tenter de remporter 1 des 5 lots mis en jeu !
+Participez au challenge et remportez un des lots offerts par des partenaires partageant les valeurs d'Outdoorvision !
 
 - lot 1 : la dernière **montre S9 peak** de la marque SUUNTO,
 - Lot 2, : un **séjour Gravel dans les Pyrénées** offert par la Fédération Française de Cyclisme.
 - Lot 3, 4 et 5 : un **maillot dédicacé par un membre de l'équipe de France de VTT XCO**
  
-*Le tirage au sort sera effectué à partir du 12 octobre 2022. Les gagnants seront contactés par courriel.
+*(Le tirage au sort sera effectué à partir du 12 octobre 2022. Les gagnants seront contactés par courriel.)*
 
 <p align="center">
   <img src="/medias/challenge-STRAVA-03.jpg">
