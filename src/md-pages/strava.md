@@ -47,10 +47,11 @@ Participez au challenge pour tenter de remporter 1 des 5 lots mis en jeu !
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sua7VDlhBs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
 Outdoorvision est un dispositif du Ministère des sports et des Jeux olympiques et paralympiques.
 
 &nbsp;
-##Pourquoi participer ?
+##Quelles sont les données partagées ?
 
 Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre compte Garmin connect™, Suunto APP (appli Suunto) ou Polar flow. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
 
