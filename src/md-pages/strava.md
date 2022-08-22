@@ -6,9 +6,7 @@ title: CHALLENGE STRAVA
 
 Avec Outdoorvision, partagez vos traces GPS enregistrées lors de vos sorties outdoor. Vous contribuerez ainsi à une meilleure prise en compte des sports outdoor, ainsi qu'à la préservation de vos itinéraires et sites de pratiques. 
 
-<button button_url="https://auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://back.outdoorvision.fr/auth/done/&scope=openid" button_type="Info" button_label="Je valide ma participation"></button>
-
-<button name="button" onclick="https://auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://back.outdoorvision.fr/auth/done/&scope=openid">Je valide ma participation</button>
+<participate></participate>
 
 <p align="center">
   <img src="/medias/challenge-STRAVA-01.jpg">
