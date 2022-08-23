@@ -4,6 +4,20 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Challenge Outddorvision sur les championnats de France de CO !" picture="/medias/VISUELS_ACTUALITES/CHALLENGE_FFCO_272X272.jpg" swap="true">
+A l’occasion des <a target="_blank" href="https://acaurelien.wixsite.com/cfco2022">championnats de France de course d'orientation à Risoul (05)</a>, Outdoorvision et la Fédération française de course d’orientation organise un challenge. <br>
+<br>
+Les 1400 orienteurs attendus les 27 et 28 août dans la station des Hautes-Alpes sont invités à partager sur Outdoorivsion leurs traces GPS. A la suite du tirage au sort, les heureux contributeurs repartiront peut-être avec un des lots mis en jeu (une montre Garmin Instinct 2, une inscription à O’France 2023, etc.).
+ <br>
+ <br>
+<a target="_blank" href="https://outdoorvision.fr/ffco">Consultez la page dédiée au challenge</a> 
+<br>
+<br>
+(23 août 2022)
+</imagetextblock>
+
+--- 
+
 <imagetextblock title="Le Parc National des Ecrins part à la rencontre des pratiquants outdoor connectés" picture="/medias/VISUELS_ACTUALITES/PNE_272x272.jpg">
 Cet été, le Parc national des Écrins réinvesti le sujet de la connaissance de la fréquentation. Dans ce contexte, <b>Maëlle Bouchez</b> réalise son stage de fin d’études d’ingénieure pour repositionner les enjeux de connaissance des flux dans les Ecrins. Il s’agit d’abord de bien préciser les besoins du Parc en matière de connaissance de la fréquentation. L’objectif est ensuite d’identifier les outils, les partenariats et de définir un cadre stratégique pour agir sur le long terme. <br>
  <br>
