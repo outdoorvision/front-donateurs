@@ -5,7 +5,7 @@ swap: false
 
 #Bravo, vous avez terminé le challenge Strava !
 
-Vous faites donc partie de la communauté outdoor ! Pour valider votre participation et participer au tirage au sort, il ne vous reste plus qu'à synchroniser votre Garmin, Polar ou Suunto !
+Vous faites donc partie de la communauté outdoor ! Pour valider votre participation et prendre part au tirage au sort, il ne vous reste plus qu'à synchroniser votre Garmin, Polar ou Suunto !
 
 <participate></participate>
 
@@ -14,7 +14,7 @@ Ensemble, montrons que les pratiquants des sports outdoor peuvent se mobiliser p
 <p align="center">
   <img src="/medias/challenge-STRAVA-02.jpg">
 </p>
-
+---
 &nbsp;
 ##Gagnez 1 des 5 lots mis en jeu !
 
@@ -29,7 +29,7 @@ Participez au challenge et remportez un des lots offerts par des partenaires par
 <p align="center">
   <img src="/medias/challenge-STRAVA-03b.jpg">
 </p>
-
+---
 ##Comment participer ?
 
 1. Cliquez sur le bouton "Je participe"
@@ -38,7 +38,7 @@ Participez au challenge et remportez un des lots offerts par des partenaires par
 
 
 <participate></participate>
-
+---
 ##Qui sommes-nous ?
 
 &nbsp;
@@ -47,7 +47,7 @@ Participez au challenge et remportez un des lots offerts par des partenaires par
 </p>
 
 Outdoorvision est un **dispositif du Ministère des sports et des Jeux olympiques et paralympiques** piloté par le Pôle ressources national sports de nature. Il est le fruit d'un partenariat innovant entre des territoires, des fédérations sportives et des marques réunis autour d'un **programme à but non lucratif**. 
-
+---
 &nbsp;
 ##Quelles sont les données partagées ?
 
@@ -55,15 +55,3 @@ Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis vot
 
 Consultez les [conditions de règlement du jeu concours](/medias/Règlement_Jeu_Concours_Challenge_OutdoorvisionxFFCO.pdf)
 <participate></participate>
-
----
-##Jouez pour préserver votre terrain de jeu !
-
-Avec Outdoorvision, partagez vos traces GPS enregistrées lors de vos sorties outdoor. Vous contribuerez ainsi à une meilleure prise en compte des sports outdoor, ainsi qu'à la préservation de vos itinéraires et sites de pratiques. 
-
-<participate></participate>
-
-<p align="center">
-  <img src="/medias/challenge-STRAVA-01.jpg">
-</p>
-
