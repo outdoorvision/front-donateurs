@@ -15,7 +15,6 @@ Ensemble, montrons que les pratiquants des sports outdoor peuvent se mobiliser p
   <img src="/medias/challenge-STRAVA-02.jpg">
 </p>
 ---
-&nbsp;
 ##Gagnez 1 des 5 lots mis en jeu !
 
 Participez au challenge et remportez un des lots offerts par des partenaires partageant les valeurs d'Outdoorvision !
