@@ -1,6 +1,6 @@
 ---
 title: Vous avez terminé le challenge Strava !
-picture: /medias/challenge-STRAVA-01b.jpg
+picture: /medias/challenge-STRAVA-01c.jpg
 swap: false
 ---
 
