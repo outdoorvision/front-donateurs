@@ -14,6 +14,7 @@ Ensemble, montrons que les pratiquants des sports outdoor peuvent se mobiliser p
 <p align="center">
   <img src="/medias/challenge-STRAVA-02.jpg">
 </p>
+
 ---
 ##Gagnez 1 des 5 lots mis en jeu !
 
