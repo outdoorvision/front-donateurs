@@ -6,8 +6,7 @@ swap: false
 
 
 
-Vous faites donc partie de la communauté outdoor ! Pour valider votre participation et prendre part au tirage au sort, il ne vous reste plus qu'à synchroniser votre Garmin, Polar ou Suunto !
-
+##Vous faites donc partie de la communauté outdoor ! Pour valider votre participation et prendre part au tirage au sort, il ne vous reste plus qu'à synchroniser votre Garmin, Polar ou Suunto !
 <participate></participate>
 
 Ensemble, montrons que les pratiquants des sports outdoor peuvent se mobiliser pour la bonne cause !
@@ -39,8 +38,6 @@ Participez au challenge et remportez un des lots offerts par des partenaires par
 1. Cliquez sur le bouton "Je participe"
 2. Créez un compte Outdoorvison
 3. Connectez simplement votre compte Garmin connect™ / Suunto APP / Polar flow
-
-
 <participate></participate>
 
 ---
@@ -56,6 +53,8 @@ Outdoorvision est un **dispositif du Ministère des sports et des Jeux olympique
 
 ##Quelles sont les données partagées ?
 Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre compte Garmin connect™, Suunto APP (appli Suunto) ou Polar flow. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
+
+---
 
 Consultez les [conditions de règlement du jeu concours](/medias/Règlement_Jeu_Concours_Challenge_OutdoorvisionxFFCO.pdf)
 <participate></participate>
