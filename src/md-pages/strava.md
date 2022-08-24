@@ -6,7 +6,7 @@ swap: false
 
 
 
-##Vous faites donc partie de la communauté outdoor ! Pour valider votre participation et prendre part au tirage au sort, il ne vous reste plus qu'à synchroniser votre Garmin, Polar ou Suunto !
+###Vous faites donc partie de la communauté outdoor ! Pour valider votre participation et prendre part au tirage au sort, il ne vous reste plus qu'à synchroniser votre Garmin, Polar ou Suunto !
 <participate></participate>
 
 Ensemble, montrons que les pratiquants des sports outdoor peuvent se mobiliser pour la bonne cause !
