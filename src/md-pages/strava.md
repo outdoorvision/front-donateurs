@@ -16,6 +16,7 @@ Ensemble, montrons que les pratiquants des sports outdoor peuvent se mobiliser p
 </p>
 
 ---
+
 ##Gagnez 1 des 5 lots mis en jeu !
 
 Participez au challenge et remportez un des lots offerts par des partenaires partageant les valeurs d'Outdoorvision !
@@ -29,7 +30,9 @@ Participez au challenge et remportez un des lots offerts par des partenaires par
 <p align="center">
   <img src="/medias/challenge-STRAVA-03b.jpg">
 </p>
+
 ---
+
 ##Comment participer ?
 
 1. Cliquez sur le bouton "Je participe"
@@ -38,19 +41,19 @@ Participez au challenge et remportez un des lots offerts par des partenaires par
 
 
 <participate></participate>
----
-##Qui sommes-nous ?
 
-&nbsp;
+---
+
+##Qui sommes-nous ?
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sua7VDlhBs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 Outdoorvision est un **dispositif du Ministère des sports et des Jeux olympiques et paralympiques** piloté par le Pôle ressources national sports de nature. Il est le fruit d'un partenariat innovant entre des territoires, des fédérations sportives et des marques réunis autour d'un **programme à but non lucratif**. 
----
-&nbsp;
-##Quelles sont les données partagées ?
 
+---
+
+##Quelles sont les données partagées ?
 Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre compte Garmin connect™, Suunto APP (appli Suunto) ou Polar flow. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
 
 Consultez les [conditions de règlement du jeu concours](/medias/Règlement_Jeu_Concours_Challenge_OutdoorvisionxFFCO.pdf)
