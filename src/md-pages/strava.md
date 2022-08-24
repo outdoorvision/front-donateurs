@@ -1,9 +1,10 @@
 ---
+title: Bravo, vous avez terminé le challenge Strava !
 picture: /medias/challenge-STRAVA-01b.jpg
 swap: false
 ---
 
-#Bravo, vous avez terminé le challenge Strava !
+
 
 Vous faites donc partie de la communauté outdoor ! Pour valider votre participation et prendre part au tirage au sort, il ne vous reste plus qu'à synchroniser votre Garmin, Polar ou Suunto !
 
