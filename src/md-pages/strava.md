@@ -50,7 +50,7 @@ Participez au challenge et remportez un des lots offerts par des partenaires par
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sua7VDlhBs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-Outdoorvision est un dispositif du Ministère des sports et des Jeux olympiques et paralympiques piloté par le Pôle ressources national sports de nature. Il est le fruit d'un partenariat innovant entre des territoires, des fédérations sportives et des marques réunis autour d'un programme à but non lucratif. 
+Outdoorvision est un **dispositif du Ministère des sports et des Jeux olympiques et paralympiques** piloté par le Pôle ressources national sports de nature. Il est le fruit d'un partenariat innovant entre des territoires, des fédérations sportives et des marques réunis autour d'un **programme à but non lucratif**. 
 
 &nbsp;
 ##Quelles sont les données partagées ?
