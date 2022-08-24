@@ -12,7 +12,7 @@ Vous faites donc partie de la communauté outdoor ! Pour valider votre participa
 Ensemble, montrons que les pratiquants des sports outdoor peuvent se mobiliser pour la bonne cause !
 
 <p align="center">
-  <img src="/medias/challenge-STRAVA-01.jpg">
+  <img src="/medias/challenge-STRAVA-02.jpg">
 </p>
 
 &nbsp;
@@ -36,10 +36,6 @@ Participez au challenge et remportez un des lots offerts par des partenaires par
 2. Créez un compte Outdoorvison
 3. Connectez simplement votre compte Garmin connect™ / Suunto APP / Polar flow
 
-
-<p align="center">
-  <img src="/medias/challenge-STRAVA-02.jpg">
-</p>
 
 <participate></participate>
 
