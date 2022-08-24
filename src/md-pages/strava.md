@@ -1,9 +1,9 @@
 ---
-picture: /medias/VISUELS_PARTENAIRES/RUNNINGTRAIL_HOMME SOMMET_1346X311_OUTDOORVISION_D-Frobert.jpg
+picture: /medias/challenge-STRAVA-01b.jpg
 swap: false
 ---
 
-##Bravo, vous avez terminé le challenge Strava !
+#Bravo, vous avez terminé le challenge Strava !
 
 Vous faites donc partie de la communauté outdoor ! Pour valider votre participation et participer au tirage au sort, il ne vous reste plus qu'à synchroniser votre Garmin, Polar ou Suunto !
 
