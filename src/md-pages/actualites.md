@@ -7,7 +7,7 @@ randompicfolder: random
 <imagetextblock title="Challenge Outddorvision sur les championnats de France de CO !" picture="/medias/VISUELS_ACTUALITES/CHALLENGE_FFCO_272X272.jpg" swap="true">
 A l’occasion des <a target="_blank" href="https://acaurelien.wixsite.com/cfco2022">championnats de France de course d'orientation à Risoul (05)</a>, Outdoorvision et la Fédération française de course d’orientation organise un challenge. <br>
 <br>
-Les 1400 orienteurs attendus les 27 et 28 août dans la station des Hautes-Alpes sont invités à partager sur Outdoorivsion leurs traces GPS. A la suite du tirage au sort, les heureux contributeurs repartiront peut-être avec un des lots mis en jeu (une montre Garmin Instinct 2, une inscription à O’France 2023, etc.).
+Les 1400 orienteurs attendus les 27 et 28 août dans la station des Hautes-Alpes sont invités à partager sur Outdoorvision leurs traces GPS. A la suite du tirage au sort, les heureux contributeurs repartiront peut-être avec un des lots mis en jeu (une montre Garmin Instinct 2, une inscription à O’France 2023, etc.).
  <br>
  <br>
 <a target="_self" href="https://outdoorvision.fr/ffco">Consultez la page dédiée au challenge</a> 
