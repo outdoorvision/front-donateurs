@@ -22,9 +22,9 @@ Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentier
 
 - La dernière **montre S9 peak** de la marque SUUNTO,
 - Un **séjour vélo** offert par la Fédération Française de Cyclisme.
-- Des **maillots dédicacés par un membre de l'équipe de France de VTT XCO**
+- Des **maillots de l'équipe de France de VTT XCO**
  
-*(Le tirage au sort sera effectué à partir du 12 octobre 2022. Les gagnants seront contactés par courriel.)*
+*(Le tirage au sort sera effectué à partir du 14 octobre 2022. Les gagnants seront contactés par courriel.)*
 
 <p align="center">
   <img src="/medias/challenge-STRAVA-03b.jpg">
