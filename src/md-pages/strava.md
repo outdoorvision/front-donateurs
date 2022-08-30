@@ -20,11 +20,11 @@ Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentier
 
 ##Gagnez un des lots offerts par les partenaires partageant les valeurs d'Outdoorvision !
 
-- La dernière **montre S9 peak** de la marque SUUNTO,
-- Un **séjour vélo** offert par la Fédération Française de Cyclisme.
-- Des **maillots dédicacés par un membre de l'équipe de France de VTT XCO**
+- La **montre GPS outdoor Suunto 9 Peak** de la marque finlandaise [Suunto](https://www.suunto.com/fr-fr/Assistance/centre-de-reparation-suunto/),
+- Un **séjour vélo** de 5 jours / 4 nuits offert par la Fédération Française de Cyclisme,
+- Des **maillots de l'équipe de France de VTT XCO**.
  
-*(Le tirage au sort sera effectué à partir du 12 octobre 2022. Les gagnants seront contactés par courriel.)*
+*(Le tirage au sort sera effectué à partir du 14 octobre 2022. Les gagnants seront contactés par courriel.)*
 
 <p align="center">
   <img src="/medias/challenge-STRAVA-03b.jpg">
@@ -55,5 +55,5 @@ Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis vot
 
 ---
 
-Consultez les [conditions de règlement du jeu concours](/medias/reglement-challenge-STRAVA-V1.pdf)
+Consultez les [conditions de règlement du jeu concours](/medias/reglement-challenge-STRAVA-VF.pdf)
 <participate></participate>
