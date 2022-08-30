@@ -55,5 +55,5 @@ Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis vot
 
 ---
 
-Consultez les [conditions de règlement du jeu concours](/medias/reglement-challenge-STRAVA-V1.pdf)
+Consultez les [conditions de règlement du jeu concours](/medias/reglement-challenge-STRAVA-VF.pdf)
 <participate></participate>
