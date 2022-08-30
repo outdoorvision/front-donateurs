@@ -4,7 +4,7 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="Un nouveau label dédié à la pratique du Gravel" picture="/medias/Espace_Gravel_FFC_272X272.jpg">
+<imagetextblock title="Un nouveau label dédié à la pratique du Gravel" picture="/medias/VISUELS_ACTUALITES/Espace_Gravel_FFC_272X272.jpg">
 La pratique du Gravel a considérablement progressé ces dernières années. De sport de niche, le Gravel est devenu l’expression d’une sorte de renouveau du vélo liberté. Synthèse entre vélo route, vélo voyage, vélo tout chemin et même vélo taf, le champ du possible apparaît sans limite.<br>
  <br>
 Le nouveau label "Espace Gravel-FFC" vient rejoindre la famille des labels déjà composée des Sites VTT-FFC et des Espaces Cyclosport de la Fédération Française de Cyclisme.Pour 2022, 7 territoires sont déjà labellisés "Espace Gravel-FFC" : SERRE-PONCON, MÉTROPOLE NICE CÔTE D'AZUR TERRE DE VÉLO, PYRÉNÉES COMMINGES, MONTAGNE ET PLAINE ROANNAIS, GOLFE DU MORBIHAN VANNES – LANDES DE LANVAUX, VALLÉE DU LOURON, AU CŒUR DES PYRÉNÉES, CENTRE DEPARTEMENTAL DE VAUCLUSE.<br>
