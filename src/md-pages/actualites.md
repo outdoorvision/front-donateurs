@@ -4,6 +4,24 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="On recherche un(e) chargé(e) de communication" picture="/medias/VISUELS_ACTUALITES/OFFRE_EMPLOI.jpg">
+Participez au déploiement des dispositifs Outdoorvision et Suricate !<br>
+ <br>
+Le Pôle ressources national sports de nature (PRNSN) recherche un(e) chargé(e) de mission en communication. Votre mission portera principalement sur le déploiement des plans de communication Suricate et Outdoorvision.<br>
+ <br>
+Une véritable opportunité de travailler dans le champ des sports de nature, au sein d'une équipe spécialisée sur le sujet ! Le poste est basé au sein du CREPS Auvergne Rhône Alpes à Vallon Pont d’Arc en Ardèche et il est à pourvoir en octobre (CDD 12 mois). Le télétravail est possible.
+<br>
+  <ul type="disc">
+  <li>
+<a target="_blank" href="/medias/VISUELS_ACTUALITES/charge(e)-de-communication-projets-outdoorvision-et-suricate-place-emploi-public.pdf">Téléchargez l'offre de contrat en apprentissage.</a></li>
+  <li>
+<a target="_blank" href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-communication-projets-outdoorvision-et-suricate-reference-2022-995521/">Consultez l'offre détaillée sur la Place de l'emploi public.</a></li>
+ </ul>
+(02 septembre 2022)
+</imagetextblock>
+
+---
+
 <imagetextblock title="Thibaut : un contributeur Outdoorvision à l'honneur" picture="/medias/VISUELS_ACTUALITES/THIBAUT_272x272.jpg" swap="true">
 Thibaut, vous nous avez contacté il y a quelques jours pour connaître les avancées du projet Outdoorvision dont vous êtes contributeur. <b>Qu’est-ce qui vous a motivé à partager vos traces GPS avec le projet ? </b><br>
 <i>Il y a encore quelques dizaines d'années, la planification d'itinéraire nécessitait plus d'argent et surtout plus de temps : achat de topoguide et carte IGN, tracé sur carte, calcul des distances... Malgré l'efficacité des structures françaises que sont l'IGN et la FFRandonnée les chemins empruntés pouvaient être hasardeux ou refermés.  Depuis l'arrivée des entreprises de data outdoor type Strava, Garmin ou Sunto, la planification d'itinéraire a largement été simplifiée. Les suggestions d'itinéraires par ces plateformes se sont enrichirent des retours utilisateurs au travers de leurs traces. En voyant cet incroyable atout qu'apporte la compilation des traces GPS sur ces plateformes et en tombant sur le projet Outdoorvision, je me suis dit qu'il pouvait y avoir un très grand intérêt pour nos pratiques sportives que les aménageurs et les organisateurs de nos pratiques ou des espaces naturels en général y aient accès.</i><br>
@@ -24,7 +42,7 @@ Thibaut, vous nous avez contacté il y a quelques jours pour connaître les avan
 <imagetextblock title="Un nouveau label dédié à la pratique du Gravel" picture="/medias/VISUELS_ACTUALITES/Espace_Gravel_FFC_272X272.jpg">
 La pratique du Gravel a considérablement progressé ces dernières années. De sport de niche, le Gravel est devenu l’expression d’une sorte de renouveau du vélo liberté. Synthèse entre vélo route, vélo voyage, vélo tout chemin et même vélo taf, le champ du possible apparaît sans limite.<br>
  <br>
-Le **nouveau label "Espace Gravel-FFC"** vient rejoindre la famille des labels déjà composée des Sites VTT-FFC et des Espaces Cyclosport de la Fédération Française de Cyclisme. Pour 2022, 7 territoires sont déjà labellisés "Espace Gravel-FFC" : SERRE-PONCON, MÉTROPOLE NICE CÔTE D'AZUR TERRE DE VÉLO, PYRÉNÉES COMMINGES, MONTAGNE ET PLAINE ROANNAIS, GOLFE DU MORBIHAN VANNES – LANDES DE LANVAUX, VALLÉE DU LOURON, AU CŒUR DES PYRÉNÉES, CENTRE DEPARTEMENTAL DE VAUCLUSE.<br>
+ Le <b>nouveau label "Espace Gravel-FFC"</b> vient rejoindre la famille des labels déjà composée des Sites VTT-FFC et des Espaces Cyclosport de la Fédération Française de Cyclisme. Pour 2022, 7 territoires sont déjà labellisés "Espace Gravel-FFC" : SERRE-PONCON, MÉTROPOLE NICE CÔTE D'AZUR TERRE DE VÉLO, PYRÉNÉES COMMINGES, MONTAGNE ET PLAINE ROANNAIS, GOLFE DU MORBIHAN VANNES – LANDES DE LANVAUX, VALLÉE DU LOURON, AU CŒUR DES PYRÉNÉES, CENTRE DEPARTEMENTAL DE VAUCLUSE.<br>
  <br>
 Pour le balisage des parcours, c’est l’option de la réutilisation de la balise VTT qui a été retenue, avec un autocollant compatible Gravel comme pour les parcours VTTAE, autant dans un souci d’économie d’échelle que d’écoresponsabilité, en limitant ainsi le sur-balisage dans les espaces naturels.<br>
  <br>
@@ -73,22 +91,6 @@ Moins de traces mais plus de qualité, c’est le leitmotiv de On Piste qui ne s
 <br>
 <br>
 (24 juin 2022)
-</imagetextblock>
-
---- 
-
-<imagetextblock title="On recrute un(e) apprenti(e) !" picture="/medias/VISUELS_ACTUALITES/recrutement-apprentissage_272x272.png">
-Vous souhaitez vous former et contribuer au déploiement des dispositifs Outdoorvision et Suricate ?<br>
- <br>
-Le Pôle ressources national sports de nature (PRNSN) recherche un(e) apprenti(e) en communication. Votre mission en tant qu'alternant(e) portera principalement sur le déploiement des plans de communication Suricate et Outdoorvision.<br>
-Une véritable opportunité de travailler dans le champ des sports de nature, au sein d'une équipe spécialisée sur le sujet !<br>
-Le poste est basé au sein du CREPS Auvergne Rhône Alpes à Vallon Pont d’Arc (Ardèche) et il est à pourvoir pour septembre. 
-<br>
-  <ul type="disc">
-  <li>
-<a target="_blank" href="https://sentinelles.sportsdenature.fr/docs/userfiles/actu/offre%20de%20contrat%20en%20apprentissage%20Outdoorvision%20+%20Suricate.pdf">Consultez l'offre détaillée de contrat en apprentissage.</a></li>
- </ul>
-(21 juin 2022)
 </imagetextblock>
 
 ---
