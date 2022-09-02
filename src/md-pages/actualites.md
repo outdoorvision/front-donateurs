@@ -15,7 +15,7 @@ Le poste est basé au sein du CREPS Auvergne Rhône Alpes à Vallon Pont d’Arc
   <li>
 <a target="_blank" href="/medias/VISUELS_ACTUALITES/charge(e)-de-communication-projets-outdoorvision-et-suricate-place-emploi-public.pdf">Téléchargez l'offre de contrat en apprentissage.</a></li>
   <li>
-<a target="_blank" href="(https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-communication-projets-outdoorvision-et-suricate-reference-2022-995521/)">Consultez l'offre détaillée sur La place de l'emploi public.</a></li>
+<a target="_blank" href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-communication-projets-outdoorvision-et-suricate-reference-2022-995521/">Consultez l'offre détaillée sur La place de l'emploi public.</a></li>
  </ul>
 (02 septembre 2022)
 </imagetextblock>
