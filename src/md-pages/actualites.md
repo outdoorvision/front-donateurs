@@ -5,7 +5,7 @@ randompicfolder: random
 ---
 
 <imagetextblock title="On recherche un(e) chargé(e) de communication" picture="/medias/VISUELS_ACTUALITES/OFFRE_EMPLOI.jpg">
-Vous souhaitez vous former et contribuer au déploiement des dispositifs Outdoorvision et Suricate ?<br>
+Participez au déploiement des dispositifs Outdoorvision et Suricate !<br>
  <br>
 Le Pôle ressources national sports de nature (PRNSN) recherche un(e) chargé(e) de mission en communication. Votre mission portera principalement sur le déploiement des plans de communication Suricate et Outdoorvision.<br>
  <br>
