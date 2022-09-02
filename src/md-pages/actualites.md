@@ -4,12 +4,12 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="On recherche un(e) chargé'e) de communication" picture="/medias/VISUELS_ACTUALITES/OFFRE_EMPLOI.jpg">
+<imagetextblock title="On recherche un(e) chargé(e) de communication" picture="/medias/VISUELS_ACTUALITES/OFFRE_EMPLOI.jpg">
 Vous souhaitez vous former et contribuer au déploiement des dispositifs Outdoorvision et Suricate ?<br>
  <br>
 Le Pôle ressources national sports de nature (PRNSN) recherche un(e) chargé(e) de mission en communication. Votre mission portera principalement sur le déploiement des plans de communication Suricate et Outdoorvision.<br>
-Une véritable opportunité de travailler dans le champ des sports de nature, au sein d'une équipe spécialisée sur le sujet !<br>
-Le poste est basé au sein du CREPS Auvergne Rhône Alpes à Vallon Pont d’Arc en Ardèche et il est à pourvoir pour octobre. Le télétravail est possible.
+ <br>
+Une véritable opportunité de travailler dans le champ des sports de nature, au sein d'une équipe spécialisée sur le sujet ! Le poste est basé au sein du CREPS Auvergne Rhône Alpes à Vallon Pont d’Arc en Ardèche et il est à pourvoir en octobre (CDD 12 mois). Le télétravail est possible.
 <br>
   <ul type="disc">
   <li>
