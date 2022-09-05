@@ -62,4 +62,4 @@ Consultez les [conditions de règlement du jeu concours](/medias/reglement-chall
 ---
 ##Partenaires du challenge
 [![Fédération française de cyclisme](/medias/ffc.png)](https://www.ffc.fr/)<spacer w="1"></spacer>
-[![Suunto](medias/sunnto.png)](https://www.sports.gouv.fr/)<spacer w="1"></spacer>
+[![Suunto](medias/sunnto.png)](https://www.suunto.com/fr-fr/)<spacer w="1"></spacer>
