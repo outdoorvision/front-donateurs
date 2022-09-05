@@ -62,4 +62,4 @@ Consultez les [conditions de règlement du jeu concours](/medias/reglement-chall
 ---
 ##Partenaires du challenge
 [![Fédération française de cyclisme](/medias/ffc.png)](https://www.ffc.fr/)<spacer w="2"></spacer>
-[![Suunto](medias/logo-Suunto-challenge-Starva.jpg)](https://www.suunto.com/fr-fr/)<spacer w="0"></spacer>
+[![Suunto](/medias/logo-Suunto-challenge-Starva.jpg)](https://www.suunto.com/fr-fr/)<spacer w="0"></spacer>
