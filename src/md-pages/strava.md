@@ -21,9 +21,9 @@ Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentier
 ##Gagnez un des lots offerts par les partenaires partageant les valeurs d'Outdoorvision !
 
 - La **montre GPS outdoor Suunto 9 Peak** de la marque finlandaise [Suunto](https://www.suunto.com/fr-fr/),
-- Un **séjour vélo** de 5 jours / 4 nuits offert par la Fédération Française de Cyclisme,
-- Un **maillot de l'équipe de France de VTT XCO** dédicacé par les pilotes.
-- Trois **bons d’achat d’une valeur unitaire de 100 euros** à valoir sur [La boutique officielle FFC](https://boutique.ffc.fr/)
+- Un **séjour vélo** de 5 jours / 4 nuits offert par la [Fédération Française de Cyclisme](https://www.ffc.fr/sejours-ffc/),
+- Un **maillot de l'équipe de France de VTT XCO** dédicacé par les athlètes de l’Équipe de France XCO .
+- Trois **bons d’achat d’une valeur unitaire de 100 euros** à valoir sur [la boutique officielle FFC](https://boutique.ffc.fr/)
  
 *(Le tirage au sort sera effectué à partir du 14 octobre 2022. Les gagnants seront contactés par courriel.)*
 
