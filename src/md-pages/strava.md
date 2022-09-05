@@ -58,3 +58,8 @@ Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis vot
 
 Consultez les [conditions de règlement du jeu concours](/medias/reglement-challenge-STRAVA-VF.pdf)
 <participate></participate>
+
+---
+##Partenaires du challenge
+[![Fédération française de cyclisme](/medias/ffc.png)](https://www.ffc.fr/)<spacer w="1"></spacer>
+[![Suunto](medias/sunnto.png)](https://www.sports.gouv.fr/)<spacer w="1"></spacer>
