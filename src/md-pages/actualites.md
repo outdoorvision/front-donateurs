@@ -13,7 +13,7 @@ Une véritable opportunité de travailler dans le champ des sports de nature, au
 <br>
   <ul type="disc">
   <li>
-<a target="_blank" href="/medias/VISUELS_ACTUALITES/charge(e)-de-communication-projets-outdoorvision-et-suricate-place-emploi-public.pdf">Téléchargez l'offre de contrat en apprentissage.</a></li>
+<a target="_blank" href="/medias/VISUELS_ACTUALITES/charge(e)-de-communication-projets-outdoorvision-et-suricate-place-emploi-public.pdf">Téléchargez l'offre d'emploi.</a></li>
   <li>
 <a target="_blank" href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-communication-projets-outdoorvision-et-suricate-reference-2022-995521/">Consultez l'offre détaillée sur la Place de l'emploi public.</a></li>
  </ul>
