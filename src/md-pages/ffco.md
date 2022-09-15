@@ -23,9 +23,9 @@ En tant que passionné des sports outdoor, vous êtes sensible à la qualité de
 </p>
 
 Et en plus, tentez de gagner 1 des 7 lots* mis en jeux :
-- lot 1 : une **montre Instinct 2** de la marque GARMIN,
-- Lot 2, 3, 4 et 5 : votre **inscription pour O’France 2023** du 29 juillet au 04 août dans les Pyrénées-Orientales.
-- Lot 6 et 7 : votre **licence FFCO 2023** (part fédérale)
+- une **montre Instinct 2** de la marque GARMIN,
+- deux **licences FFCO 2023** (part fédérale).
+- quatres **inscriptions pour O’France 2023** du 29 juillet au 04 août dans les Pyrénées-Orientales.
  
 *Le tirage au sort sera effectué à partir du 12 septembre 2022. Les gagnants seront contactés par courriel.
 
