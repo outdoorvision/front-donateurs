@@ -40,7 +40,7 @@ Ce n’est pas but de la plateforme. Outdoorvision agrège les traces GPS des pa
 
 ---
 
-## Puis-je synchroniser mon compte Strava / Twonav / Bryton / iPhigénie / Openrunner...?
+## Puis-je synchroniser mon compte Strava / Coros / Bryton / iPhigénie...?
 Pas encore, nous sommes en discussion avec d'autres fabricants d’objets connectés que Garmin, Polar et Suunto et d'autres fournisseurs d'applications mobiles. Une synchronisation avec l’application IGNrando est envisagée pour l’été 2021.
 L’objectif d'Outdoorvision est d'être ouvert à différents [partenaires](/partenaires). Nous sommes donc à l'écoute des utilisateurs mais aussi des marques qui souhaitent être compatibles avec cette plateforme.
 
