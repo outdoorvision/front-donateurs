@@ -5,7 +5,7 @@ swap: false
 ---
 
 Les grandes marques de montres connectées (Garmin, Polar, Suunto) et les applications ou sites de référence des sports outdoor soutiennent OUTDOORVISION. 
-Grâce à ces partenariats, 6,5 millions de traces GPS alimentent déjà la plateforme pour développer la connaissance et la protection des sites de pratique outdoor.   
+Grâce à ces partenariats, 9 millions de traces GPS alimentent déjà la plateforme pour développer la connaissance et la protection des sites de pratique outdoor.   
 
 ## Découvrez les partenaires OUTDOORVISION
 
