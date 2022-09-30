@@ -9,7 +9,7 @@ Jusqu'au dimanche 09 octobre, nous menons une opération de communication et de 
  <br>
 Pour participer, il suffit d’effectuer une heure d’activité Outdoor enregistrée sur Strava, créer un compte sur Outdoorvision.fr et partager ses traces GPS. <br>
  <br>
-Gagnez notamment une <b>montre Suunto 9 Peak, un séjour vélo FFC…</b> et surtout, participez à un projet citoyen pour améliorer la pratique outdoor ! <br>
+<b>Gagnez notamment une montre Suunto 9 Peak, un séjour vélo FFC…</b> et surtout, participez à un projet citoyen pour améliorer la pratique outdoor ! <br>
  <br>
 <a target="_self" href="https://outdoorvision.fr/ffco">Accéder au challenge Strava-Outdoorvision</a> 
 <br>
