@@ -4,6 +4,20 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Challenge Strava en cours !" picture="/medias/VISUELS_ACTUALITES/CHALLENGE_STRAVA_500X500.jpg" swap="true">
+Jusqu'au dimanche 09 octobre, nous menons une opération de communication et de collecte de traces GPS Outdoor en partenariat avec STRAVA. <br>
+<br>
+Pour participer, il suffit d’effectuer une heure d’activité Outdoor enregistrée sur STRAVA, créer un compte sur Outdoorvision.fr et partager ses traces GPS. <br>
+ <br>
+Gagnez notamment une montre Suunto 9 Peak, un séjour vélo FFC… et surtout, participez à un projet citoyen pour améliorer la pratique outdoor ! <br>
+  <br>
+<a target="_self" href="https://outdoorvision.fr/ffco">Accéder au challenge Strava-Outdoorvision</a> 
+<br>
+<br>
+(30 septembre 2022)
+</imagetextblock>
+---
+
 <imagetextblock title="On recherche un(e) chargé(e) de communication" picture="/medias/VISUELS_ACTUALITES/OFFRE_EMPLOI.jpg">
 Participez au déploiement des dispositifs Outdoorvision et Suricate !<br>
  <br>
