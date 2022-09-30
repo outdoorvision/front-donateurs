@@ -16,6 +16,7 @@ Gagnez notamment une montre Suunto 9 Peak, un séjour vélo FFC… et surtout, p
 <br>
 (30 septembre 2022)
 </imagetextblock>
+
 ---
 
 <imagetextblock title="On recherche un(e) chargé(e) de communication" picture="/medias/VISUELS_ACTUALITES/OFFRE_EMPLOI.jpg">
