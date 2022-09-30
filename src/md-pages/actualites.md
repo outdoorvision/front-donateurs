@@ -5,7 +5,7 @@ randompicfolder: random
 ---
 
 <imagetextblock title="Challenge Strava en cours !" picture="/medias/VISUELS_ACTUALITES/CHALLENGE_STRAVA_500X500.jpg" swap="true">
-Jusqu'au dimanche 09 octobre, nous menons une opération de communication et de collecte de traces GPS Outdoor en <b>partenariat avec Strava </b>. <br>
+Jusqu'au dimanche 09 octobre, nous menons une opération de communication et de collecte de traces GPS Outdoor en partenariat avec Strava. <br>
  <br>
 Pour participer, il suffit d’effectuer une heure d’activité Outdoor enregistrée sur Strava, créer un compte sur Outdoorvision.fr et partager ses traces GPS. <br>
  <br>
