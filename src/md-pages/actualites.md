@@ -11,7 +11,7 @@ Pour participer, il suffit d’effectuer une heure d’activité Outdoor enregis
  <br>
 <b>Gagnez notamment une montre Suunto 9 Peak, un séjour vélo FFC…</b> et surtout, participez à un projet citoyen pour améliorer la pratique outdoor ! <br>
  <br>
-<a target="_self" href="https://outdoorvision.fr/ffco">Accéder au challenge Strava-Outdoorvision</a> 
+<a target="_self" href="https://strava.app.link/outdoorvision_preserve_the_outdoors">Accéder au challenge Strava-Outdoorvision</a> 
 <br>
 <br>
 (30 septembre 2022)
