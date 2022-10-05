@@ -74,6 +74,6 @@ Un polygone est créé à partir de plusieurs zones de pauses. Chaque polygone r
 ## Comment afficher deux cartes côte à côte dans la fonction "Comparaison temporelle" ?
 Avec la fonction "Comparaison temporelle", il est possible d’afficher la variation des flux de fréquentation sur une même carte, ou sur deux cartes côte-à-côte.
 Par défaut, une seule carte s’affiche avec les segments colorisés en fonction des variations de la fréquentation entre les périodes choisies. Il est également possible d’afficher la fréquentation sur ces deux périodes sur deux cartes en miroir. Pour cela, il vous faut aller dans le « i » le menu de gauche, puis cliquer sur "Comparer deux cartes". La carte de gauche correspond à la première période choisie (Période 1 – Base), et la carte de droite à la deuxième période (Période 2 - Observation). <br>
-![Comparaisontemporelle](/medias/faq-lateforme/Comparaisontemporelle.jpg) <br>
-![Comparaisontemporelle2](/medias/faq-lateforme/Comparaisontemporelle2.jpg) <br>
-![Comparaisontemporelle3](/medias/faq-lateforme/Comparaisontemporelle3.jpg)
+![Comparaisontemporelle](/medias/faq-plateforme/Comparaisontemporelle.jpg) <br>
+![Comparaisontemporelle2](/medias/faq-plateforme/Comparaisontemporelle2.jpg) <br>
+![Comparaisontemporelle3](/medias/faq-plateforme/Comparaisontemporelle3.jpg)
