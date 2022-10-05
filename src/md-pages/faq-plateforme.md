@@ -15,7 +15,7 @@ Ainsi, les données recueillies ne sont pas instantanément visualisables dans l
 
 ## Quelle est la différence entre échelle fixe et échelle dynamique ?
 En choisissant l’échelle fixe, les valeurs minimales sont fixes. La valeur minimale étant 1 passage (ou 1 pratiquant), et la valeur maximale 40. Ainsi, les segments comptabilisant au minimum 40 passages s’affichent en rouge. En choisissant l’échelle dynamique, les valeurs minimale et maximale s’ajustent en fonction du niveau de zoom et de la zone de visualisation. Ici, la valeur maximale est de 733 passages. Les segments comptabilisant au minimum 733 passages s’affichent alors en rouge. <br>
-![Echelle](/medias/faq-plateforme/Echelle.jpg) <br>
+![Echelle](/medias/faq-plateforme/Echelle.jpg)
 
 ---
 
@@ -23,7 +23,7 @@ En choisissant l’échelle fixe, les valeurs minimales sont fixes. La valeur mi
 Il est possible d’afficher soit les flux de passages soit les flux de pratiquants. <br>
 ![Unite](/medias/faq-plateforme/Unite.jpg) <br>
 Ainsi, les segments se colorisent en fonction soit du volume de pratiquants, soit du volume de passages. <br>
-![Unite2](/medias/faq-plateforme/Unite2.jpg) <br>
+![Unite2](/medias/faq-plateforme/Unite2.jpg)
 
 ---
 
@@ -36,13 +36,13 @@ La plateforme Outdoorvision agrège des millions de traces GPS et les restitue s
 
 ## Pourquoi les segments proches ne sont-ils pas fusionnés, notamment lorsqu’il s’agit d’un itinéraire unique ?
 Des segments parallèles peuvent apparaître, alors que les traces enregistrées ont certainement empruntés les mêmes tronçons ou sentiers. Les sens de passage ne sont pas indiqués, ce qui peut expliquer cette juxtaposition de segments. <br>
-![Segment](/medias/faq-plateforme/Segments.jpg) <br>
+![Segment](/medias/faq-plateforme/Segments.jpg)
 
 ---
 
 ## Comment expliquer les discontinuités dans le réseau de segments ?
 Des discontinuités peuvent apparaître dans le réseau de segments en raison de l’algorithme choisi. D’une part, l’algorithme recrée un réseau de segments à partir d’un pas de grille défini. Les traces traversant l’une des cases du pas de grille sont agrégées sous la forme d’un même segment. Ainsi, en fonction de la qualité des traces enregistrées, des correctifs qui ont été appliqués, ou encore du niveau de précision des appareils GPS, ce réseau peut présenter certaines discontinuités. D’autre part, des seuils de passages sont appliqués. Ainsi, sont affichés les segments comptabilisant au moins 5 passages et 3 pratiquants. Certaines traces peuvent donc passer sous ce seuil et ne pas apparaître sur la plateforme. <br>
-![Discontinuites](/medias/faq-plateforme/Discontinuites.jpg) <br>
+![Discontinuites](/medias/faq-plateforme/Discontinuites.jpg)
 
 ---
 
@@ -50,7 +50,7 @@ Des discontinuités peuvent apparaître dans le réseau de segments en raison de
 Des seuils sont appliqués pour garantir la protection des données. Ainsi il n’est pas possible d’afficher les segments de moins de 5 passages et de moins de 3 pratiquants. Si toutes activités confondues, un segment enregistrant 6 passages apparaît. Si ces traces sont issues de plusieurs familles d’activités, il se peut que selon l’activité le segment n’apparaisse pas. Par exemple, si parmi ces 6 passages on compte 5 passages ‘vélo’ et 1 passage ‘course à pied’, le passage ‘course à pied’ n’apparaîtra pas. <br>
 ![Seuil1](/medias/faq-plateforme/Seuil1.jpg) <br>
 ![Seuil2](/medias/faq-plateforme/Seuil2.jpg) <br>
-![Seuil3](/medias/faq-plateforme/Seuil3.jpg) <br>
+![Seuil3](/medias/faq-plateforme/Seuil3.jpg)
 
 ---
 
@@ -76,4 +76,4 @@ Avec la fonction "Comparaison temporelle", il est possible d’afficher la varia
 Par défaut, une seule carte s’affiche avec les segments colorisés en fonction des variations de la fréquentation entre les périodes choisies. Il est également possible d’afficher la fréquentation sur ces deux périodes sur deux cartes en miroir. Pour cela, il vous faut aller dans le « i » le menu de gauche, puis cliquer sur "Comparer deux cartes". La carte de gauche correspond à la première période choisie (Période 1 – Base), et la carte de droite à la deuxième période (Période 2 - Observation). <br>
 ![Comparaisontemporelle](/medias/faqp-lateforme/Comparaisontemporelle.jpg) <br>
 ![Comparaisontemporelle2](/medias/faqp-lateforme/Comparaisontemporelle2.jpg) <br>
-![Comparaisontemporelle3](/medias/faqp-lateforme/Comparaisontemporelle3.jpg) <br>
+![Comparaisontemporelle3](/medias/faqp-lateforme/Comparaisontemporelle3.jpg)
