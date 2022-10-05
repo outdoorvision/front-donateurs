@@ -51,6 +51,7 @@ Des seuils sont appliqués pour garantir la protection des données. Ainsi il n�
 ![Seuil1](/medias/faq-plateforme/Seuil1.jpg) <br>
 ![Seuil2](/medias/faq-plateforme/Seuil2.jpg) <br>
 ![Seuil3](/medias/faq-plateforme/Seuil3.jpg) <br>
+
 ---
 
 # Les fonctionnalités
