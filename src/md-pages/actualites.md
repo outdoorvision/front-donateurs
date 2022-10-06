@@ -4,7 +4,7 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="ROC d'Azur 2022" picture="/medias/VISUELS_ACTUALITES/ROC-Frejus_848x848.jpg">
+<imagetextblock title="ROC d'Azur 2022" picture="/medias/VISUELS_ACTUALITES/ROC-Frejus_848x848.jpg" swap="true">
 Le Roc d’Azur ? C'est <b>LE</b> rendez-vous VTT de l'année à ne manquer sous aucun prétexte ! Le succès de cet événementexceptionnel ne se dément pas année après année. La recette ? Il combine une épreuve sportive sur un site exceptionnel à un salon grand public où des milliers de passionnés peuvent découvrir les nouveautés de leurs marques et destinations favorites.<br>
  <br>
 Outdoorvision sera présent à la rencontre des pratiquants et des partenaires actuels ou futurs. Retrouvez-nous le <b>samedi 8 octobre à 16h00</b> pour l'animation Outdoorvision nous sur le <b>stand des Alpes de Hautes Provence</b> (Salon extérieur Terre / Stand T11).<br>
@@ -14,8 +14,6 @@ Outdoorvision sera présent à la rencontre des pratiquants et des partenaires a
 
 (06 octobre 2022)
 </imagetextblock>
-
-
 
 ---
 
