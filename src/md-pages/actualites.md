@@ -9,9 +9,9 @@ Le Roc d’Azur ? C'est <b>LE</b> rendez-vous VTT de l'année à ne manquer sous
  <br>
 Outdoorvision sera présent à la rencontre des pratiquants et des partenaires actuels ou futurs. Retrouvez-nous le <b>samedi 8 octobre à 16h00</b> pour l'animation Outdoorvision nous sur le <b>stand des Alpes de Hautes Provence</b> (Salon extérieur Terre / Stand T11).<br>
  <br>
-
 <a target="_blank" href="https://vtt.tourisme-alpes-haute-provence.com/roc-dazur-2022-les-animations-sur-le-stand-irresistible/">LES ANIMATIONS #IRRESISTIBLEALPESDEHAUTEPROVENCE - ROC d'AZUR #2022</a>
-
+ <br>
+ <br>
 (06 octobre 2022)
 </imagetextblock>
 
