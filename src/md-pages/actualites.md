@@ -12,7 +12,7 @@ Outdoorvision sera présent à la rencontre des pratiquants et des partenaires a
 <a target="_blank" href="https://vtt.tourisme-alpes-haute-provence.com/roc-dazur-2022-les-animations-sur-le-stand-irresistible/">LES ANIMATIONS #IRRESISTIBLEALPESDEHAUTEPROVENCE - ROC d'AZUR #2022</a>
  <br>
  <br>
-(06 octobre 2022)
+(05 octobre 2022)
 </imagetextblock>
 
 ---
