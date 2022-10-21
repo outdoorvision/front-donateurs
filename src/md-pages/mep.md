@@ -5,7 +5,7 @@ title: Les nouveautés apportées à la plateforme
 Retrouvez les nouveautées de la plateforme mise en ligne
 
 ---
-## mise à jour le 18 octobre 2022
+## mise à jour du 18 octobre 2022
 
 <ul type="disc">
 <li><b>Une optimisation du système et une correction des bugs</b></li>
