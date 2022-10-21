@@ -8,7 +8,7 @@ Retrouvez les nouveautées de la plateforme mise en ligne
 ## mise à jour le 18 octobre 2022
 
 <ul type="disc">
-### <li>Une optimisation du système et une correction des bugs</li>
+<li>Une optimisation du système et une correction des bugs</li>
 
 <li><b>L'intégration des données pour les territoires ultra-marins</b></li>
 
@@ -22,7 +22,7 @@ Ces seuils ont été diminués afin d'affiner l'observation : <br>
 <br> Vous pouvez modifier le niveau de zoom dans la barre URL de votre navigateur "Map = 10" <br>
 ![URL-zoom](/medias/faq-plateforme/mep_URL-zoom.png) <br>
 
-### <li>De nouvelles indications dans les pop-ups des segments</li> 
+<li>De nouvelles indications dans les pop-ups des segments</li> 
 <br> Désormais, lorsque vous appliquez des filtres temporels et que vous cliquez sur un segment pour afficher le nombre de passages et de pratiquants, vous avez l'indication du nombre de passages pour chaque période sélectionnée ainsi que la valeur moyenne de pratiquants sur l'ensemble de la période. <br>
 <br>
 <a target="_blank" href="/medias/faq-plateforme/mep_Video-Pop-Up.wmv">Téléchargez la video</a>
