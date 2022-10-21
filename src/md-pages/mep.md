@@ -19,6 +19,7 @@ Ces seuils ont été diminués afin d'affiner l'observation : <br>
 <br>
 <a target="_blank" href="/medias/faq-plateforme/mep_Video-Zoom.wmv">Téléchargez la video</a>
 <br> Vous pouvez modifier le niveau de zoom dans la barre URL de votre navigateur "Map = 10" <br>
+<br>
 ![URL-zoom](/medias/faq-plateforme/mep_URL-zoom.png) <br>
 <br>
 <li><b>De nouvelles indications dans les pop-ups des segments</b></li> 
