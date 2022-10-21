@@ -13,8 +13,9 @@ Quelques nouveautés ont été apportées à la plateforme ces derniers jours !
 
 ### 3. De nouveaux seuils d'affichage selon les niveaux de zoom 
 Pour rappel, pour des raisons de performance et de fluidité d'affichage, des seuils d'affichage ont été mis en place. <br> 
-<br> Selon le niveau de zoom, les segments enregistrant un minimum de passages et de pratiquants s'affichent sur la carte. <br>
-<br> Ces seuils ont été diminués afin d'affiner l'observation : <br>
+Selon le niveau de zoom, les segments enregistrant un minimum de passages et de pratiquants s'affichent sur la carte. <br>
+Ces seuils ont été diminués afin d'affiner l'observation : <br>
+<br>
 ![Téléchargez la video]() <br>
 <a target="_blank" href="/medias/faq-plateforme/mep_Video-Zoom.wmv">Téléchargez la video</a>
 
@@ -23,7 +24,7 @@ Pour rappel, pour des raisons de performance et de fluidité d'affichage, des se
 
 ### 4. De nouvelles indications dans les pop-ups des segments 
 <br> Désormais, lorsque vous appliquez des filtres temporels et que vous cliquez sur un segment pour afficher le nombre de passages et de pratiquants, vous avez l'indication du nombre de passages pour chaque période sélectionnée ainsi que la valeur moyenne de pratiquants sur l'ensemble de la période. <br>
-
+<br>
 <a target="_blank" href="/medias/faq-plateforme/mep_Video-Pop-Up.wmv">Téléchargez la video</a>
 
 ---
