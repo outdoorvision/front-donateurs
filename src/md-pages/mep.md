@@ -2,7 +2,7 @@
 title: Les nouveautés apportées à la plateforme
 ---
 
-Retrouvez les nouveautées de la plateforme mise en ligne
+Retrouvez les nouveautées de la plateforme
 
 ---
 ## mise à jour du 18 octobre 2022
