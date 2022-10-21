@@ -35,4 +35,3 @@ Désormais, lorsque vous appliquez des filtres temporels et que vous cliquez sur
 </ul>
 
 ---
-[https://www.youtube.com/embed/ChGMN1p-Pes](https://www.youtube.com/embed/ChGMN1p-Pes)
