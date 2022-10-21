@@ -2,10 +2,10 @@
 title: Les nouveautés apportées à la plateforme
 ---
 
-Bonjour,
+Retrouvez les nouveautées de la plateforme mise en ligne
 
-Quelques nouveautés ont été apportées à la plateforme ces derniers jours !
-
+---
+## le 18 octobre 2022
 
 ### 1. Une optimisation du système et une correction des bugs
 
