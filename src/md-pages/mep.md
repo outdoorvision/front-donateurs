@@ -8,7 +8,7 @@ Retrouvez les nouveautées de la plateforme mise en ligne
 ## mise à jour le 18 octobre 2022
 
 <ul type="disc">
-<li>Une optimisation du système et une correction des bugs</li>
+### <li>Une optimisation du système et une correction des bugs</li>
 
 <li><b>L'intégration des données pour les territoires ultra-marins</b></li>
 
