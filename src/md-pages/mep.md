@@ -5,6 +5,47 @@ title: Les nouveautés apportées à la plateforme
 Retrouvez les nouveautés de la plateforme
 
 ---
+
+## Mise à jour du 17 novembre 2022
+
+<ul type="disc">
+<li><b>Simplification des filtres temporels dans le panneau latéral</b></li>
+La glissière permettant de sélectionner des années a été supprimée. Les plages de dates et périodes temporelles ont été regroupées et positionnées en haut du menu de gauche. <br>
+<p align="center">
+  <img src="/medias/faq-plateforme/mep_20221117-A.png">
+</p>
+<br>
+<li><b>Amélioration de la fonction "Comparaison temporelle"</b></li>
+La fonction "Comparaison temporelle" a été simplifiée. Les filtrages selon des plages de dates ou selon des périodes (mois, saisons…) ont été regroupées dans le panneau latéral.<br>
+Il est désormais possible de comparer les flux en sélectionnant deux plages de dates dans un calendrier.
+D'autre part, le bouton permettant d'afficher les flux sur deux carte côte-à-côte a été déplacé sur le premier onglet du panneau. 
+<br>
+<p align="center">
+  <img src="/medias/faq-plateforme/mep_20221117-B.png">
+</p>
+<br>
+<li><b>Réintégration de certaines emprises géographiques</b></li>
+Certaines emprises géographiques avaient disparu du catalogue, notamment certaines intercommunalités ou Départements. Ce bug a été résolu, vous pouvez retrouver ces emprises dans le panneau latéral tout en bas "Afficher un polygone" ou "Emprise géographique" pour la fonction correspondante.<br> 
+<br>
+<p align="center">
+  <img src="/medias/faq-plateforme/mep_20221117-C.png">
+</p><br>
+<p align="center">
+  <img src="/medias/faq-plateforme/mep_20221117-D.png">
+</p>
+<br>
+<li><b>Réintégration des Zones Natura 2000 Habitats et Oiseaux</b></li>
+Du fait d'une modification du lien avec les ressources IGN, les Zones Natura 2000 étaient disponibles sous une autre terminologie. Cela a été rétabli, vous retrouvez les deux catégories "Zones Natura 2000" et "Zones Natura 2000 - Oiseaux".<br> 
+<br>
+<p align="center">
+  <img src="/medias/faq-plateforme/mep_20221117-E.png">
+</p>
+<br>
+<li><b>D'autres optimisations du système et corrections de bugs</b></li> 
+</ul>
+
+ ---
+
 ## Mise à jour du 18 octobre 2022
 
 <ul type="disc">
