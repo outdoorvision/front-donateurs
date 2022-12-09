@@ -16,7 +16,7 @@ La glissière permettant de sélectionner des années a été supprimée. Les pl
 </p>
 <br>
 <li><b>Amélioration de la fonction "Comparaison temporelle"</b></li>
-La fonction "Comparaison temporelle" a été simplifiée. Les filtrages selon des plages de dates ou selon des périodes (mois, saisons…) ont été regroupées dans le panneau latéral.<br>
+La fonction "Comparaison temporelle" a été simplifiée. Les filtrages selon des plages de dates ou selon des périodes (mois, saisons…) ont été regroupés dans le panneau latéral.<br>
 Il est désormais possible de comparer les flux en sélectionnant deux plages de dates dans un calendrier.
 D'autre part, le bouton permettant d'afficher les flux sur deux carte côte-à-côte a été déplacé sur le premier onglet du panneau. 
 <br>
