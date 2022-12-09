@@ -7,7 +7,8 @@ randompicfolder: random
 <imagetextblock title="10 millions de traces GPS collectées, MERCI !!" picture="/medias/VISUELS_ACTUALITES/10M_ski.jpg">
 Le cap des 10 millions de traces GPS a été franchi le 1er décembre dernier.<br>
  <br>
-Merci au 600 000 contributeurs français qui ont partagé au moins une trace GPS avec Outdoorvision. <b>C’est 4 millions de plus par rapport au mois de mars dernier !</b> Grâce à vous, actuellement ce sont plus de 2400 nouvelles traces recueillies en moyenne chaque jour. <br>
+Merci au 600 000 contributeurs français qui ont partagé au moins une trace GPS avec Outdoorvision. <b>C’est 4 millions de plus par rapport au mois de mars dernier !</b><br>
+Grâce à vous, la collecte quotidienne est actuellement à plus ou moins 2400 nouvelles traces. <br>
  <br>
 <img src="/medias/VISUELS_ACTUALITES/10M_repartition+evolution.jpg" alt="Evolution + répartition" width=100% height=100%/>
  <br>
