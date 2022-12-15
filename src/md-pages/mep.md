@@ -6,6 +6,46 @@ Retrouvez les nouveautés de la plateforme
 
 ---
 
+## Mise à jour du 15 décembre 2022
+
+<ul type="disc">
+Un nouveau onglet est désormais disponible dans le panneau latéral, à partir duquel vous pouvez afficher le catalogue les emprises géographiques,  l'offre d'itinéraires, les signalements Suricate et la localisation des compteurs automatiques.<br>
+Cet onglet est disponible sur l'ensemble des fonctionnalités.<br>
+<br>
+<p align="center">
+  <img src="/medias/faq-plateforme/mep_20221215-A.png">
+</p>
+<br>
+<li><b>	Pour l'offre d'itinéraires :</b></li>
+Vous pouvez afficher l'offre d'itinéraires actuellement intégrée dans Outdoorvision, c'est-à-dire les GR et PR labellisés de la Fédération française de randonnée pédestre, les sites VTT et espaces cyclosport de la Fédération française de cyclisme, ainsi que les itinéraires chargés manuellement par le PRNSN.<br> 
+Ces itinéraires s'affichent au-dessus des flux de fréquentation Outdoorvision. Vous pouvez choisir d'afficher un ou plusieurs types d'itinéraires, en les sélectionnant dans une liste déroulante.
+<br> 
+<br> 
+<I> Vous pouvez afficher uniquement les types d'itinéraires présents sur votre territoire.<br> 
+Par exemple, si votre territoire ne dispose pas de sites VTT, cette catégorie n'apparaîtra pas dans la liste déroulante. </I><br>
+<p align="center">
+  <img src="/medias/faq-plateforme/mep_20221215-B.png">
+</p>
+<br>
+Lorsque les itinéraires sont affichés sur la carte, vous pouvez en sélectionner un. Une fenêtre s'ouvre vous proposant de basculer vers la fonctionnalité 'Itinéraire défini' afin de calculer la fréquentation le long de l'itinéraire en question.<br>
+<p align="center">
+  <img src="/medias/faq-plateforme/mep_20221215-C.png">
+</p>
+<br>
+<li><b>	Pour les emprises géographiques :</b></li>
+Vous pouvez afficher le catalogue d'emprises géographiques disponibles sur la plateforme. Ces ressources sont requêtées auprès de l'IGN : limites administratives, forêts publiques, zones natura 2000, parcs naturels régionaux, parcs nationaux et réserves naturelles. D'autres polygones sont chargés manuellement par le PRNSN.<br>
+<p align="center">
+  <img src="/medias/faq-plateforme/mep_20221215-D.png">
+</p>
+<br>
+De même que pour les itinéraires, vous pouvez afficher le nom de l'emprise et en sélectionner une. Ainsi, vous basculez vers la fonctionnalité "Emprise géographique" permettant de calculer le nombre de passages et de pratiquants au sein de la zone sélectionnée.<br>
+<p align="center">
+  <img src="/medias/faq-plateforme/mep_20221215-E.png">
+</p>
+<br>
+
+---
+
 ## Mise à jour du 17 novembre 2022
 
 <ul type="disc">
