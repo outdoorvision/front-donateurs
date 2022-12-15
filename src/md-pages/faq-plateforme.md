@@ -11,6 +11,16 @@ Ainsi, les données recueillies ne sont pas instantanément visualisables dans l
 
 ---
 
+### Comment se fait la distinction entre les activités ?
+Cette distinction s'appuie sur l'activité déclarée par le pratiquant lors de l'enregistrement de sa trace. Toutefois, des correctifs sont appliqués si l'algorithme identifie des incohérences. Par exemple, un pratiquant ayant déclaré sa trace en "course à pied" alors que la vitesse moyenne enregistrée est de 24km/h, sa trace sera rattachée à la famille d'activités "Pédaler". <br>
+
+---
+
+### La fréquence de mise à jour des données Suricate est-elle la même que l'intégration des données GPS agrégées ?
+L'intégration des données Suricate est indépendante de l'intégration de données agrégées. La base de données Suricate est gérée au Pôle ressources national sports de nature, qui intègre manuellement les nouveaux signalements enregistrés. Pour l'intégration des données GPS, c'est le prestataire Makina Corpus qui se charge de réaliser cette opération. <br>
+
+---
+
 ## L’interface
 
 ### Quelle est la différence entre échelle fixe et échelle dynamique ?
@@ -78,11 +88,6 @@ Par exemple, les polygones en orange représentent les zones de pauses des prati
 
 ---
 
-### Comment afficher deux cartes côte à côte dans la fonction "Comparaison temporelle" ?
-Avec la fonction "Comparaison temporelle", il est possible d’afficher la variation des flux de fréquentation sur une même carte, ou sur deux cartes côte-à-côte. <br>
-Par défaut, une seule carte s’affiche avec les segments colorisés en fonction des variations de la fréquentation entre les périodes choisies. <br>
-![Comparaisontemporelle](/medias/faq-plateforme/Comparaisontemporelle.jpg) <br>
- <br>
-Il est également possible d’afficher la fréquentation sur ces deux périodes sur deux cartes en miroir. Pour cela, il vous faut aller dans le « i » le menu de gauche, puis cliquer sur "Comparer deux cartes". La carte de gauche correspond à la première période choisie (Période 1 – Base), et la carte de droite à la deuxième période (Période 2 - Observation). <br>
-![Comparaisontemporelle2](/medias/faq-plateforme/Comparaisontemporelle2.jpg) <br>
-![Comparaisontemporelle3](/medias/faq-plateforme/Comparaisontemporelle3.jpg)
+### Quels itinéraires sont actuellement intégrés dans la plateforme ?
+Les itinéraires intégrés actuellement dans la plateforme sont les GR et PR labellisés par la Fédération française de randonnée pédestre, ainsi que les sites VTT et Espaces Cyclosport de la Fédération française de cyclisme.
+D'autres types d'itinéraires peuvent être intégrés à la demande, dans le cas de partenariats Experts. Vous pouvez retrouvez ce catalogue dans la fonctionnalité "Itinéraire défini" afin de mesurer la fréquentation sur ces itinéraires.
