@@ -9,7 +9,7 @@ Retrouvez les nouveautés de la plateforme
 ## Mise à jour du 15 décembre 2022
 
 <ul type="disc">
-Un nouveau onglet est désormais disponible dans le panneau latéral, à partir duquel vous pouvez afficher le catalogue les emprises géographiques,  l'offre d'itinéraires, les signalements Suricate et la localisation des compteurs automatiques.<br>
+Un nouveau onglet est désormais disponible dans le panneau latéral, à partir duquel vous pouvez afficher le catalogue des emprises géographiques,  l'offre d'itinéraires, les signalements Suricate et la localisation des compteurs automatiques.<br>
 Cet onglet est disponible sur l'ensemble des fonctionnalités.<br>
 <br>
 <p align="center">
@@ -23,6 +23,7 @@ Ces itinéraires s'affichent au-dessus des flux de fréquentation Outdoorvision.
 <br> 
 <I> Vous pouvez afficher uniquement les types d'itinéraires présents sur votre territoire.<br> 
 Par exemple, si votre territoire ne dispose pas de sites VTT, cette catégorie n'apparaîtra pas dans la liste déroulante. </I><br>
+<br>
 <p align="center">
   <img src="/medias/faq-plateforme/mep_20221215-B.png">
 </p>
