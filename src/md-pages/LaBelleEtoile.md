@@ -1,10 +1,10 @@
 ---
-title: CHALLENGE FF Course d'Orientation
+title: CHALLENGE La Belle Etoile
 ---
 
 ##Jouez pour préserver votre terrain de jeu !
 
-Dans le cadre des championnats de France à Risoul, partagez vos traces GPS et contribuez à la préservation et l'aménagement de vos espaces de pratique de course d'orientation !
+Dans le cadre du week-end de course de La Belle Etoile dans le massif de Belledonne, partagez vos traces GPS et contribuez à la prise en compte du ski de randonnée dans les enjeux du territoire !
 
 <participate></participate>
 
@@ -23,11 +23,12 @@ En tant que passionné des sports outdoor, vous êtes sensible à la qualité de
 </p>
 
 Et en plus, tentez de gagner 1 des 7 lots* mis en jeux :
-- une **montre Instinct 2** de la marque GARMIN,
-- deux **licences FFCO 2023** (part fédérale).
-- quatres **inscriptions pour O’France 2023** du 29 juillet au 04 août dans les Pyrénées-Orientales.
+- une **montre Baro 9** de la marque Suunto,
+- deux **formation nivologie** avec l'ANENA.
+- quatres **DYNAFIT**
+- **Ortovox**
  
-*Le tirage au sort sera effectué à partir du 12 septembre 2022. Les gagnants seront contactés par courriel.
+*Le tirage au sort sera effectué à partir du 13 février 2023. Les gagnants seront contactés par courriel.
 
 <p align="center">
   <img src="/medias/challenge-FFCO-03.jpg">
