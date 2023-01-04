@@ -10,6 +10,9 @@
 [![La Fédération française de randonnée pédestre](/medias/ffrp.png)](https://www.ffrandonnee.fr/)<spacer w="1"></spacer>
 [![La Fédération française de course d'orientation](/medias/ffco.png)](http://ffcorientation.fr/)<spacer w="1"></spacer>
 [![La fédération des parcs naturels régionaux de France](/medias/FPNR.png)](https://www.parcs-naturels-regionaux.fr/)<spacer w="1"></spacer>
-[![L'institut de Géographie Alpine de l'Université de Grenoble](/medias/iuga.png)](https://iuga.univ-grenoble-alpes.fr/)<spacer w="1"></spacer>
 [![L’Institut national de l’information géographique et forestière (IGN)](/medias/ign.png)](https://www.ign.fr/)<spacer w="1"></spacer>
+[![L’Agence nationale de la cohésion des territoires](/medias/ANCT.png)](https://agence-cohesion-territoires.gouv.fr/)<spacer w="1"></spacer>
+[![L'Office français de la Biodiversité](/medias/OFB.png)](https://www.ofb.gouv.fr/)
+
+[![L'institut de Géographie Alpine de l'Université de Grenoble](/medias/iuga.png)](https://iuga.univ-grenoble-alpes.fr/)<spacer w="1"></spacer>
 [![Le CREPS Auvergne - Rhône-Alpes](/medias/creps.png)](https://www.creps-rhonealpes.sports.gouv.fr/)
