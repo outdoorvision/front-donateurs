@@ -24,9 +24,9 @@ En tant que passionné des sports outdoor, vous êtes sensible à la qualité de
 
 Et en plus, tentez de gagner 1 des 7 lots* mis en jeux :
 - une **montre Baro 9** de la marque Suunto,
-- deux **formation nivologie** avec l'ANENA.
-- quatres **DYNAFIT**
-- **Ortovox**
+- des **formations nivologie** avec l'ANENA,
+- des lots surprises **DYNAFIT**,
+- des lots surprises **Ortovox**.
  
 *Le tirage au sort sera effectué à partir du 13 février 2023. Les gagnants seront contactés par courriel.
 
