@@ -60,5 +60,5 @@ Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto) 
 
 Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre compte Garmin connect™, Suunto APP (appli Suunto) ou Polar flow. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
 
-Consultez les [conditions de règlement du jeu concours](/medias/Règlement_Jeu_Concours_Challenge_OutdoorvisionxFFCO.pdf)
+Consultez les [conditions de règlement du jeu concours](/medias/Règlement_Jeu_Concours_Challenge_OutdoorvisionxLaBelleEtoile.pdf)
 <participate></participate>
