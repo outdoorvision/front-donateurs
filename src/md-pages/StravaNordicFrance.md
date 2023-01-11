@@ -22,8 +22,8 @@ Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentier
 
 - La **montre GPS Suunto Baro 9** de la marque finlandaise [Suunto](https://www.suunto.com/fr-fr/),
 - Cinq **nordic pass pour la saison 2023-2024** [Nordic France](https://www.nordicfrance.fr/),
-- XXXX **Cours de ski** avec l'Ecole de Ski Française (https://www.esf.net/),
-- XXXX **bons d’achat Salomon** à valoir sur [La boutique officielle Salomon](https://www.salomon.com/fr-fr)
+- Des **Cours de ski** avec l'Ecole de Ski Française (https://www.esf.net/),
+- Une paire de ski nordique **XXX Salomon** (https://www.salomon.com/fr-fr),
 - Trois lunettes Julbo Reactiv technologie (https://www.julbo.com/fr_fr/)  
 
 
