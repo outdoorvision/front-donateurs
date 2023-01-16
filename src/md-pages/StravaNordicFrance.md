@@ -13,7 +13,7 @@ Vous faites partie de la communauté Outdoorvision ! **Pour valider votre partic
 Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentiers et itinéraires qu'elle utilise !
 
 <p align="center">
-  <img src="/medias/challenge-STRAVA-02.jpg">
+  <img src="/medias/taille carré_trace_visuel.png">
 </p>
 
 ---
@@ -30,7 +30,7 @@ Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentier
 *(Le tirage au sort sera effectué à partir du 1er mars 2023. Les gagnants seront contactés par courriel.)*
 
 <p align="center">
-  <img src="/medias/challenge-STRAVA-03b.jpg">
+  <img src="/medias/challenge/Lots.png">
 </p>
 
 ---
