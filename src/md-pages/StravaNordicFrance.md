@@ -1,6 +1,6 @@
 ---
 title: Vous avez terminé le challenge !
-picture: /medias/challenge-STRAVA-01c.jpg
+picture: /medias/challenge/Strava_Nordic-France-01.png
 swap: false
 ---
 
