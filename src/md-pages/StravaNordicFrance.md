@@ -13,7 +13,7 @@ Vous faites partie de la communauté Outdoorvision ! **Pour valider votre partic
 Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentiers et itinéraires qu'elle utilise !
 
 <p align="center">
-  <img src="/medias/taille carré_trace_visuel.png">
+  <img src="/medias/challenge/taille carré_trace_visuel.png">
 </p>
 
 ---
