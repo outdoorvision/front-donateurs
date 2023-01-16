@@ -21,9 +21,9 @@ Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentier
 ##Gagnez un des lots offerts par les partenaires partageant les valeurs d'Outdoorvision !
 
 - La **montre GPS Suunto Baro 9** de la marque finlandaise [Suunto](https://www.suunto.com/fr-fr/),
+- Une paire de ski nordique **S/RACE SKATE Salomon** (https://www.salomon.com/fr-fr),
 - Cinq **nordic pass pour la saison 2023-2024** [Nordic France](https://www.nordicfrance.fr/),
 - Des **Cours de ski** avec l'Ecole de Ski Française (https://www.esf.net/),
-- Une paire de ski nordique **XXX Salomon** (https://www.salomon.com/fr-fr),
 - Trois lunettes Julbo Reactiv technologie (https://www.julbo.com/fr_fr/)  
 
 
