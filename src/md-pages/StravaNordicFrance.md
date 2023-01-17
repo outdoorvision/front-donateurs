@@ -1,6 +1,6 @@
 ---
 title: Vous avez terminé le challenge !
-picture: /medias/challenge-STRAVA-01c.jpg
+picture: /medias/challenge/Strava_Nordic-France-01.png
 swap: false
 ---
 
@@ -13,7 +13,7 @@ Vous faites partie de la communauté Outdoorvision ! **Pour valider votre partic
 Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentiers et itinéraires qu'elle utilise !
 
 <p align="center">
-  <img src="/medias/challenge-STRAVA-02.jpg">
+  <img src="/medias/challenge/Strava_Nordic-France-02.png">
 </p>
 
 ---
@@ -21,16 +21,16 @@ Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentier
 ##Gagnez un des lots offerts par les partenaires partageant les valeurs d'Outdoorvision !
 
 - La **montre GPS Suunto Baro 9** de la marque finlandaise [Suunto](https://www.suunto.com/fr-fr/),
+- Une paire de ski nordique **S/RACE SKATE Salomon** (https://www.salomon.com/fr-fr),
 - Cinq **nordic pass pour la saison 2023-2024** [Nordic France](https://www.nordicfrance.fr/),
-- XXXX **Cours de ski** avec l'Ecole de Ski Française (https://www.esf.net/),
-- XXXX **bons d’achat Salomon** à valoir sur [La boutique officielle Salomon](https://www.salomon.com/fr-fr)
+- Des **Cours de ski** avec l'Ecole de Ski Française (https://www.esf.net/),
 - Trois lunettes Julbo Reactiv technologie (https://www.julbo.com/fr_fr/)  
 
 
 *(Le tirage au sort sera effectué à partir du 1er mars 2023. Les gagnants seront contactés par courriel.)*
 
 <p align="center">
-  <img src="/medias/challenge-STRAVA-03b.jpg">
+  <img src="/medias/challenge/Strava_Nordic-France-03.png">
 </p>
 
 ---
@@ -58,5 +58,5 @@ Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis vot
 
 ---
 
-Consultez les [conditions de règlement du jeu concours](/medias/reglement-challenge-STRAVA-VF.pdf)
+Consultez les [conditions de règlement du jeu concours](/medias/challenge/reglement-challenge-STRAVA-Nordic_France.pdf)
 <participate></participate>
