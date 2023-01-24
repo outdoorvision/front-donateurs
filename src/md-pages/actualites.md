@@ -3,7 +3,7 @@ title: Nos actualités
 swap: false
 randompicfolder: random
 ---
-<a name="ancre-01">
+<a name="ancre-01"> </a>
 <imagetextblock title="10 millions de traces GPS collectées, MERCI !!" picture="/medias/VISUELS_ACTUALITES/10M_ski.jpg">
 Le cap des 10 millions de traces GPS a été franchi le 1er décembre dernier.<br>
  <br>
