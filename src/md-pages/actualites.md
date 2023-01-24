@@ -3,7 +3,9 @@ title: Nos actualités
 swap: false
 randompicfolder: random
 ---
+
 <a name="ancre-01"> </a>
+
 <imagetextblock title="10 millions de traces GPS collectées, MERCI !!" picture="/medias/VISUELS_ACTUALITES/10M_ski.jpg">
 Le cap des 10 millions de traces GPS a été franchi le 1er décembre dernier.<br>
  <br>
@@ -18,6 +20,7 @@ Grâce à vous, la collecte quotidienne est actuellement de 2400 nouvelles trace
 </imagetextblock>
 
 ---
+
 <a name="ancre-02"> </a>
 <imagetextblock title="Le département des Alpes de Haute Provence et ses communautés de communes formés à l’utilisation d’Outdoorvision" picture="/medias/VISUELS_ACTUALITES/Formation04_600x600.jpg" swap="true">
 Les chargés de missions sports de nature des communautés de communes et d’agglomération du département, l’agence de développement 04, la réserve géologique de Haute-Provence et le PNR du Verdon étaient réunis les 15 et 16 septembre à Digne les Bains pour se familiariser avec l’utilisation de la plateforme Outdoorvision. Animée par Elodie Villard, cette formation est le point de départ d’un <b>partenariat de trois années entre le pôle ressources national des sports de nature du Ministère des sports et le département</b>.<br>
