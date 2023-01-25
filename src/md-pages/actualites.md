@@ -4,6 +4,28 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock id="ancre19" title="J-3 avant La Belle Etoile et notre grand jeu CHALLENGE Outdoorvision !" picture="/medias/VISUELS_ACTUALITES/Photo 1.png" swap="true">
+La Belle Etoile et le Département de l’Isère en partenariat avec <b>OUTDOORVISION vous offre une montre Suunto, des lots suprises Dynafit, Anena et Orthovox !</b><br>
+ <br>
+L’objectif d’OUTDOORVISION est <b>de connaître les parcours les plus utilisés en ski de randonnée.</b><br>
+ <br>
+Une meilleure connaissance de cette pratique sur le territoire est essentielle pour prendre en compte les enjeux de sécurité tout en apportant plus de services aux pratiquants (zones de stationnement, toilettes sèches…).<br>
+ <br>
+La réussite d’OUTDOORVISION dépend de <b>vos contributions !</b><br>
+ <br>
+ 
+Pour participer il suffit de :<br>
+<ul type="disc">
+  <li>Courir l'un des parcours de  La Belle Etoile</li>
+  <li>Créer un compte sur Outdoorvision.fr et synchroniser votre montre connectée pour partager vos traces GPS</li>
+ </ul>
+Rendez-vous le 13 février pour découvrir les heureux élus !<br>
+<br>
+(25 janvier 2023)
+</imagetextblock>
+
+---
+
 <imagetextblock id="ancre20" title="10 millions de traces GPS collectées, MERCI !!" picture="/medias/VISUELS_ACTUALITES/10M_ski.jpg">
 Le cap des 10 millions de traces GPS a été franchi le 1er décembre dernier.<br>
  <br>
