@@ -4,7 +4,29 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="10 millions de traces GPS collectées, MERCI !!" picture="/medias/VISUELS_ACTUALITES/10M_ski.jpg">
+<imagetextblock id="ancre19" title="J-3 avant La Belle Etoile et notre grand jeu CHALLENGE Outdoorvision !" picture="/medias/VISUELS_ACTUALITES/Photo 1.png" swap="true">
+La Belle Etoile et le Département de l’Isère en partenariat avec <b>OUTDOORVISION vous offre une montre Suunto, des lots suprises Dynafit, Anena et Orthovox !</b><br>
+ <br>
+L’objectif d’OUTDOORVISION est <b>de connaître les parcours les plus utilisés en ski de randonnée.</b><br>
+ <br>
+Une meilleure connaissance de cette pratique sur le territoire est essentielle pour prendre en compte les enjeux de sécurité tout en apportant plus de services aux pratiquants (zones de stationnement, toilettes sèches…).<br>
+ <br>
+La réussite d’OUTDOORVISION dépend de <b>vos contributions !</b><br>
+ <br>
+ 
+Pour participer il suffit de :<br>
+<ul type="disc">
+  <li>Courir l'un des parcours de  La Belle Etoile</li>
+  <li>Créer un compte sur Outdoorvision.fr et synchroniser votre montre connectée pour partager vos traces GPS</li>
+ </ul>
+Rendez-vous le 13 février pour découvrir les heureux élus !<br>
+<br>
+(25 janvier 2023)
+</imagetextblock>
+
+---
+
+<imagetextblock id="ancre20" title="10 millions de traces GPS collectées, MERCI !!" picture="/medias/VISUELS_ACTUALITES/10M_ski.jpg">
 Le cap des 10 millions de traces GPS a été franchi le 1er décembre dernier.<br>
  <br>
 Merci au 600 000 contributeurs français qui ont partagé au moins une trace GPS avec Outdoorvision. <b>C’est 4 millions de plus par rapport au mois de mars dernier !</b><br>
@@ -18,7 +40,8 @@ Grâce à vous, la collecte quotidienne est actuellement de 2400 nouvelles trace
 </imagetextblock>
 
 ---
-<imagetextblock title="Le département des Alpes de Haute Provence et ses communautés de communes formés à l’utilisation d’Outdoorvision" picture="/medias/VISUELS_ACTUALITES/Formation04_600x600.jpg" swap="true">
+
+<imagetextblock id="ancre19" title="Le département des Alpes de Haute Provence et ses communautés de communes formés à l’utilisation d’Outdoorvision" picture="/medias/VISUELS_ACTUALITES/Formation04_600x600.jpg" swap="true">
 Les chargés de missions sports de nature des communautés de communes et d’agglomération du département, l’agence de développement 04, la réserve géologique de Haute-Provence et le PNR du Verdon étaient réunis les 15 et 16 septembre à Digne les Bains pour se familiariser avec l’utilisation de la plateforme Outdoorvision. Animée par Elodie Villard, cette formation est le point de départ d’un <b>partenariat de trois années entre le pôle ressources national des sports de nature du Ministère des sports et le département</b>.<br>
  <br>
 Après une brève présentation du projet, les participants ont pu visualiser les usages de leurs territoires par les pratiquants outdoor en randonnée pédestre, course à pied et vélo.<br>
@@ -37,7 +60,7 @@ Rendez-vous est pris pour relater les cas d’usages sur les observations effect
 
 ---
 
-<imagetextblock title="ROC d'Azur 2022" picture="/medias/VISUELS_ACTUALITES/ROC-Frejus_848x848.jpg">
+<imagetextblock id="ancre18" title="ROC d'Azur 2022" picture="/medias/VISUELS_ACTUALITES/ROC-Frejus_848x848.jpg">
 Le Roc d’Azur ? C'est <b>LE</b> rendez-vous VTT de l'année à ne manquer sous aucun prétexte ! Le succès de cet événementexceptionnel ne se dément pas année après année. La recette ? Il combine une épreuve sportive sur un site exceptionnel à un salon grand public où des milliers de passionnés peuvent découvrir les nouveautés de leurs marques et destinations favorites.<br>
  <br>
 Outdoorvision sera présent à la rencontre des pratiquants et des partenaires actuels ou futurs. Retrouvez-nous le <b>samedi 8 octobre à 16h00</b> pour l'animation Outdoorvision sur le <b>stand des Alpes de Hautes Provence</b> (Salon extérieur Terre / Stand T11).<br>
@@ -236,6 +259,7 @@ Le cap des 6,5 millions de traces GPS a été franchi le 15 janvier dernier et c
 
 ---
 
+<a name="ancre-17"> </a>
 <imagetextblock title="Challenge OUTDOORVISION" picture="/medias/VISUELS_ACTUALITES/CHALLENGE_OUTDOORVISION_272X272.jpg" swap="true">
 Ce challenge national qui propose aux pratiquants de contribuer à la préservation des sites et itinéraires outdoor en partageant leurs traces GPS a été créé en partenariat avec la Fédération Française de Cyclisme et la Fédération Française de la Randonnée. Les deux fédérations ont ainsi pu relayer le challenge vers leurs centaines de milliers de licenciés, tous très attachés à la préservation des sites de pratique. Un grand merci ! <br>
   <br>
