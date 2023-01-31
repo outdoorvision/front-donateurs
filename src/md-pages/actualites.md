@@ -22,8 +22,8 @@ Pour participer il suffit de :<br>
 Rendez-vous le 13 février pour découvrir les heureux élus !<br>
 <br>
 (25 janvier 2023)
-<div id="ancre20"></div> 
 </imagetextblock>
+<div id="ancre20"></div>
 
 ---
 
@@ -38,8 +38,8 @@ Grâce à vous, la collecte quotidienne est actuellement de 2400 nouvelles trace
  <br>
  <br>
 (08 décembre 2022)
-<div id="ancre19"></div> 
 </imagetextblock>
+<div id="ancre19"></div>
 
 ---
 
@@ -58,8 +58,8 @@ Dans le périmètre du département la plateforme permet de suivre les évolutio
 Rendez-vous est pris pour relater les cas d’usages sur les observations effectuées en 2023. Des actions d’information sur le dispositif Outdoorvision envers les pratiquants Outdoor sont aussi programmées sur les manifestations sportives organisées dans le département en 2023.<br>
 <br>
 (24 octobre 2022)
-<div id="ancre18"></div>
 </imagetextblock>
+<div id="ancre18"></div>
 
 ---
 
@@ -72,8 +72,8 @@ Outdoorvision sera présent à la rencontre des pratiquants et des partenaires a
  <br>
  <br>
 (05 octobre 2022)
-<div id="ancre17"></div>
 </imagetextblock>
+<div id="ancre17"></div>
 
 ---
 
@@ -88,8 +88,8 @@ Pour participer, il suffit d’effectuer une heure d’activité Outdoor enregis
 <br>
 <br>
 (30 septembre 2022)
-<div id="ancre16"></div>
 </imagetextblock>
+<div id="ancre16"></div>
 
 ---
 
@@ -107,8 +107,8 @@ Une véritable opportunité de travailler dans le champ des sports de nature, au
 <a target="_blank" href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-communication-projets-outdoorvision-et-suricate-reference-2022-995521/">Consultez l'offre détaillée sur la Place de l'emploi public.</a></li>
  </ul>
 (02 septembre 2022)
-<div id="ancre15"></div>
 </imagetextblock>
+<div id="ancre15"></div>
 
 ---
 
@@ -125,8 +125,8 @@ Thibaut, vous nous avez contacté il y a quelques jours pour connaître les avan
 <i>Enfin la course à pied en zone urbaine qui s'est développée de manière informelle et souvent sous les radars des aménageurs. Avec la connaissance des flux principaux de joggeurs, les urbanistes pourraient développer des voies douces/vertes pour le footing à l'instar des trames vertes ou bleues (comme les corridors écologiques pour la continuité de la circulation de la faune).</i><br>
  <br>
 (01 septembre 2022)
-<div id="ancre14"></div>
 </imagetextblock>
+<div id="ancre14"></div>
 
 ---
 
@@ -141,8 +141,8 @@ Pour le balisage des parcours, c’est l’option de la réutilisation de la bal
 <br>
 <br>
 (30 août 2022)
-<div id="ancre13"></div>
 </imagetextblock>
+<div id="ancre13"></div>
 
 ---
 
@@ -156,8 +156,8 @@ Les 1400 orienteurs attendus les 27 et 28 août dans la station des Hautes-Alpes
 <br>
 <br>
 (23 août 2022)
-<div id="ancre12"></div> 
 </imagetextblock>
+<div id="ancre12"></div> 
 
 --- 
 
@@ -169,8 +169,8 @@ Sur différents sites, des agents du Parc National iront à la rencontre des vis
 Le potentiel est prometteur avec la possibilité de cartographier, à différentes échelles, les passages de pratiquants, d’identifier les lieux de départs, les lieux de pauses ou encore d’avoir une vision des pratiques sur une année complète. <br>
 <br>
 (05 juillet 2022)
-<div id="ancre11"></div> 
 </imagetextblock>
+<div id="ancre11"></div> 
 
 ---
 
@@ -185,8 +185,8 @@ Moins de traces mais plus de qualité, c’est le leitmotiv de On Piste qui ne s
 <br>
 <br>
 (24 juin 2022)
-<div id="ancre10"></div> 
 </imagetextblock>
+<div id="ancre10"></div> 
 
 ---
 
@@ -198,8 +198,8 @@ Eric Thouvenin - Fondateur d'OPENRUNNER, Véronique Lucas - Chargée de mission 
 <br>
 <br>
 (13 juin 2022)
-<div id="ancre09"></div> 
 </imagetextblock>
+<div id="ancre09"></div> 
 
 ---
 
@@ -217,8 +217,8 @@ En 2023, un nouvel appel à manifestation d’intérêt sera proposé pour perme
 <br>
 <br>
 (02 juin 2022)
-<div id="ancre08"></div> 
 </imagetextblock>
+<div id="ancre08"></div> 
 
 ---
 
@@ -228,8 +228,8 @@ Nous vous invitons à cliquer sur le lien afin de remplir ce questionnaire de 15
 <ul type="disc">
 <li><a target="_blank" href="https://enquetes.univ-grenoble-alpes.fr/SurveyServer/s/sens-doct-tourisme/sports-de-nature-2022/questionnaire.htm">Lien vers l’enquête</a></li></ul>
 (17 mai 2022)
-<div id="ancre07"></div> 
 </imagetextblock>
+<div id="ancre07"></div> 
 
 ---
 
@@ -252,8 +252,8 @@ Plus votre contribution sera grande, plus votre chance de gagner sera importante
   <li>25 km : 20 abonnements Passion rando magazine et 10 cycloguides Glénat Voyages à vélo et VAE Ardèche&Drôme </li>
 </ul>
 (10 mai 2022)
-<div id="ancre06"></div> 
 </imagetextblock>
+<div id="ancre06"></div> 
 
 ---
 
@@ -261,8 +261,8 @@ Plus votre contribution sera grande, plus votre chance de gagner sera importante
 Les mardi 15 et mercredi 16 mars matin, avec le soutien logistique de l’office de tourisme de Millau, le CRTL Occitanie a organisé la 2ème édition des journées partenariales des activités de pleine nature, au Théâtre de la Maison du Peuple de Millau. Cet événement gratuit était ouvert à tous les acteurs régionaux des activités de pleine nature. Outdoorvision était à l’honneur en plènière introductive de la seconde journée. <br><a target="_blank" href="https://youtu.be/YJ9quTeV-TQ/">Visionnez l'intervention en replay</a> d’Elodie Villard et Christophe Martinez. <br>
  <br>
 (03 mai 2022)
-<div id="ancre05"></div> 
 </imagetextblock>
+<div id="ancre05"></div> 
 
 ---
 
@@ -270,8 +270,8 @@ Les mardi 15 et mercredi 16 mars matin, avec le soutien logistique de l’office
 Le cap des 6,5 millions de traces GPS a été franchi le 15 janvier dernier et ce n’est qu’un début ! Nos partenariats avec les plus grandes marques de montres connectés et les applications de référence des sports outdoor et la contribution directe de milliers de pratiquants sont à l’origine de ce succès. <br>
   <br>
 (08 mars 2022)
-<div id="ancre04"></div> 
 </imagetextblock>
+<div id="ancre04"></div> 
 
 ---
 
@@ -280,8 +280,8 @@ Le cap des 6,5 millions de traces GPS a été franchi le 15 janvier dernier et c
 Ce challenge national qui propose aux pratiquants de contribuer à la préservation des sites et itinéraires outdoor en partageant leurs traces GPS a été créé en partenariat avec la Fédération Française de Cyclisme et la Fédération Française de la Randonnée. Les deux fédérations ont ainsi pu relayer le challenge vers leurs centaines de milliers de licenciés, tous très attachés à la préservation des sites de pratique. Un grand merci ! <br>
   <br>
 (22 février 2022)
-<div id="ancre03"></div> 
 </imagetextblock>
+<div id="ancre03"></div> 
 
 ---
 
@@ -289,8 +289,8 @@ Ce challenge national qui propose aux pratiquants de contribuer à la préservat
 Depuis janvier 2022, la marque POLAR s’associe à OUTDOORVISION. Grâce à ce partenariat, tous les pratiquants équipés de montres connectées POLAR peuvent contribuer à la plateforme en partageant leurs traces GPS via l’application POLAR FLOW. <br>
   <br>
 (14 février 2021)
-<div id="ancre02"></div> 
 </imagetextblock>
+<div id="ancre02"></div> 
 
 ---
 
@@ -298,8 +298,8 @@ Depuis janvier 2022, la marque POLAR s’associe à OUTDOORVISION. Grâce à ce 
 « L’exploration et l’aventure sont au cœur de l’ADN Suunto ; des océans aux sommets des montagnes et autres terrains accidentés, nous avons une connexion profonde avec les grands espaces. C’est notre terrain de jeu quotidien, notre plateforme d’aventure. Et c’est pourquoi il était naturel pour nous d’accompagner le développement d’OUTDOORVISION pour la préservation de notre environnement outdoor ». <br><a target="_blank" href="https://youtu.be/E-0ErJEaYkc/">Visionnez l'interview</a> de Noémie Le Govic<br>
  <br>
 (11 janvier 2022)
-<div id="ancre01"></div> 
 </imagetextblock>
+<div id="ancre01"></div> 
 
 ---
 
