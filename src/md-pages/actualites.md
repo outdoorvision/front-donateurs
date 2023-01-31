@@ -37,7 +37,7 @@ Grâce à vous, la collecte quotidienne est actuellement de 2400 nouvelles trace
  <br>
  <br>
 (08 décembre 2022)
-<span id="ancre20"></span> 
+<div id="ancre20"></div> 
 </imagetextblock>
 
 ---
@@ -57,7 +57,7 @@ Dans le périmètre du département la plateforme permet de suivre les évolutio
 Rendez-vous est pris pour relater les cas d’usages sur les observations effectuées en 2023. Des actions d’information sur le dispositif Outdoorvision envers les pratiquants Outdoor sont aussi programmées sur les manifestations sportives organisées dans le département en 2023.<br>
 <br>
 (24 octobre 2022)
-<span id="ancre19"></span>
+<div id="ancre19"></div>
 </imagetextblock>
 
 ---
@@ -71,7 +71,7 @@ Outdoorvision sera présent à la rencontre des pratiquants et des partenaires a
  <br>
  <br>
 (05 octobre 2022)
-<span id="ancre18"></span>
+<div id="ancre18"></div>
 </imagetextblock>
 
 ---
@@ -87,7 +87,7 @@ Pour participer, il suffit d’effectuer une heure d’activité Outdoor enregis
 <br>
 <br>
 (30 septembre 2022)
-<span id="ancre17"></span>
+<div id="ancre17"></div>
 </imagetextblock>
 
 ---
