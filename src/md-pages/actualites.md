@@ -4,7 +4,6 @@ swap: false
 randompicfolder: random
 ---
 
-<a id="ancre20"> </a>
 <imagetextblock title="J-3 avant La Belle Etoile et notre grand jeu CHALLENGE Outdoorvision !" picture="/medias/VISUELS_ACTUALITES/Photo 1.png" swap="true">
 La Belle Etoile et le Département de l’Isère en partenariat avec <b>OUTDOORVISION vous offre une montre Suunto, des lots suprises Dynafit, Anena et Orthovox !</b><br>
  <br>
@@ -27,9 +26,8 @@ Rendez-vous le 13 février pour découvrir les heureux élus !<br>
 
 ---
 
-<a id="ancre19"> </a>
 <imagetextblock title="10 millions de traces GPS collectées, MERCI !!" picture="/medias/VISUELS_ACTUALITES/10M_ski.jpg">
-Le cap des 10 millions de traces GPS a été franchi le 1er décembre dernier.<br>
+<span id="ancre20" /span> Le cap des 10 millions de traces GPS a été franchi le 1er décembre dernier.<br>
  <br>
 Merci au 600 000 contributeurs français qui ont partagé au moins une trace GPS avec Outdoorvision. <b>C’est 4 millions de plus par rapport au mois de mars dernier !</b><br>
  <br>
@@ -43,9 +41,8 @@ Grâce à vous, la collecte quotidienne est actuellement de 2400 nouvelles trace
 
 ---
 
-<a id="ancre18"> </a>
 <imagetextblock title="Le département des Alpes de Haute Provence et ses communautés de communes formés à l’utilisation d’Outdoorvision" picture="/medias/VISUELS_ACTUALITES/Formation04_600x600.jpg" swap="true">
-Les chargés de missions sports de nature des communautés de communes et d’agglomération du département, l’agence de développement 04, la réserve géologique de Haute-Provence et le PNR du Verdon étaient réunis les 15 et 16 septembre à Digne les Bains pour se familiariser avec l’utilisation de la plateforme Outdoorvision. Animée par Elodie Villard, cette formation est le point de départ d’un <b>partenariat de trois années entre le pôle ressources national des sports de nature du Ministère des sports et le département</b>.<br>
+<span id="ancre19" /span> Les chargés de missions sports de nature des communautés de communes et d’agglomération du département, l’agence de développement 04, la réserve géologique de Haute-Provence et le PNR du Verdon étaient réunis les 15 et 16 septembre à Digne les Bains pour se familiariser avec l’utilisation de la plateforme Outdoorvision. Animée par Elodie Villard, cette formation est le point de départ d’un <b>partenariat de trois années entre le pôle ressources national des sports de nature du Ministère des sports et le département</b>.<br>
  <br>
 Après une brève présentation du projet, les participants ont pu visualiser les usages de leurs territoires par les pratiquants outdoor en randonnée pédestre, course à pied et vélo.<br>
  <br>
@@ -64,7 +61,7 @@ Rendez-vous est pris pour relater les cas d’usages sur les observations effect
 ---
 
 <imagetextblock title="ROC d'Azur 2022" picture="/medias/VISUELS_ACTUALITES/ROC-Frejus_848x848.jpg">
-Le Roc d’Azur ? C'est <b>LE</b> rendez-vous VTT de l'année à ne manquer sous aucun prétexte ! Le succès de cet événementexceptionnel ne se dément pas année après année. La recette ? Il combine une épreuve sportive sur un site exceptionnel à un salon grand public où des milliers de passionnés peuvent découvrir les nouveautés de leurs marques et destinations favorites.<br>
+<span id="ancre18" /span>Le Roc d’Azur ? C'est <b>LE</b> rendez-vous VTT de l'année à ne manquer sous aucun prétexte ! Le succès de cet événementexceptionnel ne se dément pas année après année. La recette ? Il combine une épreuve sportive sur un site exceptionnel à un salon grand public où des milliers de passionnés peuvent découvrir les nouveautés de leurs marques et destinations favorites.<br>
  <br>
 Outdoorvision sera présent à la rencontre des pratiquants et des partenaires actuels ou futurs. Retrouvez-nous le <b>samedi 8 octobre à 16h00</b> pour l'animation Outdoorvision sur le <b>stand des Alpes de Hautes Provence</b> (Salon extérieur Terre / Stand T11).<br>
  <br>
@@ -77,7 +74,7 @@ Outdoorvision sera présent à la rencontre des pratiquants et des partenaires a
 ---
 
 <imagetextblock title="Challenge Strava en cours !" picture="/medias/VISUELS_ACTUALITES/CHALLENGE_STRAVA_500X500.jpg" swap="true">
-Jusqu'au dimanche 09 octobre, nous menons une opération de communication et de collecte de traces GPS Outdoor en partenariat avec Strava. <br>
+<span id="ancre17" /span> Jusqu'au dimanche 09 octobre, nous menons une opération de communication et de collecte de traces GPS Outdoor en partenariat avec Strava. <br>
  <br>
 Pour participer, il suffit d’effectuer une heure d’activité Outdoor enregistrée sur Strava, créer un compte sur Outdoorvision.fr et partager ses traces GPS. <br>
  <br>
