@@ -275,7 +275,6 @@ Le cap des 6,5 millions de traces GPS a été franchi le 15 janvier dernier et c
 
 ---
 
-<a name="ancre-17"> </a>
 <imagetextblock title="Challenge OUTDOORVISION" picture="/medias/VISUELS_ACTUALITES/CHALLENGE_OUTDOORVISION_272X272.jpg" swap="true">
 Ce challenge national qui propose aux pratiquants de contribuer à la préservation des sites et itinéraires outdoor en partageant leurs traces GPS a été créé en partenariat avec la Fédération Française de Cyclisme et la Fédération Française de la Randonnée. Les deux fédérations ont ainsi pu relayer le challenge vers leurs centaines de milliers de licenciés, tous très attachés à la préservation des sites de pratique. Un grand merci ! <br>
   <br>
