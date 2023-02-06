@@ -9,7 +9,7 @@ randompicfolder: random
 Bienvenue à Maëlle Beauvir dans l’équipe Outdoorvision !<br> 
 Championne du monde en relais en course d’orientation et nouvelle chargée de communication. <br>
  <br>
-<b>Retrouvez son témoignage</b> :  Très heureuse, pour un premier job, de pouvoir intégrer une structure aussi importante que le Pôle Ressources National Sports de Nature en tant que chargée de communication à temps partiel. La communication qu’elle soit digitale ou à travers l’échange et l’accompagnement, est, pour moi, primordiale tant dans <b>les relations humaines que pour l’environnement.</b><br>
+<b>Retrouvez son témoignage</b> :  "Très heureuse, pour un premier job, de pouvoir intégrer une structure aussi importante que le Pôle Ressources National Sports de Nature en tant que chargée de communication à temps partiel. La communication qu’elle soit digitale ou à travers l’échange et l’accompagnement, est, pour moi, primordiale tant dans <b>les relations humaines que pour l’environnement.</b><br>
  <br>
  
 Voilà pourquoi j’essaye de développer les projets Outdoorvision et Suricate à travers mes compétences professionnelles mais aussi personnelles, acquises à travers ma pratique de haut niveau (esprit d’équipe, combativité, organisation, rapport à la nature, etc).  <b>Préserver mon terrain de jeu est essentiel pour pérenniser ma pratique de haut niveau en course d’orientation et en trail.</b>  Le dispositif Outdoorvision est notamment l’une des solutions pour répondre à ces enjeux d’actualité.<br>
@@ -17,7 +17,7 @@ Voilà pourquoi j’essaye de développer les projets Outdoorvision et Suricate 
  Construire ma carrière professionnelle a toujours été ma priorité, et quand on peut allier ambitions pros et sportives c’est juste incroyable, très épanouissant et riche de sens…!<br>
  <br>
 Aujourd’hui, je suis heureuse de rejoindre cette équipe d’Outdoorvision pour travailler sur des projets #sport et #nature qui font sens à mes valeurs. 
-<b>Comme vous, je partage mes traces GPS pour préserver nos terrains de jeu !</b><br>
+<b>Comme vous, je partage mes traces GPS pour préserver nos terrains de jeu !"</b><br>
  <br>
  Crédits photo :  RobinIssartel <br>
  <br>
