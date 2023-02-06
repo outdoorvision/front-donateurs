@@ -4,6 +4,30 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="mbeauvir-01.png" picture="/medias/VISUELS_ACTUALITES/mbeauvir-01.png">
+ <br>
+Bienvenue à Maëlle Beauvir dans l’équipe Outdoorvision !<br> 
+Championne du monde en relais en course d’orientation et nouvelle chargée de communication. 
+ <br>
+Retrouvez son témoignage :  Très heureuse, pour un premier job, de pouvoir intégrer une structure aussi importante que le Pôle Ressources National Sports de Nature en tant que chargée de communication à temps partiel. La communication qu’elle soit digitale ou à travers l’échange et l’accompagnement, est, pour moi, primordiale tant dans  <b>les relations humaines que pour l’environnement.</b><br>
+ <br>
+ C'est <b>LE</b> rendez-vous VTT de l'année à ne manquer sous aucun prétexte ! Le succès de cet événementexceptionnel ne se dément pas année après année. La recette ? Il combine une épreuve sportive sur un site exceptionnel à un salon grand public où des milliers de passionnés peuvent découvrir les nouveautés de leurs marques et destinations favorites.<br>
+ <br>
+ Voilà pourquoi j’essaye de développer les projets Outdoorvision et Suricate à travers mes compétences professionnelles mais aussi personnelles, acquises à travers ma pratique de haut niveau (esprit d’équipe, combativité, organisation, rapport à la nature, etc).  <b>Préserver mon terrain de jeu est essentiel pour pérenniser ma pratique de haut niveau en course d’orientation et en trail.</b>  Le dispositif Outdoorvision est notamment l’une des solutions pour répondre à ces enjeux d’actualité.<br>
+ <br>
+ Construire ma carrière professionnelle a toujours été ma priorité, et quand on peut allier ambitions pros et sportives c’est juste incroyable, très épanouissant et riche de sens…!<br>
+ <br>
+Aujourd’hui, je suis heureuse de rejoindre cette équipe d’Outdoorvision pour travailler sur des projets #sport et #nature qui font sens à mes valeurs. 
+<b>Comme vous, je partage mes traces GPS pour préserver nos terrains de jeu !</b><br>
+ <br>
+ Crédits photo :  RobinIssartel <br>
+ <br>
+ <br>
+(03 février 2023)
+<div id="ancre21"></div>
+</imagetextblock>
+
+---
 <imagetextblock title="J-3 avant La Belle Etoile et notre grand jeu CHALLENGE Outdoorvision !" picture="/medias/VISUELS_ACTUALITES/Photo 1.png" swap="true">
 La Belle Etoile et le Département de l’Isère en partenariat avec <b>OUTDOORVISION vous offre une montre Suunto, des lots suprises Dynafit, Anena et Orthovox !</b><br>
  <br>
