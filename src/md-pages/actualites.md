@@ -13,13 +13,13 @@ Championne du monde en relais en course d’orientation et nouvelle chargée de 
  <br>
  
 Voilà pourquoi j’essaye de développer les projets Outdoorvision et Suricate à travers mes compétences professionnelles mais aussi personnelles, acquises à travers ma pratique de haut niveau (esprit d’équipe, combativité, organisation, rapport à la nature, etc).  <b>Préserver mon terrain de jeu est essentiel pour pérenniser ma pratique de haut niveau en course d’orientation et en trail.</b>  Le dispositif Outdoorvision est notamment l’une des solutions pour répondre à ces enjeux d’actualité.<br>
- <br>
+<br>
  Construire ma carrière professionnelle a toujours été ma priorité, et quand on peut allier ambitions pros et sportives c’est juste incroyable, très épanouissant et riche de sens…!<br>
  <br>
-Aujourd’hui, je suis heureuse de rejoindre cette équipe d’Outdoorvision pour travailler sur des projets #sport et #nature qui font sens à mes valeurs. 
+Aujourd’hui, je suis heureuse de rejoindre cette équipe d’Outdoorvision pour travailler sur des projets sport et nature qui font sens à mes valeurs. 
 <b>Comme vous, je partage mes traces GPS pour préserver nos terrains de jeu !"</b><br>
  <br>
- Crédits photo :  RobinIssartel <br>
+ Crédits photo :  Robin Issartel <br>
  <br>
  <br>
 (03 février 2023)
