@@ -4,7 +4,7 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="Bienvenue Maëlle Beauvir dans l'équipe Outdoorvision!" picture="/medias/VISUELS_ACTUALITES/mbeauvir-01.png" swap="true">
+<imagetextblock title="Bienvenue Maëlle Beauvir dans l'équipe Outdoorvision !" picture="/medias/VISUELS_ACTUALITES/mbeauvir-01.png" swap="true">
 Championne du monde de course d'orientation et chargée de communication <br>
 <br>
 <b>Retrouver son témoignage </b> : Très heureuse, pour un premier job, de pouvoir intégrer une structure aussi importante que le Pôle Ressources National Sports de Nature en tant que chargée de communication à temps partiel. La communication qu’elle soit digitale ou à travers l’échange et l’accompagnement, est, pour moi, primordiale tant dans les relations humaines que pour l'environnement.<br>
@@ -13,7 +13,7 @@ Voilà pourquoi j’essaye de développer les projets Outdoorvision et Suricate 
 <b>Préserver mon terrain de jeu est essentiel pour pérenniser ma pratique de haut niveau en course d’orientation et en trail. Le dispositif Outdoorvision est notamment l’une des solutions pour répondre à ces enjeux d’actualité.</b><br>
 <br>
 Construire ma carrière professionnelle a toujours été ma priorité, et quand on peut allier ambitions pros et sportives c’est juste incroyable, très épanouissant et riche de sens…!<br>
-Aujourd’hui, je suis heureuse de rejoindre cette équipe d’Outdoorvision pour travailler sur des projets sport et nature qui font sens à mes valeurs.<b>Comme vous, je partage mes traces GPS pour préserver nos terrains de jeu.</b><br> 
+Aujourd’hui, je suis heureuse de rejoindre cette équipe d’Outdoorvision pour travailler sur des projets sport et nature qui font sens à mes valeurs.<b> Comme vous, je partage mes traces GPS pour préserver nos terrains de jeu.</b><br> 
 <br>
 (07 février 2023)
 <div id="ancre21"></div>
