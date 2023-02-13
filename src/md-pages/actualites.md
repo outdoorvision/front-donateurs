@@ -4,6 +4,23 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Outdoorvision favorise la mise à jour des cartes IGN" picture="/medias/VISUELS_ACTUALITES/IGN.png" swap="true">
+Témoignage de Stéphanie Barriere Riffort, chargée de relations institutionnelles Tourisme & Sport. <br>
+Les pratiquants d’activités de pleine nature plébiscitent <b>l’utilisation des cartes IGN gage de précision et de représentation exhaustive de l’ensemble du territoire.</b><br> 
+Le fond cartographique à l’échelle 1 :25 000, aussi bien en version papier (la fameuse carte TOP25 !) ainsi que sa version numérique (au travers notamment des applis mobiles outdoor) en fait un compagnon reconnu et indispensable. <br>
+ <br>
+Pour permettre une mise à jour de ses données toujours plus rapide afin de vous délivrer <b>une représentation du territoire la plus actuelle possible, l’établissement soutient le programme Outdoorvision.</b><br> 
+<br> 
+En partageant vos traces GPS lors de vos pratiques sportives outdoor au programme Outdoorvision, <b>vous contribuerez ainsi à l’actualisation et à l’évolution du référentiel cartographique français.</b><br> L’IGN aura ainsi la capacité d’identifier plus rapidement  des manques, comme un chemin et de le reporter dans ses cartes. <br>
+<br>
+<b>Soyez acteurs de votre terrain de jeu !</b><br>
+<br>
+(13 février 2023)
+<div id="ancre22"></div> 
+</imagetextblock>
+
+---
+
 <imagetextblock title="Bienvenue Maëlle Beauvir dans l'équipe Outdoorvision !" picture="/medias/VISUELS_ACTUALITES/mbeauvir-01.png" swap="true">
 Championne du monde de course d'orientation et chargée de communication <br>
 <br>
