@@ -13,7 +13,7 @@ Pour permettre une mise à jour de ses données toujours plus rapide afin de vou
 <br> 
 En partageant vos traces GPS lors de vos pratiques sportives outdoor au programme Outdoorvision, <b>vous contribuerez ainsi à l’actualisation et à l’évolution du référentiel cartographique français.</b><br> L’IGN aura ainsi la capacité d’identifier plus rapidement  des manques, comme un chemin et de le reporter dans ses cartes. <br>
 <br>
-<b>Soyez acteurs de votre terrain de jeu !.</b><br>
+<b>Soyez acteurs de votre terrain de jeu !</b><br>
 <br>
 (13 février 2023)
 <div id="ancre22"></div> 
