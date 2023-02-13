@@ -15,8 +15,6 @@ En partageant vos traces GPS lors de vos pratiques sportives outdoor au programm
 <br>
 <b>Soyez acteurs de votre terrain de jeu !.</b><br>
 <br>
-Une meilleure connaissance de cette pratique sur le territoire est essentielle pour prendre en compte les enjeux de sécurité tout en apportant plus de services aux pratiquants (zones de stationnement, toilettes sèches…).<br>
-<br>
 (13 février 2023)
 <div id="ancre22"></div> 
 </imagetextblock>
