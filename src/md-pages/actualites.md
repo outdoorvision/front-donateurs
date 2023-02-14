@@ -4,6 +4,21 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Challenge Strava en cours !" picture="/medias/VISUELS_ACTUALITES/Strava23.png">
+Jusqu'au dimanche 19 février, nous menons une opération de communication et de collecte de traces GPS Outdoor en partenariat avec Nordic France sur Strava. <br>
+ <br>
+Pour participer, il suffit d’effectuer une heure d’activité Outdoor enregistrée sur Strava, créer un compte sur Outdoorvision.fr et synchroniser son objet connecté ou sa montre Garmin, Polar ou Suunto sur https://outdoorvision.fr/ .<br>
+ <br>
+<b>Gagnez notamment une montre Suunto 9 Peak, une paire de ski Salomon, 1 des 10 pass nordic et d'autres lots JULBO, ESF…</b> et surtout, participez à un projet citoyen pour améliorer la pratique outdoor ! <br>
+ <br>
+<a target="_self" href="https://t.ly/CyTD">Accéder au challenge Strava-Outdoorvision</a> 
+<br>
+<br>
+(14 février 2023)
+<div id="ancre13"></div>
+</imagetextblock>
+
+---
 <imagetextblock title="Outdoorvision favorise la mise à jour des cartes IGN" picture="/medias/VISUELS_ACTUALITES/IGN.png" swap="true">
 Témoignage de Stéphanie Barriere Riffort, chargée de relations institutionnelles Tourisme & Sport. <br>
 Les pratiquants d’activités de pleine nature plébiscitent <b>l’utilisation des cartes IGN gage de précision et de représentation exhaustive de l’ensemble du territoire.</b><br> 
@@ -21,7 +36,7 @@ En partageant vos traces GPS lors de vos pratiques sportives outdoor au programm
 
 ---
 
-<imagetextblock title="Bienvenue Maëlle Beauvir dans l'équipe Outdoorvision !" picture="/medias/VISUELS_ACTUALITES/mbeauvir-01.png" swap="true">
+<imagetextblock title="Bienvenue Maëlle Beauvir dans l'équipe Outdoorvision !" picture="/medias/VISUELS_ACTUALITES/mbeauvir-01.png">
 Championne du monde de course d'orientation et chargée de communication <br>
 <br>
 <b>Retrouver son témoignage </b> : Très heureuse, pour un premier job, de pouvoir intégrer une structure aussi importante que le Pôle Ressources National Sports de Nature en tant que chargée de communication à temps partiel. La communication qu’elle soit digitale ou à travers l’échange et l’accompagnement, est, pour moi, primordiale tant dans les relations humaines que pour l'environnement.<br>
