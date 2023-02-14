@@ -7,7 +7,7 @@ randompicfolder: random
 <imagetextblock title="Challenge Strava en cours !" picture="/medias/VISUELS_ACTUALITES/Strava23.png">
 Jusqu'au dimanche 19 février, nous menons une opération de communication et de collecte de traces GPS Outdoor en partenariat avec Nordic France sur Strava. <br>
  <br>
-Pour participer, il suffit d’effectuer une heure d’activité Outdoor enregistrée sur Strava, créer un compte sur Outdoorvision.fr et synchroniser son objet connecté, montre Garmin, Polar ou Suunto sur https://outdoorvision.fr/ .<br>
+Pour participer, il suffit d’effectuer une heure d’activité Outdoor enregistrée sur Strava, créer un compte sur Outdoorvision.fr et synchroniser son objet connecté ou sa montre Garmin, Polar ou Suunto sur https://outdoorvision.fr/ .<br>
  <br>
 <b>Gagnez notamment une montre Suunto 9 Peak, une paire de ski Salomon, 1 des 10 pass nordic et d'autres lots JULBO, ESF…</b> et surtout, participez à un projet citoyen pour améliorer la pratique outdoor ! <br>
  <br>
