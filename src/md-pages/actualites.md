@@ -3,6 +3,32 @@ title: Nos actualités
 swap: false
 randompicfolder: random
 ---
+<imagetextblock title="Outdoorvision favorise la mise à jour des cartes IGN" picture="/medias/VISUELS_ACTUALITES/IGN.png" swap="true">
+20 nouveaux conseils départementementaux bénéficient d'Outdoorvision en 2023 ! <br>
+Dans le cadre de son accompagnement sur les démarches de conciliation, de planification et de gouvernance partagée et d’un appel à manifestation d’intérêt lancé le 13 décembre 2022, le PRNSN a retenu <b>20 conseils départementaux pour bénéficier d'un accès gratuit pendant un an à Outdoorvision et à ses services</b><br> (en bleu foncé ci-dessous).  
+Désormais, ce sont 48 Départements engagés dans le dispositif Outdoorvision, dont 5 sur un partenariat « Expert ».(accompagnement, assistance technique, animation et analyse des données) <br>
+<br>
+Les Départements retenus sont également invités à mener des actions de communication afin de collecter des traces auprès des pratiquants. Parmi les actions proposées, les Départements envisagent tous de communiquer via leurs outils numériques (site web, lettre d’information, réseaux sociaux)
+Les événements sportifs, dont certains sont soutenus par le Département, apparaissent également comme un levier important :<br>
+<ul type="disc">
+  <li>salons dédiés aux sports de nature </li>
+  <li>compétitions sportives (trails, épreuves cyclistes, raids multisports, triathlons…)</li>
+ </ul>
+Les Challenges ou encore les courses connectées sont aussi des relais possibles pour faire connaître la démarche de partage de traces auprès des pratiquants. Parmi les autres pistes envisagées, certains conseils départementaux nouent des partenariats avec des ambassadeurs sports de nature ou des influenceurs, qui peuvent être des relais de la démarche auprès de leurs communautés. <br>
+<br>
+Pour que les techniciens aient un accès individualisé à la plateforme, des modules en visioconférence de deux demi-journées sont animées par le PRNSN pour permettre une meilleure appropriation de la plateforme. Les objectifs de ce module sont de comprendre les données intégrées dans la plateforme, d'appréhender les modes de représentation et les possibilités d'analyses sur son territoire.<br>
+<br>
+<b> Des clubs utilisateurs nationaux seront l’occasion de réunir l’ensemble des utilisateurs : départements, intercommunalités, parcs naturels régionaux, parcs nationaux, services de l’État, Fédérations sportives… afin de partager leurs retours d’expériences et les actions de communication qu’ils auront pu mener durant l’année.</b><br>  
+<br>
+En 2024, un nouvel appel à manifestation d’intérêt sera proposé pour permettre à de nouveaux Conseils départementaux d’accéder à la plateforme. <br>
+<br>
+ <b>Contactez-nous si vous souhaitez avoir plus d’information ou déployer Outdoorvision sur votre territoire et bénéficier d’un accompagnement. </b><br> 
+ <br>
+(1er mars 2023)
+<div id="ancre22"></div> 
+</imagetextblock>
+
+---
 
 <imagetextblock title="Challenge Strava en cours !" picture="/medias/VISUELS_ACTUALITES/Strava23.png">
 Jusqu'au dimanche 19 février, nous menons une opération de communication et de collecte de traces GPS Outdoor en partenariat avec Nordic France sur Strava. <br>
