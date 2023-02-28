@@ -20,7 +20,7 @@ Pour que les techniciens aient un accès individualisé à la plateforme, des mo
 <br>
 <b> Des clubs utilisateurs nationaux seront l’occasion de réunir l’ensemble des utilisateurs : départements, intercommunalités, parcs naturels régionaux, parcs nationaux, services de l’État, Fédérations sportives… afin de partager leurs retours d’expériences et les actions de communication qu’ils auront pu mener durant l’année.</b><br>  
 <br>
-En 2024, un nouvel appel à manifestation d’intérêt sera proposé pour permettre à de nouveaux Conseils départementaux d’accéder à la plateforme. <br>
+En 2024, un nouvel appel à manifestation d’intérêt sera proposé pour permettre à de nouveaux Conseils Départementaux d’accéder à la plateforme. <br>
 <br>
  <b>Contactez-nous si vous souhaitez avoir plus d’information ou déployer Outdoorvision sur votre territoire et bénéficier d’un accompagnement. </b><br> 
  <br>
