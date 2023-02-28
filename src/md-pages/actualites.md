@@ -8,7 +8,7 @@ randompicfolder: random
 Dans le cadre de son accompagnement sur les démarches de conciliation, de planification et de gouvernance partagée et d’un appel à manifestation d’intérêt lancé le 13 décembre 2022, le PRNSN a retenu <b>20 conseils départementaux pour bénéficier d'un accès gratuit pendant un an à Outdoorvision et à ses services (en bleu foncé ci-dessous).</b><br>
 Désormais, ce sont 48 Départements engagés dans le dispositif Outdoorvision, dont 5 sur un partenariat « Expert » (accompagnement, assistance technique, animation et analyse des données). <br>
 <br>
-Les Départements retenus sont également invités à mener des actions de communication afin de collecter des traces auprès des pratiquants. Parmi les actions proposées, les Départements envisagent tous de communiquer via leurs outils numériques (site web, lettre d’information, réseaux sociaux)
+Les Départements retenus sont également invités à mener des actions de communication afin de collecter des traces auprès des pratiquants. Parmi les actions proposées, les Départements envisagent tous de communiquer via leurs outils numériques (site web, lettre d’information, réseaux sociaux).
 Les événements sportifs, dont certains sont soutenus par le Département, apparaissent également comme un levier important :<br>
 <ul type="disc">
   <li>salons dédiés aux sports de nature </li>
