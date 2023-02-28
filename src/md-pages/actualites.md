@@ -3,7 +3,7 @@ title: Nos actualités
 swap: false
 randompicfolder: random
 ---
-<imagetextblock title="Outdoorvision favorise la mise à jour des cartes IGN" picture="/medias/VISUELS_ACTUALITES/IGN.png" swap="true">
+<imagetextblock title="Outdoorvision favorise la mise à jour des cartes IGN" picture="/medias/VISUELS_ACTUALITES/AMI-departements-2023.png" swap="true">
 20 nouveaux conseils départementaux bénéficient d'Outdoorvision en 2023 ! <br>
 Dans le cadre de son accompagnement sur les démarches de conciliation, de planification et de gouvernance partagée et d’un appel à manifestation d’intérêt lancé le 13 décembre 2022, le PRNSN a retenu <b>20 conseils départementaux pour bénéficier d'un accès gratuit pendant un an à Outdoorvision et à ses services</b><br> (en bleu foncé ci-dessous).  
 Désormais, ce sont 48 Départements engagés dans le dispositif Outdoorvision, dont 5 sur un partenariat « Expert ».(accompagnement, assistance technique, animation et analyse des données) <br>
