@@ -6,10 +6,10 @@ footer: false
 
 <center>
 
-Source de données [agrégées le 04 février 2022]
+Données agrégées le 30 août 2022 | [Consultez la FAQ de la plateforme](https://outdoorvision.fr/faq-plateforme)
 
-Partenaires : [Visorando](https://www.visorando.com/) 2018-2021 | [VisuGPX](https://www.visugpx.com/) 2018-2021 | [Openrunner](https://www.openrunner.com/) 2018-2021 | [IGNRando'](https://ignrando.fr/) 2018-2021 |
-Contributions volontaires d'utilisateurs : Garmin | Sunnto | Polar | 
+Données [Visorando](https://www.visorando.com/) du 01/01/2018 au 30/06/2022 | [Openrunner](https://www.openrunner.com/) du 01/01/2018 au 30/06/2022 | 
+Contributions volontaires d'utilisateurs : Garmin | Sunnto | Polar 
  
 Avec le soutien opérationnel, technique ou financier de :
 

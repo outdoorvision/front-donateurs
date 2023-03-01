@@ -5,7 +5,7 @@ swap: false
 ---
 
 Les grandes marques de montres connectées (Garmin, Polar, Suunto) et les applications ou sites de référence des sports outdoor soutiennent OUTDOORVISION. 
-Grâce à ces partenariats, 6,5 millions de traces GPS alimentent déjà la plateforme pour développer la connaissance et la protection des sites de pratique outdoor.   
+Grâce à ces partenariats, 9 millions de traces GPS alimentent déjà la plateforme pour développer la connaissance et la protection des sites de pratique outdoor.   
 
 ## Découvrez les partenaires OUTDOORVISION
 
@@ -28,6 +28,22 @@ Garmin fournit une technologie GPS innovante dans divers marchés comme l’avia
 </a>
 <p>
 IGNrando’, l’application de référence pour vos activités nature. Toute la cartographie IGN et des milliers de parcours labellisés sur toute la France. Des outils  de création, d’ enregistrement et de guidage offrent à l’utilisateur une expérience complète de la préparation jusque sur le terrain. IGNrando’ mobilise sa communauté pour soutenir le projet Outdoorvision en partageant ses traces pour la préservation de l’environnement.
+</p>
+</imagetextblock>
+
+----
+
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/ONPISTE_272X272.jpg">
+<a href="https://www.onpiste.com/">
+<img src="/medias/VISUELS_PARTENAIRES/Logo_ONPISTE.png">
+</a>
+<p>
+On Piste c’est un site et une application mobile 100% gratuits, pour faciliter l’organisation d’une sortie ou d’un séjour sportif et vous garantir une expérience positive !
+Retrouvez sur une sélection de destinations, des parcours balisés Stations de Trail, Marche nordique, Vélo (VTT, Gravel) et Ski de Rando, tous niveaux, vérifiés par les équipes sur place dans le respect des ressources locales. Découvrez aussi les bonnes adresses et les bons plans de la destination sportive !
+Grâce à l’appli, vous pourrez également vous laisser guider sur de nombreux parcours.
+A pied, à vélo et à skis, Bougez sur les bons spots  avec On Piste!
+Le partenariat avec Outdoorvision est en parfaite adéquation avec les valeurs et le positionnement de On Piste dont les parcours sont réalisés par les équipes sur place dans le respect des ressources locales.
+
 </p>
 </imagetextblock>
 
