@@ -7,7 +7,6 @@
 
 Site construit avec GatsbyJS, Material-UI
 
-
 # Tutoriel
 
 ## Configuration des blocs d'image & texte positionnés à droite ou à gauche

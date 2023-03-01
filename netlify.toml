@@ -11,5 +11,5 @@ BACKEND_URL = "https://qa-back.outdoorvision.fr/auth/"
 LAB_URL = "https://dev-frontvisu.outdoorvision.fr/"
 
 [context.dev.environment]
-BACKEND_URL = "https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://dev-back.outdoorvision.fr/auth/done/&scope=openid"
+BACKEND_URL = "https://dev-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://dev-back.outdoorvision.fr/auth/done/&scope=openid"
 LAB_URL = "https://dev-frontvisu.outdoorvision.fr/"
