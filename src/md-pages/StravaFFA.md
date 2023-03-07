@@ -27,7 +27,7 @@ Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentier
 - Trois lunettes Julbo Reactiv technologie (https://www.julbo.com/fr_fr/)  
 
 
-*(Le tirage au sort sera effectué à partir du 17 mai 2023. Les gagnants seront contactés par courriel.)*
+*(Le tirage au sort sera effectué à partir du 24 mai 2023. Les gagnants seront contactés par courriel.)*
 
 <p align="center">
   <img src="/medias/challenge/Strava_Nordic-France-03.png">
