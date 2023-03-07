@@ -9,7 +9,7 @@ Dans le cadre du week-end de course de la cyclosportive l'Héraultaise Roger Pin
 <participate></participate>
 
 <p align="center">
-  <img src="/medias/challenge-LaBelleEtoile-01.png">
+  <img src="/medias/challenge/Photo4_Challenge.pngg">
 </p>
 
 
@@ -19,7 +19,7 @@ Dans le cadre du week-end de course de la cyclosportive l'Héraultaise Roger Pin
 En tant que passionné des sports outdoor, vous êtes sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de votre sport favori dans les politiques territoriales. En partageant vos traces GPS - et uniquement vos traces GPS - vous contribuez à la meilleure connaissance des sports outdoor et à la préservation de vos sites de pratique.  
 
 <p align="center">
-  <img src="/medias/challenge-LaBelleEtoile-02.png">
+  <img src="/medias/challenge/Photo2_Participe_contribue.png">
 </p>
 
 Et en plus, tentez de gagner un des lots* mis en jeux :
