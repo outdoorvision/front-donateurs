@@ -23,7 +23,7 @@ En tant que passionné des sports outdoor, vous êtes sensible à la qualité de
 </p>
 
 Et en plus, tentez de gagner un des lots* mis en jeux :
-- une **montre Baro 9** de la marque Suunto,
+- une **montre** de la marque Suunto,
 - des **maillots cycliste** de l'Héraultaise,
 - deux dossards pour la prochaine édition de **la course l'Ariégeoise**
 - des VTopo Grande Traversée du Massif Central et Vtopo VTT Hérault du **département de l'Hérault**,
