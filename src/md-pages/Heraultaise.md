@@ -25,13 +25,14 @@ En tant que passionné des sports outdoor, vous êtes sensible à la qualité de
 Et en plus, tentez de gagner un des lots* mis en jeux :
 - une **montre Baro 9** de la marque Suunto,
 - des **maillots cycliste** de l'Héraultaise,
-- des lots surprises **département de l'Hérault**,
-- des lots surprises **XXXX**.
+- deux dossards pour la prochaine édition de **la course l'Ariégeoise**
+- des VTopo Grande Traversée du Massif Central et Vtopo VTT Hérault du **département de l'Hérault**,
+- des **bouteilles isothermes « Zéro déchet dans ma nature »*.
  
 *Le tirage au sort sera effectué à partir du 4 avril 2023. Les gagnants seront contactés par courriel.
 
 <p align="center">
-  <img src="/medias/challenge-LaBelleEtoile-03.png">
+  <img src="/medias/challenge/Lots_Heraultaise.png">
 </p>
 
 ##Comment participer ?
