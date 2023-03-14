@@ -9,7 +9,7 @@ Dans le cadre du week-end de course de la cyclosportive l'Héraultaise Roger Pin
 <participate></participate>
 
 <p align="center">
-  <img src="/medias/challenge/Photo4_Challenge.pngg">
+  <img src="/medias/challenge/Photo3_Challenge.png">
 </p>
 
 
