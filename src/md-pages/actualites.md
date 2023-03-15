@@ -25,7 +25,7 @@ En 2024, un nouvel appel à manifestation d’intérêt sera proposé pour perme
  <b>Contactez-nous si vous souhaitez avoir plus d’information ou déployer Outdoorvision sur votre territoire et bénéficier d’un accompagnement. </b><br> 
  <br>
 (1er mars 2023)
-<div id="ancre22"></div> 
+<div id="ancre24"></div> 
 </imagetextblock>
 
 ---
@@ -41,7 +41,7 @@ Pour participer, il suffit d’effectuer une heure d’activité Outdoor enregis
 <br>
 <br>
 (14 février 2023)
-<div id="ancre13"></div>
+<div id="ancre23"></div>
 </imagetextblock>
 
 ---
