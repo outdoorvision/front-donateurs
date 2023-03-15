@@ -21,13 +21,13 @@ Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentier
 ##Gagnez un des lots offerts par les partenaires partageant les valeurs d'Outdoorvision !
 
 - La **montre GPS Suunto PEAK 5** de la marque finlandaise [Suunto](https://www.suunto.com/fr-fr/),
-- Une paire de ski nordique **S/RACE SKATE Salomon** (https://www.salomon.com/fr-fr),
-- Cinq **nordic pass pour la saison 2023-2024** [Nordic France](https://www.nordicfrance.fr/),
-- Des **Cours de ski** avec l'Ecole de Ski Française (https://www.esf.net/),
-- Trois lunettes Julbo Reactiv technologie (https://www.julbo.com/fr_fr/)  
+- Une  **XXX** (fr-fr),
+- Cinq **XXX** [XXX](https://.fr/),
+- Des **XXX** avec XXX (https://XX/),
+- XXX (https:/XXXfr_fr/)  
 
 
-*(Le tirage au sort sera effectué à partir du 24 mai 2023. Les gagnants seront contactés par courriel.)*
+*(Le tirage au sort sera effectué à partir du 5 juillet 2023. Les gagnants seront contactés par courriel.)*
 
 <p align="center">
   <img src="/medias/challenge/Strava_Nordic-France-03.png">
