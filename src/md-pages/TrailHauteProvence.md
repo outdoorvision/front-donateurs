@@ -1,5 +1,5 @@
- au ---
-title: CHALLENGE TRAIL DE HAUTE PROVENCE 
+---
+title: CHALLENGE TRAIL HAUTE PROVENCE
 ---
 
 ##Jouez pour préserver votre terrain de jeu !
@@ -23,7 +23,7 @@ En tant que passionné des sports outdoor, vous êtes sensible à la qualité de
 </p>
 
 Et en plus, tentez de gagner un des lots* mis en jeux :
-- une **montre Baro 9** de la marque Suunto,
+- une **montre XXX** de la marque Suunto,
 - des **xxxxx** de l'Héraultaise,
 - des lots surprises **XXXXXX**,
 - des lots surprises **XXXX**.
