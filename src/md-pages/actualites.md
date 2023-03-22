@@ -3,6 +3,22 @@ title: Nos actualités
 swap: false
 randompicfolder: random
 ---
+<imagetextblock title="Enquête sur la place du numérique dans les loisirs sportifs de nature!" picture="/medias/VISUELS_ACTUALITES/cermosem.png">
+Une équipe de chercheurs de l’Université Grenoble Alpes en partenariat avec Outdoorvision ont mis en oeuvre une enquête nationale à destination des pratiquant·e·s des loisirs et sports de nature, toujours en activité, quelles que soient vos pratiques ou la fréquence de vos sorties
+ <br>
+<b>Ce questionnaire a pour objectif principal d'étudier la place du numérique dans vos loisirs sportifs de nature et vos usages des différents outils connectés.</b> Vous trouverez plus d'information sur le projet de recherche dans lequel s'intègre cette enquête sur le site du labexittem.fr <br>
+ <br>
+<b>Ce questionnaire prendra environ 10 minutes de votre temps. En y répondant, vous pouvez vous inscrire au tirage au sort pour <b> gagner une des deux montres Garmin Fénix 7</b> mises en jeu. <br>
+ <br>
+<a target="_self" href="https://enquetes.univ-grenoble-alpes.fr/SurveyServer/s/robinetn/IGV-Lab/questionnaire.htm">Accéder au questionnaire</a> 
+<br>
+<br>
+(22 mars 2023)
+<div id="ancre25"></div>
+</imagetextblock>
+
+---
+
 <imagetextblock title="20 nouveaux conseils départementaux bénéficient d'Outdoorvision en 2023 !" picture="/medias/VISUELS_ACTUALITES/Actu-OV-AMI2023.jpg" swap="true">
 <br>
 Dans le cadre de son accompagnement sur les démarches de conciliation, de planification et de gouvernance partagée et d’un appel à manifestation d’intérêt lancé le 13 décembre 2022, le PRNSN a retenu <b>20 conseils départementaux pour bénéficier d'un accès gratuit pendant un an à Outdoorvision et à ses services (en bleu foncé ci-dessous).</b><br>
