@@ -3,12 +3,12 @@ title: Nos actualités
 swap: false
 randompicfolder: random
 ---
-<imagetextblock title="Enquête UGA : la place du numérique dans les loisirs sportifs de nature!" picture="/medias/VISUELS_ACTUALITES/cermosem.jpeg">
+<imagetextblock title="Enquête UGA : la place du numérique dans les loisirs sportifs de nature!" picture="/medias/VISUELS_ACTUALITES/cermosem.jpg"> <br>
 Une équipe de chercheurs de l’Université Grenoble Alpes en partenariat avec Outdoorvision ont mis en oeuvre une enquête nationale à destination des pratiquant·e·s des loisirs et sports de nature, toujours en activité, quelles que soient vos pratiques ou la fréquence de vos sorties <b>
  <br>
-Ce questionnaire a pour objectif principal d'étudier </b> la place du numérique dans vos loisirs sportifs de nature et vos usages des différents outils connectés.<br> </b> Vous trouverez plus d'information sur le projet de recherche dans lequel s'intègre cette enquête sur le site du labexittem.fr <br>
+Ce questionnaire a pour objectif principal d'étudier <br> la place du numérique dans vos loisirs sportifs de nature et vos usages des différents outils connectés.</b> Vous trouverez plus d'information sur le projet de recherche dans lequel s'intègre cette enquête sur le site du labexittem.fr <br>
  <br>
-<b>Ce questionnaire prendra environ 10 minutes de votre temps. En y répondant, vous pouvez vous inscrire au tirage au sort pour <b> gagner une des deux montres Garmin Fénix 7 mises en jeu. </b><br> <b>
+Ce questionnaire prendra environ 10 minutes de votre temps. En y répondant, vous pouvez vous inscrire au tirage au sort pour <b> gagner une des deux montres Garmin Fénix 7 mises en jeu. </b> <b>
  <br>
 <a target="_self" href="https://enquetes.univ-grenoble-alpes.fr/SurveyServer/s/robinetn/IGV-Lab/questionnaire.htm">Accéder au questionnaire</a> 
 <br>
