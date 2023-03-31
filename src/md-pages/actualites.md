@@ -4,6 +4,29 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="J-1 avant l'Héraultaise et notre grand jeu CHALLENGE Outdoorvision !" picture="/medias/VISUELS_ACTUALITES/Photo4_Site_actu.png" swap="true">
+L'Héraultaise et le Département de l’Hérault en partenariat avec <b>OUTDOORVISION vous offre une montre Suunto, des maillots Héraultaise, des dossards pour l'Ariégeoise et d'autres lots surprises!</b><br>
+ <br>
+L’objectif d’OUTDOORVISION est <b>de connaître les parcours les plus utilisés en vélo.</b><br>
+ <br>
+Une meilleure connaissance de cette pratique sur le territoire est essentielle pour la prise en compte du vélo dans les enjeux du territoires (voies cyclables sécurisés et signalés, parcours référencés, etc.)<br>
+ <br>
+La réussite d’OUTDOORVISION dépend de <b>vos contributions !</b><br>
+ <br>
+ 
+Pour participer il suffit de :<br>
+<ul type="disc">
+  <li>Courir l'un des parcours de l'Héraultaise </li>
+  <li>Créer un compte sur Outdoorvision.fr et synchroniser votre objet connectée Decathlon, Garmin, Polar ou Suunto pour partager vos traces GPS</li>
+ </ul>
+Rendez-vous le 4 avril  pour découvrir les heureux élus !<br>
+<br>
+(31 mars 2023)
+<div id="ancre26"></div> 
+</imagetextblock>
+
+---
+
 <imagetextblock title="Enquête UGA : la place du numérique dans les loisirs sportifs de nature!" picture="/medias/VISUELS_ACTUALITES/cermosem.jpg">
 <br>
 L'équipe de chercheurs de l’Université Grenoble Alpes en partenariat avec Outdoorvision ont mis en oeuvre une enquête nationale à destination des pratiquant·e·s des loisirs et sports de nature, toujours en activité, quelles que soient vos pratiques ou la fréquence de vos sorties.
