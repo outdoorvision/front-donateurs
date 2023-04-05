@@ -54,6 +54,7 @@ Ce questionnaire a pour objectif principal d'étudier la place du numérique dan
  <br>
 <a target="_self" href="https://enquetes.univ-grenoble-alpes.fr/SurveyServer/s/robinetn/IGV-Lab/questionnaire.htm">Accéder au questionnaire</a> 
 <br>
+<br>
 (22 mars 2023)
 <div id="ancre25"></div> 
 </imagetextblock>
