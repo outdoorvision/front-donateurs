@@ -4,6 +4,22 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="On recherche un(e) chargé(e) de communication" picture="/medias/VISUELS_ACTUALITES/OFFRE_EMPLOI.jpg">
+Participez au déploiement des dispositifs Outdoorvision et Suricate !<br>
+ <br>
+Le Pôle ressources national sports de nature (PRNSN) recherche un(e) chargé(e) de mission en communication. Votre mission portera principalement sur le déploiement des plans de communication Suricate et Outdoorvision.<br>
+ <br>
+Une véritable opportunité de travailler dans le champ des sports de nature, au sein d'une équipe spécialisée sur le sujet ! Le poste est basé au sein du CREPS Auvergne Rhône Alpes à Vallon Pont d’Arc en Ardèche et il est à pourvoir en octobre (CDD 12 mois). Le télétravail est possible.
+<br>
+<br>
+<a target="_blank" href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-communication-projets-outdoorvision-et-suricate-reference-2023-1182882/">Consultez l'offre détaillée sur la Place de l'emploi public.</a><br>
+<br>
+(05 avril 2023)
+<div id="ancre27"></div>
+</imagetextblock>
+
+---
+
 <imagetextblock title="J-1 avant l'Héraultaise et notre grand jeu CHALLENGE Outdoorvision !" picture="/medias/VISUELS_ACTUALITES/Photo4_Site_actu.png" swap="true">
 L'Héraultaise et le Département de l’Hérault en partenariat avec <b>OUTDOORVISION vous offre une montre Suunto, des maillots Héraultaise, des dossards pour l'Ariégeoise et d'autres lots surprises!</b><br>
  <br>
@@ -37,10 +53,11 @@ Ce questionnaire a pour objectif principal d'étudier la place du numérique dan
  <br>
 <a target="_self" href="https://enquetes.univ-grenoble-alpes.fr/SurveyServer/s/robinetn/IGV-Lab/questionnaire.htm">Accéder au questionnaire</a> 
 <br>
+<br>
 (22 mars 2023)
-<div id="ancre25"></div>
+<div id="ancre25"></div> 
 </imagetextblock>
-                 
+
 ---
 
 <imagetextblock title="20 nouveaux conseils départementaux bénéficient d'Outdoorvision en 2023 !" picture="/medias/VISUELS_ACTUALITES/Actu-OV-AMI2023.jpg" swap="true">
@@ -204,25 +221,6 @@ Pour participer, il suffit d’effectuer une heure d’activité Outdoor enregis
 <br>
 (30 septembre 2022)
 <div id="ancre16"></div>
-</imagetextblock>
-
----
-
-<imagetextblock title="On recherche un(e) chargé(e) de communication" picture="/medias/VISUELS_ACTUALITES/OFFRE_EMPLOI.jpg">
-Participez au déploiement des dispositifs Outdoorvision et Suricate !<br>
- <br>
-Le Pôle ressources national sports de nature (PRNSN) recherche un(e) chargé(e) de mission en communication. Votre mission portera principalement sur le déploiement des plans de communication Suricate et Outdoorvision.<br>
- <br>
-Une véritable opportunité de travailler dans le champ des sports de nature, au sein d'une équipe spécialisée sur le sujet ! Le poste est basé au sein du CREPS Auvergne Rhône Alpes à Vallon Pont d’Arc en Ardèche et il est à pourvoir en octobre (CDD 12 mois). Le télétravail est possible.
-<br>
-  <ul type="disc">
-  <li>
-<a target="_blank" href="/medias/VISUELS_ACTUALITES/charge(e)-de-communication-projets-outdoorvision-et-suricate-place-emploi-public.pdf">Téléchargez l'offre d'emploi.</a></li>
-  <li>
-<a target="_blank" href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-communication-projets-outdoorvision-et-suricate-reference-2022-995521/">Consultez l'offre détaillée sur la Place de l'emploi public.</a></li>
- </ul>
-(02 septembre 2022)
-<div id="ancre15"></div>
 </imagetextblock>
 
 ---
