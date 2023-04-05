@@ -11,10 +11,9 @@ Le Pôle ressources national sports de nature (PRNSN) recherche un(e) chargé(e)
  <br>
 Une véritable opportunité de travailler dans le champ des sports de nature, au sein d'une équipe spécialisée sur le sujet ! Le poste est basé au sein du CREPS Auvergne Rhône Alpes à Vallon Pont d’Arc en Ardèche et il est à pourvoir en octobre (CDD 12 mois). Le télétravail est possible.
 <br>
-  <ul type="disc">
-  <li>
-<a target="_blank" href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-communication-projets-outdoorvision-et-suricate-reference-2023-1182882/">Consultez l'offre détaillée sur la Place de l'emploi public.</a></li>
- </ul>
+<br>
+<a target="_blank" href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-communication-projets-outdoorvision-et-suricate-reference-2023-1182882/">Consultez l'offre détaillée sur la Place de l'emploi public.</a><br>
+<br>
 (05 avril 2023)
 <div id="ancre27"></div>
 </imagetextblock>
