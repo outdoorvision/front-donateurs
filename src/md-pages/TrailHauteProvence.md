@@ -31,7 +31,7 @@ Et en plus, tentez de gagner un des lots* mis en jeux :
 *Le tirage au sort sera effectué à partir du 23 mai 2023. Les gagnants seront contactés par courriel.
 
 <p align="center">
-  <img src="/medias/THP2023_03.png">
+  <img src="/medias/challenge/THP2023_03.png">
 </p>
 
 ##Comment participer ?
