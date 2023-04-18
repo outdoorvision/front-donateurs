@@ -9,7 +9,7 @@ Dans le cadre du week-end des courses du Trail de Haute-Provence du 19 au 21 mai
 <participate></participate>
 
 <p align="center">
-  <img src="/medias/challenge/Photo1_ChallengeTHP.png">
+  <img src="/medias/challenge/THP2023_01.png">
 </p>
 
 
@@ -19,7 +19,7 @@ Dans le cadre du week-end des courses du Trail de Haute-Provence du 19 au 21 mai
 En tant que passionné des sports outdoor, vous êtes sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de votre sport favori dans les politiques territoriales. En partageant vos traces GPS - et uniquement vos traces GPS - vous contribuez à la meilleure connaissance des sports outdoor et à la préservation de vos sites de pratique.  
 
 <p align="center">
-  <img src="/medias/challenge/Photo4_landingp.png">
+  <img src="/medias/challenge/THP2023_02.png">
 </p>
 
 Et en plus, tentez de gagner un des lots* mis en jeux :
@@ -31,7 +31,7 @@ Et en plus, tentez de gagner un des lots* mis en jeux :
 *Le tirage au sort sera effectué à partir du 23 mai 2023. Les gagnants seront contactés par courriel.
 
 <p align="center">
-  <img src="/medias/challenge-LaBelleEtoile-03.png">
+  <img src="/medias/challenge/THP2023_03.png">
 </p>
 
 ##Comment participer ?
