@@ -25,6 +25,7 @@ En tant que passionné des sports outdoor, vous êtes sensible à la qualité de
 Et en plus, tentez de gagner un des lots* mis en jeux dont :
 - une **montre SUUNTO 5 peak ochre** ;
 - un  **dossard pour l'Ultra de Provence 2024** ;
+- un  **dossard pour le Marathon de Lure 2024** ;
 - deux **invitations pour une soirée d'observation Dobson** au Centre Astronomique de Saint-Michel l’Observatoire ;
 - de **nombreux autres lots** des Alpes de Haute-Provence.
  
