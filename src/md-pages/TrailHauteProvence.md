@@ -22,11 +22,11 @@ En tant que passionné des sports outdoor, vous êtes sensible à la qualité de
   <img src="/medias/challenge/THP2023_02.png">
 </p>
 
-Et en plus, tentez de gagner un des lots* mis en jeux :
-- une **montre XXX** de la marque Suunto,
-- des **xxxxx** de ,
-- des lots surprises **XXXXXX**,
-- des lots surprises **XXXX**.
+Et en plus, tentez de gagner un des lots* mis en jeux dont :
+- une **montre SUUNTO 5 peak ochre** ;
+- un  **dossard pour l'Ultra de Provence 2024** ;
+- deux **invitations pour une soirée d'observation Dobson** au Centre Astronomique de Saint-Michel l’Observatoire ;
+- de **nombreux autres lots** des Alpes de Haute-Provence.
  
 *Le tirage au sort sera effectué à partir du 23 mai 2023. Les gagnants seront contactés par courriel.
 
