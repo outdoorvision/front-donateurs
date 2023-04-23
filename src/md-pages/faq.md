@@ -40,12 +40,6 @@ Ce n’est pas but de la plateforme. Outdoorvision agrège les traces GPS des pa
 
 ---
 
-## Puis-je synchroniser mon compte Strava / Coros / Bryton / iPhigénie...?
-Pas encore, nous sommes en discussion avec d'autres fabricants d’objets connectés que Garmin, Polar et Suunto et d'autres fournisseurs d'applications mobiles. Une synchronisation avec l’application IGNrando est envisagée pour l’été 2021.
-L’objectif d'Outdoorvision est d'être ouvert à différents [partenaires](/partenaires). Nous sommes donc à l'écoute des utilisateurs mais aussi des marques qui souhaitent être compatibles avec cette plateforme.
-
----
-
 ## Pourquoi collectez-vous les traces GPS alors que Garmin, Polar, Suunto ou Strava le font déjà&nbsp;?
 Ces marques génèrent des cartes de chaleur qui apportent des informations intéressantes pour les pratiquants. Notre but, avec Outdoorvision, est d'apporter des informations complémentaires, par exemple :
 Quelle est le nombre de personnes qui pratiquent le week-end, la semaine, l'été ou l'hiver, etc ? Quels sont les chemins – ou les portions - les plus fréquentés ? Et ainsi apporter des réponses aux territoires qui cherchent à savoir, par exemple, quels aménagements sont manquants (parking, point d'eau, toilettes...)&nbsp;?
