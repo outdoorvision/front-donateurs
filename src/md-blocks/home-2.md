@@ -18,7 +18,7 @@ vos sites de pratique.
 
 ## Comment participer ?
 
-Connectez simplement votre compte Garmin Connect™ / Polar Flow / Suunto APP (Appli Suunto) ou communiquez-nous directement vos traces GPS.
+Connectez simplement votre compte Garmin Connect™ / Polar Flow / Suunto APP (Appli Suunto) / Decathlon ou communiquez-nous directement vos traces GPS.
 ![Garmin, IGN Rando, On Piste, Openrunner, Polar, Trail connect, Sunnto, Visorando, VisuGPX](/medias/VISUELS_DESK/logo-band9-nb.jpg)
 
 <participate></participate>
@@ -30,7 +30,7 @@ Connectez simplement votre compte Garmin Connect™ / Polar Flow / Suunto APP (A
 ## Quelles sont les données partagées ?
 
 Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre
-compte Garmin Connect™, Polar Flow ou Suunto App (Appli Suunto). Les autres données issues
+compte Garmin Connect™, Polar Flow, Suunto App (Appli Suunto) ou Decathlon. Les autres données issues
 de votre compte ne sont pas enregistrées dans
 Outdoorvision. [Plus d'informations dans la FAQ](/faq).
 

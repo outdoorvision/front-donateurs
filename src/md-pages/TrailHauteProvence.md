@@ -22,11 +22,12 @@ En tant que passionné des sports outdoor, vous êtes sensible à la qualité de
   <img src="/medias/challenge/THP2023_02.png">
 </p>
 
-Et en plus, tentez de gagner un des lots* mis en jeux :
-- une **montre XXX** de la marque Suunto,
-- des **xxxxx** de ,
-- des lots surprises **XXXXXX**,
-- des lots surprises **XXXX**.
+Et en plus, tentez de gagner un des lots* mis en jeux dont :
+- une **montre SUUNTO 5 peak ochre** ;
+- un  **dossard pour l'Ultra de Provence 2024** ;
+- un  **dossard pour le Marathon de Lure 2024** ;
+- deux **invitations pour une soirée d'observation Dobson** au Centre Astronomique de Saint-Michel l’Observatoire ;
+- de **nombreux autres lots** des Alpes de Haute-Provence.
  
 *Le tirage au sort sera effectué à partir du 23 mai 2023. Les gagnants seront contactés par courriel.
 
@@ -58,7 +59,7 @@ Connectez simplement votre compte Garmin connect™ / Suunto APP (appli Suunto) 
 &nbsp;
 ##Quelles sont les données partagées ?
 
-Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre compte Garmin connect™, Suunto APP (appli Suunto) ou Polar flow. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
+Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre compte Garmin connect™, Suunto APP (appli Suunto), Polar flow ou Decathlon. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
 
-Consultez les [conditions de règlement du jeu concours](/medias/Règlement_Jeu_Concours_Challenge_OutdoorvisionxLaBelleEtoile.pdf)
+Consultez les [conditions de règlement du jeu concours](/medias/challenge/THP2023_Reglement.pdf)
 <participate></participate>
