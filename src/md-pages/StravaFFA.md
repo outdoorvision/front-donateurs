@@ -1,6 +1,6 @@
 ---
 title: Vous avez terminé le challenge !
-picture: /medias/challenge/Strava_Nordic-France-01.png
+picture: /medias/challenge/STRAVA-FFA-01.jpg
 swap: false
 ---
 
@@ -13,24 +13,23 @@ Vous faites partie de la communauté Outdoorvision ! **Pour valider votre partic
 Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentiers et itinéraires qu'elle utilise !
 
 <p align="center">
-  <img src="/medias/challenge/Strava_Nordic-France-02.png">
+  <img src="/medias/challenge/STRAVA-FFA-02.jpg">
 </p>
 
 ---
 
 ##Gagnez un des lots offerts par les partenaires partageant les valeurs d'Outdoorvision !
 
-- La **montre GPS Suunto PEAK 5** de la marque finlandaise [Suunto](https://www.suunto.com/fr-fr/),
-- Une  **XXX** (fr-fr),
-- Cinq **XXX** [XXX](https://.fr/),
-- Des **XXX** avec XXX (https://XX/),
-- XXX (https:/XXXfr_fr/)  
+- Une **montre GPS Suunto 5 PEAK** de la marque finlandaise [Suunto](https://www.suunto.com/fr-fr/)
+- Un  **casque audio SHOKZ Openrun pro** - [Shokz](https://fr.shokz.com/)
+- Six **cartes cadeaux IRun** d'une valeur de 50€ - [IRun](https://www.i-run.fr/lpage/boutique-ffa-athle.html)
+- Un **maillot de l'équipe de France dédicacé** 
 
 
-*(Le tirage au sort sera effectué à partir du 5 juillet 2023. Les gagnants seront contactés par courriel.)*
+*(Le tirage au sort sera effectué à partir du 5 juin 2023. Les gagnants seront contactés par courriel.)*
 
 <p align="center">
-  <img src="/medias/challenge/Strava_Nordic-France-03.png">
+  <img src="/medias/challenge/STRAVA-FFA-03.jpg">
 </p>
 
 ---
