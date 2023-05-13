@@ -5,25 +5,22 @@ randompicfolder: random
 ---
 
 <imagetextblock title="CHALLENGE // Trail de Haute Provence du 19 au 21 mai 2023" picture="/medias/VISUELS_ACTUALITES/Photo4_Site_actu.png" swap="true">
-Le Trail de Haute de Provence et le <b><b>𝗱𝗲́𝗽𝗮𝗿𝘁𝗲𝗺𝗲𝗻𝘁 𝗱𝗲𝘀 𝗔𝗹𝗽𝗲𝘀 𝗱𝗲 𝗛𝗮𝘂𝘁𝗲-𝗣𝗿𝗼𝘃𝗲𝗻𝗰𝗲</b> en partenariat avec <b>𝗢𝘂𝘁𝗱𝗼𝗼𝗿v𝗶𝘀𝗶𝗼𝗻</b> vous offrent la chance de gagner l’un de nos nombreux lots dont une <b>𝗺𝗼𝗻𝘁𝗿𝗲 Suunto 𝟱 𝗣𝗘𝗔𝗞 𝗢𝗖𝗛𝗥𝗘 !</b><br>
- <br>
-Pour participer, rendez-vous directement sur la <a href="https://outdoorvision.fr/TrailHauteProvence">page dédiée</a> vous retrouvez toutes les informations nécessaires pour tenter votre chance !<br>
- <br>
-𝐿’𝑜𝑏𝑗𝑒𝑐𝑡𝑖𝑓 𝑑’𝑂𝑢𝑡𝑑𝑜𝑜𝑟𝑉𝑖𝑠𝑖𝑜𝑛 𝑒𝑠𝑡 𝑑𝑒 𝑐𝑜𝑛𝑛𝑎𝑖̂𝑡𝑟𝑒 𝑙𝑒𝑠 𝑝𝑎𝑟𝑐𝑜𝑢𝑟𝑠 𝑙𝑒𝑠 𝑝𝑙𝑢𝑠 𝑢𝑡𝑖𝑙𝑖𝑠𝑒́𝑠 𝑒𝑛 𝑡𝑟𝑎𝑖𝑙.<br>
-𝑈𝑛𝑒 𝑚𝑒𝑖𝑙𝑙𝑒𝑢𝑟𝑒 𝑐𝑜𝑛𝑛𝑎𝑖𝑠𝑠𝑎𝑛𝑐𝑒 𝑑𝑒 𝑐𝑒𝑡𝑡𝑒 𝑝𝑟𝑎𝑡𝑖𝑞𝑢𝑒 𝑠𝑢𝑟 𝑙𝑒 𝑡𝑒𝑟𝑟𝑖𝑡𝑜𝑖𝑟𝑒 𝑒𝑠𝑡 𝑒𝑠𝑠𝑒𝑛𝑡𝑖𝑒𝑙𝑙𝑒 𝑝𝑜𝑢𝑟 𝑝𝑟𝑒𝑛𝑑𝑟𝑒 𝑒𝑛 𝑐𝑜𝑚𝑝𝑡𝑒 𝑙𝑒𝑠 𝑒𝑛𝑗𝑒𝑢𝑥 𝑑𝑒 𝑝𝑎𝑟𝑡𝑎𝑔𝑒 𝑒𝑡 𝑑𝑒 𝑝𝑒́𝑟𝑒𝑛𝑛𝑖𝑠𝑎𝑡𝑖𝑜𝑛 𝑑𝑒𝑠 𝑠𝑖𝑡𝑒𝑠 𝑑𝑒 𝑝𝑟𝑎𝑡𝑖𝑞𝑢𝑒𝑠 𝑡𝑜𝑢𝑡 𝑒𝑛 𝑎𝑝𝑝𝑜𝑟𝑡𝑎𝑛𝑡 𝑝𝑙𝑢𝑠 𝑑𝑒 𝑠𝑒𝑟𝑣𝑖𝑐𝑒𝑠 𝑎𝑢𝑥 𝑝𝑟𝑎𝑡𝑖𝑞𝑢𝑎𝑛𝑡𝑠 (𝑖𝑡𝑖𝑛𝑒́𝑟𝑎𝑖𝑟𝑒𝑠 𝑎𝑚𝑒́𝑛𝑎𝑔𝑒́𝑠, 𝑡𝑜𝑖𝑙𝑒𝑡𝑡𝑒𝑠 𝑠𝑒̀𝑐ℎ𝑒𝑠…). <br>
- <br>
-La réussite d’OUTDOORVISION dépend de <b>vos contributions !</b><br>
+ 
+ Le Trail de Haute Provence et le département des Alpes de Haute-Provence en partenariat avec Outdoorvision vous offrent la chance de gagner l'un des nombreux lots dont une montre Suunto 6 Peak Ochre ! <br>
+  <br>
+ Pour participer, rendez-vous directement sur la <a target="_self" href="https://outdoorvision.fr/TrailHauteProvence">page dédiée</a>. Vous retrouverez toutes les informations nécessaires pour tenter votre chance ! <br>
+  <br>
+<i>L'objectif d'outdoorvision est de connaître les parcours les plus utilisés en trail. Une meilleure connaissance de cette pratique sur le territoire est essentielle pour prendre en compte les enjeux de partage et de pérennisation des sites de pratqiues tout en apportant plus de services aux pratiquants (itinéraires aménagés, toilettes sèches...) </i><br>
+  <br>
+ Le tirage au sort sera effectué à partir du 23 mai 2023. <b>Bonne chance à tous les participants !</b> <br>
  <br>
  
-Le tirage au sort sera effectué le 23 mai 2023. <br>
-Bonne chance à tous les participants !<br>
-<br>
-
-(15 mai 2023)
-<div id="ancre26"></div> 
+ (15 mai 2023)
+ <div id="ancre27"></div> 
 </imagetextblock>
 
 ---
+
 <imagetextblock title="On recherche un(e) chargé(e) de communication" picture="/medias/VISUELS_ACTUALITES/OFFRE_EMPLOI.jpg">
 Participez au déploiement des dispositifs Outdoorvision et Suricate !<br>
  <br>
