@@ -4,6 +4,23 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="CHALLENGE // Trail de Haute Provence du 19 au 21 mai 2023" picture="/medias/VISUELS_ACTUALITES/THP2023_01.png" swap="true">
+ 
+ Le Trail de Haute Provence et le département des Alpes de Haute-Provence en partenariat avec Outdoorvision vous offrent <b>la chance de gagner l'un des nombreux lots dont une montre Suunto 5 Peak Ochre !</b> <br>
+  <br>
+ Pour participer, rendez-vous directement sur la <a target="_self" href="https://outdoorvision.fr/TrailHauteProvence">page dédiée</a>. Vous retrouverez toutes les informations nécessaires pour tenter votre chance ! <br>
+  <br>
+<i>L'objectif d'outdoorvision est de connaître les parcours les plus utilisés en trail. Une meilleure connaissance de cette pratique sur le territoire est essentielle pour prendre en compte les enjeux de partage et de pérennisation des sites de pratqiues tout en apportant plus de services aux pratiquants (itinéraires aménagés, toilettes sèches...) </i><br>
+  <br>
+ Le tirage au sort sera effectué à partir du 23 mai 2023. <b>Bonne chance à tous les participants !</b> <br>
+ <br>
+ 
+ (15 mai 2023)
+ <div id="ancre27"></div> 
+</imagetextblock>
+
+---
+
 <imagetextblock title="On recherche un(e) chargé(e) de communication" picture="/medias/VISUELS_ACTUALITES/OFFRE_EMPLOI.jpg">
 Participez au déploiement des dispositifs Outdoorvision et Suricate !<br>
  <br>
