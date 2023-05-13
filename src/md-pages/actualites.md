@@ -4,7 +4,7 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="CHALLENGE // Trail de Haute Provence du 19 au 21 mai 2023" picture="/medias/VISUELS_ACTUALITES/Photo4_Site_actu.png" swap="true">
+<imagetextblock title="CHALLENGE // Trail de Haute Provence du 19 au 21 mai 2023" picture="/medias/VISUELS_ACTUALITES/THP2023_01.png" swap="true">
  
  Le Trail de Haute Provence et le département des Alpes de Haute-Provence en partenariat avec Outdoorvision vous offrent la chance de gagner l'un des nombreux lots dont une montre Suunto 6 Peak Ochre ! <br>
   <br>
