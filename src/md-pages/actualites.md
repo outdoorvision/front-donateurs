@@ -19,7 +19,7 @@ Le tirage au sort sera effectué le 23 mai 2023. <br>
 Bonne chance à tous les participants !<br>
 <br>
 
-(31 mars 2023)
+(15 mai 2023)
 <div id="ancre26"></div> 
 </imagetextblock>
 
