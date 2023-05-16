@@ -12,7 +12,7 @@ Participez à notre <a target="_blank" href="https://www.strava.com/challenges/j
   <li>6 cartes cadeaux iRun d’une valeur de 50€</li>
   <li>Un maillot de l’équipe de France dédicacé</li>
  </ul> <br>
-Pour valider le <a target="_blank" href="https://www.strava.com/challenges/jaime-courir-outdoorvision-preserve-the-outdoors">challenge Strava</a> , cumulez 1 heure d’activité outdoor running durant la semaine du 22 au 28 mai 2023 et <b>confirmez votre participation en synchronisant votre compte</b> Suunto, Garmin, Polar ou Décathlon sur la <a target="_self" href="https://outdoorvision.fr/StravaFFA">page dédiée</a>. <br>
+Pour valider le <a target="_blank" href="https://www.strava.com/challenges/jaime-courir-outdoorvision-preserve-the-outdoors">challenge Strava</a> , <b>cumulez 1 heure d’activité outdoor running</b> durant la semaine du 22 au 28 mai 2023 et <b>confirmez votre participation en synchronisant votre compte</b> Suunto, Garmin, Polar ou Décathlon sur la <a target="_self" href="https://outdoorvision.fr/StravaFFA">page dédiée</a>. <br>
 <br>
 (16 mai 2023)
 <div id="ancre29"></div>
