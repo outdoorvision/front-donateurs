@@ -4,6 +4,22 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Challenge Strava du 22 au 29 mai 2023" picture="/medias/VISUELS_ACTUALITES/FFAxOV.png">
+Participez à notre <a target="_self" href="https://www.strava.com/challenges/jaime-courir-outdoorvision-preserve-the-outdoors">challenge</a>sur Strava en partenariat avec <b>J’aime Courir</b> et tentez de remporter :<br>
+<ul type="disc">
+  <li>Une <b>montre GPS Suunto 5 Peak</b> </li>
+  <li>Un casque audio SHOKZ Openrun pro </li>
+  <li>6 cartes cadeau iRun d’une valeur de 50€</li>
+  <li>Un maillot de l’équipe de France dédicacé</li>
+ </ul> <br>
+Pour valider le <a target="_self" href="https://www.strava.com/challenges/jaime-courir-outdoorvision-preserve-the-outdoors">challenge Strava</a> , cumulez 1 heure d’activité outdoor running durant la semaine du 22 au 28 mai 2023 et confirmez votre participation en synchronisant votre Suunto, Garmin, Polar ou Décathlon sur la page dédiée <a target="_self" href="https://www.outdoorvision.com/StravaFFA">challenge Strava</a>. <br>
+<br>
+(16 mai 2023)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
+
 <imagetextblock title="CHALLENGE // Trail de Haute Provence du 19 au 21 mai 2023" picture="/medias/VISUELS_ACTUALITES/THP2023_01.png" swap="true">
  
  Le Trail de Haute Provence et le département des Alpes de Haute-Provence en partenariat avec Outdoorvision vous offrent <b>la chance de gagner l'un des nombreux lots dont une montre Suunto 5 Peak Ochre !</b> <br>
@@ -16,7 +32,7 @@ randompicfolder: random
  <br>
  
  (15 mai 2023)
- <div id="ancre27"></div> 
+ <div id="ancre28"></div> 
 </imagetextblock>
 
 ---
