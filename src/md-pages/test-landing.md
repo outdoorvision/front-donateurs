@@ -7,7 +7,7 @@ swap: false
 
 
 ##Bravo !
-Vous faites partie de la communauté Outdoorvision ! **Pour valider votre participation et prendre part au tirage au sort, il ne vous reste plus qu'à synchroniser votre compte Decathlon, Garmin, Polar ou Suunto !**
+Vous faites partie de la communauté Outdoorvision ! **Pour valider rapidement votre participation et prendre part au tirage au sort, il ne vous reste plus qu'à synchroniser votre compte Decathlon, Garmin, Polar ou Suunto !**
 <participate></participate>
 
 Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentiers et itinéraires qu'elle utilise !
