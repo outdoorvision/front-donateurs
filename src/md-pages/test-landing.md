@@ -13,7 +13,7 @@ Vous faites partie de la communauté Outdoorvision ! **Pour valider rapidement v
 Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentiers et itinéraires qu'elle utilise !
 
 <p align="center">
-  <img src="/medias/challenge/STRAVA-FFA-02.jpg">
+  <img src="/medias/VISUELS_ACTUALITES/Café_des_coachs-2023-email.png">
 </p>
 
 ---
