@@ -15,7 +15,9 @@ Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentier
 <p align="center">
   <img src="/medias/VISUELS_ACTUALITES/Café_des_coachs-2023-email.png">
 </p>
-
+<p align="center">
+  <img src="/medias/VISUELS_ACTUALITES/Café_des_coachs-2023-email.png">
+</p>
 ---
 
 ##Gagnez un des lots offerts par les partenaires partageant les valeurs d'Outdoorvision !
