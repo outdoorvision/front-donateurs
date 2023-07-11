@@ -10,7 +10,7 @@ swap: false
 
 ---
 Dans le cadre de la compétition **O’France** dans les Pyrénées Catalanes, 
-la [FFCO](https://www.ffcorientation.fr/) et Outdoorvision vous offrent la chance de gagner l’un des lots suivants : 
+la **[FFCO](https://www.ffcorientation.fr/)** et **Outdoorvision** vous offrent la chance de gagner l’un des lots suivants : 
 
 <p align="center">
   <img src="/medias/challenge/Lots_ofrance2023_landingpage.png">
@@ -27,9 +27,9 @@ la [FFCO](https://www.ffcorientation.fr/) et Outdoorvision vous offrent la chanc
 
 ##Comment participer ?
 
-- Participer à l’une des étapes du [O’France 2023](https://foot-2023.o-france.fr/fr/home)
-- Créer son compte sur [Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid) et synchroniser sa montre connectée.
-
+- Participer à l’une des étapes du **[O’France 2023](https://foot-2023.o-france.fr/fr/home)**
+- Créer son compte sur **[Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)** et synchroniser sa montre connectée.
+<participate></participate>
 ---
 
 ##Pourquoi contribuer à Outdoorvision ?
