@@ -33,7 +33,7 @@ la **[FFCO]**(https://www.ffcorientation.fr/) et **Outdoorvision** vous offrent 
 ---
 
 <p align="center">
-  <img src="/medias/challenge-FFCO-02.jpg">
+  <img src="/medias/challenge/bandeau_ofrance_landingpage.png">
 </p>
 
 ##Pourquoi contribuer à Outdoorvision ?
