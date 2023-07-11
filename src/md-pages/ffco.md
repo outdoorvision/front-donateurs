@@ -4,19 +4,20 @@ picture: /medias/challenge/OFRANCE FFCO x OV bandeau landing page.png
 swap: false
 ---
 
-<p align="center">** Partagez vos traces GPS et contribuez à la préservation et l'aménagement de vos espaces de pratique de course d'orientation !** </p>
+<p align="center"> **Partagez vos traces GPS et contribuez à la préservation et l'aménagement de vos espaces de pratique de course d'orientation !** </p>
 
 <participate></participate>
 
 
-Dans le cadre de la compétition O’France dans les Pyrénées Catalanes, la [FFCO](https://www.ffcorientation.fr/) et **Outdoorvision** vous offrent la chance de gagner l’un des lots suivants :  
+<p align="center"> Dans le cadre de la compétition O’France dans les Pyrénées Catalanes, 
+la **[FFCO]**(https://www.ffcorientation.fr/) et **Outdoorvision** vous offrent la chance de gagner l’un des lots suivants : </p>
 
 <p align="center">
   <img src="/medias/challenge/Lots_ofrance2023_landingpage.png">
 </p>
 
 - 1 **montre GPS [Suunto](https://www.suunto.com/fr-fr/) 5 Peak**
-- 2  **licences** [FFCO](https://www.ffcorientation.fr/) pour l'année 2024
+- 2  **licences [FFCO](https://www.ffcorientation.fr/) pour l'année 2024**
 - 4 **lots matériels d'une valeur de 100€** 
 
 
