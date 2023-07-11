@@ -26,7 +26,7 @@ Dans le cadre de la compétition O’France dans les Pyrénées Catalanes, la [F
 
 ##Comment participer ?
 
-- Participer à l’une des étapes du [Raid O’France 2023](https://foot-2023.o-france.fr/fr/home)
+- Participer à l’une des étapes du [O’France 2023](https://foot-2023.o-france.fr/fr/home)
 - Créer son compte sur [Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid) et synchroniser sa montre connectée.
 
 ---
