@@ -9,7 +9,7 @@ swap: false
 <participate></participate>
 
 ---
-Dans le cadre de la compétition **O’France** dans les Pyrénées Catalanes, 
+Dans le cadre de la compétition **O’France 2023** dans les Pyrénées Catalanes, 
 la **[FFCO](https://www.ffcorientation.fr/)** et **Outdoorvision** vous offrent la chance de gagner l’un des lots suivants : 
 
 <p align="center">
