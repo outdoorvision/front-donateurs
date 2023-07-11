@@ -20,19 +20,19 @@ La [FFCO](https://www.ffcorientation.fr/) et Outdoorvision vous offrent la chanc
 
 
 <p align="center">
-  <img src="/medias/challenge/Visuel des lots.png">
+  <img src="/medias/challenge/Lots_ofrance2023_landingpage.png">
 </p>
 
-•	1 montre GPS [Suunto] (https://www.suunto.com/fr-fr/) 5 Peak 
-•	2 licences [FFCO] (https://www.ffcorientation.fr/) pour l’année 2024
-•	4 lots matériels d’une valeur de 100€
+<p>•	1 montre GPS [Suunto](https://www.suunto.com/fr-fr/) 5 Peak </p>
+<p>•	2 licences [FFCO](https://www.ffcorientation.fr/) pour l’année 2024 </p>
+<p>•	4 lots matériels d’une valeur de 100€ </p>
 
 Le tirage au sort sera effectué à partir du 21 août 2023. Les gagnants seront contactés par courriel.
 
 
 &nbsp;
 ##Comment participer ?
-•	Participer à l’une des étapes du [Raid O’France 2023] (https://foot-2023.o-france.fr/fr/home)
+•	Participer à l’une des étapes du [Raid O’France 2023](https://foot-2023.o-france.fr/fr/home)
 •	Créer son compte sur Outdoorvision : <participate></participate>
 
 
