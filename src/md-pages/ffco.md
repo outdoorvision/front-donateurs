@@ -6,11 +6,15 @@ swap: false
 
 <p align="center"> **Partagez vos traces GPS et contribuez à la préservation et l'aménagement de vos espaces de pratique de course d'orientation !** </p>
 
+<p align="center">
+  <img src="/medias/challenge/bandeau_ofrance_landingpage.png">
+</p>
+
 <participate></participate>
 
 
-<p align="center"> Dans le cadre de la compétition O’France dans les Pyrénées Catalanes, 
-la **[FFCO]**(https://www.ffcorientation.fr/) et **Outdoorvision** vous offrent la chance de gagner l’un des lots suivants : </p>
+Dans le cadre de la compétition O’France dans les Pyrénées Catalanes, 
+la [FFCO](https://www.ffcorientation.fr/) et Outdoorvision vous offrent la chance de gagner l’un des lots suivants : 
 
 <p align="center">
   <img src="/medias/challenge/Lots_ofrance2023_landingpage.png">
@@ -31,10 +35,6 @@ la **[FFCO]**(https://www.ffcorientation.fr/) et **Outdoorvision** vous offrent 
 - Créer son compte sur [Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid) et synchroniser sa montre connectée.
 
 ---
-
-<p align="center">
-  <img src="/medias/challenge/bandeau_ofrance_landingpage.png">
-</p>
 
 ##Pourquoi contribuer à Outdoorvision ?
 L’objectif est d’analyser les flux de fréquentation des orienteurs sur les compétitions de course d’orientation. 
