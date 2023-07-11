@@ -1,5 +1,5 @@
 ---
-title: CHALLENGE O'France 2023 - FFCO
+title: O'France 2023 - FFCO
 picture: /medias/challenge/OFRANCE FFCO x OV bandeau landing page.png
 swap: false
 ---
