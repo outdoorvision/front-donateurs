@@ -43,7 +43,7 @@ Une meilleure compréhension de la pratique des orienteurs est essentielle pour 
 
 ---
 &nbsp;
-##Tout comprendre en 1min30 ?
+##Tout comprendre en 1min30 !
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sua7VDlhBs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
