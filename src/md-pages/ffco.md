@@ -17,14 +17,13 @@ La **[FFCO]**(https://www.ffcorientation.fr/) et **Outdoorvision** vous offrent 
 - 4 **lots matériels d'une valeur de 100€** 
 
 
-Le tirage au sort sera effectué à partir du 21 août 2023. Les gagnants seront contactés par courriel.
+*Le tirage au sort sera effectué à partir du 21 août 2023. Les gagnants seront contactés par courriel.*
 
 ---
 
 ##Comment participer ?
-•	Participer à l’une des étapes du [Raid O’France 2023](https://foot-2023.o-france.fr/fr/home)
-
-•	Créer son compte sur [Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid) et synchroniser sa montre connectée.
+- Participer à l’une des étapes du [Raid O’France 2023](https://foot-2023.o-france.fr/fr/home)
+- Créer son compte sur [Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid) et synchroniser sa montre connectée.
 
 ---
 
