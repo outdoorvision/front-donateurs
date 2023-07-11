@@ -4,7 +4,7 @@ picture: /medias/challenge/OFRANCE FFCO x OV bandeau landing page.png
 swap: false
 ---
 
-<p align="center"> **Partagez vos traces GPS et contribuez à la préservation et l'aménagement de vos espaces de pratique de course d'orientation !** </p>
+**<p align="center"> Partagez vos traces GPS et contribuez à la préservation et l'aménagement de vos espaces de pratique de course d'orientation ! </p>**
 
 
 <participate></participate>
