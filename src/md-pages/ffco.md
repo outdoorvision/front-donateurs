@@ -6,9 +6,6 @@ swap: false
 
 <p align="center"> **Partagez vos traces GPS et contribuez à la préservation et l'aménagement de vos espaces de pratique de course d'orientation !** </p>
 
-<p align="center">
-  <img src="/medias/challenge/bandeau_ofrance_landingpage.png">
-</p>
 
 <participate></participate>
 
@@ -40,7 +37,13 @@ la [FFCO](https://www.ffcorientation.fr/) et Outdoorvision vous offrent la chanc
 L’objectif est d’analyser les flux de fréquentation des orienteurs sur les compétitions de course d’orientation. 
 Une meilleure compréhension de la pratique des orienteurs est essentielle pour pérenniser les organisations de courses d’orientation.
 
+<p align="center">
+  <img src="/medias/challenge/bandeau_ofrance_landingpage.png">
+</p>
+
+---
 &nbsp;
+##Tout comprendre en 1min30 ?
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sua7VDlhBs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
