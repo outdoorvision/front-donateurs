@@ -4,13 +4,12 @@ picture: /medias/challenge/OFRANCE FFCO x OV bandeau landing page.png
 swap: false
 ---
 
-**<p align="center"> Partagez vos traces GPS et contribuez à la préservation et l'aménagement de vos espaces de pratique de course d'orientation ! </p>**
-
+**<p align="center"> Partagez vos traces GPS et contribuez à la préservation et l'aménagement de vos espaces de pratique de course d'orientation</p>**
 
 <participate></participate>
 
-
-Dans le cadre de la compétition O’France dans les Pyrénées Catalanes, 
+---
+Dans le cadre de la compétition **O’France** dans les Pyrénées Catalanes, 
 la [FFCO](https://www.ffcorientation.fr/) et Outdoorvision vous offrent la chance de gagner l’un des lots suivants : 
 
 <p align="center">
@@ -42,7 +41,6 @@ Une meilleure compréhension de la pratique des orienteurs est essentielle pour 
 </p>
 
 ---
-&nbsp;
 ##Tout comprendre en 1min30 !
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sua7VDlhBs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
