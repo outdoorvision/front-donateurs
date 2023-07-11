@@ -9,7 +9,7 @@ Dans le cadre des championnats de France à Risoul, partagez vos traces GPS et c
 <participate></participate>
 
 <p align="center">
-  <img src="/medias/challenge-FFCO-01.jpg">
+  <img src="/medias/challenge/OFRANCE FFCO x OV bandeau landing page.png">
 </p>
 
 
