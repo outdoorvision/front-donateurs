@@ -13,8 +13,7 @@ L’objectif est d’analyser les flux de fréquentation des orienteurs sur les 
 Une meilleure compréhension de la pratique des orienteurs est essentielle pour pérenniser les organisations de courses d’orientation.
 
 <p align="center">
-  <img src="/medias/challenge/bandeau_ofrance_landingpage.png">
-</p>
+  <img src="/medias/challenge/bandeau_ofrance_landingpage.png"></p>
 
 <participate></participate>
 
