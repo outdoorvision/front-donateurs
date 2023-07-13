@@ -9,6 +9,16 @@ swap: false
 <participate></participate>
 
 ---
+
+##Pourquoi contribuer à Outdoorvision ?
+L’objectif est d’analyser les flux de fréquentation des orienteurs sur les compétitions de course d’orientation. 
+Une meilleure compréhension de la pratique des orienteurs est essentielle pour pérenniser les organisations de courses d’orientation.
+
+<p align="center">
+  <img src="/medias/challenge/bandeau_ofrance_landingpage.png">
+</p>
+
+---
 Dans le cadre de la compétition **O’France 2023** dans les Pyrénées Catalanes, 
 la **[FFCO](https://www.ffcorientation.fr/)** et **Outdoorvision** vous offrent la chance de gagner l’un des lots suivants : 
 
