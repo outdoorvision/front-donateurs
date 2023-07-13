@@ -6,8 +6,6 @@ swap: false
 
 **<p align="center"> Synchronise ta montre connectée et contribue à la sauvegarde des espaces de pratique de course d'orientation</p>**
 
-<participate></participate>
-
 ---
 
 ##Pourquoi contribuer à Outdoorvision ?
@@ -17,6 +15,8 @@ Une meilleure compréhension de la pratique des orienteurs est essentielle pour 
 <p align="center">
   <img src="/medias/challenge/bandeau_ofrance_landingpage.png">
 </p>
+
+<participate></participate>
 
 ---
 Dans le cadre de la compétition **O’France 2023** dans les Pyrénées Catalanes, 
