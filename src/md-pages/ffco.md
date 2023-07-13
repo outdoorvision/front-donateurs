@@ -40,15 +40,6 @@ la **[FFCO](https://www.ffcorientation.fr/)** et **Outdoorvision** vous offrent 
 - Participer à l’une des étapes du **[O’France 2023](https://foot-2023.o-france.fr/fr/home)**
 - Créer son compte sur **[Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)** et synchroniser sa montre connectée.
 <participate></participate>
----
-
-##Pourquoi contribuer à Outdoorvision ?
-L’objectif est d’analyser les flux de fréquentation des orienteurs sur les compétitions de course d’orientation. 
-Une meilleure compréhension de la pratique des orienteurs est essentielle pour pérenniser les organisations de courses d’orientation.
-
-<p align="center">
-  <img src="/medias/challenge/bandeau_ofrance_landingpage.png">
-</p>
 
 ---
 ##Tout comprendre en 1min30 !
