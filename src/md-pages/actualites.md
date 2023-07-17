@@ -12,7 +12,7 @@ A l'occasion de la compétition O'France de course d'orientation dans les Pyren�
   <li>2 licences <a target="_blank" href="https://www.ffcorientation.fr/">FFCO</a> pour l'année 2024</li>
   <li>4 lots matériels d'une valeur de 100€</li>
  </ul> <br>
-Pour participer, c'est par <a target="_blank" href="https://www.outdoorvision.fr/ffco/?mtm_campaign=OFrance2023">ici</a> !
+Pour participer, c'est par <b><a target="_blank" href="https://www.outdoorvision.fr/ffco/?mtm_campaign=OFrance2023">ici</a></b> !
 
 Le tirage au sort aura lieu à partir du 21 août 2023. Bonne chance et bonne course à tous !
 
