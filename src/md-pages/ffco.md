@@ -29,8 +29,6 @@ la **[FFCO](https://www.ffcorientation.fr/)** et **Outdoorvision** vous offrent 
 - 2  **licences [FFCO](https://www.ffcorientation.fr/) pour l'année 2024**
 - 4 **lots matériels d'une valeur de 100€** 
 
-
-*Jeu concours à partir du 24 juillet*
 *Le tirage au sort sera effectué à partir du 21 août 2023. Les gagnants seront contactés par courriel.*
 
 ---
@@ -55,5 +53,6 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 ---
 
+*Jeu concours à partir du 24 juillet*
 Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours O'France 2023.pdf)
 <participate></participate>
