@@ -30,6 +30,7 @@ la **[FFCO](https://www.ffcorientation.fr/)** et **Outdoorvision** vous offrent 
 - 4 **lots matériels d'une valeur de 100€** 
 
 
+*Jeu concours à partir du 24 juillet*
 *Le tirage au sort sera effectué à partir du 21 août 2023. Les gagnants seront contactés par courriel.*
 
 ---
