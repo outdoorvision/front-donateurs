@@ -57,3 +57,4 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 <p></p>
 
 Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours O'France 2023.pdf)
+<p></p>
