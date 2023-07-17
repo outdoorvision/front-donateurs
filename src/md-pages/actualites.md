@@ -4,6 +4,22 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Jeu concours O'France 2023" picture=/medias/OFRANCE FFCO x OV 02.png">
+A l'occasion de la compétition O'France de course d'orientation dans les Pyrenées Catalanes, la <a target="_blank" href="https://www.ffcorientation.fr/">FFCO</a> et <b>Outdoorvision</b> vous offrent la chance de gagner l'un des lots suivants : 
+ 
+ <li>1 <b>montre GPS <a target="_blank" href="https://www.suunto.com/fr-fr/">Suunto</a> 5 Peak</b> </li>
+  <li>2 licences <a target="_blank" href="https://www.ffcorientation.fr/">FFCO</a> pour l'année 2024</li>
+  <li>4 lots matériels d'une valeur de 100€</li>
+ </ul> <br>
+Pour participer, c'est par <a target="_blank" href="https://www.outdoorvision.fr/ffco/?mtm_campaign=OFrance2023">ici</a> !
+
+Le tirage au sort aura lieu à partir du 21 août 2023. Bonne chance et bonne course à tous !
+
+(24 juillet 2023)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
 <imagetextblock title="Challenge Strava du 22 au 29 mai 2023" picture="/medias/VISUELS_ACTUALITES/FFAxOV.png">
 Participez à notre <a target="_blank" href="https://www.strava.com/challenges/jaime-courir-outdoorvision-preserve-the-outdoors">challenge</a> sur Strava en partenariat avec <b>J’aime Courir</b> et tentez de remporter :<br>
 <ul type="disc">
