@@ -6,7 +6,7 @@ randompicfolder: random
 
 <imagetextblock title="Jeu concours O'France 2023" picture="/medias/OFRANCE FFCO x OV 02.png" swap="true">
 
-A l'occasion de la compétition <a target="_blank" href="[https://www.suunto.com/fr-fr/](https://foot-2023.o-france.fr/fr/home)">O'France</a> de course d'orientation dans les Pyrenées Catalanes, la <a target="_blank" href="https://www.ffcorientation.fr/">FFCO</a> et <b>Outdoorvision</b> vous offrent la chance de gagner l'un des lots suivants : 
+A l'occasion de la compétition <a target="_blank" href="https://foot-2023.o-france.fr/fr/home">O'France</a> de course d'orientation dans les Pyrenées Catalanes, la <a target="_blank" href="https://www.ffcorientation.fr/">FFCO</a> et <b>Outdoorvision</b> vous offrent la chance de gagner l'un des lots suivants : 
  <br>
  <li>1 <b>montre GPS <a target="_blank" href="https://www.suunto.com/fr-fr/">Suunto</a> 5 Peak</b> </li>
   <li>2 licences <a target="_blank" href="https://www.ffcorientation.fr/">FFCO</a> pour l'année 2024</li>
