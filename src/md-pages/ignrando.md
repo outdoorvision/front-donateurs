@@ -9,8 +9,8 @@ swap: false
 ---
 
 ##Pourquoi contribuer à Outdoorvision ?
-En tant que passionné des sports outdoor, vous êtes sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de votre sport favori dans les politiques territoriales.
-En partageant vos traces GPS - et uniquement vos traces GPS - vous contribuez à la meilleure connaissance des sports outdoor et à la préservation de vos sites de pratique.
+En tant que passionné des sports outdoor, tu es sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de votre sport favori dans les politiques territoriales.
+En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à la meilleure connaissance des sports outdoor et à la préservation de tes sites de pratique.
 
 
 <p align="center">
