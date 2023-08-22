@@ -20,7 +20,7 @@ En partageant vos traces GPS - et uniquement vos traces GPS - vous contribuez à
 
 ---
 A l’occasion du grand évènement de l' **UTMB** à Chamonix, 
-participez au jeu concours la **[IGNrando'](https://ignrando.fr/fr/)** et **Outdoorvision** , et tentez de remporter l’un des lots suivants : 
+participez au jeu concours **[IGNrando'](https://ignrando.fr/fr/)** et **Outdoorvision** , et tentez de remporter l’un des lots suivants : 
 
 - 1 **montre [Suunto](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/Suunto-Core/suunto-core-black-yellow-tx/) Core Black Yellow TX**
 - 20  **abonnements à l’application [IGNrando'](https://ignrando.fr/fr/)**
