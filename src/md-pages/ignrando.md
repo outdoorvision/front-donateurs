@@ -23,7 +23,7 @@ A l’occasion du grand évènement de l' **UTMB** à Chamonix,
 participez au jeu concours la **[IGNrando'](https://ignrando.fr/fr/)** et **Outdoorvision** , et tentez de remporter l’un des lots suivants : 
 
 <p align="center">
-  <img src="/medias/challenge/Lots_ofrance2023_landingpage.png">
+  <img src="/medias/challenge/IGNrandobandeau landing page lots.png">
 </p>
 
 - 1 ** montre [Suunto](https://www.suunto.com/fr-fr/) Core Black Yellow TX**
