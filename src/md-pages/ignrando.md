@@ -1,6 +1,6 @@
 ---
 title: IGNrando'
-picture: /medias/IGNrando bandeau landing page.png
+picture: /medias/challenge/IGNrando bandeau landing page.png
 swap: false
 ---
 
