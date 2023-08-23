@@ -13,7 +13,7 @@ A l'occasion du grand évènement de l'<b>UTMB à Chamonix</b>, IGNrando' et Out
  </ul> <br>
 Pour participer, c'est par <b><a target="_blank" href="www.outdoorvision.fr/IGNrando/?mtm_campaign=IGNUTMB">ici</a></b> !
 
-Le tirage au sort aura lieu à partir du 11 septembre 2023. Bonne chance et bonne course à tous !
+Le tirage au sort aura lieu à partir du 11 septembre 2023. 
 
 (23 août 2023)
 <div id="ancre29"></div>
