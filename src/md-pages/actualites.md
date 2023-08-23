@@ -5,7 +5,7 @@ randompicfolder: random
 ---
 
 <imagetextblock title="Jeu Concours IGNrando'" picture="/medias/challenge/post actualité IGNrando.png">
-A l'occasion du grand évènement de l'<b>UTMB à Chamonix</b>, <b> <a target="_blank" href="https://ignrando.fr/fr/">IGNrando'</a> </b> et Outdoorvision organise un jeu concours, et vous offre la chance de gagner :
+A l'occasion du grand évènement de l'<b>UTMB à Chamonix</b>, <b> <a target="_blank" href="https://ignrando.fr/fr/">IGNrando'</a> </b> et  <b> Outdoorvision </b> organise un jeu concours, et vous offre la chance de gagner :
 <ul type="disc">
   <li>Une <b> <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/Suunto-Core/suunto-core-black-yellow-tx/"> montre Suunto Core Black Yellow TX </a> </b> </li>
   <li>20 <b> <a target="_blank" href="https://ignrando.fr/fr/"> abonnements IGNrando' </a> </b> </li> 
