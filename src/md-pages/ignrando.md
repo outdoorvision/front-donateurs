@@ -1,6 +1,6 @@
 ---
 title: IGNrando'
-picture: /medias/IGNrando bandeau landing page.png
+picture: /medias/challenge/IGNrando bandeau landing page.png
 swap: false
 ---
 
@@ -14,7 +14,8 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
 
 
 <p align="center">
-  <img src="/medias/challenge/IGNrando bandeau landing page contribue.png"></p>
+  <img src="/medias/cahllenge/IGNrando bandeau landing page contribue.png">
+</p>
 
 <participate></participate>
 
