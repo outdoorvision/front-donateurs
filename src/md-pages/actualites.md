@@ -8,7 +8,7 @@ randompicfolder: random
 A l'occasion du grand évènement de l'<b>UTMB à Chamonix</b>, IGNrando' et Outdoorvision organise un jeu concours, et vous offre la chance de gagner :
 <ul type="disc">
   <li>Une <b> <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/Suunto-Core/suunto-core-black-yellow-tx/"> montre Suunto Core Black Yellow TX </a> </b> </li>
-  <li>20 <b> <a target="_blank" href="[https://www.suunto.com/fr-fr/Produits/Montres-de-sport/Suunto-Core/suunto-core-black-yellow-tx/](https://ignrando.fr/fr/)"> abonnements IGNrando' </a> </b> </li> 
+  <li>20 <b> <a target="_blank" href="https://ignrando.fr/fr/"> abonnements IGNrando' </a> </b> </li> 
   
  </ul> <br>
 Pour participer, c'est par <b><a target="_blank" href="www.outdoorvision.fr/IGNrando/?mtm_campaign=IGNUTMB">ici</a></b> !
