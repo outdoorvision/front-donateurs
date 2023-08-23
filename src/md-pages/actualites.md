@@ -11,7 +11,7 @@ A l'occasion du grand évènement de l'<b>UTMB à Chamonix</b>, <b> <a target="_
   <li>20 <b> <a target="_blank" href="https://ignrando.fr/fr/"> abonnements IGNrando' </a> </b> </li> 
   
  </ul> <br>
-Pour participer, rendez-vous <b><a target="_blank" href="www.outdoorvision.fr/IGNrando/?mtm_campaign=IGNUTMB">ici</a></b> !
+Pour participer, rendez-vous <b><a target="_blank" href="https://www.outdoorvision.fr/ignrando/?mtm_campaign=IGNUTMB">ici</a></b> !
 
 Le tirage au sort aura lieu à partir du 11 septembre 2023. 
 
