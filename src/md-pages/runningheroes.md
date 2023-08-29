@@ -20,10 +20,10 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
 <participate></participate>
 
 ---
-A l’occasion du grand évènement de l' **UTMB** à Chamonix, 
-participez au jeu concours **[IGNrando'](https://ignrando.fr/fr/)** et **Outdoorvision** , et tentez de remporter l’un des lots suivants : 
+Vous avez terminez le challenge ! 
+La **[FFRandonnée](https://www.ffrandonnee.fr)** et **Outdoorvision** vous offrent la chance de remporter l'un de ses lots : 
 
-- 1 **montre [Suunto](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/Suunto-Core/suunto-core-black-yellow-tx/) Core Black Yellow TX**
+- 1 **montre [Suunto](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-5-peak/suunto-5-peak-all-black/) 5 Peak All Black**
 - 20  **abonnements à l’application [IGNrando'](https://ignrando.fr/fr/)**
   
 <p align="center">
@@ -39,7 +39,7 @@ participez au jeu concours **[IGNrando'](https://ignrando.fr/fr/)** et **Outdoor
 
 - Créer son compte sur **[Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)** et synchroniser sa montre connectée.
 
-- Déposer ses traces GPS via Outdoorvision ou [IGNrando'](https://ignrando.fr/fr/)
+- Déposer ses traces GPS via Outdoorvision.
   
 <participate></participate>
 
@@ -57,7 +57,7 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 ---
 
-*Jeu concours à partir du 25 août 2023* 
+*Jeu concours à partir du 23 sepembre 2023* 
 <p></p>
 
 Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours UTMB IGN.pdf)
