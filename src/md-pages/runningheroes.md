@@ -20,7 +20,7 @@ La **[FFRandonnée](https://www.ffrandonnee.fr)** et **Outdoorvision** vous offr
   <img src="/medias/challenge/IGNrandobandeau landing page lots.png">
 </p>
 
-*Le tirage au sort sera effectué à partir du 11 septembre 2023. Les gagnants seront contactés par courriel.*
+*Le tirage au sort sera effectué à partir du 3 octobre 2023. Les gagnants seront contactés par courriel.*
 ---
 
 ##Pourquoi contribuer à Outdoorvision ?
@@ -33,8 +33,6 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
 </p>
 
 <participate></participate>
-
-
 
 ---
 
