@@ -4,8 +4,21 @@ picture: /medias/IGNrando bandeau landing page.png
 swap: false
 ---
 
-**<p align="center"> Synchronise ta montre connectée et contribue à la sauvegarde de tes espaces de pratique sportive</p>**
+**<p align="center"> Félicitations ! Vous avez terminé le challenge Running Heroes ! </p>**
 
+---
+Il ne vous reste plus qu'à créer votre compte Outdoorvision, et synchroniser votre montre connectée ou déposer vos traces GPX manuellement.
+
+La **[FFRandonnée](https://www.ffrandonnee.fr)** et **Outdoorvision** vous offrent la chance de remporter l'un de ses lots : 
+
+- 1 **montre [Suunto](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-5-peak/suunto-5-peak-all-black/) 5 Peak All Black**
+- 20  **abonnements à l’application [IGNrando'](https://ignrando.fr/fr/)**
+  
+<p align="center">
+  <img src="/medias/challenge/IGNrandobandeau landing page lots.png">
+</p>
+
+*Le tirage au sort sera effectué à partir du 11 septembre 2023. Les gagnants seront contactés par courriel.*
 ---
 
 ##Pourquoi contribuer à Outdoorvision ?
@@ -19,19 +32,7 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
 
 <participate></participate>
 
----
-Vous avez terminez le challenge ! 
-La **[FFRandonnée](https://www.ffrandonnee.fr)** et **Outdoorvision** vous offrent la chance de remporter l'un de ses lots : 
 
-- 1 **montre [Suunto](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-5-peak/suunto-5-peak-all-black/) 5 Peak All Black**
-- 20  **abonnements à l’application [IGNrando'](https://ignrando.fr/fr/)**
-  
-<p align="center">
-  <img src="/medias/challenge/IGNrandobandeau landing page lots.png">
-</p>
-
-
-*Le tirage au sort sera effectué à partir du 11 septembre 2023. Les gagnants seront contactés par courriel.*
 
 ---
 
