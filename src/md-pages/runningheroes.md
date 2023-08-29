@@ -7,7 +7,9 @@ swap: false
 **<p align="center"> Félicitations ! Vous avez terminé le challenge Running Heroes ! </p>**
 
 ---
-Il ne vous reste plus qu'à créer votre compte Outdoorvision, et synchroniser votre montre connectée ou déposer vos traces GPX manuellement.
+Pour être éligible au jeu concours, il ne vous reste plus qu'à créer votre compte Outdoorvision, et synchroniser votre montre connectée ou déposer vos traces GPX manuellement.
+
+
 
 La **[FFRandonnée](https://www.ffrandonnee.fr)** et **Outdoorvision** vous offrent la chance de remporter l'un de ses lots : 
 
