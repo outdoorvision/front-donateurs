@@ -63,5 +63,3 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 *Jeu concours à partir du 23 septembre 2023* 
 <p></p>
 
-Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours UTMB IGN.pdf)
-<p></p>
