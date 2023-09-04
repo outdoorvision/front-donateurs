@@ -14,7 +14,9 @@ Pour être éligible au jeu concours, il ne vous reste plus qu'à créer votre c
 La **[FFRandonnée](https://www.ffrandonnee.fr)** et **Outdoorvision** vous offrent la chance de remporter l'un de ses lots : 
 
 - 1 **montre [Suunto](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-5-peak/suunto-5-peak-all-black/) 5 Peak All Black**
-- 20  **abonnements à l’application [IGNrando'](https://ignrando.fr/fr/)**
+- 15 **[topoguides] (https://boutique.ffrandonnee.fr/topoguides?gclid=EAIaIQobChMI28-b9Ov0gAMVAYZoCR21fQ1IEAAYASAAEgKgvvD_BwE)**
+- 15 **abonnements annuels au magazine [Passion Rando](https://ignrando.fr/fr/](https://www.ffrandonnee.fr/la-federation/passion-rando?page=1)**
+- 15 **[RandoPass](https://www.ffrandonnee.fr/adherer/randopass/le-randopass-pour-tous-les-amoureux-de-la-rando)**
   
 <p align="center">
   <img src="/medias/challenge/Running Heroes bannières lots.png">
