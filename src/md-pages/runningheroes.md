@@ -1,5 +1,5 @@
 ---
-title: IGNrando'
+title: Running Heroes'
 picture: /medias/IGNrando bandeau landing page.png
 swap: false
 ---
@@ -17,7 +17,7 @@ La **[FFRandonnée](https://www.ffrandonnee.fr)** et **Outdoorvision** vous offr
 - 20  **abonnements à l’application [IGNrando'](https://ignrando.fr/fr/)**
   
 <p align="center">
-  <img src="/medias/challenge/IGNrandobandeau landing page lots.png">
+  <img src="/medias/challenge/Running Heroes bannières lots.png">
 </p>
 
 *Le tirage au sort sera effectué à partir du 3 octobre 2023. Les gagnants seront contactés par courriel.*
