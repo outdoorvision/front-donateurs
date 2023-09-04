@@ -1,6 +1,6 @@
 ---
 title: Running Heroes'
-picture: /medias/IGNrando bandeau landing page.png
+picture: /medias/Bannière landing page running heroes.png
 swap: false
 ---
 
