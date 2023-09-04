@@ -1,5 +1,5 @@
 ---
-title: Running Heroes'
+title: Running Heroes
 picture: /medias/challenge/Bannière landing page running heroes.png
 swap: false
 ---
