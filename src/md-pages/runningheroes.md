@@ -9,7 +9,7 @@ swap: false
 ---
 Pour être éligible au jeu concours, il ne vous reste plus qu'à créer votre compte Outdoorvision, et synchroniser votre montre connectée ou déposer vos traces GPX manuellement.
 
-
+<participate></participate>
 
 La **[FFRandonnée](https://www.ffrandonnee.fr)** et **Outdoorvision** vous offrent la chance de remporter l'un de ses lots : 
 
@@ -28,6 +28,13 @@ La **[FFRandonnée](https://www.ffrandonnee.fr)** et **Outdoorvision** vous offr
 
 ##Comment participer ?
 
+- Créer son compte sur **[Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)** et synchroniser sa montre connectée.
+
+- Déposer ses traces GPS via Outdoorvision.
+  
+<participate></participate>
+
+------
 
 ##Pourquoi contribuer à Outdoorvision ?
 En tant que passionné des sports outdoor, tu es sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de ton sport favori dans les politiques territoriales.
@@ -38,19 +45,7 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
   <img src="/medias/challenge/IGNrando bandeau landing page contribue.png">
 </p>
 
-<participate></participate>
 
----
-
-##Comment participer ?
-
-- Créer son compte sur **[Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)** et synchroniser sa montre connectée.
-
-- Déposer ses traces GPS via Outdoorvision.
-  
-<participate></participate>
-
----
 ##Tout comprendre en 1min30 !
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sua7VDlhBs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
