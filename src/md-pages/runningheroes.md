@@ -28,9 +28,9 @@ La **[FFRandonnée](https://www.ffrandonnee.fr)** et **Outdoorvision** vous offr
 
 ##Comment participer ?
 
-- Créer son compte sur **[Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)** et synchroniser sa montre connectée.
+- Créer son compte sur **[Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)**
 
-- Déposer ses traces GPS via Outdoorvision.
+- Synchroniser sa montre connectée ou déposer ses traces GPX manuellement.
   
 <participate></participate>
 
