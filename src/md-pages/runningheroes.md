@@ -44,7 +44,7 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
 
 
 <p align="center">
-  <img src="/medias/challenge/IGNrando bandeau landing page contribue.png">
+  <img src="/medias/challenge/Bannière contribue running heroes.png">
 </p>
 
 ------
