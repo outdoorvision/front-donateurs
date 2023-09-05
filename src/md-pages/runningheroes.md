@@ -33,7 +33,6 @@ La **[FFRandonnée](https://www.ffrandonnee.fr)** et **Outdoorvision** vous offr
 - Synchroniser sa montre connectée ou déposer ses traces GPX manuellement.
   
 <participate></participate>
-
 ------
 
 ##Pourquoi contribuer à Outdoorvision ?
