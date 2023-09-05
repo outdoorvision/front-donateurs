@@ -23,7 +23,11 @@ La **[FFRandonnée](https://www.ffrandonnee.fr)** et **Outdoorvision** vous offr
 </p>
 
 *Le tirage au sort sera effectué à partir du 3 octobre 2023. Les gagnants seront contactés par courriel.*
+
 ---
+
+##Comment participer ?
+
 
 ##Pourquoi contribuer à Outdoorvision ?
 En tant que passionné des sports outdoor, tu es sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de ton sport favori dans les politiques territoriales.
