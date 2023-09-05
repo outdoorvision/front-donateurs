@@ -7,7 +7,7 @@ swap: false
 **<p align="center"> Félicitations ! Vous avez terminé le challenge Running Heroes ! </p>**
 
 ---
-Pour être éligible au jeu concours, il ne vous reste plus qu'à créer votre compte Outdoorvision, et synchroniser votre montre connectée ou déposer vos traces GPX manuellement.
+Pour être éligible au jeu concours, il ne vous reste plus qu'à créer votre compte **Outdoorvision**, et synchroniser votre montre connectée ou déposer vos traces GPX manuellement.
 
 <participate></participate>
 
@@ -47,6 +47,7 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
   <img src="/medias/challenge/IGNrando bandeau landing page contribue.png">
 </p>
 
+------
 
 ##Tout comprendre en 1min30 !
 <p align="center">
