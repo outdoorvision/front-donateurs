@@ -4,6 +4,18 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="15 millions de traces collectées, MERCI !" picture="/medias/15 millions traces OV.png" swap="true">
+
+<b>Le cap de 15 millions de traces collectées a été franchi !</b>
+
+Merci aux 675 000 contributeurs français qui ont partagé au moins une trace GPS avec Outdoorvision.
+Grâce aux partages de vos traces, vous contribuez à la meilleure connaissance des sports outdoor et à la préservation de vos sites de pratique !
+
+(01 septembre 2023)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
 <imagetextblock title="Jeu Concours IGNrando'" picture="/medias/challenge/post actualité IGNrando.png">
 A l'occasion du grand évènement de l'<b>UTMB à Chamonix</b>, <b> <a target="_blank" href="https://ignrando.fr/fr/">IGNrando'</a> </b> et  <b> Outdoorvision </b> organise un jeu concours, et vous offre la chance de gagner :
 <ul type="disc">
