@@ -4,7 +4,7 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="Jeu concours O'France 2023" picture="/medias/15 millions traces OV.png" swap="true">
+<imagetextblock title="15 millions de traces collectées, MERCI !" picture="/medias/15 millions traces OV.png" swap="true">
 
 <b>Le cap de 15 millions de traces collectées a été franchi !</b>
 
