@@ -9,6 +9,7 @@ randompicfolder: random
 <b>Le cap de 15 millions de traces collectées a été franchi !</b>
 
 Merci aux 675 000 contributeurs français qui ont partagé au moins une trace GPS avec Outdoorvision.
+Grâce aux partages de vos traces, vous contribuez à la meilleure connaissance des sports outdoor et à la préservation de vos sites de pratique !
 
 (01 septembre 2023)
 <div id="ancre29"></div>
