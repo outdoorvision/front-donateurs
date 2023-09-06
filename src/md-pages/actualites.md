@@ -10,7 +10,7 @@ randompicfolder: random
 
 Merci aux 675 000 contributeurs français qui ont partagé au moins une trace GPS avec Outdoorvision.
 
-<img src="/medias/Repartition des traces France.jpg" width=100% height=100%/>
+<img src="/medias/Repartition des traces France.png" width=100% height=100%/>
 
 (01 septembre 2023)
 <div id="ancre29"></div>
