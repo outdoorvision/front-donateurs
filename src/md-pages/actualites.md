@@ -6,17 +6,11 @@ randompicfolder: random
 
 <imagetextblock title="Jeu concours O'France 2023" picture="/medias/15 millions traces OV.png" swap="true">
 
-A l'occasion de la compétition <a target="_blank" href="https://foot-2023.o-france.fr/fr/home">O'France</a> de course d'orientation dans les Pyrenées Catalanes, la <a target="_blank" href="https://www.ffcorientation.fr/">FFCO</a> et <b>Outdoorvision</b> vous offrent la chance de gagner l'un des lots suivants  : 
- <br>
- <li>1 <b>montre GPS <a target="_blank" href="https://www.suunto.com/fr-fr/">Suunto</a> 5 Peak</b> </li>
-  <li>2 licences <a target="_blank" href="https://www.ffcorientation.fr/">FFCO</a> pour l'année 2024</li>
-  <li>4 lots matériels d'une valeur de 100€</li>
- </ul> <br>
-Pour participer, c'est par <b><a target="_blank" href="https://www.outdoorvision.fr/ffco/?mtm_campaign=OFrance2023">ici</a></b> !
+<b>Le cap de 15 millions de traces collectées a été franchi !</b>
 
-Le tirage au sort aura lieu à partir du 21 août 2023. Bonne chance et bonne course à tous !
+Merci aux 675 000 contributeurs français qui ont partagé au moins une trace GPS avec Outdoorvision.
 
-(24 juillet 2023)
+(01 septembre 2023)
 <div id="ancre29"></div>
 </imagetextblock>
 
