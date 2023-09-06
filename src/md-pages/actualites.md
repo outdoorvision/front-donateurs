@@ -4,6 +4,23 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Jeu concours O'France 2023" picture="/medias/15 millions traces OV.png" swap="true">
+
+A l'occasion de la compétition <a target="_blank" href="https://foot-2023.o-france.fr/fr/home">O'France</a> de course d'orientation dans les Pyrenées Catalanes, la <a target="_blank" href="https://www.ffcorientation.fr/">FFCO</a> et <b>Outdoorvision</b> vous offrent la chance de gagner l'un des lots suivants  : 
+ <br>
+ <li>1 <b>montre GPS <a target="_blank" href="https://www.suunto.com/fr-fr/">Suunto</a> 5 Peak</b> </li>
+  <li>2 licences <a target="_blank" href="https://www.ffcorientation.fr/">FFCO</a> pour l'année 2024</li>
+  <li>4 lots matériels d'une valeur de 100€</li>
+ </ul> <br>
+Pour participer, c'est par <b><a target="_blank" href="https://www.outdoorvision.fr/ffco/?mtm_campaign=OFrance2023">ici</a></b> !
+
+Le tirage au sort aura lieu à partir du 21 août 2023. Bonne chance et bonne course à tous !
+
+(24 juillet 2023)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
 <imagetextblock title="Jeu Concours IGNrando'" picture="/medias/challenge/post actualité IGNrando.png">
 A l'occasion du grand évènement de l'<b>UTMB à Chamonix</b>, <b> <a target="_blank" href="https://ignrando.fr/fr/">IGNrando'</a> </b> et  <b> Outdoorvision </b> organise un jeu concours, et vous offre la chance de gagner :
 <ul type="disc">
