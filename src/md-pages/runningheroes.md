@@ -4,12 +4,19 @@ picture: /medias/challenge/Bannière landing page running heroes.png
 swap: false
 ---
 
-**<p align="center"> Félicitations ! Vous avez terminé le challenge Running Heroes ! </p>**
+Pour participer au challenge **[Running Heroes](https://fr.runningheroes.com/fr/challenges/details/64f74f75af3b275376c3e2d6)**, il vous faut courir 8 kms sur la semaine, mais aussi **créer votre compte sur Outdoorvision**.
 
 ---
-Pour être éligible au jeu concours, il ne vous reste plus qu'à créer votre compte **Outdoorvision**, et synchroniser votre montre connectée ou déposer vos traces GPX manuellement.
 
+##Comment participer ?
+
+- Créer son compte sur **[Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)**
+
+- Synchroniser sa montre connectée ou déposer ses traces GPX manuellement.
+  
 <participate></participate>
+
+---
 
 La **[FFRandonnée](https://www.ffrandonnee.fr)** et **Outdoorvision** vous offrent la chance de remporter l'un de ses lots : 
 
@@ -24,15 +31,7 @@ La **[FFRandonnée](https://www.ffrandonnee.fr)** et **Outdoorvision** vous offr
 
 *Le tirage au sort sera effectué à partir du 3 octobre 2023. Les gagnants seront contactés par courriel.*
 
----
 
-##Comment participer ?
-
-- Créer son compte sur **[Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)**
-
-- Synchroniser sa montre connectée ou déposer ses traces GPX manuellement.
-  
-<participate></participate>
 
 ------
 
