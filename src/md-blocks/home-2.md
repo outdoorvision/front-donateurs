@@ -19,7 +19,8 @@ vos sites de pratique.
 ## Comment participer ?
 
 Connectez simplement votre compte Garmin Connect™ / Polar Flow / Suunto APP (Appli Suunto) / Decathlon ou communiquez-nous directement vos traces GPS.
-![Garmin, IGN Rando, On Piste, Openrunner, Polar, Trail connect, Sunnto, Visorando, VisuGPX](/medias/VISUELS_DESK/logo-band9-nb.jpg)
+
+![Camptocamp, Suunto, Trace de trail, Decathlon, OpenRunner, Visorando, Garmin, OnPiste, Polar, IGNrando, SkiTour, VisuGPX](/medias/VISUELS_DESK/Bannière_logo_partenaires_data NB.png)
 
 <participate></participate>
 
