@@ -4,7 +4,7 @@ picture: /medias/challenge/Bannière landing page running heroes.png
 swap: false
 ---
 
-Pour participer au challenge **[Running Heroes](https://fr.runningheroes.com/fr/challenges/details/64f74f75af3b275376c3e2d6)**, il vous faut courir 8 kms sur la semaine, mais aussi de **créer votre compte sur Outdoorvision**.
+Pour participer au challenge **[Running Heroes](https://fr.runningheroes.com/fr/challenges/details/64f74f75af3b275376c3e2d6)**, il vous faut courir 8 kms sur la semaine, mais aussi **créer votre compte sur Outdoorvision**.
 
 ---
 
