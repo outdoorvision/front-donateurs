@@ -9,7 +9,7 @@ Parcourez 8 kms sur la semaine, inscrivez-vous sur Outdoorvision et tentez de re
 -	1 montre <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-5-peak/suunto-5-peak-all-black/"> Suunto 5 Peak All Black </a>
 -	15 <a target="_blank" href="https://boutique.ffrandonnee.fr/topoguides"> TopoGuides </a>
 -	15 abonnements à <a target="_blank" href="https://www.ffrandonnee.fr/la-federation/passion-rando">  Passion Rando </a>
--	15 <a target="_blank" href="shttps://boutique.ffrandonnee.fr/les-rando-pass"> RandoPass </a>
+-	15 <a target="_blank" href="https://boutique.ffrandonnee.fr/les-rando-pass"> RandoPass </a>
   
 ➡ Pour participer, c’est par <b><a target="_blank" href="https://fr.runningheroes.com/fr/challenges/details/23-09-rh-outdoorvision/"> ici  </a></b>
 
