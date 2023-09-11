@@ -3,7 +3,7 @@ title: Nos actualités
 swap: false
 randompicfolder: random
 ---
-<imagetextblock title="Challenge Running Heroes du 23 Sept. au 01 Oct.'" picture="/medias/challenge/Challenge Running Heroes Actualité.png">
+<imagetextblock title="Challenge Running Heroes du 23 Sept. au 01 Oct. picture="/medias/challenge/Challenge Running Heroes Actualité.png">
 
 Parcourez 8 kms sur la semaine, inscrivez-vous sur Outdoorvision et tentez de remporter l’un des lots suivants :
 -	1 montre <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-5-peak/suunto-5-peak-all-black/"> Suunto 5 Peak All Black </a>
