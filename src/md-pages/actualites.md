@@ -3,7 +3,21 @@ title: Nos actualités
 swap: false
 randompicfolder: random
 ---
+<imagetextblock title="Challenge Running Heroes Du 23 Sept. au 01 Oct.'" picture="/medias/challenge/post actualité IGNrando.png">
 
+Parcourez 8km sur la semaine, inscrivez-vous sur Outdoorvision et tentez de remporter l’un des lots suivants :
+-	1 montre <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-5-peak/suunto-5-peak-all-black/"> Suunto 5 Peak All Black </a>
+-	15 <a target="_blank" href="https://boutique.ffrandonnee.fr/topoguides"> TopoGuides </a>
+-	15 abonnements à <a target="_blank" href="https://www.ffrandonnee.fr/la-federation/passion-rando">  Passion Rando </a>
+-	15 <a target="_blank" href="shttps://boutique.ffrandonnee.fr/les-rando-pass"> RandoPass </a>
+  
+➡ Pour participer, c’est par <b><a target="_blank" href="https://fr.runningheroes.com/fr/challenges/details/23-09-rh-outdoorvision/"> ici  </a></b>
+
+(11 septembre 2023)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
 <imagetextblock title="15 millions de traces collectées, MERCI !" picture="/medias/15 millions traces OV.png" swap="true">
 
 <b>Le cap de 15 millions de traces collectées a été franchi !</b>
