@@ -1,6 +1,6 @@
 ---
 title: IGNrando'
-picture: /medias/IGNrando bandeau landing page.png
+picture: /medias/Bannière landing page roc d'azur.png.png
 swap: false
 ---
 
@@ -27,7 +27,7 @@ participez au jeu concours **[IGNrando'](https://ignrando.fr/fr/)** et **Outdoor
 - 20  **abonnements à l’application [IGNrando'](https://ignrando.fr/fr/)**
   
 <p align="center">
-  <img src="/medias/challenge/IGNrandobandeau landing page lots.png">
+  <img src="/medias/challenge/Bandeau lots landing page roc d'azur.png">
 </p>
 
 
