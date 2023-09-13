@@ -20,10 +20,10 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
 <participate></participate>
 
 ---
-A l’occasion du grand évènement de l' **UTMB** à Chamonix, 
+A l’occasion du grand évènement **Roc d'Azur** à Fréjus, 
 participez au jeu concours **[IGNrando'](https://ignrando.fr/fr/)** et **Outdoorvision** , et tentez de remporter l’un des lots suivants : 
 
-- 1 **montre [Suunto](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/Suunto-Core/suunto-core-black-yellow-tx/) Core Black Yellow TX**
+- 1 **montre [Suunto](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-5-peak/suunto-5-peak-ochre/) 5 Peak Ochre**
 - 20  **abonnements à l’application [IGNrando'](https://ignrando.fr/fr/)**
   
 <p align="center">
@@ -31,7 +31,7 @@ participez au jeu concours **[IGNrando'](https://ignrando.fr/fr/)** et **Outdoor
 </p>
 
 
-*Le tirage au sort sera effectué à partir du 11 septembre 2023. Les gagnants seront contactés par courriel.*
+*Le tirage au sort sera effectué à partir du 15 octobre 2023. Les gagnants seront contactés par courriel.*
 
 ---
 
