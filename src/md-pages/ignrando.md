@@ -12,26 +12,25 @@ swap: false
 En tant que passionné des sports outdoor, tu es sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de ton sport favori dans les politiques territoriales.
 En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à la meilleure connaissance des sports outdoor et à la préservation de tes sites de pratique.
 
+<participate></participate>
 
 <p align="center">
   <img src="/medias/challenge/bandeau contribue roc d'azur.png">
 </p>
 
-<participate></participate>
-
 ---
-A l’occasion du grand évènement de l' **UTMB** à Chamonix, 
+A l’occasion du grand évènement **Roc d'Azur** à Fréjus, 
 participez au jeu concours **[IGNrando'](https://ignrando.fr/fr/)** et **Outdoorvision** , et tentez de remporter l’un des lots suivants : 
 
-- 1 **montre [Suunto](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/Suunto-Core/suunto-core-black-yellow-tx/) Core Black Yellow TX**
+- 1 **montre [Suunto](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-5-peak/suunto-5-peak-ochre/) 5 Peak Ochre**
 - 20  **abonnements à l’application [IGNrando'](https://ignrando.fr/fr/)**
   
 <p align="center">
-  <img src="/medias/challenge/IGNrandobandeau landing page lots.png">
+  <img src="/medias/challenge/Bandeau lots landing page roc d'azur.png">
 </p>
 
 
-*Le tirage au sort sera effectué à partir du 11 septembre 2023. Les gagnants seront contactés par courriel.*
+*Le tirage au sort sera effectué à partir du 15 octobre 2023. Les gagnants seront contactés par courriel.*
 
 ---
 
@@ -39,7 +38,7 @@ participez au jeu concours **[IGNrando'](https://ignrando.fr/fr/)** et **Outdoor
 
 - Créer son compte sur **[Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)** et synchroniser sa montre connectée.
 
-- Déposer ses traces GPS via Outdoorvision ou [IGNrando'](https://ignrando.fr/fr/)
+- Déposer ses traces GPS via Outdoorvision ou **[IGNrando'](https://ignrando.fr/fr/)**
   
 <participate></participate>
 
@@ -60,5 +59,5 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 *Jeu concours à partir du 25 août 2023* 
 <p></p>
 
-Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours UTMB IGN.pdf)
+Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours Roc d'Azur IGN.pdf)
 <p></p>
