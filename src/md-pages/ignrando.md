@@ -39,7 +39,7 @@ participez au jeu concours **[IGNrando'](https://ignrando.fr/fr/)** et **Outdoor
 
 - Créer son compte sur **[Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)** et synchroniser sa montre connectée.
 
-- Déposer ses traces GPS via Outdoorvision ou [IGNrando'](https://ignrando.fr/fr/)
+- Déposer ses traces GPS via Outdoorvision ou **[IGNrando'](https://ignrando.fr/fr/)**
   
 <participate></participate>
 
