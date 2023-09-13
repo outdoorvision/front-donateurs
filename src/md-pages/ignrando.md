@@ -1,6 +1,6 @@
 ---
 title: IGNrando'
-picture: /medias/Bannière landing page roc d'azur.png.png
+picture: /medias/Bannière landing page roc d'azur.png
 swap: false
 ---
 
@@ -14,7 +14,7 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
 
 
 <p align="center">
-  <img src="/medias/challenge/IGNrando bandeau landing page contribue.png">
+  <img src="/medias/challenge/bandeau contribue roc d'azur.png">
 </p>
 
 <participate></participate>
