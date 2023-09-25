@@ -41,6 +41,7 @@
     "tripetto-services": "^1.2.2"
   },
   "devDependencies": {
+    "@getbrevo/brevo": "^1.0.1",
     "eslint": "^7.13.0",
     "eslint-config-makina": "^4.0.0",
     "eslint-plugin-import": "^2.22.1",
