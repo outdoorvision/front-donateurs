@@ -3,9 +3,7 @@ title: Nos actualités
 swap: false
 randompicfolder: random
 ---
-<imagetextblock title="15 millions de traces collectées, MERCI !" picture="/medias/15 millions traces OV.png" swap="true">
-
-<b>Rendez-vous au stand IGN lors du ROC D'AZUR 2023 </b>
+<imagetextblock title="Rendez-vous au stand IGN lors du ROC D'AZUR 2023" picture="/medias/challenge/actualité ign rocdazur" swap="true">
 
 Nous serons présents au stand de l' IGN lors du Roc d'Azur à **Fréjus vendredi 6, samedi 7 et dimanche  octobre 2023**! 
 A cette occasion, un jeu concours est organisé. Participez et tentez de remporter l’un des lots suivants :
