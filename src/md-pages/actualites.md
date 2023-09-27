@@ -3,19 +3,20 @@ title: Nos actualités
 swap: false
 randompicfolder: random
 ---
-<imagetextblock title="Rendez-vous au stand IGN lors du ROC D'AZUR 2023" picture="/medias/challenge/actualité ign rocdazur" swap="true">
+<imagetextblock title="Rendez-vous au stand IGN lors du ROC D'AZUR 2023" picture="/medias/challenge/actualité ign rocdazur.png" swap="true">
 
-Nous serons présents au stand de l' IGN lors du Roc d'Azur à **Fréjus vendredi 6, samedi 7 et dimanche  octobre 2023**! 
-A cette occasion, un jeu concours est organisé. Participez et tentez de remporter l’un des lots suivants :
+Nous serons présents au stand de l'**<a target="_blank" href="https://ign.fr/">IGN</a>** lors du **<a target="_blank" href="https://www.rocazur.com/fr/"> Roc d'Azur </a>** à **Fréjus** (83) **vendredi 6, samedi 7 et dimanche  octobre 2023** et à cette occasion, un jeu concours est organisé. 
+Participez et tentez de remporter l’un des lots suivants :
 
-• 1 **montre <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-5-peak/suunto-5-peak-ochre/"> Suunto </a> 5 Peak Ochre**
-• 20 **abonnements à l'application <a target="_blank" href="https://ignrando.fr/fr/"> IGNrando' </a>**
+- 1 **montre <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-5-peak/suunto-5-peak-ochre/"> Suunto </a> 5 Peak Ochre**
+- 20 **abonnements à l'application <a target="_blank" href="https://ignrando.fr/fr/"> IGNrando' </a>**
 
 ➡ Pour participer, c’est par <b><a target="_blank" href="https://outdoorvision.fr/ignrando?mtm_campaign=IGNrocdazur/"> ici  </a></b>
 
 (28 septembre 2023)
 <div id="ancre29"></div>
 </imagetextblock>
+
 ---
 <imagetextblock title="Challenge Running Heroes du 23 Sept. au 01 Oct." picture="/medias/challenge/Challenge Running Heroes Actualité.png">
 
@@ -24,7 +25,7 @@ Parcourez 8 kms sur la semaine, inscrivez-vous sur Outdoorvision et tentez de re
 -	15 <a target="_blank" href="https://boutique.ffrandonnee.fr/topoguides"> TopoGuides </a>
 -	15 abonnements à <a target="_blank" href="https://www.ffrandonnee.fr/la-federation/passion-rando">  Passion Rando </a>
 -	15 <a target="_blank" href="https://boutique.ffrandonnee.fr/les-rando-pass"> RandoPass </a>
-  
+
 ➡ Pour participer, c’est par <b><a target="_blank" href="https://fr.runningheroes.com/fr/challenges/details/23-09-rh-outdoorvision/"> ici  </a></b>
 
 (11 septembre 2023)
@@ -49,8 +50,6 @@ A l'occasion du grand évènement de l'<b>UTMB à Chamonix</b>, <b> <a target="_
 <ul type="disc">
   <li>Une <b> <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/Suunto-Core/suunto-core-black-yellow-tx/"> montre Suunto Core Black Yellow TX </a> </b> </li>
   <li>20 <b> <a target="_blank" href="https://ignrando.fr/fr/"> abonnements IGNrando' </a> </b> </li> 
-  
- </ul> <br>
  
 Le tirage au sort aura lieu à partir du 11 septembre 2023. 
 
