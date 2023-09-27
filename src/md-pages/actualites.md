@@ -3,6 +3,22 @@ title: Nos actualités
 swap: false
 randompicfolder: random
 ---
+<imagetextblock title="15 millions de traces collectées, MERCI !" picture="/medias/15 millions traces OV.png" swap="true">
+
+<b>Rendez-vous au stand IGN lors du ROC D'AZUR 2023 </b>
+
+Nous serons présents au stand de l' IGN lors du Roc d'Azur à **𝗙𝗿𝗲́𝗷𝘂𝘀 𝘃𝗲𝗻𝗱𝗿𝗲𝗱𝗶 𝟲, 𝘀𝗮𝗺𝗲𝗱𝗶 𝟳 𝗲𝘁 𝗱𝗶𝗺𝗮𝗻𝗰𝗵𝗲 𝟴 𝗼𝗰𝘁𝗼𝗯𝗿𝗲 𝟮𝟬𝟮𝟯 **! 
+A cette occasion, un jeu concours est organisé. Participez et tentez de remporter l’un des lots suivants :
+
+• 1 **𝗺𝗼𝗻𝘁𝗿𝗲 <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-5-peak/suunto-5-peak-ochre/"> Suunto </a> 𝟱 𝗣𝗲𝗮𝗸 𝗢𝗰𝗵𝗿𝗲  **
+• 20 **𝗮𝗯𝗼𝗻𝗻𝗲𝗺𝗲𝗻𝘁𝘀 𝗮̀ 𝗹’𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 <a target="_blank" href="https://ignrando.fr/fr/"> IGNrando' </a> **
+
+➡ Pour participer, c’est par <b><a target="_blank" href="https://outdoorvision.fr/ignrando?mtm_campaign=IGNrocdazur/"> ici  </a></b>
+
+(28 septembre 2023)
+<div id="ancre29"></div>
+</imagetextblock>
+---
 <imagetextblock title="Challenge Running Heroes du 23 Sept. au 01 Oct." picture="/medias/challenge/Challenge Running Heroes Actualité.png">
 
 Parcourez 8 kms sur la semaine, inscrivez-vous sur Outdoorvision et tentez de remporter l’un des lots suivants :
