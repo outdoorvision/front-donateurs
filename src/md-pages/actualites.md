@@ -5,7 +5,7 @@ randompicfolder: random
 ---
 <imagetextblock title="Rendez-vous au stand IGN lors du ROC D'AZUR 2023" picture="/medias/challenge/actualité ign rocdazur.png" swap="true">
 
-Nous serons présents au stand de l'<a target="_blank" href="https://ign.fr/"> IGN </a> lors du **Roc d'Azur à Fréjus vendredi 6, samedi 7 et dimanche  octobre 2023** et à cette occasion, un jeu concours est organisé. 
+Nous serons présents au stand de l'<a target="_blank" href="https://ign.fr/">IGN</a> lors du **Roc d'Azur à Fréjus vendredi 6, samedi 7 et dimanche  octobre 2023** et à cette occasion, un jeu concours est organisé. 
 Participez et tentez de remporter l’un des lots suivants :
 
 - 1 **montre <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-5-peak/suunto-5-peak-ochre/"> Suunto </a> 5 Peak Ochre**
