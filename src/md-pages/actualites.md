@@ -16,6 +16,7 @@ Participez et tentez de remporter l’un des lots suivants :
 (28 septembre 2023)
 <div id="ancre29"></div>
 </imagetextblock>
+
 ---
 <imagetextblock title="Challenge Running Heroes du 23 Sept. au 01 Oct." picture="/medias/challenge/Challenge Running Heroes Actualité.png">
 
