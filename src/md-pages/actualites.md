@@ -24,7 +24,7 @@ Parcourez 8 kms sur la semaine, inscrivez-vous sur Outdoorvision et tentez de re
 -	15 <a target="_blank" href="https://boutique.ffrandonnee.fr/topoguides"> TopoGuides </a>
 -	15 abonnements à <a target="_blank" href="https://www.ffrandonnee.fr/la-federation/passion-rando">  Passion Rando </a>
 -	15 <a target="_blank" href="https://boutique.ffrandonnee.fr/les-rando-pass"> RandoPass </a>
-  
+
 ➡ Pour participer, c’est par <b><a target="_blank" href="https://fr.runningheroes.com/fr/challenges/details/23-09-rh-outdoorvision/"> ici  </a></b>
 
 (11 septembre 2023)
@@ -49,8 +49,6 @@ A l'occasion du grand évènement de l'<b>UTMB à Chamonix</b>, <b> <a target="_
 <ul type="disc">
   <li>Une <b> <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/Suunto-Core/suunto-core-black-yellow-tx/"> montre Suunto Core Black Yellow TX </a> </b> </li>
   <li>20 <b> <a target="_blank" href="https://ignrando.fr/fr/"> abonnements IGNrando' </a> </b> </li> 
-  
- </ul> <br>
  
 Le tirage au sort aura lieu à partir du 11 septembre 2023. 
 
