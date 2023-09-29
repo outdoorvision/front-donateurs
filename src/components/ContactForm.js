@@ -19,12 +19,11 @@ const ContactForm = () => {
   const handleFormSubmit = async instance => {
     const { fields } = Export.fields(instance);
     const data = fields.reduce((acc, curr) => ({ ...acc, [curr.name]: curr.value }), {});
-    const body = JSON.stringify(data, null, 2);
 
-    await fetch('https://hook.integromat.com/x3bg2n9ei3l6ic63bx7ciaa5hsamdh2a', {
+    await fetch('/.netlify/functions/contact', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body,
+      body: JSON.stringify(data),
     });
   };
 
