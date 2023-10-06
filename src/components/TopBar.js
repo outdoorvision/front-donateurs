@@ -18,6 +18,7 @@ import {
 } from '@material-ui/core';
 import { Menu as MenuIcon, PeopleOutline } from '@material-ui/icons';
 import useSiteMetadata from '../hooks/useSiteMetadata';
+import useBackendUrl from '../hooks/useBackendUrl';
 import { HOME_LINKS } from '../settings';
 
 const useStyles = makeStyles(theme => ({
@@ -87,7 +88,8 @@ const TopBar = () => {
   const theme = useTheme();
   const [anchorEl, setAnchorEl] = React.useState(null);
 
-  const { backendUrl, labUrl } = useSiteMetadata();
+  const { labUrl } = useSiteMetadata();
+  const backendUrl = useBackendUrl();
 
   const handleClick = event => setAnchorEl(event.currentTarget);
   const handleClose = () => setAnchorEl(null);
