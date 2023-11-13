@@ -106,7 +106,7 @@ Réservé à des professionnels qualifiés, l’accès à la plateforme OUTDOORV
 
 ## Document de présentation 
 
-Consultez la brochure de présentation Outdoorvision - Visualisez la pratique des sports et loisirs de nature sur votre territoire.
+Consultez la brochure de présentation Outdoorvision - <a target="_blank" href="static/medias/Doc présentation BtoB complet digital.pdf">Visualisez la pratique des sports et loisirs de nature sur votre territoire.</a>
 
 ---
 
