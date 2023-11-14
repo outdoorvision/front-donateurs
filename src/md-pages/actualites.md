@@ -4,20 +4,20 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="Témoignage d'une contributrice!" picture="/medias/Lucile Clouard.png" swap="true">
+<imagetextblock title="Témoignage d'une contributrice !" picture="/medias/Lucile Clouard.png" swap="true">
 
-<b>Lucile Clouard, orienteuse, jeune médecin généraliste dans les Yvelines et contributrice à Outdoorvision</b>
+<b>Lucile Clouard, orienteuse, jeune médecin généraliste dans les Yvelines et contributrice d'Outdoorvision.</b>
 
-Quel sport pratiquez-vous ? 
+• Quel sport pratiquez-vous ? 
 
 Je pratique la course d'orientation depuis la sortie du berceau, d'abord avec mes parents et frères et sœurs, puis en équipe de France, et toujours avec mes amis du club dont je suis adhérente depuis 25 ans (GO78). J'adore l'ambiance conviviale et intimiste de ce sport, où tous les niveaux et toutes les générations se mêlent avec enthousiasme sur les lieux de compétition. Chacun profite de la forêt à sa façon, compétiteur dans l'âme ou promeneur rêveur.
 
 
-Qu’est-ce qui vous motive à partager vos traces GPS avec le projet ?
+• Qu’est-ce qui vous motive à partager vos traces GPS avec le projet ?
 
 Nous rencontrons depuis plusieurs années des difficultés pour obtenir les autorisations nécessaires à la tenue de nos compétitions en milieu naturel, ce qui met en péril le dynamisme des clubs et la pérennité du sport. De nombreuses craintes existent de la part des gestionnaires de ces zones naturelles sur les traces que nous serions susceptibles de laisser dans le temps, et des conséquences de notre présence sur l'équilibre de la biodiversité (déplacements en-dehors des chemins). Par la récolte et l'analyse des données gps, j'espère que la plateforme Outdoorvision offrira la possibilité de trouver quelques réponses à ces questions. J'espère que le partage de mes traces et de celles des autres orienteurs nous permettra de poursuivre le développement durable de ce sport en nous appuyant sur une meilleure compréhension des liens entre sa pratique et notre environnement.
 
-(01 septembre 2023)
+(14 novembre 2023)
 <div id="ancre29"></div>
 </imagetextblock>
 
