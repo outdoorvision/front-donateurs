@@ -9,9 +9,9 @@ randompicfolder: random
 
 Grâce aux analyses des données issues d'Outdoorvision, <a target="_blank" href="https://www.gers.fr/">le département du Gers</a> aménage ses sites et itinéraires sportifs pour le confort et la sécurité des pratiquants. 
   
-➡️ Sécurisation d'un gouffre sur un sentier karstique dans les bois de Broustes
-➡️ Pose de jalons regroupant différents balisages
-➡️ Aménagement des abords du lac Bousquetara avec des bancs et tables de pique-niques
+- Sécurisation d'un gouffre sur un sentier karstique dans les bois de Broustes
+- Pose de jalons regroupant différents balisages
+- Aménagement des abords du lac Bousquetara avec des bancs et tables de pique-niques
 
 Retrouvez les photos sur notre <a target="_blank" href="https://www.facebook.com/Outdoorvision.fr/">page Facebook</a> 
 
