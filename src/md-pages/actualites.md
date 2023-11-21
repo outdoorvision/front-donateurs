@@ -6,11 +6,16 @@ randompicfolder: random
 
 
 <imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/departement gers.jpg">
-Grâces aux analyses des données issues d'Outdoorvision, <a target="_blank" href="https://www.gers.fr/">le département du Gers</a> aménage ses sites et itinéraires sportifs pour le confort et la sécurité des pratiquants. 
+
+Grâce aux analyses des données issues d'Outdoorvision, <a target="_blank" href="https://www.gers.fr/">le département du Gers</a> aménage ses sites et itinéraires sportifs pour le confort et la sécurité des pratiquants. 
   
 ➡️ Sécurisation d'un gouffre sur un sentier karstique dans les bois de Broustes
 ➡️ Pose de jalons regroupant différents balisages
 ➡️ Aménagement des abords du lac Bousquetara avec des bancs et tables de pique-niques
+
+Retrouvez les photos sur notre <a target="_blank" href="https://www.facebook.com/Outdoorvision.fr/">page Facebook</a> 
+
+(Novembre 2023)
 
   ---
   
