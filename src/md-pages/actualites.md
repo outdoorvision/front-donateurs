@@ -10,7 +10,7 @@ randompicfolder: random
 
 <b>Votez pour "mon GR® préféré" !</b>
 
-Les internautes ont jusqu'au 5 décembre, pour voter pour un des 8 GR® français en lice pour le concours Mon GR® préféré, et tentez de remporter l'un des nombreux lots mis en jeu par la FFrandonnée.
+Les internautes ont jusqu'au 5 décembre, pour voter pour un des 8 GR® français en lice pour le concours Mon GR® préféré, et tentez de remporter l'un des nombreux lots mis en jeu par la <a target="_blank" href="https://www.ffrandonnee.fr/"> FFrandonnée. </a> 
 
 C'est à vous de désigner le grand gagnant de Mon GR® préféré 2024, "nos GR® secrets"!
 
