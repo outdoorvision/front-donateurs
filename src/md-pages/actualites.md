@@ -5,7 +5,7 @@ randompicfolder: random
 ---
 
 
-<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/departement_gers.jpg">
+<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/departement_gers.jpg" swap="true">
 
 Grâce aux analyses des données issues d'Outdoorvision, <a target="_blank" href="https://www.gers.fr/">le département du Gers</a> aménage ses sites et itinéraires sportifs pour le confort et la sécurité des pratiquants. 
   
@@ -21,6 +21,21 @@ Retrouvez les photos sur notre <a target="_blank" href="https://www.facebook.com
 
   ---
   
+<imagetextblock title="Votez pour "mon GR® préféré" !" picture="/medias/VISUELS_ACTUALITES/mon_GR_préféré.png">
+
+Les internautes ont jusqu'au 5 décembre, pour voter pour un des 8 GR® français en lice pour le concours Mon GR® préféré, et tentez de remporter l'un des nombreux lots mis en jeu par la FFrandonnée.
+
+C'est à vous de désigner le grand gagnant de Mon GR® préféré 2024, "nos GR® secrets"!
+
+À l’issue de cette période, le GR® totalisant le plus de voix remportera la saison 7 du concours Mon GR® préféré spécial « Nos GR® Secrets ».
+
+Pour voter, rendez-vous sur le site <a target="_blank" href="https://www.mongr.fr/sinspirer/actu/concours-mon-gr-prefere-saison-7"> monGR.fr </a> 
+
+(22 novembre 2023)
+<div id="ancre29"></div>
+</imagetextblock>
+
+  ---
 <imagetextblock title="Témoignage d'une contributrice !" picture="/medias/Lucile Clouard.png" swap="true">
 
 <b>Lucile Clouard, orienteuse, jeune médecin généraliste dans les Yvelines et contributrice d'Outdoorvision.</b>
