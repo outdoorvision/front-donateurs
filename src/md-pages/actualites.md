@@ -21,7 +21,7 @@ Retrouvez les photos sur notre <a target="_blank" href="https://www.facebook.com
 
   ---
   
-<imagetextblock title="Votez pour "mon GR® préféré" !" picture="/medias/VISUELS_ACTUALITES/mon_GR_préféré.png">
+<imagetextblock title="Votez pour "mon GR® préféré" !" picture="/medias/VISUELS_ACTUALITES/mon_GR_prefere.png">
 
 Les internautes ont jusqu'au 5 décembre, pour voter pour un des 8 GR® français en lice pour le concours Mon GR® préféré, et tentez de remporter l'un des nombreux lots mis en jeu par la FFrandonnée.
 
