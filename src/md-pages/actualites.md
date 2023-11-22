@@ -10,13 +10,13 @@ randompicfolder: random
 
 <b>Votez pour "mon GR® préféré" !</b>
 
-Les internautes ont jusqu'au 5 décembre, pour voter pour un des 8 GR® français en lice pour le concours Mon GR® préféré, et tentez de remporter l'un des nombreux lots mis en jeu par la <a target="_blank" href="https://www.ffrandonnee.fr/"> FFrandonnée. </a> 
+Les internautes ont jusqu'au <b>5 décembre</b>, pour voter pour un des 8 GR® français en lice pour le concours Mon GR® préféré, et tenter de remporter l'un des nombreux lots mis en jeu par la <a target="_blank" href="https://www.ffrandonnee.fr/"> FFrandonnée </a> . 
 
 C'est à vous de désigner le grand gagnant de Mon GR® préféré 2024, "nos GR® secrets"!
 
 À l’issue de cette période, le GR® totalisant le plus de voix remportera la saison 7 du concours Mon GR® préféré spécial « Nos GR® Secrets ».
 
-Pour voter, rendez-vous sur le site <a target="_blank" href="https://www.mongr.fr/sinspirer/actu/concours-mon-gr-prefere-saison-7"> monGR.fr </a> 
+Pour voter, rendez-vous sur le site <b><a target="_blank" href="https://www.mongr.fr/sinspirer/actu/concours-mon-gr-prefere-saison-7"> monGR.fr </a> </b>
 
 (22 novembre 2023)
 <div id="ancre29"></div>
