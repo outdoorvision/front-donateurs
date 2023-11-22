@@ -4,6 +4,23 @@ swap: false
 randompicfolder: random
 ---
 
+
+  
+<imagetextblock title="Concours Mon GR® préféré - Saison 7" picture="/medias/VISUELS_ACTUALITES/mon_GR_prefere.png">
+
+<b>Votez pour "mon GR® préféré" !</b>
+
+Les internautes ont jusqu'au <b>5 décembre</b>, pour voter pour un des 8 GR® français en lice pour le concours Mon GR® préféré, et tenter de remporter l'un des nombreux lots mis en jeu par la <a target="_blank" href="https://www.ffrandonnee.fr/"> FFrandonnée </a> . 
+
+À l’issue de cette période, le GR® totalisant le plus de voix remportera la saison 7 du concours Mon GR® préféré spécial « Nos GR® Secrets ».
+
+Pour voter, rendez-vous sur le site <b><a target="_blank" href="https://www.mongr.fr/sinspirer/actu/concours-mon-gr-prefere-saison-7"> monGR.fr </a> </b>
+
+(22 novembre 2023)
+<div id="ancre29"></div>
+</imagetextblock>
+
+  ---
 <imagetextblock title="Témoignage d'une contributrice !" picture="/medias/Lucile Clouard.png" swap="true">
 
 <b>Lucile Clouard, orienteuse, jeune médecin généraliste dans les Yvelines et contributrice d'Outdoorvision.</b>
@@ -51,6 +68,7 @@ Grâce au partage de vos traces, vous permettez aux 250 territoires utilisateurs
 
 ---
 <imagetextblock title="Jeu Concours IGNrando'" picture="/medias/challenge/post actualité IGNrando.png">
+  
 A l'occasion du grand évènement de l'<b>UTMB à Chamonix</b>, <b> <a target="_blank" href="https://ignrando.fr/fr/">IGNrando'</a> </b> et  <b> Outdoorvision </b> organise un jeu concours, et vous offre la chance de gagner :
 <ul type="disc">
   <li>Une <b> <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/Suunto-Core/suunto-core-black-yellow-tx/"> montre Suunto Core Black Yellow TX </a> </b> </li>
