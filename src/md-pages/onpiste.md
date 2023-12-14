@@ -25,7 +25,7 @@ Pour participer au challenge **[OnPiste](https://...)**, il vous faut faire 2h d
 - 1 **première couche demi-zip Rossignol [homme](https://www.rossignol.com/fr-fr/premiere-couche-demi-zip-classique-homme-RLMML07715.html) / [femme](https://www.rossignol.com/fr-fr/premiere-couche-demi-zip-classique-femme-RLMWL08715.html)**
   
 <p align="center">
-  <img src="/medias/challenge/Running Heroes bannières lots.png">
+  <img src="/medias/challenge/Bannière lots OnPiste.png">
 </p>
 
 *Le tirage au sort sera effectué à partir du ....... Les gagnants seront contactés par courriel.*
