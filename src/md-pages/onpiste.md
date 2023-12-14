@@ -1,6 +1,6 @@
 ---
 title: OnPiste
-picture: /medias/challenge/Bannière landing page running heroes.png
+picture: /medias/challenge/Bandeau landing page OnPiste.png
 swap: false
 ---
 
@@ -42,7 +42,7 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
 
 
 <p align="center">
-  <img src="/medias/challenge/Bannière contribue running heroes.png">
+  <img src="/medias/challenge/Bannière lots OnPiste.png">
 </p>
 
 ------
