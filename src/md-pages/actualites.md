@@ -11,6 +11,8 @@ Ce mois-ci, pratiquez 2h d'activités hivernales, et tentez de remporter :
 -	1 <a target="_blank" href="https://www.rossignol.com/fr-fr/masque-unisexe-magnelens-strato-RKKG207000.html"> masque magne'lens strato Rossignol </a>
 - 1 sous-pull première couche demi-zip Rossignol <a target="_blank" href="https://www.rossignol.com/fr-fr/premiere-couche-demi-zip-classique-homme-RLMML07715.html"> homme </a> /  <a target="_blank" href="https://www.rossignol.com/fr-fr/premiere-couche-demi-zip-classique-femme-RLMWL08715.html"> femme </a>
 
+➡ Pour participer, c’est par ici
+
 (20 décembre 2023)
 
 <div id="ancre29"></div>
