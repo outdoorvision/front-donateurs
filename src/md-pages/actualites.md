@@ -4,7 +4,7 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/départment_gers.jpg" swap="true">
+<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/départment_gers.png" swap="true">
 
 Grâce aux analyses des données issues d'Outdoorvision, <a target="_blank" href="https://www.gers.fr/">le département du Gers</a> aménage ses sites et itinéraires sportifs pour le confort et la sécurité des pratiquants. 
   
