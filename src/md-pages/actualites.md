@@ -4,8 +4,20 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Challenge On Piste durant tout le mois de Janvier !" picture="/medias/15 millions traces OV.png" swap="true">
 
-  
+Ce mois-ci, pratiquez 2h d'activités hivernales, et tentez de remporter :
+-	1 <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Autres-accessoires/suunto-wing/suunto-wing-black/"> paire d'écouteurs à conduciton osseuse Suunto </a>
+-	1 <a target="_blank" href="https://www.rossignol.com/fr-fr/masque-unisexe-magnelens-strato-RKKG207000.html"> masque magne'lens strato Rossignol </a>
+- 1 sous-pull première couche demi-zip Rossignol <a target="_blank" href="https://www.rossignol.com/fr-fr/premiere-couche-demi-zip-classique-homme-RLMML07715.html"> homme </a> /  <a target="_blank" href="https://www.rossignol.com/fr-fr/premiere-couche-demi-zip-classique-femme-RLMWL08715.html"> femme </a>
+
+(20 décembre 2023)
+
+<div id="ancre29"></div>
+</imagetextblock>
+
+--- 
+
 <imagetextblock title="Concours Mon GR® préféré - Saison 7" picture="/medias/VISUELS_ACTUALITES/mon_GR_prefere.png">
 
 <b>Votez pour "mon GR® préféré" !</b>
