@@ -22,7 +22,7 @@ Pour participer au challenge **[On Piste](https://...)**, il vous faut faire 2h 
 
 - 1 **[paire d'écouteurs Wings à conduction osseuse Suunto](https://www.suunto.com/fr-fr/Produits/Autres-accessoires/suunto-wing/suunto-wing-black/?gad_source=1&gclid=EAIaIQobChMIj8e9uc6OgwMVgwcGAB2YHQhMEAQYASABEgJhNPD_BwE)**
 - 1 **[masque magne'lens strato Rossignol](https://www.rossignol.com/fr-fr/masque-unisexe-magnelens-strato-RKKG207000.html)**
-- 1 **première couche demi-zip Rossignol [homme](https://www.rossignol.com/fr-fr/premiere-couche-demi-zip-classique-homme-RLMML07715.html) / [femme](https://www.rossignol.com/fr-fr/premiere-couche-demi-zip-classique-femme-RLMWL08715.html)**
+- 1 **sous-pull première couche demi-zip Rossignol [homme](https://www.rossignol.com/fr-fr/premiere-couche-demi-zip-classique-homme-RLMML07715.html) / [femme](https://www.rossignol.com/fr-fr/premiere-couche-demi-zip-classique-femme-RLMWL08715.html)**
   
 <p align="center">
   <img src="/medias/challenge/Bannière lots OnPiste.png">
