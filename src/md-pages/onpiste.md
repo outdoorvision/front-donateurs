@@ -1,10 +1,10 @@
 ---
-title: OnPiste
+title: On Piste
 picture: /medias/challenge/Bandeau landing page OnPiste.png
 swap: false
 ---
 
-Pour participer au challenge **[OnPiste](https://...)**, il vous faut faire 2h d'activité, mais aussi **créer votre compte sur Outdoorvision**.
+Pour participer au challenge **[On Piste](https://...)**, il vous faut faire 2h d'activité, mais aussi **créer votre compte sur Outdoorvision**.
 
 ---
 
@@ -18,7 +18,7 @@ Pour participer au challenge **[OnPiste](https://...)**, il vous faut faire 2h d
 
 ---
 
-**[OnPiste](https://www.onpiste.com/)** et **Outdoorvision** vous offrent la chance de remporter l'un de ses lots : 
+**[On Piste](https://www.onpiste.com/)** et **Outdoorvision** vous offrent la chance de remporter l'un de ses lots : 
 
 - 1 **[paire d'écouteurs Wings à conduction osseuse Suunto](https://www.suunto.com/fr-fr/Produits/Autres-accessoires/suunto-wing/suunto-wing-black/?gad_source=1&gclid=EAIaIQobChMIj8e9uc6OgwMVgwcGAB2YHQhMEAQYASABEgJhNPD_BwE)**
 - 1 **[masque magne'lens strato Rossignol](https://www.rossignol.com/fr-fr/masque-unisexe-magnelens-strato-RKKG207000.html)**
@@ -28,7 +28,7 @@ Pour participer au challenge **[OnPiste](https://...)**, il vous faut faire 2h d
   <img src="/medias/challenge/Bannière lots OnPiste.png">
 </p>
 
-*Le tirage au sort sera effectué à partir du ....... Les gagnants seront contactés par courriel.*
+*Le tirage au sort sera effectué à partir du 5 février 2023. Les gagnants seront contactés par courriel.*
 
 
 
