@@ -5,6 +5,7 @@ swap: false
 ---
 
 Pour participer au challenge **[On Piste](https://...)**, il vous faut faire 2h d'activités hivernales telles que :
+
 raquettes à neige • snowtrail • ski de randonnée • ski alpin • ski de fond • fatbike
   
 **mais aussi créer votre compte sur Outdoorvision**.
