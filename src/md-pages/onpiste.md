@@ -42,7 +42,7 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
 
 
 <p align="center">
-  <img src="/medias/challenge/Bannière lots OnPiste.png">
+  <img src="/medias/challenge/Bannière contribue OnPiste.png">
 </p>
 
 ------
