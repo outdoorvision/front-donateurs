@@ -4,7 +4,7 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="Challenge On Piste durant tout le mois de Janvier !" picture="/medias/15 millions traces OV.png" swap="true">
+<imagetextblock title="Challenge On Piste durant tout le mois de Janvier !" picture="/medias/Post Actualités OnPiste.png" swap="true">
 
 Ce mois-ci, pratiquez 2h d'activités hivernales, et tentez de remporter :
 -	1 <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Autres-accessoires/suunto-wing/suunto-wing-black/"> paire d'écouteurs à conduciton osseuse Suunto </a>
