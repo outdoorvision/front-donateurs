@@ -60,6 +60,6 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 ---
 
-*Jeu concours à partir du 23 septembre 2023* 
+*Jeu concours à partir du 20 décembre 2023* 
 <p></p>
 
