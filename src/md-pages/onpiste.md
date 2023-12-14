@@ -11,6 +11,7 @@ Pour participer au challenge **[On Piste](https://...)**, il vous faut faire 2h 
 - ski alpin
 - ski de fond
 - fatbike
+  
  **mais aussi créer votre compte sur Outdoorvision**.
 
 ---
