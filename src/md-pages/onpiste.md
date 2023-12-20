@@ -4,7 +4,7 @@ picture: /medias/challenge/Bandeau landing page OnPiste.png
 swap: false
 ---
 
-**Participez au challenge d'hiver [On Piste](https://www.onpiste.com/explorer/events/challenge-outdoorvision-on-piste-4036)**
+##Participez au challenge d'hiver [On Piste](https://www.onpiste.com/explorer/events/challenge-outdoorvision-on-piste-4036)
 
 ---
 
