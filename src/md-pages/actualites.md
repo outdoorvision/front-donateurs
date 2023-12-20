@@ -35,7 +35,7 @@ Retrouvez les photos sur notre **<a target="_blank" href="https://www.facebook.c
 
 ---
 
-<imagetextblock title="Outdoorvision présent lors du salon des maires 2023" picture="/medias/VISUELS_ACTUALITES/ov salon des maires.jpg" swap="true">
+<imagetextblock title="Outdoorvision présent lors du salon des maires 2023" picture="/medias/VISUELS_ACTUALITES/ov salon des maire.jpg" swap="true">
 
 
 Grâce à vos dons de traces GPS, Outdoorvision outille maintenant 49 conseils départementaux, 8 parcs nationaux, 31 parcs naturels régionnaux et 5 fédérations sportives. La promesse d’une meilleure prise en compte dans les politiques territoriales de vos activités progresse. Pour renforcer la notoriété du dispositif auprès des collectivités territoriales, la plateforme a fait l’objet d’une présentation au salon des maires à Paris en novembre 2023.
@@ -43,6 +43,7 @@ Grâce à vos dons de traces GPS, Outdoorvision outille maintenant 49 conseils d
 (25 novembre 2023)
 <div id="ancre29"></div>
 </imagetextblock>
+
 ---
 
 <imagetextblock title="Concours Mon GR® préféré - Saison 7" picture="/medias/VISUELS_ACTUALITES/mon_GR_prefere.png">
@@ -59,7 +60,8 @@ Pour voter, rendez-vous sur le site <b><a target="_blank" href="https://www.mong
 <div id="ancre29"></div>
 </imagetextblock>
 
-  ---
+---  
+  
 <imagetextblock title="Témoignage d'une contributrice !" picture="/medias/Lucile Clouard.png" swap="true">
 
 <b>Lucile Clouard, orienteuse, jeune médecin généraliste dans les Yvelines et contributrice d'Outdoorvision.</b>
