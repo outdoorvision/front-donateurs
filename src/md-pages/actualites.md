@@ -5,7 +5,7 @@ randompicfolder: random
 ---
 <imagetextblock title="Challenge On Piste" picture="/medias/Post Actualités OnPiste.png">
 
-Paticipez au challenge d'hiver ! Pratiquez 2h d'activités hivernales, et tentez de remporter :
+Participez au challenge d'hiver ! Pratiquez 2h d'activités hivernales, et tentez de remporter :
 -	1 <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Autres-accessoires/suunto-wing/suunto-wing-black/"> paire d'écouteurs à conduciton osseuse Suunto </a>
 -	1 <a target="_blank" href="https://www.rossignol.com/fr-fr/masque-unisexe-magnelens-strato-RKKG207000.html"> masque magne'lens strato Rossignol </a>
 - 1 sous-pull première couche demi-zip Rossignol <a target="_blank" href="https://www.rossignol.com/fr-fr/premiere-couche-demi-zip-classique-homme-RLMML07715.html"> homme </a> /  <a target="_blank" href="https://www.rossignol.com/fr-fr/premiere-couche-demi-zip-classique-femme-RLMWL08715.html"> femme </a>
