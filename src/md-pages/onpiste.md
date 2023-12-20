@@ -10,7 +10,7 @@ swap: false
 
 ##Comment participer ?
 
-- Cumulez 2 heures d'activités hivernales dans les sports éligibles : raquettes à neige ; snowtrail ; ski de randonnée ; ski alpin ; ski de fond ; fatbike ❄ avec l'application **[On Piste](https://www.onpiste.com/explorer/events/challenge-outdoorvision-on-piste-4036)** 
+- Cumulez 2 heures d'activités hivernales dans les sports éligibles : raquettes à neige ; snowtrail ; ski de randonnée ; ski alpin ; ski de fond ; fatbike avec l'application **[On Piste](https://www.onpiste.com/explorer/events/challenge-outdoorvision-on-piste-4036)** 
 
 & 
 
