@@ -4,7 +4,7 @@ picture: /medias/challenge/Bandeau landing page OnPiste.png
 swap: false
 ---
 
-Pour participer au challenge **[On Piste](https://...)**, il vous faut faire 2h d'activités hivernales telles que :
+Pour participer au challenge **[On Piste](https://www.onpiste.com/explorer/events/challenge-outdoorvision-on-piste-4036)**, il vous faut faire 2h d'activités hivernales telles que :
 
 raquettes à neige • snowtrail • ski de randonnée • ski alpin • ski de fond • fatbike
   
