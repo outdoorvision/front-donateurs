@@ -35,7 +35,7 @@ Retrouvez les photos sur notre **<a target="_blank" href="https://www.facebook.c
 
 ---
 
-<imagetextblock title="Outdoorvision présent lors du salon des maires 2023" picture="/medias/VISUELS_ACTUALITES/ov salon des maire.jpg" swap="true">
+<imagetextblock title="Outdoorvision présent lors du salon des maires 2023" picture="/medias/VISUELS_ACTUALITES/salon des maires.jpg" swap="true">
 
 
 Grâce à vos dons de traces GPS, Outdoorvision outille maintenant 49 conseils départementaux, 8 parcs nationaux, 31 parcs naturels régionnaux et 5 fédérations sportives. La promesse d’une meilleure prise en compte dans les politiques territoriales de vos activités progresse. Pour renforcer la notoriété du dispositif auprès des collectivités territoriales, la plateforme a fait l’objet d’une présentation au salon des maires à Paris en novembre 2023.
