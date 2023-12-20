@@ -4,7 +4,7 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="Challenge On Piste" picture="/medias/Post Actualités OnPiste.png">
+<imagetextblock title="Challenge On Piste" picture="/medias/Post Actualités OnPiste.png" swap="true">
 
 **<a target="_blank" href="https://www.onpiste.com/explorer/events/challenge-outdoorvision-on-piste-4036">Participez au challenge d'hiver !</a>** Pratiquez 2h d'activités hivernales, et tentez de remporter :
 -	1 <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Autres-accessoires/suunto-wing/suunto-wing-black/"> paire d'écouteurs à conduciton osseuse Suunto </a>
@@ -19,7 +19,7 @@ randompicfolder: random
 
 ---
 
-<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/départment_gers.png" swap="true">
+<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/départment_gers.png">
 
 Grâce aux analyses des données issues d'Outdoorvision, **<a target="_blank" href="https://www.gers.fr/">le département du Gers</a>** aménage ses sites et itinéraires sportifs pour le confort et la sécurité des pratiquants. 
   
@@ -30,6 +30,17 @@ Grâce aux analyses des données issues d'Outdoorvision, **<a target="_blank" hr
 Retrouvez les photos sur notre **<a target="_blank" href="https://www.facebook.com/Outdoorvision.fr/">page Facebook</a>** 
 
 (10 décembre 2023)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
+
+<imagetextblock title="Outdoorvision présent lors du salon des maires 2023" picture="/medias/VISUELS_ACTUALITES/salon des maires.png" swap="true">
+
+
+Grâce à vos dons de traces GPS, Outdoorvision outille maintenant 49 conseils départementaux, 8 parcs nationaux, 31 parcs naturels régionnaux et 5 fédérations sportives. La promesse d’une meilleure prise en compte dans les politiques territoriales de vos activités progresse. Pour renforcer la notoriété du dispositif auprès des collectivités territoriales, la plateforme a fait l’objet d’une présentation au salon des maires à Paris en novembre 2023.
+
+(25 novembre 2023)
 <div id="ancre29"></div>
 </imagetextblock>
 
@@ -49,7 +60,8 @@ Pour voter, rendez-vous sur le site <b><a target="_blank" href="https://www.mong
 <div id="ancre29"></div>
 </imagetextblock>
 
-  ---
+---  
+  
 <imagetextblock title="Témoignage d'une contributrice !" picture="/medias/Lucile Clouard.png" swap="true">
 
 <b>Lucile Clouard, orienteuse, jeune médecin généraliste dans les Yvelines et contributrice d'Outdoorvision.</b>
