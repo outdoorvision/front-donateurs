@@ -3,9 +3,10 @@ title: Nos actualités
 swap: false
 randompicfolder: random
 ---
+
 <imagetextblock title="Challenge On Piste" picture="/medias/Post Actualités OnPiste.png">
 
-Participez au challenge d'hiver ! Pratiquez 2h d'activités hivernales, et tentez de remporter :
+**<a target="_blank" href="https://www.onpiste.com/explorer/events/challenge-outdoorvision-on-piste-4036">Participez au challenge d'hiver !</a>** Pratiquez 2h d'activités hivernales, et tentez de remporter :
 -	1 <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Autres-accessoires/suunto-wing/suunto-wing-black/"> paire d'écouteurs à conduciton osseuse Suunto </a>
 -	1 <a target="_blank" href="https://www.rossignol.com/fr-fr/masque-unisexe-magnelens-strato-RKKG207000.html"> masque magne'lens strato Rossignol </a>
 - 1 sous-pull première couche demi-zip Rossignol <a target="_blank" href="https://www.rossignol.com/fr-fr/premiere-couche-demi-zip-classique-homme-RLMML07715.html"> homme </a> /  <a target="_blank" href="https://www.rossignol.com/fr-fr/premiere-couche-demi-zip-classique-femme-RLMWL08715.html"> femme </a>
@@ -15,7 +16,9 @@ Participez au challenge d'hiver ! Pratiquez 2h d'activités hivernales, et tente
 (20 décembre 2023) 
 <div id="ancre29"></div>
 </imagetextblock>
+
 ---
+
 <imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/départment_gers.png" swap="true">
 
 Grâce aux analyses des données issues d'Outdoorvision, **<a target="_blank" href="https://www.gers.fr/">le département du Gers</a>** aménage ses sites et itinéraires sportifs pour le confort et la sécurité des pratiquants. 
@@ -26,7 +29,7 @@ Grâce aux analyses des données issues d'Outdoorvision, **<a target="_blank" hr
 
 Retrouvez les photos sur notre **<a target="_blank" href="https://www.facebook.com/Outdoorvision.fr/">page Facebook</a>** 
 
-(Décembre 2023)
+(10 décembre 2023)
 <div id="ancre29"></div>
 </imagetextblock>
 
