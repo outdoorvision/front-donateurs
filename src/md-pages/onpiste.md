@@ -4,20 +4,19 @@ picture: /medias/challenge/Bandeau landing page OnPiste.png
 swap: false
 ---
 
-**Pour participer au challenge [On Piste](https://www.onpiste.com/explorer/events/challenge-outdoorvision-on-piste-4036), 
-il vous faut faire 2h d'activités hivernales telles que :**
-
-*raquettes à neige • snowtrail • ski de randonnée • ski alpin • ski de fond • fatbike*
-  
-**mais aussi créer votre compte sur Outdoorvision**.
+**Participez au challenge d'hiver [On Piste](https://www.onpiste.com/explorer/events/challenge-outdoorvision-on-piste-4036)**
 
 ---
 
 ##Comment participer ?
 
-- Créer son compte sur **[Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)**
+- Cumulez 2 heures d'activités hivernales dans les sports éligibles : raquettes à neige ; snowtrail ; ski de randonnée ; ski alpin ; ski de fond ; fatbike ❄ avec l'application **[On Piste](https://www.onpiste.com/explorer/events/challenge-outdoorvision-on-piste-4036)** 
 
-- Synchroniser sa montre connectée ou déposer ses traces GPX manuellement.
+& 
+
+- Créez votre compte sur **[Outdoorvision](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)**
+
+- Synchronisez votre montre connectée ou déposer ses traces GPX manuellement.
   
 <participate></participate>
 
