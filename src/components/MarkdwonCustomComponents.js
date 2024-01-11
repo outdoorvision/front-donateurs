@@ -5,6 +5,8 @@ import { Link, withPrefix } from 'gatsby';
 import { Box, Button, Grid, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 
+import useBackendUrl from '../hooks/useBackendUrl';
+
 import ContactForm from './ContactForm';
 import RandomPicture from './RandomPicture';
 import useSiteMetadata from '../hooks/useSiteMetadata';
@@ -103,7 +105,7 @@ const RowGrid = ({ children }) => {
 const Participate = ({ label = 'Je participe' }) => {
   const classes = useStyles();
 
-  const { backendUrl } = useSiteMetadata();
+  const backendUrl = useBackendUrl();
 
   return (
     <Box className={classes.buttonWrapper} component="span">
