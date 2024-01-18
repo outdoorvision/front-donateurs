@@ -19,7 +19,7 @@ soit +8% par rapport à 2020
 
 ---
 
-<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/départment_gers.png">
+<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/Bonne annee 2024 02.jpg">
 
 𝐓𝐨𝐮𝐭𝐞 𝐥'𝐞́𝐪𝐮𝐢𝐩𝐞 𝐝'𝐎𝐮𝐭𝐝𝐨𝐨𝐫𝐯𝐢𝐬𝐢𝐨𝐧 𝐯𝐨𝐮𝐬 𝐬𝐨𝐮𝐡𝐚𝐢𝐭𝐞 𝐮𝐧𝐞 𝐛𝐨𝐧𝐧𝐞 𝐚𝐧𝐧𝐞́𝐞 !
 
