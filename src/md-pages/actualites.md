@@ -7,6 +7,7 @@ randompicfolder: random
 <imagetextblock title="Baromètre national des pratiques sportives 2023" picture="/medias/VISUELS_ACTUALITES/BAROMETRE INJEP 0124.png" swap="true">
 
 Le baromètre national des pratiques sportives 2023 de l'INJEP est paru.
+
 ➡️ Retrouvez le **<a target="_blank" href="https://injep.fr/wp-content/uploads/2023/12/Rapport-2023-15-Barometre-pratiques-sportives-2023.pdf">rapport d'étude</a>**
  
 🔍 **Zoom sur l'utilisation régulière des instruments de mesure numérique des activités physique :**
