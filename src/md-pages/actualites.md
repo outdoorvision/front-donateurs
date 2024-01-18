@@ -4,6 +4,35 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/BAROMETRE INJEP 0124.png" swap="true">
+
+Le baromètre national des pratiques sportives 2023 de l'INJEP est paru.
+➡️ Retrouvez le **<a target="_blank" href="https://injep.fr/wp-content/uploads/2023/12/Rapport-2023-15-Barometre-pratiques-sportives-2023.pdf">rapport d'étude</a>**
+ 
+🔍 Zoom sur l'utilisation régulière des instruments de mesure numérique des activités physique :
+35% des répondants utilisent un chronomètre, une montre connectée ou une application mobile lors de leur activité physique, 
+soit +8% par rapport à 2020
+
+(18 Janvier 2024)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
+
+<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/départment_gers.png">
+
+𝐓𝐨𝐮𝐭𝐞 𝐥'𝐞́𝐪𝐮𝐢𝐩𝐞 𝐝'𝐎𝐮𝐭𝐝𝐨𝐨𝐫𝐯𝐢𝐬𝐢𝐨𝐧 𝐯𝐨𝐮𝐬 𝐬𝐨𝐮𝐡𝐚𝐢𝐭𝐞 𝐮𝐧𝐞 𝐛𝐨𝐧𝐧𝐞 𝐚𝐧𝐧𝐞́𝐞 !
+
+2024, 𝑢𝑛𝑒 𝑎𝑛𝑛𝑒́𝑒 𝑠𝑜𝑢𝑠 𝑙𝑒 𝑠𝑖𝑔𝑛𝑒 𝑑𝑢 𝑠𝑝𝑜𝑟𝑡. 
+𝑄𝑢𝑒 𝑐𝑒𝑡𝑡𝑒 𝑎𝑛𝑛𝑒́𝑒 𝑠𝑝𝑜𝑟𝑡𝑖𝑣𝑒 𝑠𝑜𝑖𝑡 𝑝𝑜𝑢𝑟 𝑣𝑜𝑢𝑠 𝑙𝑒 𝑡𝑒𝑟𝑟𝑎𝑖𝑛 𝑝𝑟𝑜𝑝𝑖𝑐𝑒 𝑎̀ 𝑙'𝑒́𝑝𝑎𝑛𝑜𝑢𝑖𝑠𝑠𝑒𝑚𝑒𝑛𝑡 𝑝𝑒𝑟𝑠𝑜𝑛𝑛𝑒𝑙 𝑒𝑡 𝑎̀ 𝑙𝑎 𝑟𝑒́𝑎𝑙𝑖𝑠𝑎𝑡𝑖𝑜𝑛 𝑑𝑒 𝑣𝑜𝑠 𝑟𝑒̂𝑣𝑒𝑠 𝑙𝑒𝑠 𝑝𝑙𝑢𝑠 𝑓𝑜𝑢𝑠 !
+
+En 2023, Outdoorvision c'est + 𝟔 𝐦𝐢𝐥𝐥𝐢𝐨𝐧𝐬 𝐝𝐞 𝐭𝐫𝐚𝐜𝐞𝐬 𝐜𝐨𝐥𝐥𝐞𝐜𝐭𝐞́𝐞𝐬 !  Merci à tous pour vos contributions. 🏃🏽‍♂️⛷️🚴🏼‍♂️
+
+(16 Janvier 2024)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
 <imagetextblock title="Challenge On Piste" picture="/medias/Post Actualités OnPiste.png" swap="true">
 
 **<a target="_blank" href="https://www.onpiste.com/explorer/events/challenge-outdoorvision-on-piste-4036">Participez au challenge d'hiver !</a>** Pratiquez 2h d'activités hivernales, et tentez de remporter :
