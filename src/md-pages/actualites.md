@@ -26,8 +26,8 @@ soit **+8%** par rapport à 2020
 Toute l'équipe d'Outdoorvision vous adresse ses meilleurs voeux pour cette nouvelle année !
 
 
-2024, 𝑢𝑛𝑒 𝑎𝑛𝑛𝑒́𝑒 𝑠𝑜𝑢𝑠 𝑙𝑒 𝑠𝑖𝑔𝑛𝑒 𝑑𝑢 𝑠𝑝𝑜𝑟𝑡. 
-𝑄𝑢𝑒 𝑐𝑒𝑡𝑡𝑒 𝑎𝑛𝑛𝑒́𝑒 𝑠𝑝𝑜𝑟𝑡𝑖𝑣𝑒 𝑠𝑜𝑖𝑡 𝑝𝑜𝑢𝑟 𝑣𝑜𝑢𝑠 𝑙𝑒 𝑡𝑒𝑟𝑟𝑎𝑖𝑛 𝑝𝑟𝑜𝑝𝑖𝑐𝑒 𝑎̀ 𝑙'𝑒́𝑝𝑎𝑛𝑜𝑢𝑖𝑠𝑠𝑒𝑚𝑒𝑛𝑡 𝑝𝑒𝑟𝑠𝑜𝑛𝑛𝑒𝑙 𝑒𝑡 𝑎̀ 𝑙𝑎 𝑟𝑒́𝑎𝑙𝑖𝑠𝑎𝑡𝑖𝑜𝑛 𝑑𝑒 𝑣𝑜𝑠 𝑟𝑒̂𝑣𝑒𝑠 𝑙𝑒𝑠 𝑝𝑙𝑢𝑠 𝑓𝑜𝑢𝑠 !
+*2024, une année sous le signe du sport. 
+Que cette année sportive soit pour vous le terrain proprice à l'épanouissement personnel et à la réalisation de vos rêves les plus fous !*
 
 En 2023, Outdoorvision c'est + 𝟔 𝐦𝐢𝐥𝐥𝐢𝐨𝐧𝐬 𝐝𝐞 𝐭𝐫𝐚𝐜𝐞𝐬 𝐜𝐨𝐥𝐥𝐞𝐜𝐭𝐞́𝐞𝐬 !  
 
