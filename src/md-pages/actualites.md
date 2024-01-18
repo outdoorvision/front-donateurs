@@ -11,8 +11,8 @@ Le baromètre national des pratiques sportives 2023 de l'INJEP est paru.
 ➡️ Retrouvez le **<a target="_blank" href="https://injep.fr/wp-content/uploads/2023/12/Rapport-2023-15-Barometre-pratiques-sportives-2023.pdf">rapport d'étude</a>**
  
 🔍 **Zoom sur l'utilisation régulière des instruments de mesure numérique des activités physique :**
-35% des répondants utilisent un chronomètre, une montre connectée ou une application mobile lors de leur activité physique, 
-soit +8% par rapport à 2020
+**35%** des répondants utilisent un chronomètre, une montre connectée ou une application mobile lors de leur activité physique, 
+soit **+8%** par rapport à 2020
 
 (18 Janvier 2024)
 <div id="ancre29"></div>
