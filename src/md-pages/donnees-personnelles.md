@@ -88,7 +88,7 @@ Vous pouvez contacter son délégué à la protection des données :
 
 ### Comment vous désengager du programme ?
 
-Pour arrêter la synchronisation automatique avec Garmin Connect™ ou Suunto App,
+Pour arrêter la synchronisation automatique avec Garmin Connect™, Suunto App, Polar Flow, ou Décathlon,
 connectez-vous sur votre compte et arrêtez la synchronisation.
 
 #### Garmin Connect™ :
@@ -100,8 +100,20 @@ connectez-vous sur votre compte et arrêtez la synchronisation.
    - Rubrique « Participer », connectez-vous à votre compte.
    - Répérer le bloc « Garmin » puis cliquer sur « Se déconnecter »
 
-#### Suunto APP :
+#### Suunto App :
 
 1. Depuis Outdoorvision, https://outdoorvision.fr
    - Rubrique « Participer », connectez-vous à votre compte.
    - Répérer le bloc « Suunto » puis cliquer sur « Se déconnecter »
+
+#### Polar Flow :
+
+1. Depuis Outdoorvision, https://outdoorvision.fr
+   - Rubrique « Participer », connectez-vous à votre compte.
+   - Répérer le bloc « Polar Flow » puis cliquer sur « Se déconnecter »
+
+#### Décathlon :
+
+1. Depuis Outdoorvision, https://outdoorvision.fr
+   - Rubrique « Participer », connectez-vous à votre compte.
+   - Répérer le bloc « Décathlon » puis cliquer sur « Se déconnecter »
