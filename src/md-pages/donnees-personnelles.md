@@ -95,4 +95,4 @@ connectez-vous sur votre compte et arrêtez la synchronisation.
 
 1. Depuis Outdoorvision, https://outdoorvision.fr
    - Rubrique « Participer », connectez-vous à votre compte.
-   - Répérer le bloc « Garmin » « Suunto », « Polar » ou « Décathlon » puis cliquer sur « Se déconnecter »
+   - Répérer le bloc « Garmin », « Suunto », « Polar » ou « Décathlon » puis cliquer sur « Se déconnecter »
