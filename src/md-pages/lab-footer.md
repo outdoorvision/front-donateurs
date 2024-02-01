@@ -4,6 +4,10 @@ header: false
 footer: false
 ---
 
+<p align="center">
+  <img src="/medias/tableau de bord.png">
+</p>
+
 <center>
 
 Données agrégées le 30 août 2023 | [Consultez la FAQ de la plateforme](https://outdoorvision.fr/faq-plateforme)
