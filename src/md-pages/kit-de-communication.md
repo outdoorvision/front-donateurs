@@ -1,6 +1,6 @@
 ---
 title: Kit de communication
-picture: /medias/VISUELS_TERRITOIRES/RANDONNE FEMME SUNSET_1346X311_OUTDOORVISION_P-Jayet.jpg
+picture: medias/Kit_de_communication/Bandeau Kit de com.png/
 swap: false
 ---
 
