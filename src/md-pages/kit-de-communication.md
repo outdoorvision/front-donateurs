@@ -9,7 +9,7 @@ Notre kit de communication est composé d'une gamme d'éléments visuels et de d
 
 - [Logos](/medias/Kit_de_communication/LOGOS_OUTDOORVISION.zip)
 
-- Typographie
+- [Typographie](/medias/Kit_de_communication/TYPOGRAPHIE.zip)
 
 - QR Code
 
