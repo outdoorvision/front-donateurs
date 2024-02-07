@@ -23,9 +23,9 @@ Notre kit de communication est composé d'une gamme d'éléments visuels et de d
 
 - Vignettes Slogan
 
-- Photothèque
+- [Photothèque](/medias/Kit_de_communication/PHOTOTHEQUE.zip)
 
-- Photothèque avec logo
+- [Photothèque avec logo](/medias/Kit_de_communication/PHOTOTHEQUE_AVEC_LOGO.zip)
 
 Pour toutes questions ou demandes particulières, contactez Amélie Fraysse : amelie.fraysse@sportsdenature.gouv.fr
 
