@@ -108,8 +108,6 @@ Réservé à des professionnels qualifiés, l’accès à la plateforme OUTDOORV
 
 Consultez la brochure de présentation Outdoorvision - [Visualisez la pratique des sports et loisirs de nature sur votre territoire](/medias/Brochure_presentation_Outdoorvision.pdf)
 
-[Visualisez la pratique des sports et loisirs de nature sur votre territoire](/medias)
-
 ---
 
 ## Je veux une démo
