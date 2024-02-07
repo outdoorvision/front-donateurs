@@ -4,7 +4,7 @@ picture: medias/Kit_de_communication/Bandeau Kit de com.png/
 swap: false
 ---
 
-Notre kit de Communication est composée d'une gamme d'éléments visuels et de documents prêts à l'emploi pour promouvoir Outdoorvision.
+Notre kit de communication est composé d'une gamme d'éléments visuels et de documents prêts à l'emploi pour promouvoir Outdoorvision.
 
 
 - Charte Graphique
