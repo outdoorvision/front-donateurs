@@ -5,8 +5,7 @@ swap: false
 
 Notre kit de communication est composé d'une gamme d'éléments visuels et de documents prêts à l'emploi pour promouvoir Outdoorvision.
 
-[Kit](/medias/Visuels_avec_logo.zip)
-- [Charte Graphique](/medias/Kit_de_communication/Bandeau_Kit_de_com.png
+- [Charte Graphique](/medias/Kit_de_communication/Charte_graphique_Outdoorvision.pdf)
 
 - Logos Outdoorvision
 
