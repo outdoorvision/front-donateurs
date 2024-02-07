@@ -24,7 +24,9 @@ Notre kit de communication est composé d'une gamme d'éléments visuels et de d
 
 - Vignettes Slogan
 
-- Photos
+- Photothèque
+
+- Photothèque avec logo
 
 Pour toutes questions ou demandes particulières, contactez Amélie Fraysse : amelie.fraysse@sportsdenature.gouv.fr
 
