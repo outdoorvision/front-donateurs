@@ -8,35 +8,35 @@ swap: false
 
 ---
 
-# Charte Graphique
+Charte Graphique
 
 ---
 
-# Logos Outdoorvision
+Logos Outdoorvision
 
 ---
 
-## Typographie
+Typographie
 
 ---
 
-## QR Code
+QR Code
 
 ---
 
-## Affiches
+Affiches
 
 ---
 
-## Flyers
+Flyers
 
 ---
 
-## Bandeau Newsletter
+Bandeau Newsletter
 
 ---
 
-## Posts Réseaux Sociaux
+Posts Réseaux Sociaux
 
 ---
 
