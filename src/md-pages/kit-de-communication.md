@@ -40,9 +40,9 @@ Posts Réseaux Sociaux
 
 ---
 
-## Vignettes Slogan
+Vignettes Slogan
 
 ---
 
-## Photos
+Photos
 
