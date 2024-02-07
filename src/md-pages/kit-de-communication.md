@@ -4,10 +4,6 @@ picture: /medias/VISUELS_TERRITOIRES/RANDONNE FEMME SUNSET_1346X311_OUTDOORVISIO
 swap: false
 ---
 
-## Retrouvez ici le kit de communication
-
----
-
 Notre kit de Communication est composée d'une gamme d'éléments visuels et de documents prêts à l'emploi pour promouvoir Outdoorvision.
 
 
