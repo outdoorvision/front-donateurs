@@ -4,15 +4,15 @@ picture: /medias/VISUELS_TERRITOIRES/RANDONNE FEMME SUNSET_1346X311_OUTDOORVISIO
 swap: false
 ---
 
-Retrouvez ici le kit de communication
+## Retrouvez ici le kit de communication
 
 ---
 
-## Charte Graphique
+# Charte Graphique
 
 ---
 
-## Logos Outdoorvision
+# Logos Outdoorvision
 
 ---
 
