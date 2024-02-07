@@ -8,41 +8,28 @@ swap: false
 
 ---
 
-Charte Graphique
+Notre kit de Communication est composée d'une gamme d'éléments visuels et de documents prêts à l'emploi pour promouvoir Outdoorvision.
 
----
 
-Logos Outdoorvision
+- Charte Graphique
 
----
+- Logos Outdoorvision
 
-Typographie
+- Typographie
 
----
+- QR Code
 
-QR Code
+- Affiches
 
----
+- Flyers
 
-Affiches
+- Bandeau Newsletter
 
----
+- Posts Réseaux Sociaux
 
-Flyers
+- Vignettes Slogan
 
----
+- Photos
 
-Bandeau Newsletter
-
----
-
-Posts Réseaux Sociaux
-
----
-
-Vignettes Slogan
-
----
-
-Photos
+Pour toutes questions ou demandes particulières, contactez Amélie Fraysse : amelie.fraysse@sportsdenature.gouv.fr
 
