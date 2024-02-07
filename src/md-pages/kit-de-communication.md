@@ -7,7 +7,7 @@ Notre kit de communication est composé d'une gamme d'éléments visuels et de d
 
 - [Charte Graphique](/medias/Kit_de_communication/Charte_graphique_Outdoorvision.pdf)
 
-- Logos Outdoorvision
+- [Logos Outdoorvision](/medias/Kit_de_communication/LOGOS_OUTDOORVISION.zip)
 
 - Typographie
 
