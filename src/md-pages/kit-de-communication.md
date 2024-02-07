@@ -1,5 +1,4 @@
 ---
-title: Kit de communication
 picture: medias/Kit_de_communication/Bandeau_Kit_de_com.png/
 swap: false
 ---
