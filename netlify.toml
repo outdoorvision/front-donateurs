@@ -7,8 +7,8 @@ BACKEND_URL = "https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/
 LAB_URL = "https://staging-frontvisu.outdoorvision.fr/"
 
 [context.deploy-preview.environment]
-BACKEND_URL = "https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&scope=openid&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/{mtm_placeholder}"
-LAB_URL = "https://staging-frontvisu.outdoorvision.fr/"
+BACKEND_URL = "https://dev-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&scope=openid&redirect_uri=https://dev-back.outdoorvision.fr/auth/done/{mtm_placeholder}"
+LAB_URL = "https://dev-frontvisu.outdoorvision.fr/"
 
 [context.qa.environment]
 BACKEND_URL = "https://qa-back.outdoorvision.fr/auth/{mtm_placeholder}"
