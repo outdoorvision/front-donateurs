@@ -9,9 +9,10 @@ const useBackendUrl = () => {
   const { backendUrl } = useSiteMetadata();
   const location = useLocation();
 
-  const { mtm } = queryString.parse(location.search)
+  const { mtm_campaign } = queryString.parse(location.search)
+  const mtmReplacement = mtm_campaign ? 'camp/' + mtm_campaign : ''
 
-  return backendUrl + ( mtm ? 'camp/' + mtm : '')
+  return backendUrl.replace('{mtm_placeholder}', mtmReplacement)
 };
 
 export default useBackendUrl;
