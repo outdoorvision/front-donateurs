@@ -13,7 +13,7 @@ const useBackendUrl = () => {
 
   React.useEffect(() => {
     const { mtm_campaign } = queryString.parse(location.search)
-    const mtmReplacement = mtm_campaign ? 'camp/' + mtm_campaign : ''
+    const mtmReplacement = mtm_campaign || ''
     setBackendUrl(siteMetadataBackendUrl.replace('{mtm_placeholder}', mtmReplacement))
   }, [location])
 
