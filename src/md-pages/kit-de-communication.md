@@ -4,6 +4,7 @@ swap: false
 ---
 
 Notre kit de communication est composé d'une gamme d'éléments visuels et de documents prêts à l'emploi pour promouvoir Outdoorvision.
+Cliquez sur le dossier souhaité pour télécharger le contenu.
 
 - [Charte Graphique](/medias/Kit_de_communication/Charte_graphique_Outdoorvision.pdf)
 
