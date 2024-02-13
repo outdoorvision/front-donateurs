@@ -21,9 +21,9 @@ Notre kit de communication est composé d'une gamme d'éléments visuels et de d
 
 - [Posts Réseaux Sociaux](/medias/Kit_de_communication/07_POSTS_RESEAUX_SOCIAUX_OUTDOORVISION.zip)
 
-- [Vignettes Slogan Part1](/medias/Kit_de_communication/08_VIGNETTES_SLOGANS_OUTDOORVISION_PART1.zip)
+- [Vignettes Slogan Part1](/medias/Kit_de_communication/08_VIGNETTES_SLOGANS_OUTDOORVISION.zip)
   
-- [Vignettes Slogan Part2](/medias/Kit_de_communication/08_VIGNETTES_SLOGANS_OUTDOORVISION_PART2.zip)
+- [Vignettes Slogan Part2](/medias/Kit_de_communication/08_VIGNETTES_SLOGANS_OUTDOORVISION2.zip)
 
 - [Photothèque](/medias/Kit_de_communication/10_PHOTOTHEQUE_OUTDOORVISION.zip)
 
