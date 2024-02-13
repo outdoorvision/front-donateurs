@@ -9,23 +9,23 @@ Notre kit de communication est composé d'une gamme d'éléments visuels et de d
 
 - [Logos](/medias/Kit_de_communication/LOGOS_OUTDOORVISION.zip)
 
-- [Typographie](/medias/Kit_de_communication/TYPOGRAPHIE.zip)
+- [Typographie](/medias/Kit_de_communication/TYPOGRAPHIE_OUTDOORVISION.zip)
 
-- [QR code](/medias/Kit_de_communication/QR_CODE.zip)
+- [QR code](/medias/Kit_de_communication/QR_CODE_OUTDOORVISION.zip)
 
-- Affiches
+- [Affiches](/medias/Kit_de_communication/AFFICHES_OUTDOORVISION.zip)
 
-- Flyers
+- [Flyers](/medias/Kit_de_communication/FLYERS_OUTDOORVISION.zip)
 
-- Bandeau Newsletter
+- [Bandeau Newsletter](/medias/Kit_de_communication/BANDEAU_NEWSLETTER_OUTDOORVISION.zip)
 
-- Posts Réseaux Sociaux
+- [Posts Réseaux Sociaux](/medias/Kit_de_communication/POSTS_RESEAUX_SOCIAUX_OUTDOORVISION.zip)
 
 - Vignettes Slogan
 
-- [Photothèque](/medias/Kit_de_communication/PHOTOTHEQUE.zip)
+- [Photothèque](/medias/Kit_de_communication/PHOTOTHEQUE_OUTDOORVISION.zip)
 
-- [Photothèque avec logo](/medias/Kit_de_communication/PHOTOTHEQUE_AVEC_LOGO.zip)
+- [Photothèque avec logo](/medias/Kit_de_communication/PHOTOTHEQUE_AVEC_LOGO_OUTDOORVISION.zip)
 
 Pour toutes questions ou demandes particulières, contactez Amélie Fraysse : amelie.fraysse@sportsdenature.gouv.fr
 
