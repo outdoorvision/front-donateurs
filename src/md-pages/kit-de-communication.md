@@ -11,7 +11,7 @@ Notre kit de communication est composé d'une gamme d'éléments visuels et de d
 
 - [Typographie](/medias/Kit_de_communication/TYPOGRAPHIE.zip)
 
-- QR Code
+- [QR code](/medias/Kit_de_communication/QR_CODE.zip)
 
 - Affiches
 
