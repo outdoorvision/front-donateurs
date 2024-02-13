@@ -35,9 +35,9 @@ const Footer = () => {
             {' - '}
             <Button color="inherit" variant="text" to="/donnees-personnelles">Données personnelles</Button>
             {' - '}
-            <Button color="inherit" variant="text" to="/partenaires">Partenaires</Button>
-            {' - '}
             <Button color="inherit" variant="text" to="/faq">Foire aux questions</Button>
+            {' - '}
+            <Button color="inherit" variant="text" to="/kit-de-communication">Kit de communication</Button>
           </Grid>
           <Grid item>
             {SOCIALMEDIA_LINKS?.instagram && (
