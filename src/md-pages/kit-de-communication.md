@@ -26,12 +26,9 @@ Cliquez sur le dossier souhaité pour télécharger le contenu.
   
 - [Vignettes Slogan Part2](/medias/Kit_de_communication/08_VIGNETTES_SLOGANS_OUTDOORVISION2.zip)
 
-- [Photothèque](/medias/Kit_de_communication/10_PHOTOTHEQUE_OUTDOORVISION.zip)
-
 - [Photothèque avec logo](/medias/Kit_de_communication/11_PHOTOTHEQUE_AVEC_LOGO_OUTDOORVISION.zip)
 
 Pour toutes questions ou demandes particulières, contactez Amélie Fraysse : amelie.fraysse@sportsdenature.gouv.fr
-
 
 
 
