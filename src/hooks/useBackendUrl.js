@@ -8,13 +8,14 @@ import useSiteMetadata from "./useSiteMetadata";
  */
 const useBackendUrl = () => {
   const location = useLocation();
-  const { backendUrl: siteMetadataBackendUrl } = useSiteMetadata();
-  const [backendUrl, setBackendUrl] = React.useState('')
+  const { backendUrl: siteMetadataBackendUrl, backendUrlWithCampaign } = useSiteMetadata();
+  const [backendUrl, setBackendUrl] = React.useState(siteMetadataBackendUrl)
 
   React.useEffect(() => {
     const { mtm_campaign } = queryString.parse(location.search)
-    const mtmReplacement = mtm_campaign || ''
-    setBackendUrl(siteMetadataBackendUrl.replace('{mtm_placeholder}', mtmReplacement))
+    if (mtm_campaign) {
+      setBackendUrl(backendUrlWithCampaign.replace('{mtm_placeholder}', mtm_campaign))
+    }
   }, [location])
 
   return backendUrl
