@@ -1,15 +1,15 @@
 [context.production.environment]
-BACKEND_URL_WITH_CAMPAIGN = "https://auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&scope=openid&redirect_uri=https://back.outdoorvision.fr/account/login_with_campaign/{mtm_placeholder}"
+BACKEND_URL_WITH_CAMPAIGN = "https://auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&scope=openid&redirect_uri=https://back.outdoorvision.fr/account/login_with_campaign/{mtm_placeholder}/"
 BACKEND_URL = "https://auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&scope=openid&redirect_uri=https://back.outdoorvision.fr/auth/done/"
 LAB_URL = "https://lab.outdoorvision.fr/"
 
 [context.staging.environment]
-BACKEND_URL_WITH_CAMPAIGN = "https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&scope=openid&redirect_uri=https://staging-back.outdoorvision.fr/account/login_with_campaign/{mtm_placeholder}"
+BACKEND_URL_WITH_CAMPAIGN = "https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&scope=openid&redirect_uri=https://staging-back.outdoorvision.fr/account/login_with_campaign/{mtm_placeholder}/"
 BACKEND_URL = "https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&scope=openid&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/"
 LAB_URL = "https://staging-frontvisu.outdoorvision.fr/"
 
 [context.deploy-preview.environment]
-BACKEND_URL_WITH_CAMPAIGN = "https://dev-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&scope=openid&redirect_uri=https://dev-back.outdoorvision.fr/account/login_with_campaign/{mtm_placeholder}"
+BACKEND_URL_WITH_CAMPAIGN = "https://dev-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&scope=openid&redirect_uri=https://dev-back.outdoorvision.fr/account/login_with_campaign/{mtm_placeholder}/"
 BACKEND_URL = "https://dev-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&scope=openid&redirect_uri=https://dev-back.outdoorvision.fr/auth/done/"
 LAB_URL = "https://dev-frontvisu.outdoorvision.fr/"
 
@@ -18,6 +18,6 @@ BACKEND_URL = "https://qa-back.outdoorvision.fr/auth/{mtm_placeholder}"
 LAB_URL = "https://dev-frontvisu.outdoorvision.fr/"
 
 [context.dev.environment]
-BACKEND_URL_WITH_CAMPAIGN = "https://dev-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&scope=openid&redirect_uri=https://dev-back.outdoorvision.fr/account/login_with_campaign/{mtm_placeholder}"
+BACKEND_URL_WITH_CAMPAIGN = "https://dev-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&scope=openid&redirect_uri=https://dev-back.outdoorvision.fr/account/login_with_campaign/{mtm_placeholder}/"
 BACKEND_URL = "https://dev-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&scope=openid&redirect_uri=https://dev-back.outdoorvision.fr/auth/done/"
 LAB_URL = "https://dev-frontvisu.outdoorvision.fr/"
