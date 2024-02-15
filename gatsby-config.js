@@ -9,7 +9,8 @@ require("dotenv").config({ path: ".env" })
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    backendUrl: process.env.BACKEND_URL || "/fallback/{mtm_placeholder}",
+    backendUrl: process.env.BACKEND_URL || "/fallback/",
+    backendUrlWithCampaign: process.env.BACKEND_URL_WITH_CAMPAIGN || "/fallback/{mtm_placeholder}",
     labUrl: process.env.LAB_URL || "/fallback/",
   },
   plugins: [

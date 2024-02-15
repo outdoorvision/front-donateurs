@@ -9,7 +9,6 @@ import useBackendUrl from '../hooks/useBackendUrl';
 
 import ContactForm from './ContactForm';
 import RandomPicture from './RandomPicture';
-import useSiteMetadata from '../hooks/useSiteMetadata';
 
 const useStyles = makeStyles(theme => ({
   buttonWrapper: {
