@@ -28,7 +28,7 @@ Cliquez sur le dossier souhaité pour télécharger le contenu.
 
 - [Photothèque avec logo](/medias/Kit_de_communication/11_PHOTOTHEQUE_AVEC_LOGO_OUTDOORVISION.zip)
 
-Pour toutes questions ou demandes particulières, contactez Amélie Fraysse : amelie.fraysse@sportsdenature.gouv.fr
+Pour toutes questions ou demandes particulières, contactez Amélie à contact@outdoorvision.fr
 
 
 
