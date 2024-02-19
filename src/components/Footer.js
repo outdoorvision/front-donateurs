@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Container, Grid, Toolbar, IconButton, makeStyles } from '@material-ui/core';
 import { Button, IconButton as GatsbyIconButton } from 'gatsby-theme-material-ui';
-import { Email, Facebook, Instagram } from '@material-ui/icons';
+import { Email, Facebook, Instagram, LinkedIn } from '@material-ui/icons';
 
 import { SOCIALMEDIA_LINKS } from '../settings';
 
@@ -44,10 +44,15 @@ const Footer = () => {
               <IconButton aria-label="instagram" style={{ color: 'white' }} href={SOCIALMEDIA_LINKS.instagram} target="_blank">
                 <Instagram />
               </IconButton>
-            )}
-            {SOCIALMEDIA_LINKS?.facebook && (
+            )}        
+              {SOCIALMEDIA_LINKS?.facebook && (
               <IconButton aria-label="facebook" style={{ color: 'white' }} href={SOCIALMEDIA_LINKS.facebook} target="_blank">
                 <Facebook />
+              </IconButton>
+            )}
+              {SOCIALMEDIA_LINKS?.linkedin && (
+              <IconButton aria-label="linkedin" style={{ color: 'white' }} href={SOCIALMEDIA_LINKS.linkedin} target="_blank">
+                <LinkedIn />
               </IconButton>
             )}
             <GatsbyIconButton aria-label="mail" style={{ color: 'white' }} to="/contact">
