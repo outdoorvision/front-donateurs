@@ -116,9 +116,9 @@ VisuGPX est un site de création, d'analyse et de partage d'itinéraires GPS. Pa
 
 ----
 
-<imagetextblock picture="/medias/VISUELS_PARTENAIRES/marandologo.jpg">
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/marando.jpg">
 <a href="https://www.ffrandonnee.fr/s-informer/actualites/marando-l-application-officielle-de-la-ffrandonnee">
-<img src="/medias/marando.jpg">
+<img src="/medias/marandologo.jpg">
 </a>
 <p>
 MaRando est l'application officielle de la FFRandonnée qui vous permet d'accéder à des milliers de parcours dignes d'intérêt partout en France avec des outils de guidage, d'enregistrement de trace, de téléchargement GPX, de fiches PDF dédiées aux circuits et de pleins d'autres fonctionnalités pour aider les randonneurs dans leur pratique.
