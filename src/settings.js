@@ -11,6 +11,7 @@ export const HOME_LINKS = [
 export const SOCIALMEDIA_LINKS = {
   facebook: 'https://www.facebook.com/Outdoorvision.fr',
   instagram: 'https://www.instagram.com/outdoorvision.fr/',
+  linkedin: 'https://www.linkedin.com/company/101514125/',
 };
 
 export default {};
