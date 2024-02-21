@@ -116,7 +116,7 @@ VisuGPX est un site de création, d'analyse et de partage d'itinéraires GPS. Pa
 
 ----
 
-<imagetextblock picture="/medias/VISUELS_PARTENAIRES/MARANDO.jpg">
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/marando.png">
 <a href="https://www.ffrandonnee.fr/s-informer/actualites/marando-l-application-officielle-de-la-ffrandonnee">
 <img src="/medias/VISUELS_PARTENAIRES/logomarando.png">
 </a>
