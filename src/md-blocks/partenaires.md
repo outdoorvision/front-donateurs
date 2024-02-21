@@ -9,7 +9,7 @@
 [![La Fédération française de cyclisme](/medias/ffc.png)](https://www.ffc.fr/)<spacer w="1"></spacer>
 [![La Fédération française de randonnée pédestre](/medias/ffrp.png)](https://www.ffrandonnee.fr/)<spacer w="1"></spacer>
 [![La Fédération française de course d'orientation](/medias/ffco.png)](http://ffcorientation.fr/)<spacer w="1"></spacer>
-[![La Fédération française de vélo](/medias/ffvélo.png)](https://ffvelo.fr/)<spacer w="1"></spacer>
+[![La Fédération française de vélo](/medias/ffvélo.jpg)](https://ffvelo.fr/)<spacer w="1"></spacer>
 [![La fédération française d'athlétisme](/medias/ffa.png)](https://www.athle.fr/)<spacer w="1"></spacer>
 [![La fédération des parcs naturels régionaux de France](/medias/FPNR.png)](https://www.parcs-naturels-regionaux.fr/)<spacer w="1"></spacer>
 
