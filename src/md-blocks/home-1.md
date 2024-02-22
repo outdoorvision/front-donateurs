@@ -1,3 +1,3 @@
-### Préservons notre terrain de jeu !
+### Préservons les espaces de pratique !
 
-Je partage mes traces GPS pour la préservation et l’aménagement de mes sites de pratique.
+Partage tes traces GPS lors de tes sorties outdoor.
