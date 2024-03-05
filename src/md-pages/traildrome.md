@@ -26,10 +26,7 @@ Le **[département de la Drôme](https://www.ladrome.fr)** et **Outdoorvision** 
 - Dossard pour la Trail Drôme édition 2025
   
 Plus d'informations sur les lots à gagner très prochainement.
-  
-<p align="center">
-  <img src="/medias/challenge/Running Heroes bannières lots.png">
-</p>
+
 
 *Le tirage au sort sera effectué à partir du 14 avril 2024. Les gagnants seront contactés par courriel.*
 
