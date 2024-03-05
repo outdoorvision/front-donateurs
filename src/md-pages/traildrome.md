@@ -4,7 +4,9 @@ picture: /medias/challenge/Bandeau landing page Trail drôme.png
 swap: false
 ---
 
-Pour participer au jeu concours organisé à l'occasion du **[Trail Drôme en Baronnies](https://www.traildrome.com/)**, il vous faut participer à l'un des parcours trail, mais aussi **créer votre compte sur Outdoorvision**.
+Pour participer au jeu concours organisé à l'occasion du **[Trail Drôme en Baronnies](https://www.traildrome.com/)**, il vous faut :
+
+- Participer à l'un des parcours trail, mais aussi **créer votre compte sur Outdoorvision**.
 
 ---
 
