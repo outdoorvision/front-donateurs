@@ -42,7 +42,7 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
 
 
 <p align="center">
-  <img src="/medias/challenge/Bannière contribue running heroes.png">
+  <img src="/medias/challenge/Contribue trail drome.png">
 </p>
 
 ------
