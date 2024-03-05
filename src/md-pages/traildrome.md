@@ -1,6 +1,6 @@
 ---
-title: Running Heroes
-picture: /medias/challenge/Bannière landing page running heroes.png
+title: Trail Drôme x Outdoorvision
+picture: /medias/challenge/Bandeau landing page Trail drôme.png
 swap: false
 ---
 
