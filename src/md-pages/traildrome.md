@@ -21,7 +21,8 @@ Pour participer au jeu concours organisé à l'occasion du **[Trail Drôme en Ba
 Le **[département de la Drôme](https://www.ladrome.fr)** et **Outdoorvision** vous offrent la chance de remporter différents lots : 
 
 - Un équipement Suunto, type montre connectée ou écouteur à conduction osseuse
-- Dossard pour la Trail Drôme édition 2024 
+- Dossard pour la Trail Drôme édition 2024
+  
 Plus d'informations sur les lots à gagner très prochainement.
   
 <p align="center">
