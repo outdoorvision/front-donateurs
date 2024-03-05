@@ -23,12 +23,12 @@ Pour participer au jeu concours organisé à l'occasion du **[Trail Drôme en Ba
 Le **[département de la Drôme](https://www.ladrome.fr)** et **Outdoorvision** vous offrent la chance de remporter différents lots : 
 
 - Un équipement Suunto, type montre connectée ou écouteur à conduction osseuse
-- Dossard pour la Trail Drôme édition 2025
+- 4 dossards pour le Trail Drôme édition 2025
   
 Plus d'informations sur les lots à gagner très prochainement.
 
 
-*Le tirage au sort sera effectué à partir du 14 avril 2024. Les gagnants seront contactés par courriel.*
+*Le tirage au sort sera effectué à partir du 22 avril 2024. Les gagnants seront contactés par courriel.*
 
 
 
@@ -60,7 +60,8 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 ---
 
-*Jeu concours à partir du 06 mars 2024* 
+*Jeu concours à partir du 06 mars 2024 jusqu'au 14 avril* 
 <p></p>
-Consultez les conditions de [règlement du jeu concours](https://www.ladrome.fr)
+
+
 
