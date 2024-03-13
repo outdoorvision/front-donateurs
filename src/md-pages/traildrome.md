@@ -32,8 +32,6 @@ Le **[département de la Drôme](https://www.ladrome.fr)** et **Outdoorvision** 
 
 *Le tirage au sort sera effectué à partir du 22 avril 2024. Les gagnants seront contactés par courriel.*
 
-
-
 ------
 
 ##Pourquoi contribuer à Outdoorvision ?
