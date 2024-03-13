@@ -22,10 +22,12 @@ Pour participer au jeu concours organisé à l'occasion du **[Trail Drôme en Ba
 
 Le **[département de la Drôme](https://www.ladrome.fr)** et **Outdoorvision** vous offrent la chance de remporter différents lots : 
 
-- Une montre Suunto S9 Peak Pro All Black 
-- 4 dossards pour le Trail Drôme édition 2025
+- Une [montre Suunto S9 Peak Pro All Black](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-9-peak-pro/suunto-9-peak-pro-all-black/)
+- 4 dossards pour le [Trail Drôme](https://www.traildrome.com/) édition 2025
   
-Plus d'informations sur les lots à gagner très prochainement.
+<p align="center">
+  <img src="/medias/challenge/Bannière lots trail drôme.png">
+</p>
 
 
 *Le tirage au sort sera effectué à partir du 22 avril 2024. Les gagnants seront contactés par courriel.*
