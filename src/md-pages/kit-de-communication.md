@@ -7,6 +7,8 @@ Notre kit de communication est composé d'une gamme d'éléments visuels et de d
 Cliquez sur le dossier souhaité pour télécharger le contenu.
 
 - [Charte Graphique](/medias/Kit_de_communication/Charte_graphique_Outdoorvision.pdf)
+  
+- [Document de présentation](/medias/Kit_de_communication/12_DOCUMENT_DE_PRESENTATION.zip)
 
 - [Logos](/medias/Kit_de_communication/02_LOGOS_OUTDOORVISION.zip)
 
@@ -27,6 +29,10 @@ Cliquez sur le dossier souhaité pour télécharger le contenu.
 - [Vignettes Slogan Part2](/medias/Kit_de_communication/08_VIGNETTES_SLOGANS_OUTDOORVISION2.zip)
 
 - [Photothèque avec logo](/medias/Kit_de_communication/11_PHOTOTHEQUE_AVEC_LOGO_OUTDOORVISION.zip)
+
+- Vidéo youtube : https://youtu.be/Sua7VDlhBs4
+
+
 
 Pour toutes questions ou demandes particulières, contactez Amélie à contact@outdoorvision.fr
 
