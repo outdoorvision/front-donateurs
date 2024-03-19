@@ -60,10 +60,6 @@ swap: false
 
 Pour toutes questions ou demandes particulières, contactez Amélie à contact@outdoorvision.fr
 
----
-picture: /medias/Kit_de_communication/footer.png
-swap: false
----
 
 
 
