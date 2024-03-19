@@ -23,7 +23,7 @@ Le tirage au sort aura lieu à partir du 22 avril 2024
 </imagetextblock>
 
 ---
-<imagetextblock title="Nous sommes enfin sur Linked'In !" picture="/medias/VISUELS_ACTUALITES/Encart jeu concours.png">
+<imagetextblock title="Nous sommes enfin sur Linked'In !" picture="/medias/VISUELS_ACTUALITES/Linkedin.png">
 
 N'hésitez pas à vous à suivre notre page <a target="_blank" href="https://www.linkedin.com/company/101514125">Outdoorvision</a> pour suivre nos actualités et les avancées du projet !
 
