@@ -11,6 +11,8 @@ Le <a target="_blank" href="https://www.traildrome.com">Trail Drôme</a> aura li
 A cette occasion, Outdoorvision en partenariat avec le département de la Drôme organise un jeu concours pour tous les participants de cet évènement avec la possibilité de gagner : 
 - <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/Suunto-Core/suunto-core-black-yellow-tx">Une montre Suunto S9 Peak Pro All Black</a>
 - 4 dossards pour le <a target="_blank" href="https://www.traildrome.com">Trail Drôme</a> édition 2025
+- 
+➡ Pour participer, c’est par **<a target="_blank" href="https://outdoorvision.fr/traildrome">ici</a>**
 
 Le tirage au sort aura lieu à partir du 22 avril 2024
 
