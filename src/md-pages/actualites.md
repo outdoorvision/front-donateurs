@@ -4,7 +4,6 @@ swap: false
 randompicfolder: random
 ---
 
-
 <imagetextblock title="Jeu concours Trail Drôme en Barronies" picture="/medias/VISUELS_ACTUALITES/Encart jeu concours.png" swap="true">
  
 Le <a target="_blank" href="https://www.traildrome.com">Trail Drôme</a> aura lieu le 7 avril à Buis les Barronies (26)
@@ -25,7 +24,7 @@ Le tirage au sort aura lieu à partir du 22 avril 2024
 ---
 <imagetextblock title="Nous sommes enfin sur Linked'In !" picture="/medias/VISUELS_ACTUALITES/Linkedin.png">
 
-N'hésitez pas à vous à suivre notre page <a target="_blank" href="https://www.linkedin.com/company/101514125">Outdoorvision</a> pour suivre nos actualités et les avancées du projet !
+N'hésitez pas à vous à suivre notre <a target="_blank" href="https://www.linkedin.com/company/101514125">page Outdoorvision</a> pour suivre nos actualités et les avancées du projet !
 
 (01 février 2024)
 <div id="ancre29"></div>
