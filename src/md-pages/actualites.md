@@ -5,7 +5,7 @@ randompicfolder: random
 ---
 
 
-<imagetextblock title="Jeu concours Trail Drôme en Barronies" picture="/medias/VISUELS_ACTUALITES/Encart jeu concours.png">
+<imagetextblock title="Jeu concours Trail Drôme en Barronies" picture="/medias/VISUELS_ACTUALITES/Encart jeu concours.png" swap="true">
  
 Le <a target="_blank" href="https://www.traildrome.com">Trail Drôme</a> aura lieu le 7 avril à Buis les Barronies (26)
 A cette occasion, Outdoorvision en partenariat avec le département de la Drôme organise un jeu concours pour tous les participants de cet évènement avec la possibilité de gagner : 
@@ -17,6 +17,15 @@ A cette occasion, Outdoorvision en partenariat avec le département de la Drôme
 Le tirage au sort aura lieu à partir du 22 avril 2024
 
 (18 mars 2024)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
+<imagetextblock title="Nous sommes enfin sur Linked'In !" picture="/medias/VISUELS_ACTUALITES/Encart jeu concours.png">
+
+N'hésitez pas à vous à suivre notre page <a target="_blank" href="https://www.linkedin.com/company/101514125">Outdoorvision</a> pour suivre nos actualités et les avancées du projet !
+
+(01 février 2024)
 <div id="ancre29"></div>
 </imagetextblock>
 
