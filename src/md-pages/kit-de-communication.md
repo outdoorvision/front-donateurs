@@ -12,11 +12,6 @@ swap: false
 
 - [Charte Graphique](/medias/Kit_de_communication/Charte_graphique_Outdoorvision.pdf)
   
-<p></p>
-  
-- [Logos](/medias/Kit_de_communication/02_LOGOS_OUTDOORVISION.zip)
-
-<p></p>
 
 - [Logos](/medias/Kit_de_communication/02_LOGOS_OUTDOORVISION.zip)
 
