@@ -13,6 +13,7 @@ swap: false
 
 - [Document de présentation](/medias/Kit_de_communication/12_DOCUMENT_DE_PRESENTATION.zip)
   
+<p></p>
 
 - [Logos](/medias/Kit_de_communication/02_LOGOS_OUTDOORVISION.zip)
 
