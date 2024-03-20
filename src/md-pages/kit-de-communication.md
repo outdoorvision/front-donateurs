@@ -10,6 +10,7 @@ swap: false
 
 - [Charte Graphique](/medias/Kit_de_communication/Charte_graphique_Outdoorvision.pdf)
 
+<p></p>
 
 - [Document de présentation](/medias/Kit_de_communication/12_DOCUMENT_DE_PRESENTATION.zip)
   
