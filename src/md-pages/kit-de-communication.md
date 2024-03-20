@@ -11,7 +11,7 @@ swap: false
   
 <p></p>
   
-- [Document de présentation](/medias/Kit_de_communication/02_LOGOS_OUTDOORVISION.zip)
+- [Logos](/medias/Kit_de_communication/12_DOCUMENT_DE_PRESENTATION.zip)
 
 <p></p>
 
