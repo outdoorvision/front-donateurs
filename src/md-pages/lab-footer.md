@@ -5,7 +5,7 @@ footer: false
 ---
 
 <p align="center">
-  <img src="/medias/tableau de bord.png">
+  <img src="/medias/tableau de bord 2024.png">
 </p>
 
 <center>
