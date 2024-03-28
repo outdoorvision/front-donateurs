@@ -42,7 +42,7 @@ Possibilité de partager le catalogue local entre utilisateurs d’une même str
 Cette fonctionnalité permet d’effectuer un export de la vue du flux Outdoorvision affichée sur la plateforme pour la retoucher graphiquement dans un système d’information géographique (type QGIS). 
 Il est également possible de superposer de la vue du flux sur diverses couches géographiques. Cela offre la possibilité de réaliser des cartes personnalisées adapté à la charte graphique de la structure par exemple.
 
-4- Capture écran Outdoorvison > QGIS
+<img src="/static/medias/export vue.png>
 
 
 ---
