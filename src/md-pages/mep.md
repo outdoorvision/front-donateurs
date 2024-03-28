@@ -6,7 +6,7 @@ Retrouvez les nouveautés de la plateforme
 
 ---
 
-## Mise à jour du 15 décembre 2022
+## Mise à jour du 15 décembre 2022.
 
 <ul type="disc">
 Un nouveau onglet est désormais disponible dans le panneau latéral, à partir duquel vous pouvez afficher le catalogue des emprises géographiques,  l'offre d'itinéraires, les signalements Suricate et la localisation des compteurs automatiques.<br>
