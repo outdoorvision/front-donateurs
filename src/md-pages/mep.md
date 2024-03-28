@@ -46,8 +46,10 @@ Possibilité de partager le catalogue local entre utilisateurs d’une même str
 <li><b>	Export de la vue M3 </b>
 <br> <i>(disponible uniquement aux utilisateurs disposant d’un accès « Experts »)</i> 
 <br> 
+<br> 
 Cette fonctionnalité permet d’effectuer un export de la vue du flux Outdoorvision affichée sur la plateforme pour la retoucher graphiquement dans un système d’information géographique (type QGIS). 
 <br>
+<br> 
 Il est également possible de superposer de la vue du flux sur diverses couches géographiques. Cela offre la possibilité de réaliser des cartes personnalisées adapté à la charte graphique de la structure par exemple.
 
 <p align="center">
