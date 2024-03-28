@@ -30,12 +30,16 @@ Cette fonctionnalité vous permet d’importer des itinéraires et des polygones
 Les utilisateurs pourront accéder au contenu de leur catalogue local et effectuer des traitements « sur-mesure » depuis les onglets : 
 emprise géographique et/ou itinéraires définis selon qu’ils choisissent un polygone ou un itinéraire.
 
-<img src="/static/medias/Catalogue local 1.png>
-
+<p align="center">
+<img src="/medias/Catalogue local 1.png>
+</p>
+  
 Désormais nous distinguons le catalogue de base (comprenant les itinéraires et polygones intégrés par défaut dans la plateforme) du catalogue local.
 
-<img src="/static/medias/Catalogue local 2.png>
-
+<p align="center">
+<img src="/medias/Catalogue local 2.png>
+</p>
+  
 Possibilité de partager le catalogue local entre utilisateurs d’une même structure. 
 
 <br>
@@ -46,8 +50,9 @@ Cette fonctionnalité permet d’effectuer un export de la vue du flux Outdoorvi
 <br>
 Il est également possible de superposer de la vue du flux sur diverses couches géographiques. Cela offre la possibilité de réaliser des cartes personnalisées adapté à la charte graphique de la structure par exemple.
 
-<img src="/static/medias/export vue.png>
-
+<p align="center">
+<img src="/medias/export vue.png>
+</p>
 
 ---
 
