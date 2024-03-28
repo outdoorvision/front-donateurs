@@ -34,7 +34,7 @@ emprise géographique et/ou itinéraires définis selon qu’ils choisissent un 
 <img src="/medias/Catalogue local 1.png>
 </p>
   
-Désormais nous distinguons le catalogue de base (comprenant les itinéraires et polygones intégrés par défaut dans la plateforme) du catalogue local.
+Désormais nous distinguons le catalogue de base <i>(comprenant les itinéraires et polygones intégrés par défaut dans la plateforme)</i> du catalogue local.
 
 <p align="center">
 <img src="/medias/Catalogue local 2.png>
