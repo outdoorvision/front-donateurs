@@ -30,11 +30,11 @@ Cette fonctionnalité vous permet d’importer des itinéraires et des polygones
 Les utilisateurs pourront accéder au contenu de leur catalogue local et effectuer des traitements « sur-mesure » depuis les onglets : 
 emprise géographique et/ou itinéraires définis selon qu’ils choisissent un polygone ou un itinéraire.
 
-2- Capture survol polygone qui renvoi dans emprise géographique 
+<img src="/static/medias/Catalogue local 1.png>
 
 Désormais nous distinguons le catalogue de base (comprenant les itinéraires et polygones intégrés par défaut dans la plateforme) du catalogue local.
 
-3- Capture des deux boutons 
+<img src="/static/medias/Catalogue local 2.png>
 
 Possibilité de partager le catalogue local entre utilisateurs d’une même structure. 
 
