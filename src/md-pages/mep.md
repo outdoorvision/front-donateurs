@@ -21,7 +21,8 @@ Deux options sont possibles :
   
 Cela vous permet de contourner la limite par défaut fixé à 40, et ainsi d’avoir une représentation graphique cohérente avec le volume de données disponibles sur votre territoire. 
 
-
+<br>
+<br>
 <li><b>	Catalogue local </b>
   
 Cette fonctionnalité vous permet d’importer des itinéraires et des polygones au format geojson.
@@ -37,7 +38,7 @@ Désormais nous distinguons le catalogue de base (comprenant les itinéraires et
 
 Possibilité de partager le catalogue local entre utilisateurs d’une même structure. 
 
-
+<br>
 <li><b>	Export de la vue M3 </b>
 <br> <i>(disponible uniquement aux utilisateurs disposant d’un accès « Experts »)</i> 
 <br> 
