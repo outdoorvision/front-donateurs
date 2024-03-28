@@ -56,7 +56,6 @@ Il est également possible de superposer de la vue du flux sur diverses couches 
 <img src="/medias/export vue.png>
 </p>
 
-
 ---
 
 ## Mise à jour du 15 décembre 2022
