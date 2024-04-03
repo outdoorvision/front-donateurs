@@ -31,13 +31,13 @@ Les utilisateurs pourront accéder au contenu de leur catalogue local et effectu
 emprise géographique et/ou itinéraires définis selon qu’ils choisissent un polygone ou un itinéraire.
 
 <p align="center">
-<img src="/medias/Catalogue local 1.png>
+<img src="/medias/catalogue_local_1.png">
 </p>
   
 Désormais nous distinguons le catalogue de base <i>(comprenant les itinéraires et polygones intégrés par défaut dans la plateforme)</i> du catalogue local.
 
 <p align="center">
-<img src="/medias/Catalogue local 2.png>
+<img src="/medias/catalogue_local_2.png">
 </p>
   
 Possibilité de partager le catalogue local entre utilisateurs d’une même structure. 
@@ -53,7 +53,7 @@ Cette fonctionnalité permet d’effectuer un export de la vue du flux Outdoorvi
 Il est également possible de superposer de la vue du flux sur diverses couches géographiques. Cela offre la possibilité de réaliser des cartes personnalisées adapté à la charte graphique de la structure par exemple.
 
 <p align="center">
-<img src="/medias/export vue.png>
+<img src="/medias/export_vue.png">
 </p>
 
 
