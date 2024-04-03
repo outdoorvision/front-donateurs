@@ -8,7 +8,7 @@ Retrouvez les nouveautés de la plateforme
 
 ## Mise à jour Mars 2024
 
-
+<ul type="disc">
 <li><b>	Paramétrage de l'échelle fixe</b>
 <br>
 <br>
