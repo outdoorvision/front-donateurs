@@ -13,20 +13,23 @@ Retrouvez les nouveautés de la plateforme
 <br>
 <br>
 Cette fonctionnalité permet de modifier manuellement les seuils supérieurs et inférieurs du nombre de passages ou du nombre de pratiquants. 
-
+<br>
+<br>
 Deux options sont possibles : 
+<br>
 
 -	Un dégradé de couleur du bleu au rouge (mode gradient) 
 -	5 gradations de couleurs du vert clair au vert foncé (mode séquentiel)
-  
+<br>
+<br>
 Cela permet de contourner la limite par défaut fixé à 40, et ainsi d’avoir une représentation graphique cohérente avec le volume de données disponibles sur un territoire. 
-
+<br>
+<img src="/medias/echelle_fixe.png">
 <br>
 <br>
 <li><b>	Catalogue local </b>
 <br>
 <br>
-  
 Cette fonctionnalité permet d’importer des itinéraires et des polygones au format geojson.
 <br>
 <br>
@@ -34,14 +37,13 @@ Les utilisateurs peuvent accéder au contenu de leur catalogue local et effectue
 <br>
 <br>
 <p align="center">
-<img src="/medias/Catalogue local 1.png>
+<img src="/medias/catalogue_local_1.png">
 </p>
-<br>
 <br>  
 Désormais nous distinguons le catalogue de base <i>(comprenant les itinéraires et polygones intégrés par défaut dans la plateforme)</i> du catalogue local.
 
 <p align="center">
-<img src="/medias/Catalogue local 2.png>
+<img src="/medias/catalogue_local_2.png">
 </p>
   
 Possibilité de partager le catalogue local entre utilisateurs d’une même structure. 
@@ -57,7 +59,7 @@ Cette fonctionnalité permet d’effectuer un export de la vue du flux Outdoorvi
 Il est également possible de superposer de la vue du flux sur diverses couches géographiques. Cela offre la possibilité de réaliser des cartes personnalisées adapté à la charte graphique de la structure par exemple.
 
 <p align="center">
-<img src="/medias/export vue.png>
+<img src="/medias/export_vue.png">
 </p>
 
 ---
