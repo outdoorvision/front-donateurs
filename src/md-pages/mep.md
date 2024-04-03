@@ -9,9 +9,9 @@ Retrouvez les nouveautés de la plateforme
 ## Mise à jour Mars 2024
 
 
-<li><b>	Paramétrage de l'échelle fixe :</b>
-
-
+<li><b>	Paramétrage de l'échelle fixe</b>
+<br>
+<br>
 Cette fonctionnalité permet de modifier manuellement les seuils supérieurs et inférieurs du nombre de passages ou du nombre de pratiquants. 
 
 Deux options sont possibles : 
@@ -19,21 +19,25 @@ Deux options sont possibles :
 -	Un dégradé de couleur du bleu au rouge (mode gradient) 
 -	5 gradations de couleurs du vert clair au vert foncé (mode séquentiel)
   
-Cela vous permet de contourner la limite par défaut fixé à 40, et ainsi d’avoir une représentation graphique cohérente avec le volume de données disponibles sur votre territoire. 
+Cela permet de contourner la limite par défaut fixé à 40, et ainsi d’avoir une représentation graphique cohérente avec le volume de données disponibles sur un territoire. 
 
 <br>
 <br>
 <li><b>	Catalogue local </b>
-  
-Cette fonctionnalité vous permet d’importer des itinéraires et des polygones au format geojson.
 <br>
-Les utilisateurs pourront accéder au contenu de leur catalogue local et effectuer des traitements « sur-mesure » depuis les onglets : 
-emprise géographique et/ou itinéraires définis selon qu’ils choisissent un polygone ou un itinéraire.
-
+<br>
+  
+Cette fonctionnalité permet d’importer des itinéraires et des polygones au format geojson.
+<br>
+<br>
+Les utilisateurs peuvent accéder au contenu de leur catalogue local et effectuer des traitements « sur-mesure » depuis les onglets emprise géographique et/ou itinéraires définis selon qu’ils choisissent un polygone ou un itinéraire.
+<br>
+<br>
 <p align="center">
 <img src="/medias/catalogue_local_1.png">
 </p>
-  
+<br>
+<br>  
 Désormais nous distinguons le catalogue de base <i>(comprenant les itinéraires et polygones intégrés par défaut dans la plateforme)</i> du catalogue local.
 
 <p align="center">
@@ -41,7 +45,7 @@ Désormais nous distinguons le catalogue de base <i>(comprenant les itinéraires
 </p>
   
 Possibilité de partager le catalogue local entre utilisateurs d’une même structure. 
-
+<br>
 <br>
 <li><b>	Export de la vue M3 </b>
 <br> <i>(disponible uniquement aux utilisateurs disposant d’un accès « Experts »)</i> 
@@ -55,7 +59,6 @@ Il est également possible de superposer de la vue du flux sur diverses couches 
 <p align="center">
 <img src="/medias/export_vue.png">
 </p>
-
 
 ---
 
