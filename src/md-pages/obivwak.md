@@ -32,7 +32,7 @@ La **[Fédération Française de Course d'Orientation](https://www.ffcorientatio
 </p>
 
 
-*Le tirage au sort sera effectué à partir du 3 mai 2024. Les gagnants seront contactés par courriel.*
+*Le tirage au sort sera effectué à partir du 3 juin 2024. Les gagnants seront contactés par courriel.*
 
 ------
 
