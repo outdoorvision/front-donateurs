@@ -1,6 +1,7 @@
 ---
 title: O'Bivwak x Outdoorvision
-picture: /medias/challenge/Bandeau landing page Trail drôme.png
+picture: /medias/challenge/Bandeau_landingpage_obivwak.png
+
 swap: false
 ---
 
@@ -41,7 +42,7 @@ La **[Fédération Française de Course d'Orientation](https://www.ffcorientatio
 L’objectif est d’analyser les flux de fréquentation des orienteurs sur les compétitions de course d’orientation. Une meilleure compréhension de la pratique des orienteurs est essentielle pour pérenniser les organisations de courses d’orientation.
 
 <p align="center">
-  <img src="/medias/challenge/Contribue trail drome.png">
+  <img src="/medias/challenge/Contribue_obivwak.png">
 </p>
 
 ------
