@@ -23,12 +23,12 @@ Pour participer au jeu concours organisé à l'occasion d'**[O'Bivwak](https://o
 
 La **[Fédération Française de Course d'Orientation](https://www.ffcorientation.fr/)** et **Outdoorvision** vous offrent la chance de remporter différents lots : 
 
-- Une **[montre Suunto S9 Peak Pro All Black](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-9-peak-pro/suunto-9-peak-pro-all-black/)**
+- Un équipement Suunto 
 - 3 lots matériel d'une valeur de 50€
 - 3 dossards équipes pour **[O'Bivwak](https://obivwak.net/)** édition 2025 
   
 <p align="center">
-  <img src="/medias/challenge/Bannière lots trail drôme.png">
+  <img src="/medias/challenge/">
 </p>
 
 
