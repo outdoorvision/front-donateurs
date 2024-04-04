@@ -60,7 +60,7 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 ---
 
-*Jeu concours à partir du 29 avril 2024 jusqu'au 26 mai 2024* 
+*Jeu concours à partir du 29 avril jusqu'au 26 mai 2024* 
 
 Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours Trail Drôme 2024.pdf)
 <p></p>
