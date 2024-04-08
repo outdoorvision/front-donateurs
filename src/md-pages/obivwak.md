@@ -1,6 +1,7 @@
 ---
 title: O'Bivwak x Outdoorvision
-picture: /medias/challenge/Bandeau landing page Trail drôme.png
+picture: /medias/challenge/Bandeau_landingpage_obivwak.png
+
 swap: false
 ---
 
@@ -22,28 +23,26 @@ Pour participer au jeu concours organisé à l'occasion d'**[O'Bivwak](https://o
 
 La **[Fédération Française de Course d'Orientation](https://www.ffcorientation.fr/)** et **Outdoorvision** vous offrent la chance de remporter différents lots : 
 
-- Une **[montre Suunto S9 Peak Pro All Black](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-9-peak-pro/suunto-9-peak-pro-all-black/)**
+- Un équipement Suunto 
 - 3 lots matériel d'une valeur de 50€
 - 3 dossards équipes pour **[O'Bivwak](https://obivwak.net/)** édition 2025 
   
 <p align="center">
-  <img src="/medias/challenge/Bannière lots trail drôme.png">
+  <img src="/medias/challenge/">
 </p>
 
 
-*Le tirage au sort sera effectué à partir du 3 mai 2024. Les gagnants seront contactés par courriel.*
+*Le tirage au sort sera effectué à partir du 3 juin 2024. Les gagnants seront contactés par courriel.*
 
 ------
 
 ##Pourquoi contribuer à Outdoorvision ?
 
 
-En tant que passionné des sports outdoor, tu es sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de ton sport favori dans les politiques territoriales.
-En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à la meilleure connaissance des sports outdoor et à la préservation de tes sites de pratique.
-
+L’objectif est d’analyser les flux de fréquentation des orienteurs sur les compétitions de course d’orientation. Une meilleure compréhension de la pratique des orienteurs est essentielle pour pérenniser les organisations de courses d’orientation.
 
 <p align="center">
-  <img src="/medias/challenge/Contribue trail drome.png">
+  <img src="/medias/challenge/Contribue_obivwak.png">
 </p>
 
 ------
@@ -61,7 +60,7 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 ---
 
-*Jeu concours à partir du 29 avril 2024 jusqu'au 26 mai 2024* 
+*Jeu concours à partir du 29 avril jusqu'au 26 mai 2024* 
 
 Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours Trail Drôme 2024.pdf)
 <p></p>
