@@ -28,7 +28,7 @@ La **[Fédération Française de Course d'Orientation](https://www.ffcorientatio
 - 3 dossards équipes pour **[O'Bivwak](https://obivwak.net/)** édition 2025 
   
 <p align="center">
-  <img src="/medias/challenge/">
+  <img src="/medias/challenge/banniere_lots_obivwak.png">
 </p>
 
 
