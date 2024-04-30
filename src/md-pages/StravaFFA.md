@@ -10,15 +10,19 @@ swap: false
 Vous faites partie de la communauté Outdoorvision ! **Pour valider votre participation et prendre part au tirage au sort, il ne vous reste plus qu'à synchroniser votre compte Decathlon, Garmin, Polar ou Suunto !**
 <participate></participate>
 
-Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentiers et itinéraires qu'elle utilise !
+##Pourquoi contribuer à Outdoorvision ?
+
+
+L’objectif est d’analyser les flux de fréquentation des orienteurs sur les compétitions de course d’orientation. Une meilleure compréhension de la pratique des orienteurs est essentielle pour pérenniser les organisations de courses d’orientation.
 
 <p align="center">
-  <img src="/medias/challenge/STRAVA-FFA-02.jpg">
+  <img src="/medias/challenge/Contribue_obivwak.png">
 </p>
 
 ---
 
-##La Fédération Française d'Athlétisme et Outdoorvision vous offrent la chance de remporter l'un de ses lots : 
+
+##La [Fédération Française d'Athlétisme](https://www.athle.fr/) et [Outdoorvision](https://www.outdoorvision.fr) vous offrent la chance de remporter l'un de ses lots : 
 
 
 - 1 [montre **Suunto** S9 Peak Pro All Black](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-9-peak-pro/suunto-9-peak-pro-all-black/)
@@ -32,20 +36,10 @@ Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentier
   <img src="/medias/challenge/banniere_lots_strava.png">
 </p>
 
+
 ---
 
-------
 
-##Pourquoi contribuer à Outdoorvision ?
-
-
-L’objectif est d’analyser les flux de fréquentation des orienteurs sur les compétitions de course d’orientation. Une meilleure compréhension de la pratique des orienteurs est essentielle pour pérenniser les organisations de courses d’orientation.
-
-<p align="center">
-  <img src="/medias/challenge/Contribue_obivwak.png">
-</p>
-
-------
 
 ##Tout comprendre en 1min30 !
 <p align="center">
