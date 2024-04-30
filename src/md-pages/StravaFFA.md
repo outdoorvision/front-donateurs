@@ -1,61 +1,60 @@
 ---
 title: Vous avez terminé le challenge !
-picture: /medias/challenge/STRAVA-FFA-01.jpg
+picture: /medias/challenge/Bandeau_landingpage_strava.png
 swap: false
 ---
 
 
 
 ##Bravo !
-Vous faites partie de la communauté Outdoorvision ! **Pour valider votre participation et prendre part au tirage au sort, il ne vous reste plus qu'à synchroniser votre compte Decathlon, Garmin, Polar ou Suunto !**
+**Pour faire partie de la communauté Outdoorvision et prendre part au tirage au sort, il ne vous reste plus qu'à synchroniser votre compte Decathlon, Garmin, Polar ou Suunto !**
 <participate></participate>
 
-Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentiers et itinéraires qu'elle utilise !
+##Pourquoi contribuer à Outdoorvision ?
+
+
+L’objectif est d’analyser les flux de fréquentation des orienteurs sur les compétitions de course d’orientation. Une meilleure compréhension de la pratique des orienteurs est essentielle pour pérenniser les organisations de courses d’orientation.
 
 <p align="center">
-  <img src="/medias/challenge/STRAVA-FFA-02.jpg">
+  <img src="/medias/challenge/Contribue_obivwak.png">
 </p>
 
 ---
 
-##Gagnez un des lots offerts par les partenaires partageant les valeurs d'Outdoorvision !
 
-- Une **montre GPS Suunto 5 PEAK** de la marque finlandaise [Suunto](https://www.suunto.com/fr-fr/)
-- Un  **casque audio SHOKZ Openrun pro** - [Shokz](https://fr.shokz.com/)
-- Six **cartes cadeaux IRun** d'une valeur de 50€ - [IRun](https://www.i-run.fr/lpage/boutique-ffa-athle.html)
-- Un **maillot de l'équipe de France dédicacé** 
+##La [Fédération Française d'Athlétisme](https://www.athle.fr/) et [Outdoorvision](https://www.outdoorvision.fr) vous offrent la chance de remporter l'un de ses lots : 
 
 
-*(Le tirage au sort sera effectué à partir du 5 juin 2023. Les gagnants seront contactés par courriel.)*
+- 1 [montre **Suunto** S9 Peak Pro All Black](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-9-peak-pro/suunto-9-peak-pro-all-black/)
+- 1 [casque sport à conduction osseuse **SHOKZ** Openrun pro](https://fr.shokz.com/) 
+- 6 [cartes cadeaux **iRun** d'une valeur de 50€](https://www.i-run.fr/lpage/boutique-ffa-athle.html)
+ 
+
+*(Le tirage au sort sera effectué à partir du 10 juin 2024. Les gagnants seront contactés par courriel.)*
 
 <p align="center">
-  <img src="/medias/challenge/STRAVA-FFA-03.jpg">
+  <img src="/medias/challenge/banniere_lots_strava.png">
 </p>
 
----
-
-##Comment participer ?
-
-1. Cliquez sur le bouton "Je participe"
-2. Créez un compte Outdoorvison
-3. Connectez simplement votre compte Decathlon / Garmin connect™ / Suunto APP / Polar flow
-<participate></participate>
 
 ---
 
-##Qui sommes-nous ?
+
+
+##Tout comprendre en 1min30 !
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sua7VDlhBs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-Outdoorvision est un **dispositif du Ministère des sports et des Jeux olympiques et paralympiques** piloté par le Pôle ressources national sports de nature. Il est le fruit d'un partenariat innovant entre l'Etat, des territoires, des fédérations sportives et des marques d'objets connectés réunis autour d'un **programme à but non lucratif**. 
 
 ---
 
 ##Quelles sont les données partagées ?
-Outdoorvision synchronise et enregistre **uniquement vos traces GPS** depuis votre compte Garmin connect™, Suunto APP (appli Suunto) ou Polar flow. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
+Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre compte Suunto, Garmin, Polar ou Décathlon. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
 
 ---
 
-Consultez les [conditions de règlement du jeu concours](/medias/challenge/Strava-FFA-Reglement.pdf)
-<participate></participate>
+*Jeu concours à partir du 20 mai jusqu'au 2 juin 2024* 
+
+Consultez les [conditions de règlement du jeu concours](/medias/challenge/Reglement_challenge_Strava.pdf)
+<p></p>
