@@ -1,6 +1,6 @@
 ---
 title: Vous avez terminé le challenge !
-picture: /medias/challenge/STRAVA-FFA-01.jpg
+picture: /medias/challenge/Bandeau_landingpage_strava.png
 swap: false
 ---
 
@@ -29,7 +29,7 @@ Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentier
 *(Le tirage au sort sera effectué à partir du 5 juin 2023. Les gagnants seront contactés par courriel.)*
 
 <p align="center">
-  <img src="/medias/challenge/STRAVA-FFA-03.jpg">
+  <img src="/medias/challenge/banniere_lots_strava.png">
 </p>
 
 ---
