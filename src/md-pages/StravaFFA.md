@@ -23,7 +23,7 @@ Ensemble, montrons que la communauté Outdoorvision se mobilise pour les sentier
 
 - 1 [montre **Suunto** S9 Peak Pro All Black](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-9-peak-pro/suunto-9-peak-pro-all-black/)
 - 1 [casque sport à conduction osseuse **SHOKZ** Openrun pro](https://fr.shokz.com/) 
-- 6 [cartes cadeaux iRun d'une valeur de 50€](https://www.i-run.fr/lpage/boutique-ffa-athle.html)
+- 6 [cartes cadeaux **iRun** d'une valeur de 50€](https://www.i-run.fr/lpage/boutique-ffa-athle.html)
  
 
 *(Le tirage au sort sera effectué à partir du 10 juin 2024. Les gagnants seront contactés par courriel.)*
