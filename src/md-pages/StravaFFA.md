@@ -7,7 +7,7 @@ swap: false
 
 
 ##Bravo !
-**Pour faire partie de la communauté Outdoorvision et prendre part au tirage au sort, il ne vous reste plus qu'à créer synchroniser votre compte Decathlon, Garmin, Polar ou Suunto !**
+**Pour faire partie de la communauté Outdoorvision et prendre part au tirage au sort, il ne vous reste plus qu'à synchroniser votre compte Decathlon, Garmin, Polar ou Suunto !**
 <participate></participate>
 
 ##Pourquoi contribuer à Outdoorvision ?
