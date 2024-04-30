@@ -62,5 +62,5 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 *Jeu concours à partir du 20 mai jusqu'au 2 juin 2024* 
 
-Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours O'bivwak 2024.pdf)
+Consultez les [conditions de règlement du jeu concours](/medias/challenge/Reglement_challenge_Strava.pdf)
 <p></p>
