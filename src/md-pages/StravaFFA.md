@@ -12,11 +12,11 @@ swap: false
 
 ##Pourquoi contribuer à Outdoorvision ?
 
-
-L’objectif est d’analyser les flux de fréquentation des orienteurs sur les compétitions de course d’orientation. Une meilleure compréhension de la pratique des orienteurs est essentielle pour pérenniser les organisations de courses d’orientation.
+En tant que passionné des sports outdoor, tu es sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de ton sport favori dans les politiques territoriales. 
+En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à la meilleure connaissance des sports outdoor et à la préservation de tes sites de pratique.
 
 <p align="center">
-  <img src="/medias/challenge/Contribue_obivwak.png">
+  <img src="/medias/challenge/Contribue trail drome.png">
 </p>
 
 ---

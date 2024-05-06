@@ -23,9 +23,9 @@ Pour participer au jeu concours organisé à l'occasion d'**[O'Bivwak](https://o
 
 La **[Fédération Française de Course d'Orientation](https://www.ffcorientation.fr/)** et **Outdoorvision** vous offrent la chance de remporter différents lots : 
 
-- 1 paire d'[écouteurs à conduction osseuse **Suunto** Sonic Lime](https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-sonic/suunto-sonic-lime/) 
-- 3 lots matériel d'une valeur de 50€
-- 3 dossards équipes pour **[O'Bivwak](https://obivwak.net/)** édition 2025 
+- 1 paire d'[**écouteurs à conduction osseuse Suunto** Sonic Lime](https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-sonic/suunto-sonic-lime/) 
+- 3 **lots matériel** d'une valeur de 50€
+- 3 **dossards équipes** pour **[O'Bivwak](https://obivwak.net/)** édition 2025 
   
 <p align="center">
   <img src="/medias/challenge/banniere_lots_obivwak.png">
