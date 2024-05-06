@@ -7,7 +7,7 @@ randompicfolder: random
 ---
 <imagetextblock title="Jeu concours O'Bivwak 2024" picture="/medias/VISUELS_ACTUALITES/actu obivwak.png">
 
-A l'occasion d' [O'Bivwak](https://obivwak.net/) du 18 au 19 mai 2024, la [FFCO](https://www.ffcorientation.fr/) et Outdoorvision vous offrent la chance de gagner l'un des lots suivants: 
+A l'occasion d' [**O'Bivwak**](https://obivwak.net/) du 18 au 19 mai 2024, la [**FFCO**](https://www.ffcorientation.fr/) et Outdoorvision offrent la chance aux participants de gagner l'un des lots suivants: 
 
 - 1 [**paire d'écouteurs à conduction osseuse Suunto** Sonic Lime](https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-sonic/suunto-sonic-lime/)
 - 3 **lots matériel** d'une valeur de 50€
