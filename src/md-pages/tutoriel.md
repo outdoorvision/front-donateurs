@@ -8,50 +8,28 @@ swap: false
 <p>Cliquez sur le dossier souhaité pour télécharger le contenu.</p>
 
 
-- [Charte Graphique](/medias/Kit_de_communication/Charte_graphique_Outdoorvision.pdf)
+- [Fiche 1](/medias/Kit_de_communication/Charte_graphique_Outdoorvision.pdf)
+Connaître mon échantillon de traces et de pratiquants sur mon territoire
 
 <p></p>
 
-- [Document de présentation](/medias/Kit_de_communication/12_DOCUMENT_DE_PRESENTATION.zip)
-  
+- [Fiche 2](/medias/Kit_de_communication/12_DOCUMENT_DE_PRESENTATION.zip)
+Retrouver un itinéraire sur la plateforme
 <p></p>
 
-- [Logos](/medias/Kit_de_communication/02_LOGOS_OUTDOORVISION.zip)
-
+- [Fiche 3](/medias/Kit_de_communication/02_LOGOS_OUTDOORVISION.zip)
+Identifier les tronçons les plus fréquentés le long d'un itinéraire
 <p></p>
 
-- [Typographie](/medias/Kit_de_communication/03_TYPOGRAPHIE_OUTDOORVISION.zip)
-
+- [Fiche 4](/medias/Kit_de_communication/03_TYPOGRAPHIE_OUTDOORVISION.zip)
+Identifier les principaux points de départ et d'arrivées sur mon territoire 
 <p></p>
 
-- [QR code](/medias/Kit_de_communication/09_QR_CODE_OUTDOORVISION.zip)
-
+- [Fiche 5](/medias/Kit_de_communication/09_QR_CODE_OUTDOORVISION.zip)
+Identifier les sites ou itinéraires les plus fréquentés sur mon territoire
 <p></p>
 
-- [Affiches](/medias/Kit_de_communication/04_AFFICHES_OUTDOORVISION.zip)
-
+- [Fiche 6](/medias/Kit_de_communication/04_AFFICHES_OUTDOORVISION.zip)
+Observer la cohérence entre fréquentation et l'offre d'itinéraires
 <p></p>
 
-- [Flyers](/medias/Kit_de_communication/05_FLYERS_OUTDOORVISION.zip)
-
-<p></p>
-
-- [Bandeau Newsletter](/medias/Kit_de_communication/06_BANDEAU_NEWSLETTER_OUTDOORVISION.zip)
-
-<p></p>
-
-- [Posts Réseaux Sociaux](/medias/Kit_de_communication/07_POSTS_RESEAUX_SOCIAUX_OUTDOORVISION.zip)
-
-<p></p>
-
-- [Vignettes Slogan Part1](/medias/Kit_de_communication/08_VIGNETTES_SLOGANS_OUTDOORVISION.zip)
-
-  <p></p>
-  
-- [Vignettes Slogan Part2](/medias/Kit_de_communication/08_VIGNETTES_SLOGANS_OUTDOORVISION2.zip)
-
-<p></p>
-
-- [Photothèque avec logo](/medias/Kit_de_communication/11_PHOTOTHEQUE_AVEC_LOGO_OUTDOORVISION.zip)
-  
-<p></p>
