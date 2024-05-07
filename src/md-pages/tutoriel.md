@@ -1,5 +1,5 @@
 ---
-picture: /medias/Kit_de_communication/Bandeau_Kit_de_com.png/
+picture: /medias/tutoriel/bandeau_tutoriel.png/
 swap: false
 ---
 
