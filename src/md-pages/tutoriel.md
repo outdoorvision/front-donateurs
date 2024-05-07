@@ -5,7 +5,7 @@ swap: false
 
 <p>Pour vous aider dans la prise en main de la plateforme, nous vous mettons à disposition les fiches tutoriel : </p>
 
-<p><i>Cliquez sur le document souhaité pour télécharger le contenu.</i></p>
+<p><i>Cliquez sur le document souhaité pour visualiser le contenu.</i></p>
 
 
 - [Fiche 1](/medias/tutoriel/Fiche_1.pdf) - Connaître mon échantillon de traces et de pratiquants sur mon territoire
