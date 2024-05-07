@@ -15,19 +15,15 @@ swap: false
 - [Fiche 2](/medias/tutoriel/Fiche_2.pdf) - Retrouver un itinéraire sur la plateforme
 <p></p>
 
-- [Fiche 3](/medias/Kit_de_communication/02_LOGOS_OUTDOORVISION.zip)
-Identifier les tronçons les plus fréquentés le long d'un itinéraire
+- [Fiche 3](/medias/tutoriel/Fiche_3.pdf) - Identifier les tronçons les plus fréquentés le long d'un itinéraire
 <p></p>
 
-- [Fiche 4](/medias/Kit_de_communication/03_TYPOGRAPHIE_OUTDOORVISION.zip)
-Identifier les principaux points de départ et d'arrivées sur mon territoire 
+- [Fiche 4](/medias/tutoriel/Fiche_4.pdf) - Identifier les principaux points de départ et d'arrivées sur mon territoire 
 <p></p>
 
-- [Fiche 5](/medias/Kit_de_communication/09_QR_CODE_OUTDOORVISION.zip)
-Identifier les sites ou itinéraires les plus fréquentés sur mon territoire
+- [Fiche 5](/medias/tutoriel/Fiche_5.pdf) - Identifier les sites ou itinéraires les plus fréquentés sur mon territoire
 <p></p>
 
-- [Fiche 6](/medias/Kit_de_communication/04_AFFICHES_OUTDOORVISION.zip)
-Observer la cohérence entre fréquentation et l'offre d'itinéraires
+- [Fiche 6](/medias/tutoriel/Fiche_6.pdf) - Observer la cohérence entre fréquentation et l'offre d'itinéraires
 <p></p>
 
