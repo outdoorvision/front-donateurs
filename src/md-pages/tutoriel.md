@@ -3,9 +3,9 @@ picture: /medias/tutoriel/bandeau_tutoriel.png/
 swap: false
 ---
 
-<p>Notre kit de communication est composé d'une gamme d'éléments visuels et de documents prêts à l'emploi pour promouvoir Outdoorvision.</p>
+<p>Pour vous aider dans la prise en main de la plateforme, nous vous mettons à disposition les fiches tutoriel : </p>
 
-<p>Cliquez sur le dossier souhaité pour télécharger le contenu.</p>
+<p><i>Cliquez sur le document souhaité pour télécharger le contenu.</i></p>
 
 
 - [Fiche 1](/medias/tutoriel/Fiche_1.pdf) - Connaître mon échantillon de traces et de pratiquants sur mon territoire
