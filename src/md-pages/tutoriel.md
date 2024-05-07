@@ -8,13 +8,11 @@ swap: false
 <p>Cliquez sur le dossier souhaité pour télécharger le contenu.</p>
 
 
-- [Fiche 1](/medias/Kit_de_communication/Charte_graphique_Outdoorvision.pdf)
-Connaître mon échantillon de traces et de pratiquants sur mon territoire
+- [Fiche 1](/medias/tutoriel/Fiche_1.pdf) - Connaître mon échantillon de traces et de pratiquants sur mon territoire
 
 <p></p>
 
-- [Fiche 2](/medias/Kit_de_communication/12_DOCUMENT_DE_PRESENTATION.zip)
-Retrouver un itinéraire sur la plateforme
+- [Fiche 2](/medias/tutoriel/Fiche_2.pdf) - Retrouver un itinéraire sur la plateforme
 <p></p>
 
 - [Fiche 3](/medias/Kit_de_communication/02_LOGOS_OUTDOORVISION.zip)
