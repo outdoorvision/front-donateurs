@@ -1,6 +1,6 @@
 ---
 title: Vous avez terminé le challenge !
-picture: /medias/challenge/Bandeau_landingpage_strava.png
+picture: /medias/challenge/Bandeau_landingpage_strava_v2.png
 swap: false
 ---
 
