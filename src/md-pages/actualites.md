@@ -8,7 +8,8 @@ randompicfolder: random
 <imagetextblock title="Challenge Strava" picture="/medias/VISUELS_ACTUALITES/Actu_StravaFFA.png" swap="true">
 
 A l'occasion des [**Championnats d'Europe d'Athlétisme**](https://www.euro.maxi-race.org/blog/), [**J'aime Courir by Athlé**](https://www.jaimecourir.fr/) s'associe à **Outdoorvision** et vous propose un [**challenge Strava**](https://strava.app.link/athle-outdoorvision-trail-challenge) alliant **performance et préservation** ! 
-➡️ Pour participer, c’est par [**ici**](https://strava.app.link/athle-outdoorvision-trail-challenge)⬅️ 
+
+➡️ **Pour participer, c’est par** [**ici**](https://strava.app.link/athle-outdoorvision-trail-challenge)⬅️ 
 
 Participez au challenge et tentez de remporter : 
 -	1 montre [Suunto S9 Peak Pro All Black](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-9-peak-pro/suunto-9-peak-pro-all-black/) 
