@@ -9,12 +9,14 @@ randompicfolder: random
 
 A l'occasion des [**Championnats d'Europe d'Athlétisme**](https://www.euro.maxi-race.org/blog/), [**J'aime Courir by Athlé**](https://www.jaimecourir.fr/) s'associe à **Outdoorvision** et vous propose un [**challenge Strava**](https://strava.app.link/athle-outdoorvision-trail-challenge) alliant **performance et préservation** ! 
 
+**Challenge du 27 mai au 2 juin 2024**
+
 ➡️ **Pour participer, c’est par** [**ici**](https://strava.app.link/athle-outdoorvision-trail-challenge)⬅️ 
 
 Participez au challenge et tentez de remporter : 
--	1 montre [Suunto S9 Peak Pro All Black](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-9-peak-pro/suunto-9-peak-pro-all-black/) 
--	1 casque sport à conduction osseuse [Shokz](https://fr.shokz.com/) Openrun pro  
--	6 cartes cadeaux [iRun](https://www.i-run.fr/lpage/boutique-ffa-athle.html) d’une valeur de 50€ 
+-	1 montre [**Suunto S9 Peak Pro All Black**](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-9-peak-pro/suunto-9-peak-pro-all-black/) 
+-	1 casque sport à conduction osseuse [**Shokz**](https://fr.shokz.com/) Openrun pro  
+-	6 cartes cadeaux [**iRun**](https://www.i-run.fr/lpage/boutique-ffa-athle.html) d’une valeur de 50€ 
 
 (20 mai 2024) 
 
