@@ -8,7 +8,9 @@ swap: false
 <p><i>Cliquez sur le document souhaité pour visualiser le contenu.</i></p>
 
 - [Guide d'utilisation de la plateforme](/medias/Guide-utilisation-plateforme-Outdoorvision.pdf)
-  
+
+<p></p>
+
 - [Fiche 1](/medias/tutoriel/Fiche_1.pdf) - Connaître mon échantillon de traces et de pratiquants sur mon territoire
 
 <p></p>
