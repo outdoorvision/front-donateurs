@@ -10,7 +10,7 @@ footer: false
 
 <center>
 
-Données agrégées le 06 février 2024 | [Consultez la FAQ de la plateforme](https://outdoorvision.fr/faq-plateforme)
+Données agrégées le 06 février 2024 | [Consultez la FAQ de la plateforme](https://outdoorvision.fr/faq-plateforme) | [Retrouvez nos tutoriels](https://outdoorvision.fr/tutoriel) 
 
 Partenaires datas : Camptocamp.org | IGNrando | On Piste | Open Runner | Trace de trail | Visorando | Visu GPX | Skitour
 
