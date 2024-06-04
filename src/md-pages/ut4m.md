@@ -5,8 +5,7 @@ picture: /medias/challenge/Bandeau_landingpage_ut4m.png
 swap: false
 ---
 
-##Pour participer au jeu concours organisé à l'occasion de l'**[UT4M](https://ut4m.fr/fr)**, 
-##il vous faut :
+##Pour participer au jeu concours organisé à l'occasion de l'**[UT4M](https://ut4m.fr/fr)**, il vous faut :
 
 - Participer à l'un des parcours de la course
 - **Créer votre compte sur Outdoorvision**.
