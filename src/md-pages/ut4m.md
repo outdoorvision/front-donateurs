@@ -5,7 +5,7 @@ picture: /medias/challenge/Bandeau_landingpage_obivwak.png
 swap: false
 ---
 
-Pour participer au jeu concours organisé à l'occasion d'**[O'Bivwak](https://obivwak.net/)**, il vous faut :
+Pour participer au jeu concours organisé à l'occasion de l**[UT4M](https://ut4m.fr/fr)**, il vous faut :
 
 - Participer à l'un des parcours de la course, mais aussi **créer votre compte sur Outdoorvision**.
 
@@ -21,18 +21,18 @@ Pour participer au jeu concours organisé à l'occasion d'**[O'Bivwak](https://o
 
 ---
 
-La **[Fédération Française de Course d'Orientation](https://www.ffcorientation.fr/)** et **Outdoorvision** vous offrent la chance de remporter différents lots : 
+**[Grenoble Alpes Metropole](https://www.grenoblealpesmetropole.fr/)** et **Outdoorvision** vous offrent la chance de remporter différents lots : 
 
 - 1 paire d'[**écouteurs à conduction osseuse Suunto** Sonic Lime](https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-sonic/suunto-sonic-lime/) 
-- 3 **lots matériel** d'une valeur de 50€
-- 3 **dossards équipes** pour **[O'Bivwak](https://obivwak.net/)** édition 2025 
+- 1 **paire de bâtons de marche** 
+- 1 **skyline en bois**
   
 <p align="center">
   <img src="/medias/challenge/banniere_lots_obivwak.png">
 </p>
 
 
-*Le tirage au sort sera effectué à partir du 3 juin 2024. Les gagnants seront contactés par courriel.*
+*Le tirage au sort sera effectué à partir du 5 août 2024. Les gagnants seront contactés par courriel.*
 
 ------
 
@@ -60,7 +60,7 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 ---
 
-*Jeu concours à partir du 29 avril jusqu'au 26 mai 2024* 
+*Jeu concours à partir du ---- avril jusqu'au 4 août 2024* 
 
 Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours O'bivwak 2024.pdf)
 <p></p>
