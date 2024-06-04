@@ -1,5 +1,5 @@
 ---
-title: O'Bivwak x Outdoorvision
+title: UT4M x Outdoorvision
 picture: /medias/challenge/Bandeau_landingpage_ut4m.png
 
 swap: false
