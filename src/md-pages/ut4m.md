@@ -10,10 +10,9 @@ swap: false
 - Participer à l'un des parcours de la course
 - **Créer votre compte sur Outdoorvision**.
 
-
-##**[Créer son compte](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)**
-
-& synchroniser sa montre connectée ou déposer ses traces GPX manuellement.
+##Comment s'inscrire à Outdoorvision :
+- **[Créer son compte](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)**
+- Synchroniser sa montre connectée ou déposer ses traces GPX manuellement.
   
 <participate></participate>
 
@@ -58,9 +57,9 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 ---
 
-*Jeu concours à partir du ---- avril jusqu'au 4 août 2024* 
+*Jeu concours à partir du ---- juillet jusqu'au 4 août 2024* 
 
-Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours O'bivwak 2024.pdf)
+Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours ut4m.pdf)
 <p></p>
 
 
