@@ -13,7 +13,7 @@ swap: false
 
 ##**[Créer son compte](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)**
 
-& synchroniser sa montre connectée ou déposer ses traces GPX manuellement.
+- Synchroniser sa montre connectée ou déposer ses traces GPX manuellement.
   
 <participate></participate>
 
