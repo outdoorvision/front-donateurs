@@ -7,7 +7,8 @@ swap: false
 
 ##Pour participer au jeu concours organisé à l'occasion de l'**[UT4M](https://ut4m.fr/fr)**, il vous faut :
 
-- Participer à l'un des parcours de la course, mais aussi **créer votre compte sur Outdoorvision**.
+- Participer à l'un des parcours de la course
+- **Créer votre compte sur Outdoorvision**.
 
 ---
 
