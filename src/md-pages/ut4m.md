@@ -1,6 +1,6 @@
 ---
 title: O'Bivwak x Outdoorvision
-picture: /medias/challenge/Bandeau_landingpage_obivwak.png
+picture: /medias/challenge/Bandeau_landingpage_ut4m.png
 
 swap: false
 ---
