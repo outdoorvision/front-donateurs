@@ -4,7 +4,7 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="20 millions de traces collectées !" picture="/medias/VISUELS_ACTUALITES/actu obivwak.png">
+<imagetextblock title="20 millions de traces collectées !" picture="/medias/VISUELS_ACTUALITES/20 millions carré.png">
 
 Merci à nos +900 000 contributeurs pour leur engagement dans la préservation des espaces de pratique au travers de leur partage de traces GPS sur Outdoorvision. 
 
