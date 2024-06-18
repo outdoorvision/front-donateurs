@@ -4,48 +4,6 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="Jeu concours Trail Drôme en Barronies" picture="/medias/VISUELS_ACTUALITES/Encart jeu concours.png">
-
-Merci à nos +900 000 contributeurs pour leur engagement dans la préservation des espaces de pratique au travers de leur partage de traces GPS sur Outdoorvision. 
-
-Des données importantes qui permettent une observation des plus précises de la pratique sportive sur le territoire français. 
-
-(13 juin 2024)
-
----
-
-<imagetextblock title="Jeu concours Trail Drôme en Barronies" picture="/medias/VISUELS_ACTUALITES/Encart jeu concours.png" swap="true">
-
-A l'occasion des [**Championnats d'Europe d'Athlétisme**](https://www.euro.maxi-race.org/blog/), [**J'aime Courir by Athlé**](https://www.jaimecourir.fr/) s'associe à **Outdoorvision** et vous propose un [**challenge Strava**](https://strava.app.link/athle-outdoorvision-trail-challenge) alliant **performance et préservation** ! 
-
-**Challenge du 27 mai au 2 juin 2024**
-
-➡️ **Pour participer, c’est par** [**ici**](https://strava.app.link/athle-outdoorvision-trail-challenge)⬅️ 
-
-Participez au challenge et tentez de remporter : 
--	1 montre [**Suunto S9 Peak Pro All Black**](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-9-peak-pro/suunto-9-peak-pro-all-black/) 
--	1 casque sport à conduction osseuse [**Shokz**](https://fr.shokz.com/) Openrun pro  
--	6 cartes cadeaux [**iRun**](https://www.i-run.fr/lpage/boutique-ffa-athle.html) d’une valeur de 50€ 
-
-(20 mai 2024) 
-
----
-<imagetextblock title="Jeu concours O'Bivwak 2024" picture="/medias/VISUELS_ACTUALITES/actu obivwak.png">
-
-A l'occasion d' [**O'Bivwak**](https://obivwak.net/) du 18 au 19 mai 2024, la [**FFCO**](https://www.ffcorientation.fr/) et Outdoorvision offrent la chance aux participants de gagner l'un des lots suivants: 
-
-- 1 [**paire d'écouteurs à conduction osseuse Suunto** Sonic Lime](https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-sonic/suunto-sonic-lime/)
-- 3 **lots matériel** d'une valeur de 50€
-- 3 dossards équipes pour **O'Bivwak** édition 2025
-
-➡ Pour participer, c’est par **<a target="_blank" href="https://outdoorvision.fr/obivwak?mtm_campagin=obivwak">ici</a>**
-
-(06 mai 2024)
-<div id="ancre29"></div>
-</imagetextblock>
-
----
-
 <imagetextblock title="Jeu concours Trail Drôme en Barronies" picture="/medias/VISUELS_ACTUALITES/Encart jeu concours.png" swap="true">
  
 Le <a target="_blank" href="https://www.traildrome.com">Trail Drôme</a> aura lieu le 7 avril à Buis les Barronies (26)
