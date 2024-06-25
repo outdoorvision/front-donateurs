@@ -4,6 +4,21 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Jeu concours O'Bivwak 2024" picture="/medias/VISUELS_ACTUALITES/actu obivwak.png">
+
+A l'occasion d' [**O'Bivwak**](https://obivwak.net/) du 18 au 19 mai 2024, la [**FFCO**](https://www.ffcorientation.fr/) et Outdoorvision offrent la chance aux participants de gagner l'un des lots suivants: 
+
+- 1 [**paire d'écouteurs à conduction osseuse Suunto** Sonic Lime](https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-sonic/suunto-sonic-lime/)
+- 3 **lots matériel** d'une valeur de 50€
+- 3 dossards équipes pour **O'Bivwak** édition 2025
+
+➡ Pour participer, c’est par **<a target="_blank" href="https://outdoorvision.fr/obivwak?mtm_campagin=obivwak">ici</a>**
+
+(06 mai 2024)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
 <imagetextblock title="Jeu concours Trail Drôme en Barronies" picture="/medias/VISUELS_ACTUALITES/Encart jeu concours.png" swap="true">
  
 Le <a target="_blank" href="https://www.traildrome.com">Trail Drôme</a> aura lieu le 7 avril à Buis les Barronies (26)
