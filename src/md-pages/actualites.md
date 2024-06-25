@@ -4,9 +4,19 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="20 millions de traces collectées, merci !" picture="/medias/VISUELS_ACTUALITES/20 millions carré.png">
 
-<imagetextblock title="Trail Challenge Strava " picture="/medias/VISUELS_ACTUALITES/Encart jeu concours.png" swap="true">
+Merci à nos +900 000 contributeurs pour leur engagement dans la préservation des espaces de pratique au travers de leur partage de traces GPS sur Outdoorvision. 
 
+Des données importantes qui permettent une observation des plus précises de la pratique sportive sur le territoire français. 
+
+(13 juin 2024)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
+<imagetextblock title="Trail Challenge Strava " picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
+ 
 A l'occasion des [**Championnats d'Europe d'Athlétisme**](https://www.euro.maxi-race.org/blog/), [**J'aime Courir by Athlé**](https://www.jaimecourir.fr/) s'associe à **Outdoorvision** et vous propose un [**challenge Strava**](https://strava.app.link/athle-outdoorvision-trail-challenge) alliant **performance et préservation** ! 
 
 **Challenge du 27 mai au 2 juin 2024**
