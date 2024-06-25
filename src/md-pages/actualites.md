@@ -4,9 +4,9 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="20 millions de traces collectées, merci !" picture="/medias/VISUELS_ACTUALITES/20 millions carré.png">
+<imagetextblock title="Le cap des 20 millions de traces franchi !" picture="/medias/VISUELS_ACTUALITES/20 millions carré.png">
 
-Merci à nos +900 000 contributeurs pour leur engagement dans la préservation des espaces de pratique au travers de leur partage de traces GPS sur Outdoorvision. 
+Merci à nos **+900 000 contributeurs** pour leur engagement dans la préservation des espaces de pratique au travers de leur partage de traces GPS sur Outdoorvision. 
 
 Des données importantes qui permettent une observation des plus précises de la pratique sportive sur le territoire français. 
 
