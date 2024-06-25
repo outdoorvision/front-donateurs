@@ -5,7 +5,7 @@ randompicfolder: random
 ---
 
 
-<imagetextblock title="Trail Challenge Strava " picture="/medias/VISUELS_ACTUALITES/Encart jeu concours.png" swap="true">
+<imagetextblock title="Trail Challenge Strava " picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
 
 A l'occasion des [**Championnats d'Europe d'Athlétisme**](https://www.euro.maxi-race.org/blog/), [**J'aime Courir by Athlé**](https://www.jaimecourir.fr/) s'associe à **Outdoorvision** et vous propose un [**challenge Strava**](https://strava.app.link/athle-outdoorvision-trail-challenge) alliant **performance et préservation** ! 
 
