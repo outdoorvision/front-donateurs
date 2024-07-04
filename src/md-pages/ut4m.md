@@ -57,7 +57,7 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 ---
 
-*Jeu concours à partir du 2 juillet jusqu'au 4 août 2024* 
+*Jeu concours à partir du ---- juillet jusqu'au 4 août 2024* 
 
 Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours ut4m.pdf)
 <p></p>
