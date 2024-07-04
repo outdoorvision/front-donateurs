@@ -46,7 +46,7 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
 
 ##Tout comprendre en 1min30 !
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v=fMkJ--vPamA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fMkJ--vPamA?si=SxuhFIjWeJ6jFW_b" title="YouTube video player" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
@@ -57,7 +57,7 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 ---
 
-*Jeu concours à partir du ---- juillet jusqu'au 4 août 2024* 
+*Jeu concours à partir du 2 juillet jusqu'au 4 août 2024* 
 
 Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours ut4m.pdf)
 <p></p>
