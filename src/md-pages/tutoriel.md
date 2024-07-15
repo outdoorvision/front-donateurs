@@ -30,3 +30,6 @@ swap: false
 - [Fiche 6](/medias/tutoriel/Fiche_6.pdf) - Observer la cohérence entre fréquentation et l'offre d'itinéraires
 <p></p>
 
+
+- [Fiche 7](/medias/tutoriel/Fiche_7.pdf) - Visualiser et analyser la variation de fréquentation entre deux périodes 
+<p></p>
