@@ -73,8 +73,7 @@ Par exemple, si parmi ces 6 passages on compte 5 passages ‘vélo’ et 1 passa
 
 ### Sur les fonctions de flux, pourquoi ne puis-je pas visualiser les données à certaines échelles ?
 Lorsque vous souhaitez visualiser les flux sur l'ensemble de votre territoire, il se peut que la fenêtre bleue en haut à droite de l'interface indique "Zoomez pour voir les données". Effectivement, selon le niveau de zoom, des seuils minimum d'affichage s'appliquent. Ainsi, il n'est pas possible de visualiser l'ensemble des flux à une échelle macroscopique, il est nécessaire de zoomer pour identifier les passages. <br>
-![pas-de-seuil](/medias/faq-plateforme/pas-de-seuil.png) <br>
-![seuil-40-passages](/medias/faq-plateforme/seuil-40-passages.png) <br>
+![pas-de-seuil](/medias/faq-plateforme/seuils.png) <br>
 
 ---
 
