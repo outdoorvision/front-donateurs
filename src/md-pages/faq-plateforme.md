@@ -71,6 +71,13 @@ Par exemple, si parmi ces 6 passages on compte 5 passages ‘vélo’ et 1 passa
 
 ## Les fonctionnalités
 
+### Sur les fonctions de flux, pourquoi ne puis-je pas visualiser les données à certaines échelles ?
+Lorsque vous souhaitez visualiser les flux sur l'ensemble de votre territoire, il se peut que la fenêtre bleue en haut à droite de l'interface indique "Zoomez pour voir les données". Effectivement, selon le niveau de zoom, des seuils minimum d'affichage s'appliquent. Ainsi, il n'est pas possible de visualiser l'ensemble des flux à une échelle macroscopique, il est nécessaire de zoomer pour identifier les passages. <br>
+![pas-de-seuil](/medias/faq-plateforme/pas-de-seuil.png) <br>
+![seuil-40-passages](/medias/faq-plateforme/seuil-40-passages.png) <br>
+
+---
+
 ### A quoi correspondent les zones de départs et d’arrivées ?
 Les zones de départs et d’arrivées sont représentées sous forme de clusters. Ces clusters agrègent des points GPS géographiquement proches, enregistrés à partir des traces des pratiquants. 
 
@@ -88,6 +95,10 @@ Par exemple, les polygones en orange représentent les zones de pauses des prati
 
 ---
 
-### Quels itinéraires sont actuellement intégrés dans la plateforme ?
-Les itinéraires intégrés actuellement dans la plateforme sont les GR et PR labellisés par la Fédération française de randonnée pédestre, ainsi que les sites VTT et Espaces Cyclosport de la Fédération française de cyclisme.
-D'autres types d'itinéraires peuvent être intégrés à la demande, dans le cas de partenariats Experts. Vous pouvez retrouvez ce catalogue dans la fonctionnalité "Itinéraire défini" afin de mesurer la fréquentation sur ces itinéraires.
+### Quels itinéraires sont actuellement intégrés dans le catalogue par défaut de la plateforme ?
+Les itinéraires intégrés actuellement dans la plateforme sont les GR, GRP et PR labellisés par la Fédération Française de Randonnée Pédestre, ainsi que les sites VTT et Espaces Cyclosport de la Fédération Française de Cyclisme. Vous pouvez désormais intégrer vous-même des itinéraires, dans votre catalogue local. Vous pouvez retrouvez ce catalogue dans la fonctionnalité "Itinéraire défini" afin de mesurer la fréquentation sur ces itinéraires.
+
+---
+
+### Quelles emprises territoriales sont actuellement intégrées dans le catalogue par défaut de la plateforme ?
+Les emprises territoriales actuellement dans la plateforme sont : les périmètres administratifs (régions, départements, intercommunalités, communes), les limites des Parcs Nationaux et Parcs Naturels Régionaux, les limites de réserves, les Zones Natura 2000, ainsi que les forêts publiques. Ces données sont requêtées directement auprès du Geoportail de l'IGN. Vous pouvez désormais intégrer vous-même des emprises, via votre catalogue local. 
