@@ -3,15 +3,22 @@ picture: /medias/tutoriel/bandeau_tutoriel.png/
 swap: false
 ---
 
-<p>Pour vous aider dans la prise en main de la plateforme, nous vous mettons à disposition différentes ressources : </p>
+<p>Pour vous accompagner dans la prise en main de la plateforme, nous vous mettons à disposition différentes ressources.</p>
 
-<p><i>Cliquez sur le document souhaité pour visualiser le contenu.</i></p>
+
+<p><i>Cliquez sur le document souhaité pour visualiser son contenu.</i></p>
+
+<p></p>
+<p></p>
 
 **Nos guides d'utilisation**
 
-- [Niveau 1 - Prise en main](/medias/Guide-utilisation-plateforme-Outdoorvision.pdf)
+- [Niveau 1](/medias/Guide-utilisation-plateforme-Outdoorvision.pdf) - Prise en main
+<p></p>
+
 - Niveau 2 - Analyse de la fréquentation - <i>bientôt en ligne</i>
 
+<p></p>
 <p></p>
 
 **Nos fiches tutoriels**
@@ -36,3 +43,5 @@ swap: false
 
 - [Fiche 7](/medias/tutoriel/Fiche_7.pdf) - Visualiser et analyser la variation de fréquentation entre deux périodes 
 <p></p>
+<p></p>
+
