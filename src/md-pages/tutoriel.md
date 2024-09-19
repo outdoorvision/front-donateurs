@@ -3,16 +3,20 @@ picture: /medias/tutoriel/bandeau_tutoriel.png/
 swap: false
 ---
 
-<p>Pour vous aider dans la prise en main de la plateforme, nous vous mettons à disposition les fiches tutoriel : </p>
+<p>Pour vous aider dans la prise en main de la plateforme, nous vous mettons à disposition différentes ressources : </p>
 
 <p><i>Cliquez sur le document souhaité pour visualiser le contenu.</i></p>
 
-- [Guide d'utilisation de la plateforme](/medias/Guide-utilisation-plateforme-Outdoorvision.pdf)
+**Nos guides d'utilisation**
+
+- [Niveau 1 - Prise en main](/medias/Guide-utilisation-plateforme-Outdoorvision.pdf)
+- Niveau 2 - Analyse de la fréquentation - <i>bientôt en ligne</i>
 
 <p></p>
 
-- [Fiche 1](/medias/tutoriel/Fiche_1.pdf) - Connaître mon échantillon de traces et de pratiquants sur mon territoire
+**Nos fiches tutoriels**
 
+- [Fiche 1](/medias/tutoriel/Fiche_1.pdf) - Connaître mon échantillon de traces et de pratiquants sur mon territoire
 <p></p>
 
 - [Fiche 2](/medias/tutoriel/Fiche_2.pdf) - Retrouver un itinéraire sur la plateforme
@@ -29,7 +33,6 @@ swap: false
 
 - [Fiche 6](/medias/tutoriel/Fiche_6.pdf) - Observer la cohérence entre fréquentation et l'offre d'itinéraires
 <p></p>
-
 
 - [Fiche 7](/medias/tutoriel/Fiche_7.pdf) - Visualiser et analyser la variation de fréquentation entre deux périodes 
 <p></p>
