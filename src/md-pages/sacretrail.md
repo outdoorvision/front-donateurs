@@ -1,5 +1,5 @@
 ---
-title: UT4M x Outdoorvision
+title: Sacré Trail x Outdoorvision
 picture: /medias/challenge/Bandeau_landingpage_sacretrail.png
 
 swap: false
