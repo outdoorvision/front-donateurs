@@ -6,12 +6,15 @@ swap: false
 <p>Pour vous aider dans la prise en main de la plateforme, nous vous mettons à disposition différentes ressources : </p>
 
 <p><i>Cliquez sur le document souhaité pour visualiser le contenu.</i></p>
+<p></p>
+<p></p>
 
 **Nos guides d'utilisation**
 
-- [Niveau 1 - Prise en main](/medias/Guide-utilisation-plateforme-Outdoorvision.pdf)
+- [Niveau 1](/medias/Guide-utilisation-plateforme-Outdoorvision.pdf) - Prise en main
 - Niveau 2 - Analyse de la fréquentation - <i>bientôt en ligne</i>
 
+<p></p>
 <p></p>
 
 **Nos fiches tutoriels**
