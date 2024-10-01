@@ -5,7 +5,7 @@ picture: /medias/challenge/Bandeau_landingpage_sacretrail.png
 swap: false
 ---
 
-##Pour participer au challenge eorganisé à l'occasion de le **[Sacré Trail](https://reimschampagnerun.fr/le-sacre-trail/)**, il vous faut :
+##Pour participer au challenge organisé à l'occasion de le **[Sacré Trail](https://reimschampagnerun.fr/le-sacre-trail/)**, il vous faut :
 
 - Participer à la course
 - **Créer votre compte sur Outdoorvision**.
@@ -16,10 +16,8 @@ swap: false
   
 <participate></participate>
 
-En contribuant à **Outdoorvision**, tentez de remporter **votre dossard pour le Sacré Trail 2025 !**
+En contribuant à **Outdoorvision**, tente de remporter **ton dossard pour le Sacré Trail 2025 !**
 
-
-*Le tirage au sort sera effectué à partir du 28 octobre 2024. Les gagnants seront contactés par courriel.*
 
 ------
 
@@ -48,6 +46,8 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 ---
 
 *Jeu concours à partir du 23 septembre jusqu'au 27 octobre 2024* 
+*Le tirage au sort sera effectué à partir du 28 octobre 2024. Les gagnants seront contactés par courriel.*
+
 
 Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours Sacré Trail 2024.pdf)
 <p></p>
