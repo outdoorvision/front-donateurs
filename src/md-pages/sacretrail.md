@@ -5,7 +5,7 @@ picture: /medias/challenge/Bandeau_landingpage_sacretrail.png
 swap: false
 ---
 
-##Pour participer au challenge organisé à l'occasion de le **[Sacré Trail](https://reimschampagnerun.fr/le-sacre-trail/)**, il vous faut :
+##Pour participer au challenge organisé à l'occasion du **[Sacré Trail](https://reimschampagnerun.fr/le-sacre-trail/)**, il vous faut :
 
 - Participer à la course
 - **Créer votre compte sur Outdoorvision**.
