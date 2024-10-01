@@ -57,7 +57,7 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 *Jeu concours à partir du 23 septembre jusqu'au 27 octobre 2024* 
 
-Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours ut4m 2024.pdf)
+Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours Sacré Trail 2024.pdf)
 <p></p>
 
 
