@@ -5,7 +5,7 @@ picture: /medias/challenge/Bandeau_landingpage_sacretrail.png
 swap: false
 ---
 
-##Pour participer au jeu concours organisé à l'occasion de le **[Sacré Trail](https://reimschampagnerun.fr/le-sacre-trail/)**, il vous faut :
+##Pour participer au challenge eorganisé à l'occasion de le **[Sacré Trail](https://reimschampagnerun.fr/le-sacre-trail/)**, il vous faut :
 
 - Participer à la course
 - **Créer votre compte sur Outdoorvision**.
@@ -16,15 +16,7 @@ swap: false
   
 <participate></participate>
 
----
-
-Le **[Parc Naturel Régional Montagne de Reims](https://www.parc-montagnedereims.fr/)** et **Outdoorvision** vous offrent la chance de remporter :
-
-- 1 des 4 dossards Sacré Trail édition 2025 
-  
-<p align="center">
-  <img src="/medias/challenge/banniere_lots_sacretrail.png">
-</p>
+En contribuant à **Outdoorvision**, tentez de remporter **votre dossard pour le Sacré Trail 2025 !**
 
 
 *Le tirage au sort sera effectué à partir du 28 octobre 2024. Les gagnants seront contactés par courriel.*
