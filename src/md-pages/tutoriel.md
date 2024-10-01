@@ -13,7 +13,7 @@ swap: false
 
 **Nos guides d'utilisation**
 
-- [Niveau 1](/medias/Guide-utilisation-plateforme-Outdoorvision.pdf) - Prise en main
+- [Niveau 1](/medias/Guide-utilisation-prise-en-main.pdf) - Prise en main
 <p></p>
 
 - Niveau 2 - Analyse de la fréquentation - <i>bientôt en ligne</i>
