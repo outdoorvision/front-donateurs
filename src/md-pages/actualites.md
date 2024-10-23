@@ -6,7 +6,7 @@ randompicfolder: random
 
 <imagetextblock title="Les chiffres de l'été 2024" picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png">
  
-Grâce à votre fidèle engagement dans Outdoorvision, <b>+ de 2 millions de traces</b> ont été enregistrées dans la plateforme cet été* permettant aux acteurs du sport une observation des pratiques sportives toujours plus précise.
+Grâce à votre fidèle engagement dans Outdoorvision, <b>+de 2 millions de traces</b> ont été enregistrées dans la plateforme cet été* permettant aux acteurs du sport une observation des pratiques sportives toujours plus précise.
 
 <i>*juillet, août et septembre 2024</i>
 
@@ -18,7 +18,7 @@ Grâce à votre fidèle engagement dans Outdoorvision, <b>+ de 2 millions de tra
 
 <imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
 
-Le <a target="_blank" href="https://www.parcdoubshorloger.fr/">Parc Naturel régional du Doubs Horloger</a> a pour projet d'aménager 15 des 70 belvédères du parc. 
+Le <b><a target="_blank" href="https://www.parcdoubshorloger.fr/">Parc Naturel régional du Doubs Horloger</a></b> a pour projet d'aménager 15 des 70 belvédères du parc. 
 
 Grâce aux données d'Outdoorvision, le parc a pu observer les zones de pauses les plus fréquentées, et ainsi définir les belvédères à aménager pour améliorer l'expérience des randonneurs.
 
@@ -42,7 +42,7 @@ Des données importantes qui permettent une observation des plus précises de la
 
 <imagetextblock title="Trail Challenge Strava " picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
  
-A loccasion des <a target="_blank" href="https://www.euro.maxi-race.org/blog/">**Championnats d'Europe d'Athlétisme**</a>, <a target="_blank" href="https://www.jaimecourir.fr/">**J'aime Courir by Athlé**</a> s'associe à **Outdoorvision** et vous propose un <a target="_blank" href="https://strava.app.link/athle-outdoorvision-trail-challenge/">**challenge Strava**</a> alliant **performance et préservation** ! 
+A loccasion des <b><a target="_blank" href="https://www.euro.maxi-race.org/blog/">Championnats d'Europe d'Athlétisme</a></b>, <b><a target="_blank" href="https://www.jaimecourir.fr/">J'aime Courir by Athlé</a></b> s'associe à <b>Outdoorvision</b> et vous propose un <b><a target="_blank" href="https://strava.app.link/athle-outdoorvision-trail-challenge/">challenge Strava</a></b> alliant <b>performance et préservation</b> ! 
 
 **Challenge du 27 mai au 2 juin 2024**
 
@@ -75,11 +75,11 @@ A l'occasion d' <a target="_blank" href="https://obivwak.net/">**O'Bivwak**</a> 
 ---
 <imagetextblock title="Jeu concours Trail Drôme en Barronies" picture="/medias/VISUELS_ACTUALITES/Encart jeu concours.png" swap="true">
  
-Le <a target="_blank" href="https://www.traildrome.com">**Trail Drôme**</a> aura lieu le 7 avril à Buis les Barronies (26)
+Le <b><a target="_blank" href="https://www.traildrome.com">Trail Drôme</a></b> aura lieu le 7 avril à Buis les Barronies (26)
 
 A cette occasion, Outdoorvision en partenariat avec le département de la Drôme organise un jeu concours pour tous les participants de cet évènement avec la possibilité de gagner : 
-- <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/Suunto-Core/suunto-core-black-yellow-tx">Une montre Suunto S9 Peak Pro All Black</a>
-- 4 dossards pour le <a target="_blank" href="https://www.traildrome.com">Trail Drôme</a> édition 2025
+- <b><a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/Suunto-Core/suunto-core-black-yellow-tx">Une montre Suunto S9 Peak Pro All Black</a></b>
+- <b>4 dossards</b> pour le <a target="_blank" href="https://www.traildrome.com">Trail Drôme</a> édition 2025
 
 
 ➡ Pour participer, c’est par **<a target="_blank" href="https://outdoorvision.fr/traildrome">ici</a>**
