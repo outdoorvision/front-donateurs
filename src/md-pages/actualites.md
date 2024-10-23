@@ -138,7 +138,7 @@ Toute l'équipe d'Outdoorvision vous adresse ses meilleurs voeux pour cette nouv
 *2024, une année sous le signe du sport. 
 Que cette année sportive soit pour vous le terrain proprice à l'épanouissement personnel et à la réalisation de vos rêves les plus fous !*
 
-En 2023, Outdoorvision c'est + 𝟔 𝐦𝐢𝐥𝐥𝐢𝐨𝐧𝐬 𝐝𝐞 𝐭𝐫𝐚𝐜𝐞𝐬 𝐜𝐨𝐥𝐥𝐞𝐜𝐭𝐞́𝐞𝐬 !  
+En 2023, Outdoorvision c'est <b>+ 6 millions de traces collectées !</b>  
 
 Merci à tous pour vos contributions. 🏃🏽‍♂️⛷️🚴🏼‍♂️
 
