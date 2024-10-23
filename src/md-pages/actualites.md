@@ -4,7 +4,7 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="Les chiffres de l'été 2024" picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
+<imagetextblock title="Les chiffres de l'été 2024" picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png">
  
 Grâce à votre fidèle engagement dans Outdoorvision, + de 2 millions de traces ont été enregistrées dans la plateforme cet été* permettant aux acteurs du sport une observation des pratiques sportives toujours plus précise.
 
