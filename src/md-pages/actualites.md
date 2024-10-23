@@ -18,7 +18,7 @@ Grâce à votre fidèle engagement dans Outdoorvision, + de 2 millions de traces
 
 <imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
 
-Le <a target="_blank" href="https://www.parcdoubshorloger.fr/>Parc Naturel régional du Doubs Horloger</a> a pour projet d'aménager 15 des 70 belvédères du parc. 
+Le <a target="_blank" href="https://www.parcdoubshorloger.fr/">Parc Naturel régional du Doubs Horloger</a> a pour projet d'aménager 15 des 70 belvédères du parc. 
 
 Grâce aux données d'Outdoorvision, le parc a pu observer les zones de pauses les plus fréquentées, et ainsi définir les belvédères à aménager pour améliorer l'expérience des randonneurs.
 
@@ -42,16 +42,16 @@ Des données importantes qui permettent une observation des plus précises de la
 
 <imagetextblock title="Trail Challenge Strava " picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
  
-A l'occasion des <a target="_blank" href="https://www.euro.maxi-race.org/blog/>**Championnats d'Europe d'Athlétisme**</a>, <a target="_blank" href="https://www.jaimecourir.fr/>**J'aime Courir by Athlé**</a> s'associe à **Outdoorvision** et vous propose un <a target="_blank" href="https://strava.app.link/athle-outdoorvision-trail-challenge/>**challenge Strava**</a> alliant **performance et préservation** ! 
+A l'occasion des <a target="_blank" href="https://www.euro.maxi-race.org/blog/">**Championnats d'Europe d'Athlétisme**</a>, <a target="_blank" href="https://www.jaimecourir.fr/">**J'aime Courir by Athlé**</a> s'associe à **Outdoorvision** et vous propose un <a target="_blank" href="https://strava.app.link/athle-outdoorvision-trail-challenge/">**challenge Strava**</a> alliant **performance et préservation** ! 
 
 **Challenge du 27 mai au 2 juin 2024**
 
-➡️ **Pour participer, c’est par** <a target="_blank" href="https://strava.app.link/athle-outdoorvision-trail-challenge/>**ici**</a> ⬅️ 
+➡️ **Pour participer, c’est par** <a target="_blank" href="https://strava.app.link/athle-outdoorvision-trail-challenge/">**ici**</a> ⬅️ 
 
 Participez au challenge et tentez de remporter : 
--	1 montre <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-9-peak-pro/suunto-9-peak-pro-all-black/>**Suunto S9 Peak Pro All Black**</a>
--	1 casque sport à conduction osseuse <a target="_blank" href="https://fr.shokz.com/>**Shokz**</a> Openrun pro  
--	6 cartes cadeaux <a target="_blank" href="https://www.i-run.fr/lpage/boutique-ffa-athle.html>**iRun**</a> d’une valeur de 50€ 
+-	1 montre <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-9-peak-pro/suunto-9-peak-pro-all-black/">**Suunto S9 Peak Pro All Black**</a>
+-	1 casque sport à conduction osseuse <a target="_blank" href="https://fr.shokz.com/">**Shokz**</a> Openrun pro  
+-	6 cartes cadeaux <a target="_blank" href="https://www.i-run.fr/lpage/boutique-ffa-athle.html">**iRun**</a> d’une valeur de 50€ 
 
 (20 mai 2024) 
 <div id="ancre29"></div>
