@@ -4,7 +4,7 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/cas pyrennées atlantiques.png" swap="true">
+<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/cas pyrenées atlantiques.png" swap="true">
 
 Sur le sentier d’accès à la plage d’Erretegia, à proximité de Bidart Centre (64), une visite terrain a permis de se rendre compte que le sentier aménagé n’était pas adapté en cas de mauvais temps : marches hautes et glissantes…
 
