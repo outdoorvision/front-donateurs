@@ -4,6 +4,18 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
+
+Sur le sentier d’accès à la plage d’Erretegia, à proximité de Bidart Centre (64), une visite terrain a permis de se rendre compte que le sentier aménagé n’était pas adapté en cas de mauvais temps : marches hautes et glissantes…
+
+Grâce aux données d’Outdoorvision, l’<b><a target="_blank" href="https://pro.tourisme64.com/">agence départementale du tourisme des Pyrénées-Atlantiques</a></b> a pu constater la forte fréquentation de ce tronçon, et ainsi confirmer <b>le besoin de réaménager et d’adapter le sentier pour la sécurité des pratiquants</b> mais aussi pour <b> la préservation de l’environnement</b>.
+
+(20 octobre 2024)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
+
 <imagetextblock title="Les chiffres de l'été 2024" picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png">
  
 Grâce à votre fidèle engagement dans Outdoorvision, <b>+de 2 millions de traces</b> ont été enregistrées dans la plateforme cet été* permettant aux acteurs du sport une observation des pratiques sportives toujours plus précise.
