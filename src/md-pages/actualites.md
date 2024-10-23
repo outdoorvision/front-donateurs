@@ -4,6 +4,16 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
+
+Le [Parc Naturel régional du Doubs Horloger](https://www.parcdoubshorloger.fr/) a pour projet d'aménager 15 des 70 belvédères du parc. 
+
+Grâce aux données d'Outdoorvision, le parc a pu observer les zones de pauses les plus fréquentées, et ainsi définir les belvédères à aménager pour améliorer l'expérience des randonneurs.
+
+(20 juin 2024)
+<div id="ancre29"></div>
+</imagetextblock>
+
 <imagetextblock title="Le cap des 20 millions de traces franchi !" picture="/medias/VISUELS_ACTUALITES/20 millions carré.png">
 
 Merci à nos **+900 000 contributeurs** pour leur engagement dans la préservation des espaces de pratique au travers de leur partage de traces GPS sur Outdoorvision. 
@@ -36,9 +46,9 @@ Participez au challenge et tentez de remporter :
 ---
 <imagetextblock title="Jeu concours O'Bivwak 2024" picture="/medias/VISUELS_ACTUALITES/actu obivwak.png">
 
-A l'occasion d' [**O'Bivwak**](https://obivwak.net/) du 18 au 19 mai 2024, la [**FFCO**](https://www.ffcorientation.fr/) et Outdoorvision offrent la chance aux participants de gagner l'un des lots suivants: 
+A l'occasion d' <a target="_blank" href="https://obivwak.net/>**O'Bivwak**</a> du 18 au 19 mai 2024, la <a target="_blank" href="https://www.ffcorientation.fr/>**FFCO**</a> et Outdoorvision offrent la chance aux participants de gagner l'un des lots suivants: 
 
-- 1 [**paire d'écouteurs à conduction osseuse Suunto** Sonic Lime](https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-sonic/suunto-sonic-lime/)
+- 1 <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-sonic/suunto-sonic-lime/">**paire d'écouteurs à conduction osseuse Suunto** Sonic Lime</a>
 - 3 **lots matériel** d'une valeur de 50€
 - 3 dossards équipes pour **O'Bivwak** édition 2025
 
