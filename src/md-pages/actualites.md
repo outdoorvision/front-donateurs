@@ -4,6 +4,18 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Les chiffres de l'été 2024" picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
+ 
+Grâce à votre fidèle engagement dans Outdoorvision, + de 2 millions de traces ont été enregistrées dans la plateforme cet été* permettant aux acteurs du sport une observation des pratiques sportives toujours plus précise.
+
+*juillet, août et septembre 2024
+
+(15 septembre 2024)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
+
 <imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
 
 Le <a target="_blank" href="https://www.parcdoubshorloger.fr/> Parc Naturel régional du Doubs Horloger</a> a pour projet d'aménager 15 des 70 belvédères du parc. 
@@ -13,6 +25,8 @@ Grâce aux données d'Outdoorvision, le parc a pu observer les zones de pauses l
 (20 juin 2024)
 <div id="ancre29"></div>
 </imagetextblock>
+
+---
 
 <imagetextblock title="Le cap des 20 millions de traces franchi !" picture="/medias/VISUELS_ACTUALITES/20 millions carré.png">
 
