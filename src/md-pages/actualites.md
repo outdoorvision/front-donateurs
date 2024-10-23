@@ -4,7 +4,7 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
+<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/cas pyrenées atlantiques" swap="true">
 
 Sur le sentier d’accès à la plage d’Erretegia, à proximité de Bidart Centre (64), une visite terrain a permis de se rendre compte que le sentier aménagé n’était pas adapté en cas de mauvais temps : marches hautes et glissantes…
 
@@ -16,7 +16,7 @@ Grâce aux données d’Outdoorvision, l’<b><a target="_blank" href="https://p
 
 ---
 
-<imagetextblock title="Les chiffres de l'été 2024" picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png">
+<imagetextblock title="Les chiffres de l'été 2024" picture="/medias/VISUELS_ACTUALITES/traces été 2024.png">
  
 Grâce à votre fidèle engagement dans Outdoorvision, <b>+de 2 millions de traces</b> ont été enregistrées dans la plateforme cet été* permettant aux acteurs du sport une observation des pratiques sportives toujours plus précise.
 
@@ -28,7 +28,7 @@ Grâce à votre fidèle engagement dans Outdoorvision, <b>+de 2 millions de trac
 
 ---
 
-<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
+<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/cas doubs horloger.png" swap="true">
 
 Le <b><a target="_blank" href="https://www.parcdoubshorloger.fr/">Parc Naturel régional du Doubs Horloger</a></b> a pour projet d'aménager 15 des 70 belvédères du parc. 
 
