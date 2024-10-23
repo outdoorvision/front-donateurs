@@ -19,7 +19,7 @@ Grâce aux données d’Outdoorvision, l’<b><a target="_blank" href="https://p
 <imagetextblock title="Les chiffres de l'été 2024" picture="/medias/VISUELS_ACTUALITES/traces été 2024.png">
  
 Grâce à votre fidèle engagement dans Outdoorvision, <b>+de 2 millions de traces</b> ont été enregistrées dans la plateforme cet été* permettant aux acteurs du sport une observation des pratiques sportives toujours plus précise.
-
+<p></p>
 <i>*juillet, août et septembre 2024</i>
 
 (15 septembre 2024)
