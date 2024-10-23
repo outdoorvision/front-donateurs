@@ -42,7 +42,7 @@ Des données importantes qui permettent une observation des plus précises de la
 
 <imagetextblock title="Trail Challenge Strava " picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
  
-A l'occasion des <a target="_blank" href="https://www.euro.maxi-race.org/blog/">**Championnats d'Europe d'Athlétisme**</a>, <a target="_blank" href="https://www.jaimecourir.fr/">**J'aime Courir by Athlé**</a> s'associe à **Outdoorvision** et vous propose un <a target="_blank" href="https://strava.app.link/athle-outdoorvision-trail-challenge/">**challenge Strava**</a> alliant **performance et préservation** ! 
+A loccasion des <a target="_blank" href="https://www.euro.maxi-race.org/blog/">**Championnats d'Europe d'Athlétisme**</a>, <a target="_blank" href="https://www.jaimecourir.fr/">**J'aime Courir by Athlé**</a> s'associe à **Outdoorvision** et vous propose un <a target="_blank" href="https://strava.app.link/athle-outdoorvision-trail-challenge/">**challenge Strava**</a> alliant **performance et préservation** ! 
 
 **Challenge du 27 mai au 2 juin 2024**
 
