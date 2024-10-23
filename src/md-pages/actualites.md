@@ -8,7 +8,7 @@ randompicfolder: random
  
 Grâce à votre fidèle engagement dans Outdoorvision, <b>+ de 2 millions de traces</b> ont été enregistrées dans la plateforme cet été* permettant aux acteurs du sport une observation des pratiques sportives toujours plus précise.
 
-* *juillet, août et septembre 2024*
+<i>*juillet, août et septembre 2024</i>
 
 (15 septembre 2024)
 <div id="ancre29"></div>
