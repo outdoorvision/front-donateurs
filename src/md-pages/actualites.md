@@ -4,6 +4,42 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/cas pyrenées atlantiques.png" swap="true">
+
+Sur le sentier d’accès à la plage d’Erretegia, à proximité de Bidart Centre (64), une visite terrain a permis de se rendre compte que le sentier aménagé n’était pas adapté en cas de mauvais temps : marches hautes et glissantes…
+
+Grâce aux données d’Outdoorvision, l’<b><a target="_blank" href="https://pro.tourisme64.com/">agence départementale du tourisme des Pyrénées-Atlantiques</a></b> a pu constater la forte fréquentation de ce tronçon, et ainsi confirmer <b>le besoin de réaménager et d’adapter le sentier pour la sécurité des pratiquants</b> mais aussi pour <b> la préservation de l’environnement</b>.
+
+(20 octobre 2024)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
+
+<imagetextblock title="Les chiffres de l'été 2024" picture="/medias/VISUELS_ACTUALITES/traces été 2024.png">
+ 
+Grâce à votre fidèle engagement dans Outdoorvision, <b>+de 2 millions de traces</b> ont été enregistrées dans la plateforme cet été* permettant aux acteurs du sport une observation des pratiques sportives toujours plus précise.
+<p> </p>
+<i>*juillet, août et septembre 2024</i>
+
+(15 septembre 2024)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
+
+<imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/cas doubs horloger.png" swap="true">
+
+Le <b><a target="_blank" href="https://www.parcdoubshorloger.fr/">Parc Naturel régional du Doubs Horloger</a></b> a pour projet d'aménager 15 des 70 belvédères du parc. 
+
+Grâce aux données d'Outdoorvision, le parc a pu observer les zones de pauses les plus fréquentées, et ainsi définir les belvédères à aménager pour améliorer l'expérience des randonneurs.
+
+(20 juin 2024)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
+
 <imagetextblock title="Le cap des 20 millions de traces franchi !" picture="/medias/VISUELS_ACTUALITES/20 millions carré.png">
 
 Merci à nos **+900 000 contributeurs** pour leur engagement dans la préservation des espaces de pratique au travers de leur partage de traces GPS sur Outdoorvision. 
@@ -18,16 +54,16 @@ Des données importantes qui permettent une observation des plus précises de la
 
 <imagetextblock title="Trail Challenge Strava " picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
  
-A l'occasion des [**Championnats d'Europe d'Athlétisme**](https://www.euro.maxi-race.org/blog), [**J'aime Courir by Athlé**](https://www.jaimecourir.fr/) s'associe à **Outdoorvision** et vous propose un [**challenge Strava**](https://strava.app.link/athle-outdoorvision-trail-challenge) alliant **performance et préservation** ! 
+A loccasion des <b><a target="_blank" href="https://www.euro.maxi-race.org/blog/">Championnats d'Europe d'Athlétisme</a></b>, <b><a target="_blank" href="https://www.jaimecourir.fr/">J'aime Courir by Athlé</a></b> s'associe à <b>Outdoorvision</b> et vous propose un <b><a target="_blank" href="https://strava.app.link/athle-outdoorvision-trail-challenge/">challenge Strava</a></b> alliant <b>performance et préservation</b> ! 
 
 **Challenge du 27 mai au 2 juin 2024**
 
-➡️ **Pour participer, c’est par** [**ici**](https://strava.app.link/athle-outdoorvision-trail-challenge) ⬅️ 
+➡️ **Pour participer, c’est par** <a target="_blank" href="https://strava.app.link/athle-outdoorvision-trail-challenge/">**ici**</a> ⬅️ 
 
 Participez au challenge et tentez de remporter : 
--	1 montre [**Suunto S9 Peak Pro All Black**](https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-9-peak-pro/suunto-9-peak-pro-all-black/) 
--	1 casque sport à conduction osseuse [**Shokz**](https://fr.shokz.com/) Openrun pro  
--	6 cartes cadeaux [**iRun**](https://www.i-run.fr/lpage/boutique-ffa-athle.html) d’une valeur de 50€ 
+-	1 montre <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/suunto-9-peak-pro/suunto-9-peak-pro-all-black/">**Suunto S9 Peak Pro All Black**</a>
+-	1 casque sport à conduction osseuse <a target="_blank" href="https://fr.shokz.com/">**Shokz**</a> Openrun pro  
+-	6 cartes cadeaux <a target="_blank" href="https://www.i-run.fr/lpage/boutique-ffa-athle.html">**iRun**</a> d’une valeur de 50€ 
 
 (20 mai 2024) 
 <div id="ancre29"></div>
@@ -36,9 +72,9 @@ Participez au challenge et tentez de remporter :
 ---
 <imagetextblock title="Jeu concours O'Bivwak 2024" picture="/medias/VISUELS_ACTUALITES/actu obivwak.png">
 
-A l'occasion d' [**O'Bivwak**](https://obivwak.net/) du 18 au 19 mai 2024, la [**FFCO**](https://www.ffcorientation.fr/) et Outdoorvision offrent la chance aux participants de gagner l'un des lots suivants: 
+A l'occasion d' <a target="_blank" href="https://obivwak.net/">**O'Bivwak**</a> du 18 au 19 mai 2024, la <a target="_blank" href="https://www.ffcorientation.fr/">**FFCO**</a> et Outdoorvision offrent la chance aux participants de gagner l'un des lots suivants: 
 
-- 1 [**paire d'écouteurs à conduction osseuse Suunto** Sonic Lime](https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-sonic/suunto-sonic-lime/)
+- 1 <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-sonic/suunto-sonic-lime/">**paire d'écouteurs à conduction osseuse Suunto** Sonic Lime</a>
 - 3 **lots matériel** d'une valeur de 50€
 - 3 dossards équipes pour **O'Bivwak** édition 2025
 
@@ -51,11 +87,11 @@ A l'occasion d' [**O'Bivwak**](https://obivwak.net/) du 18 au 19 mai 2024, la [*
 ---
 <imagetextblock title="Jeu concours Trail Drôme en Barronies" picture="/medias/VISUELS_ACTUALITES/Encart jeu concours.png" swap="true">
  
-Le <a target="_blank" href="https://www.traildrome.com">**Trail Drôme**</a> aura lieu le 7 avril à Buis les Barronies (26)
+Le <b><a target="_blank" href="https://www.traildrome.com">Trail Drôme</a></b> aura lieu le 7 avril à Buis les Barronies (26)
 
 A cette occasion, Outdoorvision en partenariat avec le département de la Drôme organise un jeu concours pour tous les participants de cet évènement avec la possibilité de gagner : 
-- <a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/Suunto-Core/suunto-core-black-yellow-tx">Une montre Suunto S9 Peak Pro All Black</a>
-- 4 dossards pour le <a target="_blank" href="https://www.traildrome.com">Trail Drôme</a> édition 2025
+- <b><a target="_blank" href="https://www.suunto.com/fr-fr/Produits/Montres-de-sport/Suunto-Core/suunto-core-black-yellow-tx">Une montre Suunto S9 Peak Pro All Black</a></b>
+- <b>4 dossards</b> pour le <a target="_blank" href="https://www.traildrome.com">Trail Drôme</a> édition 2025
 
 
 ➡ Pour participer, c’est par **<a target="_blank" href="https://outdoorvision.fr/traildrome">ici</a>**
@@ -102,7 +138,7 @@ Toute l'équipe d'Outdoorvision vous adresse ses meilleurs voeux pour cette nouv
 *2024, une année sous le signe du sport. 
 Que cette année sportive soit pour vous le terrain proprice à l'épanouissement personnel et à la réalisation de vos rêves les plus fous !*
 
-En 2023, Outdoorvision c'est + 𝟔 𝐦𝐢𝐥𝐥𝐢𝐨𝐧𝐬 𝐝𝐞 𝐭𝐫𝐚𝐜𝐞𝐬 𝐜𝐨𝐥𝐥𝐞𝐜𝐭𝐞́𝐞𝐬 !  
+En 2023, Outdoorvision c'est <b>+ 6 millions de traces collectées !</b>  
 
 Merci à tous pour vos contributions. 🏃🏽‍♂️⛷️🚴🏼‍♂️
 
