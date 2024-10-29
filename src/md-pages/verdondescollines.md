@@ -8,7 +8,7 @@ swap: false
 ##Pour participer au jeu concours organisé à l'occasion du **[Verdon des Collines](https://teamgreouxbike.com/verdon-des-collines/)**, il vous faut :
 
 - Participer à l'un des parcours de la course
-- **Créer votre compte sur Outdoorvision**.
+- **S'inscrire à Outdoorvision**.
 
 ##Comment s'inscrire à Outdoorvision :
 - **[Créer son compte](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)**
