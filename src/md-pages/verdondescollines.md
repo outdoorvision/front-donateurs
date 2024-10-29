@@ -64,7 +64,7 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 *Jeu concours à partir du 31 octobre jusqu'au 25 novembre 2024* 
 
-Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours verdoncollines 2024.pdf)
+Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours Verdon collines 2024.pdf)
 <p></p>
 
 
