@@ -18,7 +18,7 @@ swap: false
 
 ---
 
-**[Le département des Alpes de Haute-Provence](https://www.tourisme-alpes-haute-provence.com/)** et **Outdoorvision** vous offrent la chance de remporter + de 30 lots : 
+**[Le département des Alpes-de-Haute-Provence](https://www.tourisme-alpes-haute-provence.com/)** et **Outdoorvision** vous offrent la chance de remporter + de 30 lots : 
 
 - Un GPS Garmin Edge Explore 2
 - Un casque Fox Speed Frame 
