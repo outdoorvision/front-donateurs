@@ -8,7 +8,7 @@ swap: false
 ##Pour participer au jeu concours organisé à l'occasion du **[Verdon des Collines](https://teamgreouxbike.com/verdon-des-collines/)**, il vous faut :
 
 - Participer à l'un des parcours de la course
-- **Créer votre compte sur Outdoorvision**.
+- **S'inscrire à Outdoorvision**.
 
 ##Comment s'inscrire à Outdoorvision :
 - **[Créer son compte](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)**
@@ -20,14 +20,14 @@ swap: false
 
 **[Le département des Alpes-de-Haute-Provence](https://www.tourisme-alpes-haute-provence.com/)** et **Outdoorvision** vous offrent la chance de remporter + de 30 lots : 
 
-- Un GPS Garmin Edge Explore 2
-- Un casque Fox Speed Frame 
-- Un sac à dos de protection Evoc Neo
-- Un maillot VTT LEATT
-- Des prestations guidage de 4h en VTTAE
-- La location à la journée et à la demi-journée de VTTAE sur le territoire de l'espace VTT FFC Provence Verdon
-- Des dossards pour l'edition 2025 du Verdon des collines avec inscription au repas
-- De nombreux lots "Irresistible Alpes de Haute-Provence"
+- Un **GPS Garmin** Edge Explore 2
+- Un **casque Fox** Speed Frame chez **[Bachelas Bike Shop Manosque](https://www.bachelasbikeshop.com/bachelas-manosque)**
+- Un **sac à dos de protection Evoc** Neo
+- Un **maillot VTT LEATT** chez **[Bachelas Bike Shop Manosque](https://www.bachelasbikeshop.com/bachelas-manosque)**
+- Des prestations **guidage de 4h en VTTAE**
+- La **location à la journée et à la demi-journée de VTTAE** sur le territoire de l'espace VTT FFC Provence Verdon
+- Des **dossards pour l'edition 2025 du Verdon des collines** avec inscription au repas
+- De **nombreux lots ["Irresistible Alpes de Haute-Provence"](https://www.tourisme-alpes-haute-provence.com/)**
   
 <p align="center">
   <img src="/medias/challenge/banniere_lots_verdoncollines.png">
