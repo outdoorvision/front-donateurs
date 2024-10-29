@@ -1,6 +1,6 @@
 ---
 title: Verdon des Collines x Outdoorvision
-picture: /medias/challenge/Bandeau_landingpage_ut4m.png
+picture: /medias/challenge/Bandeau_landingpage_verdoncollines.png
 
 swap: false
 ---
@@ -18,13 +18,19 @@ swap: false
 
 ---
 
-**[Le département des Alpes de Haute-Provence](https://www.tourisme-alpes-haute-provence.com/)** et **Outdoorvision** vous offrent la chance de remporter différents lots : 
+**[Le département des Alpes de Haute-Provence](https://www.tourisme-alpes-haute-provence.com/)** et **Outdoorvision** vous offrent la chance de remporter + de 30 lots : 
 
-- aaaaaaaaa
-- aaaaaaaaaa
+- Un GPS Garmin Edge Explore 2
+- Un casque Fox Speed Frame 
+- Un sac à dos de protection Evoc Neo
+- Un maillot VTT LEATT
+- Des prestations guidage de 4h en VTTAE
+- La location à la journée et à la demi-journée de VTTAE sur le territoire de l'espace VTT FFC Provence Verdon
+- Des dossards pour l'edition 2025 du Verdon des collines avec inscription au repas
+- De nombreux lots "Irresistible Alpes de Haute-Provence"
   
 <p align="center">
-  <img src="/medias/challenge/banniere_lots_ut4m.png">
+  <img src="/medias/challenge/banniere_lots_verdoncollines.png">
 </p>
 
 
@@ -38,7 +44,7 @@ En tant que passionné des sports outdoor, tu es sensible à la qualité des sit
 En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à la meilleure connaissance des sports outdoor et à la préservation de tes sites de pratique.
 
 <p align="center">
-  <img src="/medias/challenge/contribue_ut4m.png">
+  <img src="/medias/challenge/contribue_verdoncollines.png">
 </p>
 
 ------
@@ -58,7 +64,7 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 *Jeu concours à partir du 31 octobre jusqu'au 25 novembre 2024* 
 
-Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours ut4m 2024.pdf)
+Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours verdoncollines 2024.pdf)
 <p></p>
 
 
