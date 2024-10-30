@@ -4,7 +4,7 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="Rando d'Or Verdon des Collines" picture="/medias/VISUELS_ACTUALITES/Encart verdon collines" swap="true">
+<imagetextblock title="Rando d'Or Verdon des Collines" picture="/medias/VISUELS_ACTUALITES/Encart verdon collines">
  
 A l'occasion de la Rando d'Or <b><a target="_blank" href="https://teamgreouxbike.com/verdon-des-collines/">Verdon des collines</a></b>, <b><a target="_blank" href="https://www.jaimecourir.fr/">Le Département des Alpes de Haute-Provence</a></b> s'associe à <b>Outdoorvision</b> et propose un challenge à tous les participants de la course !
 
