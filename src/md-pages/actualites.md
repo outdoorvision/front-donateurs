@@ -4,6 +4,24 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="Rando d'Or Verdon des Collines" picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
+ 
+A loccasion de la Rando d'Or <b><a target="_blank" href="https://teamgreouxbike.com/verdon-des-collines/">Verdon des collines</a></b>, <b><a target="_blank" href="https://www.jaimecourir.fr/">Le Département des Alpes de Haute-Provence</a></b> s'associe à <b>Outdoorvision</b> et propose un challenge à tous les participants de la course !
+
+Participez au challenge et tentez de remporter : 
+
+
+➡️ **Pour participer, c’est par** <a target="_blank" href="https://strava.app.link/athle-outdoorvision-trail-challenge/">**ici**</a> ⬅️ 
+
+
+
+
+(31 octobre 2024) 
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
+
 <imagetextblock title="Grâce à vos contributions..." picture="/medias/VISUELS_ACTUALITES/cas pyrenées atlantiques.png" swap="true">
 
 Sur le sentier d’accès à la plage d’Erretegia, à proximité de Bidart Centre (64), une visite terrain a permis de se rendre compte que le sentier aménagé n’était pas adapté en cas de mauvais temps : marches hautes et glissantes…
