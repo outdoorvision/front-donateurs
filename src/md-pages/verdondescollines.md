@@ -19,7 +19,7 @@ du **[Verdon des Collines](https://teamgreouxbike.com/verdon-des-collines/)**, i
 
 ---
 
-**[Le département des Alpes-de-Haute-Provence](https://www.tourisme-alpes-haute-provence.com/)** et **Outdoorvision** vous offrent la chance de remporter + de 30 lots : 
+**[Le département des Alpes-de-Haute-Provence](https://www.tourisme-alpes-haute-provence.com/)** et **Outdoorvision** vous offrent la chance de remporter + de 40 lots : 
 
 - Un **GPS Garmin** Edge Explore 2
 - Un **casque Fox** Speed Frame chez **[Bachelas Bike Shop Manosque](https://www.bachelasbikeshop.com/bachelas-manosque)**
