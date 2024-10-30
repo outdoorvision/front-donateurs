@@ -4,17 +4,23 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="Rando d'Or Verdon des Collines" picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
+<imagetextblock title="Rando d'Or Verdon des Collines" picture="/medias/VISUELS_ACTUALITES/Encart verdon collines" swap="true">
  
-A loccasion de la Rando d'Or <b><a target="_blank" href="https://teamgreouxbike.com/verdon-des-collines/">Verdon des collines</a></b>, <b><a target="_blank" href="https://www.jaimecourir.fr/">Le Département des Alpes de Haute-Provence</a></b> s'associe à <b>Outdoorvision</b> et propose un challenge à tous les participants de la course !
+A l'occasion de la Rando d'Or <b><a target="_blank" href="https://teamgreouxbike.com/verdon-des-collines/">Verdon des collines</a></b>, <b><a target="_blank" href="https://www.jaimecourir.fr/">Le Département des Alpes de Haute-Provence</a></b> s'associe à <b>Outdoorvision</b> et propose un challenge à tous les participants de la course !
 
 Participez au challenge et tentez de remporter : 
 
+- Un **GPS Garmin** Edge Explore 2
+- Un **casque Fox** Speed Frame chez **[Bachelas Bike Shop Manosque](https://www.bachelasbikeshop.com/bachelas-manosque)**
+- Un **sac à dos de protection Evoc** Neo
+- Un **maillot VTT LEATT** chez **[Bachelas Bike Shop Manosque](https://www.bachelasbikeshop.com/bachelas-manosque)**
+- Des prestations de **location à la demi-journée et à la journée de VTTAE** sur le territoire de l'espace VTT FFC Provence Verdon
+- Des **dossards pour l'edition 2025 du Verdon des collines** avec inscription au repas
+- Un **panier gourmand de [Destination Haute Provence](https://www.durance-luberon-verdon.com/)**
+- De **nombreux lots [Irresistible Alpes de Haute-Provence](https://www.tourisme-alpes-haute-provence.com/)**
 
-➡️ **Pour participer, c’est par** <a target="_blank" href="https://strava.app.link/athle-outdoorvision-trail-challenge/">**ici**</a> ⬅️ 
 
-
-
+➡️ **Pour participer, c’est par** <a target="_blank" href="https://outdoorvision.fr/verdondescollines?mtm_campaign=verdondescollines">**ici**</a> ⬅️ 
 
 (31 octobre 2024) 
 <div id="ancre29"></div>
@@ -72,7 +78,7 @@ Des données importantes qui permettent une observation des plus précises de la
 
 <imagetextblock title="Trail Challenge Strava " picture="/medias/VISUELS_ACTUALITES/Actu StravaFFA.png" swap="true">
  
-A loccasion des <b><a target="_blank" href="https://www.euro.maxi-race.org/blog/">Championnats d'Europe d'Athlétisme</a></b>, <b><a target="_blank" href="https://www.jaimecourir.fr/">J'aime Courir by Athlé</a></b> s'associe à <b>Outdoorvision</b> et vous propose un <b><a target="_blank" href="https://strava.app.link/athle-outdoorvision-trail-challenge/">challenge Strava</a></b> alliant <b>performance et préservation</b> ! 
+A l'occasion des <b><a target="_blank" href="https://www.euro.maxi-race.org/blog/">Championnats d'Europe d'Athlétisme</a></b>, <b><a target="_blank" href="https://www.jaimecourir.fr/">J'aime Courir by Athlé</a></b> s'associe à <b>Outdoorvision</b> et vous propose un <b><a target="_blank" href="https://strava.app.link/athle-outdoorvision-trail-challenge/">challenge Strava</a></b> alliant <b>performance et préservation</b> ! 
 
 **Challenge du 27 mai au 2 juin 2024**
 
