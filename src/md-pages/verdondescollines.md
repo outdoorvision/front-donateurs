@@ -27,7 +27,7 @@ swap: false
 - Des prestations de **location à la demi-journée et à la journée de VTTAE** sur le territoire de l'espace VTT FFC Provence Verdon
 - Des **dossards pour l'edition 2025 du Verdon des collines** avec inscription au repas
 - Un **panier gourmand de [Destination Haute Provence](https://www.durance-luberon-verdon.com/)**
-- De **nombreux lots ["Irresistible Alpes de Haute-Provence"](https://www.tourisme-alpes-haute-provence.com/)**
+- De **nombreux lots [Irresistible Alpes de Haute-Provence](https://www.tourisme-alpes-haute-provence.com/)**
   
 <p align="center">
   <img src="/medias/challenge/banniere_lots_verdoncollines.png">
