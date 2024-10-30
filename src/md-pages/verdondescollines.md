@@ -24,9 +24,9 @@ swap: false
 - Un **casque Fox** Speed Frame chez **[Bachelas Bike Shop Manosque](https://www.bachelasbikeshop.com/bachelas-manosque)**
 - Un **sac à dos de protection Evoc** Neo
 - Un **maillot VTT LEATT** chez **[Bachelas Bike Shop Manosque](https://www.bachelasbikeshop.com/bachelas-manosque)**
-- Des prestations **guidage de 4h en VTTAE**
 - La **location à la journée et à la demi-journée de VTTAE** sur le territoire de l'espace VTT FFC Provence Verdon
 - Des **dossards pour l'edition 2025 du Verdon des collines** avec inscription au repas
+- Un **panier gourmand de [Destination Haute Provence](https://www.durance-luberon-verdon.com/)**
 - De **nombreux lots ["Irresistible Alpes de Haute-Provence"](https://www.tourisme-alpes-haute-provence.com/)**
   
 <p align="center">
