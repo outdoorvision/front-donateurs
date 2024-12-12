@@ -16,7 +16,7 @@ swap: false
 - [Niveau 1](/medias/Guide-utilisation-prise-en-main.pdf) - Prise en main
 <p></p>
 
-- Niveau 2 - Analyse de la fréquentation - <i>bientôt en ligne</i>
+- [Niveau 2](/medias/tutoriel/Guide_utilisation_analyse_frequentation.pdf) - Analyse de la fréquentation
 
 <p></p>
 <p></p>
