@@ -5,7 +5,7 @@ randompicfolder: random
 ---
 
 
-<imagetextblock title="Ils parlent de nous !" picture="/medias/VISUELS_ACTUALITES/Ambassadeurs OV.png" swap="true">
+<imagetextblock title="Ils parlent de nous !" picture="/medias/VISUELS_ACTUALITES/Ambassadeurs_23_24.png" swap="true">
 
 <b><a target="_blank" href="https://www.instagram.com/francois_dhaene/">François d'Haene</b></a>, figure emblématique de l’ultra-trail mondial, s’est illustré par ses victoires légendaires sur l’Ultra-Trail du Mont-Blanc (UTMB) et bien d’autres courses mythiques. Son engagement pour la performance et le respect de la nature reflète les valeurs partagées par d’autres athlètes d’exception.
 
@@ -21,7 +21,7 @@ Dans le monde du cyclisme, <b><a target="_blank" href="https://www.instagram.com
 
 ---
 
-<imagetextblock title="Nous avons franchi le cap du million ! " picture="/medias/VISUELS_ACTUALITES/Ambassadeurs OV.png" swap="true">
+<imagetextblock title="Nous avons franchi le cap du million ! " picture="/medias/VISUELS_ACTUALITES/1_million_contributeurs.png" swap="true">
 
 Nous avons franchi le cap du million de contributeurs. 
 Grâce à votre précieuse contribution, nous avançons ensemble vers une meilleure connaissance des sports outdoor permettant la préservation des sites où nous aimons tous pratiquer.
@@ -33,16 +33,14 @@ Continuons à explorer et protéger ces endroits qui nous inspirent tant !
 </imagetextblock>
 
 ---
-<imagetextblock title="Une année sous le signe du dépassement sportif🏃‍♂️" picture="/medias/VISUELS_ACTUALITES/BLABLABLABLA">
+<imagetextblock title="Une année sous le signe du dépassement sportif🏃‍♂️" picture="/medias/VISUELS_ACTUALITES/Bonne_année_2025">
  
 
 Toute l'équipe d'Outdoorvision vous présente ses meilleurs vœux pour 2025 !
 
-Que cette nouvelle année soit synonyme de performances,
-de réussites sportives, et de découvertes enrichissantes.
+Que cette nouvelle année soit synonyme de performances, de réussites sportives, et de découvertes enrichissantes.
 
-Nous vous souhaitons de vivre de belles aventures au cœur
-de sites, espaces, et itinéraires préservés.
+Nous vous souhaitons de vivre de belles aventures au cœur de sites, espaces, et itinéraires préservés.
 
 (5 janvier 2025) 
 <div id="ancre29"></div>
@@ -51,8 +49,8 @@ de sites, espaces, et itinéraires préservés.
 
 ---
 
-<imagetextblock title="Témoignage d'un contributeur" picture="/medias/VISUELS_ACTUALITES/Ambassadeurs OV.png" swap="true">
-Christophe Gaillard, 42 ans, habitant à La Roque d’Antheron (13), ingénieur dans l'aéronautique
+<imagetextblock title="Témoignage d'un contributeur" picture="/medias/VISUELS_ACTUALITES/Témoignage_contrib_CGaillard.png" swap="true">
+<i>Christophe Gaillard, 42 ans, habitant à La Roque d’Antheron (13), ingénieur dans l'aéronautique</i>
 
 <b>Quel sport pratiquez-vous ? </b>
 Je pratique le VTT depuis l’âge de 12 ans, j’ai une pratique orientée enduro/all mountain. J’aime globalement tous les sports qui me permettent de m’évader et d’être au contact de la nature. Mais j’aime aussi la dose d’adrénaline que procure une descente en vtt sur un sentier bien technique.
