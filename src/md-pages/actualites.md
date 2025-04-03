@@ -3,7 +3,9 @@ title: Nos actualités
 swap: false
 randompicfolder: random
 ---
-<imagetextblock title="Ils parlent de nous !" picture="/medias/VISUELS_ACTUALITES/Ambassadeurs OV.png" swap="true">
+
+
+<imagetextblock title="Ils parlent de nous !" picture="/medias/VISUELS_ACTUALITES/Ambassadeurs_23_24.png" swap="true">
 
 <b><a target="_blank" href="https://www.instagram.com/francois_dhaene/">François d'Haene</b></a>, figure emblématique de l’ultra-trail mondial, s’est illustré par ses victoires légendaires sur l’Ultra-Trail du Mont-Blanc (UTMB) et bien d’autres courses mythiques. Son engagement pour la performance et le respect de la nature reflète les valeurs partagées par d’autres athlètes d’exception.
 
@@ -12,6 +14,53 @@ randompicfolder: random
 Dans le monde du cyclisme, <b><a target="_blank" href="https://www.instagram.com/romainbardet/">Romain Bardet</b></a> se distingue non seulement par son talent au sein du peloton international, mais aussi par son engagement en faveur d’un sport plus responsable et respectueux de l’environnement. La <b><a target="_blank" href="https://www.instagram.com/decathlonag2rlamondiale/?hl=fr/">team AG2R</b></a>, à laquelle il appartient, partage cette même ambition en promouvant des pratiques sportives durables et soucieuses de la préservation de la nature.
 
 <b> Ces athlètes, soucieux de la préservation des espaces naturels, sont devenus contributeurs d'Outdoorvision. Depuis leurs comptes Instagram respectifs, ils mettent en avant cette initiative afin de faire connaître le dispositif à leur communauté et sensibiliser le plus grand nombre à l'importance d'une pratique sportive responsable. </b>
+
+(12 février 2025)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
+
+<imagetextblock title="Nous avons franchi le cap du million ! " picture="/medias/VISUELS_ACTUALITES/1_million_contributeurs.png" swap="true">
+
+Nous avons franchi le cap du million de contributeurs. 
+Grâce à votre précieuse contribution, nous avançons ensemble vers une meilleure connaissance des sports outdoor permettant la préservation des sites où nous aimons tous pratiquer.
+
+Continuons à explorer et protéger ces endroits qui nous inspirent tant !
+
+(5 janvier 2025)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
+<imagetextblock title="Une année sous le signe du dépassement sportif🏃‍♂️" picture="/medias/VISUELS_ACTUALITES/Bonne_année_2025">
+ 
+
+Toute l'équipe d'Outdoorvision vous présente ses meilleurs vœux pour 2025 !
+
+Que cette nouvelle année soit synonyme de performances, de réussites sportives, et de découvertes enrichissantes.
+
+Nous vous souhaitons de vivre de belles aventures au cœur de sites, espaces, et itinéraires préservés.
+
+(5 janvier 2025) 
+<div id="ancre29"></div>
+</imagetextblock>
+
+
+---
+
+<imagetextblock title="Témoignage d'un contributeur" picture="/medias/VISUELS_ACTUALITES/Témoignage_contrib_CGaillard.png" swap="true">
+<i>Christophe Gaillard, 42 ans, habitant à La Roque d’Antheron (13), ingénieur dans l'aéronautique</i>
+
+<b>Quel sport pratiquez-vous ? </b>
+Je pratique le VTT depuis l’âge de 12 ans, j’ai une pratique orientée enduro/all mountain. J’aime globalement tous les sports qui me permettent de m’évader et d’être au contact de la nature. Mais j’aime aussi la dose d’adrénaline que procure une descente en vtt sur un sentier bien technique.
+
+<b>Quels moyens utilisez-vous pour déposer vos traces sur la plateforme Outdoorvision ?</b>
+J’ai découvert très récemment Outdoorvision, j’y collabore au travers de mon compte Garmin Connect via ma montre connectée et mon GPS vélo.
+
+<b>Quel intérêt trouvez vous à partager vos traces sur Outdoorvision ? </b>
+Le VTT comme beaucoup de sports de nature ne nécessite pas d’infrastructures dédiées et pourtant, sans un accès libre à nos espaces de pratiques, nous pourrions être privés de notre loisir favori. La plupart des pratiquants que je connais ne font pas partis de club ou d’association mais roulent en solo ou en petit groupes, nous n’avons donc aucun poids en tant que pratiquants indépendants. C’est pourquoi il me semble important de pouvoir partager nos traces et lieux de roulage quotidiens pour que les territoires et les communes mesurent la fréquentation de certains sites, et puissent à minima les préserver et au mieux les valoriser.
+
 
 (10 décembre 2024)
 <div id="ancre29"></div>
