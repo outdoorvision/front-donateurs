@@ -24,6 +24,7 @@ Dans le monde du cyclisme, <b><a target="_blank" href="https://www.instagram.com
 <imagetextblock title="Nous avons franchi le cap du million ! " picture="/medias/VISUELS_ACTUALITES/1_million_contributeurs.png" swap="true">
 
 Nous avons franchi le cap du million de contributeurs. 
+
 Grâce à votre précieuse contribution, nous avançons ensemble vers une meilleure connaissance des sports outdoor permettant la préservation des sites où nous aimons tous pratiquer.
 
 Continuons à explorer et protéger ces endroits qui nous inspirent tant !
