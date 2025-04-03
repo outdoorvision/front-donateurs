@@ -3,6 +3,24 @@ title: Nos actualités
 swap: false
 randompicfolder: random
 ---
+
+
+<imagetextblock title="Ils parlent de nous !" picture="/medias/VISUELS_ACTUALITES/Ambassadeurs OV.png" swap="true">
+
+<b><a target="_blank" href="https://www.instagram.com/francois_dhaene/">François d'Haene</b></a>, figure emblématique de l’ultra-trail mondial, s’est illustré par ses victoires légendaires sur l’Ultra-Trail du Mont-Blanc (UTMB) et bien d’autres courses mythiques. Son engagement pour la performance et le respect de la nature reflète les valeurs partagées par d’autres athlètes d’exception.
+
+<b><a target="_blank" href="https://www.instagram.com/yoannstuck/">Yoann Stuck</b></a>, reconnu parmi les meilleurs traileurs français, impressionne par sa détermination sans faille et ses résultats remarquables. À ses côtés, <b><a target="_blank" href="https://www.instagram.com/arthurjoyeuxbouillon/">Arthur Joyeux-Bouillon</b></a>, spécialiste des longues distances, incarne lui aussi cette passion pour le dépassement de soi et les grands espaces.
+
+Dans le monde du cyclisme, <b><a target="_blank" href="https://www.instagram.com/romainbardet/">Romain Bardet</b></a> se distingue non seulement par son talent au sein du peloton international, mais aussi par son engagement en faveur d’un sport plus responsable et respectueux de l’environnement. La <b><a target="_blank" href="https://www.instagram.com/decathlonag2rlamondiale/?hl=fr/">team AG2R</b></a>, à laquelle il appartient, partage cette même ambition en promouvant des pratiques sportives durables et soucieuses de la préservation de la nature.
+
+<b> Ces athlètes, soucieux de la préservation des espaces naturels, sont devenus contributeurs d'Outdoorvision. Depuis leurs comptes Instagram respectifs, ils mettent en avant cette initiative afin de faire connaître le dispositif à leur communauté et sensibiliser le plus grand nombre à l'importance d'une pratique sportive responsable. </b>
+
+(12 février 2025)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
+
 <imagetextblock title="Nous avons franchi le cap du million ! " picture="/medias/VISUELS_ACTUALITES/Ambassadeurs OV.png" swap="true">
 
 Nous avons franchi le cap du million de contributeurs. 
@@ -15,22 +33,6 @@ Continuons à explorer et protéger ces endroits qui nous inspirent tant !
 </imagetextblock>
 
 ---
-
-<imagetextblock title="Ils parlent de nous !" picture="/medias/VISUELS_ACTUALITES/Ambassadeurs OV.png" swap="true">
-
-<b><a target="_blank" href="https://www.instagram.com/francois_dhaene/">François d'Haene</b></a>, figure emblématique de l’ultra-trail mondial, s’est illustré par ses victoires légendaires sur l’Ultra-Trail du Mont-Blanc (UTMB) et bien d’autres courses mythiques. Son engagement pour la performance et le respect de la nature reflète les valeurs partagées par d’autres athlètes d’exception.
-
-<b><a target="_blank" href="https://www.instagram.com/yoannstuck/">Yoann Stuck</b></a>, reconnu parmi les meilleurs traileurs français, impressionne par sa détermination sans faille et ses résultats remarquables. À ses côtés, <b><a target="_blank" href="https://www.instagram.com/arthurjoyeuxbouillon/">Arthur Joyeux-Bouillon</b></a>, spécialiste des longues distances, incarne lui aussi cette passion pour le dépassement de soi et les grands espaces.
-
-Dans le monde du cyclisme, <b><a target="_blank" href="https://www.instagram.com/romainbardet/">Romain Bardet</b></a> se distingue non seulement par son talent au sein du peloton international, mais aussi par son engagement en faveur d’un sport plus responsable et respectueux de l’environnement. La <b><a target="_blank" href="https://www.instagram.com/decathlonag2rlamondiale/?hl=fr/">team AG2R</b></a>, à laquelle il appartient, partage cette même ambition en promouvant des pratiques sportives durables et soucieuses de la préservation de la nature.
-
-<b> Ces athlètes, soucieux de la préservation des espaces naturels, sont devenus contributeurs d'Outdoorvision. Depuis leurs comptes Instagram respectifs, ils mettent en avant cette initiative afin de faire connaître le dispositif à leur communauté et sensibiliser le plus grand nombre à l'importance d'une pratique sportive responsable. </b>
-
-(5 février 2025)
-<div id="ancre29"></div>
-</imagetextblock>
----
-
 <imagetextblock title="Une année sous le signe du dépassement sportif🏃‍♂️" picture="/medias/VISUELS_ACTUALITES/BLABLABLABLA">
  
 
@@ -50,6 +52,17 @@ de sites, espaces, et itinéraires préservés.
 ---
 
 <imagetextblock title="Témoignage d'un contributeur" picture="/medias/VISUELS_ACTUALITES/Ambassadeurs OV.png" swap="true">
+Christophe Gaillard, 42 ans, habitant à La Roque d’Antheron (13), ingénieur dans l'aéronautique
+
+<b>Quel sport pratiquez-vous ? </b>
+Je pratique le VTT depuis l’âge de 12 ans, j’ai une pratique orientée enduro/all mountain. J’aime globalement tous les sports qui me permettent de m’évader et d’être au contact de la nature. Mais j’aime aussi la dose d’adrénaline que procure une descente en vtt sur un sentier bien technique.
+
+<b>Quels moyens utilisez-vous pour déposer vos traces sur la plateforme Outdoorvision ?</b>
+J’ai découvert très récemment Outdoorvision, j’y collabore au travers de mon compte Garmin Connect via ma montre connectée et mon GPS vélo.
+
+<b>Quel intérêt trouvez vous à partager vos traces sur Outdoorvision ? </b>
+Le VTT comme beaucoup de sports de nature ne nécessite pas d’infrastructures dédiées et pourtant, sans un accès libre à nos espaces de pratiques, nous pourrions être privés de notre loisir favori. La plupart des pratiquants que je connais ne font pas partis de club ou d’association mais roulent en solo ou en petit groupes, nous n’avons donc aucun poids en tant que pratiquants indépendants. C’est pourquoi il me semble important de pouvoir partager nos traces et lieux de roulage quotidiens pour que les territoires et les communes mesurent la fréquentation de certains sites, et puissent à minima les préserver et au mieux les valoriser.
+
 
 (10 décembre 2024)
 <div id="ancre29"></div>
