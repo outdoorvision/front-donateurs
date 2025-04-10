@@ -4,6 +4,15 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="blablabla" picture="/medias/VISUELS_ACTUALITES/1_million_contributeurs.png" swap="true">
+
+blablablablabla
+
+(00000000)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
 
 <imagetextblock title="Ils parlent de nous !" picture="/medias/VISUELS_ACTUALITES/Ambassadeurs_23_24.png" swap="true">
 
@@ -24,6 +33,7 @@ Dans le monde du cyclisme, <b><a target="_blank" href="https://www.instagram.com
 <imagetextblock title="Nous avons franchi le cap du million ! " picture="/medias/VISUELS_ACTUALITES/1_million_contributeurs.png" swap="true">
 
 Nous avons franchi le cap du million de contributeurs. 
+
 Grâce à votre précieuse contribution, nous avançons ensemble vers une meilleure connaissance des sports outdoor permettant la préservation des sites où nous aimons tous pratiquer.
 
 Continuons à explorer et protéger ces endroits qui nous inspirent tant !
@@ -51,6 +61,7 @@ Nous vous souhaitons de vivre de belles aventures au cœur de sites, espaces, et
 
 <imagetextblock title="Témoignage d'un contributeur" picture="/medias/VISUELS_ACTUALITES/Témoignage_contrib_CGaillard.png" swap="true">
 <i>Christophe Gaillard, 42 ans, habitant à La Roque d’Antheron (13), ingénieur dans l'aéronautique</i>
+
 
 <b>Quel sport pratiquez-vous ? </b>
 Je pratique le VTT depuis l’âge de 12 ans, j’ai une pratique orientée enduro/all mountain. J’aime globalement tous les sports qui me permettent de m’évader et d’être au contact de la nature. Mais j’aime aussi la dose d’adrénaline que procure une descente en vtt sur un sentier bien technique.
