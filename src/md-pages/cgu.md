@@ -161,9 +161,9 @@ L’Utilisateur reste propriétaire de ces données, et transfère au CREPS AURA
 
 En particulier, l’Utilisateur donne le droit non exclusif et gratuit au CREPS AURA de représenter, reproduire, adapter, modifier, arranger, restructurer, diffuser et distribuer ses Données Utilisateurs directement ou par un tiers autorisé, dans le monde entier, pour la durée de l’Abonnement, afin de : 
 
-permettre leur affichage aux Utilisateurs dans la Plateforme 
+• permettre leur affichage aux Utilisateurs dans la Plateforme 
 
-permettre au CREPS de produire des rapports spécifiques pour les Utilisateurs de la Plateforme ou dans le cadre de sa mission de Service Public 
+• permettre au CREPS de produire des rapports spécifiques pour les Utilisateurs de la Plateforme ou dans le cadre de sa mission de Service Public 
 
 
 
