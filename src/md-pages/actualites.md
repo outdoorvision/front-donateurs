@@ -4,6 +4,15 @@ swap: false
 randompicfolder: random
 ---
 
+<imagetextblock title="blablabla" picture="/medias/VISUELS_ACTUALITES/1_million_contributeurs.png" swap="true">
+
+blablablablabla
+
+(00000000)
+<div id="ancre29"></div>
+</imagetextblock>
+
+---
 
 <imagetextblock title="Ils parlent de nous !" picture="/medias/VISUELS_ACTUALITES/Ambassadeurs_23_24.png" swap="true">
 
