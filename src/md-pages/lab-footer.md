@@ -11,7 +11,9 @@ footer: false
 <center>
 
 Données agrégées le 31 août 2024 | [CGU](https://outdoorvision.fr/cgu) 
+
 [FAQ de la plateforme](https://outdoorvision.fr/faq-plateforme) | [Retrouvez nos tutoriels](https://outdoorvision.fr/tutoriel) 
+
 [Licences et méta-données](https://outdoorvision.fr/licences-et-metadonnees)
 
 Partenaires datas : MaRando | IGNrando | On Piste | Open Runner | Trace de trail | Visorando | Visu GPX | Skitour
