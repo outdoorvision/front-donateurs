@@ -45,4 +45,4 @@ swap: false
 <p></p>
 <p></p>
 
-**Fichiers métadonnées**
+**Nos fiches techniques**
