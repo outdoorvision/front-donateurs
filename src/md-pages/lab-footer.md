@@ -12,7 +12,7 @@ footer: false
 
 Données agrégées le 31 août 2024 | [CGU](https://outdoorvision.fr/cgu) 
 
-[FAQ de la plateforme](https://outdoorvision.fr/faq-plateforme) | [Retrouvez nos tutoriels](https://outdoorvision.fr/tutoriel) 
+[FAQ de la plateforme](https://outdoorvision.fr/faq-plateforme) | [Tutoriels et fiches techniques](https://outdoorvision.fr/tutoriel) 
 
 [Licences et méta-données](https://outdoorvision.fr/licences-et-metadonnees)
 
