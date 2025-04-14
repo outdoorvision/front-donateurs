@@ -45,3 +45,13 @@ swap: false
 <p></p>
 <p></p>
 
+**Nos fiches techniques**
+
+- [Fiche 1](/medias/tutoriel/Fichetechnique_1.pdf) - Convertir un itinéraire ou un polygone au format GeoJSON 
+<p></p>
+
+- [Fiche 2](/medias/tutoriel/Fichetechnique_2.pdf) - Convertir un itinéraire au format GeoJSON avec un convertisseur en ligne
+<p></p>
+
+- [Fiche 3](/medias/tutoriel/Fichetechnique_3.pdf) - Intégrer un itinéraire ou un polygone dans son catalogue local
+<p></p>
