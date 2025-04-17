@@ -5,7 +5,7 @@
 
 **Fichiers méta-données**
 
-- [Fiche 1](medias/licences-et-metadonnees/Fichemetadonnees_1.pdf) - Export de vue repartition activités]
+- [Fiche 1](medias/licences-et-metadonnees/Fichemetadonnees_1.pdf) - Export de vue repartition activités
 <p></p>
 
 - [Fiche 2](medias/licences-et-metadonnees/Fichemetadonnees_2.pdf) - Export de vue itinéraire défini
