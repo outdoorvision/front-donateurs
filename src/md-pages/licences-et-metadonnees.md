@@ -5,17 +5,17 @@
 
 **Fichiers méta-données**
 
-- [Export de vue repartition activités](https://outdoorvision.fr/medias/licences-et-metadonnees/licence-utilisation-donnees.pdf) 
+- [Fiche 1](https://outdoorvision.fr/medias/licences-et-metadonnees/licence-utilisation-donnees.pdf) - Export de vue repartition activités]
 <p></p>
 
-- [Export de vue itinéraire défini](https://outdoorvision.fr/medias/licences-et-metadonnees/licence-utilisation-donnees.pdf) 
+- [fiche 2](https://outdoorvision.fr/medias/licences-et-metadonnees/licence-utilisation-donnees.pdf) - Export de vue itinéraire défini
 <p></p>
 
-- [Export de vue générale](https://outdoorvision.fr/medias/licences-et-metadonnees/licence-utilisation-donnees.pdf) 
+- [Fiche 3 ](https://outdoorvision.fr/medias/licences-et-metadonnees/licence-utilisation-donnees.pdf) - Export de vue générale
 <p></p>
 
-- [Export de vue comparaison temporelle](https://outdoorvision.fr/medias/licences-et-metadonnees/licence-utilisation-donnees.pdf) 
+- [fiche 4](https://outdoorvision.fr/medias/licences-et-metadonnees/licence-utilisation-donnees.pdf) - Export de vue comparaison temporelle
 <p></p>
 
-- [Export de vue emprise géographique](https://outdoorvision.fr/medias/licences-et-metadonnees/licence-utilisation-donnees.pdf) 
+- [Fiche 5](https://outdoorvision.fr/medias/licences-et-metadonnees/licence-utilisation-donnees.pdf) - Export de vue emprise géographique
 <p></p>
