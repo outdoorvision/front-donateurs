@@ -5,17 +5,17 @@
 
 **Fichiers méta-données**
 
-- [Export de vue repartition activités](medias/licences-et-metadonnees/licence-utilisation-donnees.pdf) 
+- [Fiche 1](medias/licences-et-metadonnees/Fichemetadonnees_1.pdf) - Export de vue repartition activités
 <p></p>
 
-- [Export de vue itinéraire défini](medias/licences-et-metadonnees/licence-utilisation-donnees.pdf) 
+- [Fiche 2](medias/licences-et-metadonnees/Fichemetadonnees_2.pdf) - Export de vue itinéraire défini
 <p></p>
 
-- [Export de vue générale](medias/licences-et-metadonnees/licence-utilisation-donnees.pdf) 
+- [Fiche 3](medias/licences-et-metadonnees/Fichemetadonnees_3.pdf) - Export de vue générale
 <p></p>
 
-- [Export de vue comparaison temporelle](medias/licences-et-metadonnees/licence-utilisation-donnees.pdf) 
+- [Fiche 4](medias/licences-et-metadonnees/Fichemetadonnees_4.pdf) - Export de vue comparaison temporelle
 <p></p>
 
-- [Export de vue emprise géographique](medias/licences-et-metadonnees/licence-utilisation-donnees.pdf) 
+- [Fiche 5](medias/licences-et-metadonnees/Fichemetadonnees_5.pdf) - Export de vue emprise géographique
 <p></p>
