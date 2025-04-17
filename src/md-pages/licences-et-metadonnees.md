@@ -1,6 +1,6 @@
 **Licence**
 
-- [Licence d'utilisation des données](https://outdoorvision.fr/medias/licences-et-metadonnees/licence-utilisation-donnees.pdf) https://outdoorvision.fr/medias/licences-et-metadonnees/licence-utilisation-donnees.pdf
+- [Licence d'utilisation des données](https://outdoorvision.fr/medias/licences-et-metadonnees/licence-utilisation-donnees.pdf)
 <p></p>
 
 **Fichiers méta-données**
