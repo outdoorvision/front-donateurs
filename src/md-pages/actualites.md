@@ -7,9 +7,6 @@ randompicfolder: random
  
 <iframe width="100%" height="900px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/cas-dusage-outoorvision_1202563?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">
 
- 
-</iframe><p><a href="//umap.openstreetmap.fr/en/map/cas-dusage-outoorvision_1202563?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
-
 <imagetextblock title="Ils parlent de nous !" picture="/medias/VISUELS_ACTUALITES/Ambassadeurs_23_24.png">
 
 <b><a target="_blank" href="https://www.instagram.com/francois_dhaene/">François d'Haene</b></a>, figure emblématique de l’ultra-trail mondial, s’est illustré par ses victoires légendaires sur l’Ultra-Trail du Mont-Blanc (UTMB) et bien d’autres courses mythiques. Son engagement pour la performance et le respect de la nature reflète les valeurs partagées par d’autres athlètes d’exception.
