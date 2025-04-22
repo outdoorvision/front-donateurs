@@ -4,7 +4,6 @@ swap: false
 randompicfolder: random
 ---
 
-
 <imagetextblock title="Ils parlent de nous !" picture="/medias/VISUELS_ACTUALITES/Ambassadeurs_23_24.png">
 
 <b><a target="_blank" href="https://www.instagram.com/francois_dhaene/">François d'Haene</b></a>, figure emblématique de l’ultra-trail mondial, s’est illustré par ses victoires légendaires sur l’Ultra-Trail du Mont-Blanc (UTMB) et bien d’autres courses mythiques. Son engagement pour la performance et le respect de la nature reflète les valeurs partagées par d’autres athlètes d’exception.
