@@ -3,7 +3,7 @@ title: Nos actualités
 swap: false
 randompicfolder: random
 ---
-
+<p><iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/cas-dusage-outoorvision_1202563?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/cas-dusage-outoorvision_1202563?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
 
 <imagetextblock title="Ils parlent de nous !" picture="/medias/VISUELS_ACTUALITES/Ambassadeurs_23_24.png">
 
