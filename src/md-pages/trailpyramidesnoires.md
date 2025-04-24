@@ -19,7 +19,7 @@ swap: false
 
 **[Le département des Alpes-de-Haute-Provence](https://www.mondepartement04.fr/accueil)** et **Outdoorvision** vous offrent la chance de remporter + de 40 lots : 
 
-- Un **Objet Suunto** Speed Frame chez **[Bachelas Bike Shop Manosque](https://www.bachelasbikeshop.com/bachelas-manosque)**
+- Un **objet [Suunto](https://www.bachelasbikeshop.com/bachelas-manosque)**
 - 3 dossards pour l'édition 2026 
 
   
