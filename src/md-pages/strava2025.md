@@ -23,6 +23,7 @@ swap: false
 </p>
 
 *(Le tirage au sort sera effectué à partir du 28 juin 2024. Les gagnants seront contactés par courriel.)*
+
 ---
 
 ##Pourquoi contribuer à Outdoorvision ?
