@@ -26,7 +26,7 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
 
 
 - 1 [casque **Suunto** à conduction osseuse Sonic Lime](https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-sonic/suunto-sonic-lime/)
-- 25 [topoguides ou topocartes (au choix) de la FFRando] (https://boutique.ffrandonnee.fr/topoguides) 
+- 25 [topoguides ou topocartes (au choix) de la FFRando](https://boutique.ffrandonnee.fr/topoguides) 
  
 
 *(Le tirage au sort sera effectué à partir du 28 juin 2024. Les gagnants seront contactés par courriel.)*
