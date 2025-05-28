@@ -10,17 +10,6 @@ swap: false
 **Pour faire partie de la communauté Outdoorvision et prendre part au tirage au sort, il ne vous reste plus qu'à synchroniser votre compte Decathlon, Garmin, Polar ou Suunto !**
 <participate></participate>
 
-##Pourquoi contribuer à Outdoorvision ?
-
-En tant que passionné des sports outdoor, tu es sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de ton sport favori dans les politiques territoriales. 
-En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à la meilleure connaissance des sports outdoor et à la préservation de tes sites de pratique.
-
-<p align="center">
-  <img src="/medias/challenge/Contribue_strava2025.png">
-</p>
-
----
-
 
 ##[Outdoorvision](https://www.outdoorvision.fr) vous offre la chance de remporter l'un de ses lots : 
 
@@ -36,7 +25,16 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
 *(Le tirage au sort sera effectué à partir du 28 juin 2024. Les gagnants seront contactés par courriel.)*
 ---
 
+##Pourquoi contribuer à Outdoorvision ?
 
+En tant que passionné des sports outdoor, tu es sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de ton sport favori dans les politiques territoriales. 
+En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à la meilleure connaissance des sports outdoor et à la préservation de tes sites de pratique.
+
+<p align="center">
+  <img src="/medias/challenge/Contribue_strava2025.png">
+</p>
+
+---
 
 ##Tout comprendre en 1min30 !
 <p align="center">
