@@ -16,7 +16,7 @@ En tant que passionné des sports outdoor, tu es sensible à la qualité des sit
 En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à la meilleure connaissance des sports outdoor et à la préservation de tes sites de pratique.
 
 <p align="center">
-  <img src="/medias/challenge/Contribue_strava2025">
+  <img src="/medias/challenge/Contribue_strava2025.png">
 </p>
 
 ---
