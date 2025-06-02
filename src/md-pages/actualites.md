@@ -11,7 +11,6 @@ randompicfolder: random
 <b> Exemple de la Fédération Française de Randonnée Pédestre Seine-Maritime </b>
 
 Les falaises de Seine-Maritime, spectaculaires mais fragiles, subissent des risques naturels accentués par l'afflux de visiteurs.
-
 Les données d'Outdoorvision révèlent une hausse notable de la fréquentation ces dernières années. 
 Dans un soucis de préservation de cet environnement et de sécurité de l'usager, la Fédération Française de Randonnée Pédestre, les acteurs locaux et les plateformes numériques ont modifié les itinéraires afin de réorienter les visiteurs et limiter ainsi l'impact sur l'environnement. Une signalétique complémentaire a été mise en place sur le site pour favoriser l’emprunt des chemins sécurisés.
 
