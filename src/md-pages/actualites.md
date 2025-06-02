@@ -4,32 +4,24 @@ swap: false
 randompicfolder: random
 ---
 
-<imagetextblock title="Grâce à vos contributions">
+<imagetextblock title="Grâce à vos contributions" picture="/medias/VISUELS_ACTUALITES/cas_usage_FFRP1.png">
 
-<i>Le partage de vos traces GPS permet aux gestionnaires d’espaces naturels, aux acteurs locaux et aux plateformes numériques de collaborer afin de préserver les milieux naturels tout en maintenant la pratique sportive. </i>
+ <i>Le partage de vos traces GPS permet aux gestionnaires d’espaces naturels, aux acteurs locaux et aux plateformes numériques de collaborer afin de préserver les milieux naturels tout en maintenant la pratique sportive. </i>
 
 <b> Exemple de la Fédération Française de Randonnée Pédestre Seine-Maritime </b>
 
-<imagetextblock picture="/medias/VISUELS_ACTUALITES/cas_usage_FFRP1.png">
 Les falaises de Seine-Maritime, spectaculaires mais fragiles, subissent des risques naturels accentués par l'afflux de visiteurs.
 
 <imagetextblock  picture="/medias/VISUELS_ACTUALITES/cas_usage_FFRP2.png" swap="true">
 Les données d'Outdoorvision révèlent une hausse notable de la fréquentation ces dernières années. 
 Dans un soucis de préservation de cet environnement et de sécurité de l'usager, la Fédération Française de Randonnée Pédestre, les acteurs locaux et les plateformes numériques ont modifié les itinéraires afin de réorienter les visiteurs et limiter ainsi l'impact sur l'environnement. Une signalétique complémentaire a été mise en place sur le site pour favoriser l’emprunt des chemins sécurisés.
 
-<b> Exemple de la Fédération Française de Randonnée Pédestre Seine-Maritime </b>
-<imagetextblock picture="/medias/VISUELS_ACTUALITES/cas_usage_CD34_1.png">
-
-Depuis la plateforme Outdoorvision, sur le secteur du Ravin des Arcs dans l'Hérault, on remarque une présence marquée de randonneurs en dehors du sentier balisé, notamment dans une zone protégée par un arrêté de protection de biotope. Ces passages fragilisent l'équilibre naturel du site.
-Un travail concerté entre les gestionnaires d'espaces naturels, les acteurs locaux et les plateformes numériques, telles que Visorando, a permis d'intégrer les itinéraires officiels sur ces outils de diffusion.
-
-<imagetextblock  picture="/medias/VISUELS_ACTUALITES/cas_usage_CD34_2.png" swap="true">
-On peut vérifier l'efficacité de cette action grâce aux traces partagées sur Outdoorvision, puisque les passages ont été redirigés sur les sentiers générant des impacts moindres sur la biodiversité. 
- 
 (28 mai 2025)
 <div id="ancre29"></div>
 </imagetextblock>
+
 ---
+
 <imagetextblock title="Ils parlent de nous !" picture="/medias/VISUELS_ACTUALITES/Ambassadeurs_23_24.png">
 
 <b><a target="_blank" href="https://www.instagram.com/francois_dhaene/">François d'Haene</b></a>, figure emblématique de l’ultra-trail mondial, s’est illustré par ses victoires légendaires sur l’Ultra-Trail du Mont-Blanc (UTMB) et bien d’autres courses mythiques. Son engagement pour la performance et le respect de la nature reflète les valeurs partagées par d’autres athlètes d’exception.
