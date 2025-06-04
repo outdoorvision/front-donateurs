@@ -49,7 +49,7 @@ Désormais nous distinguons le catalogue de base <i>(comprenant les itinéraires
 Possibilité de partager le catalogue local entre utilisateurs d’une même structure. 
 <br>
 <br>
-<li><b>	Export de la vue M3 </b>
+<li><b>	Export de la vue </b>
 <br> <i>(disponible uniquement aux utilisateurs disposant d’un accès « Experts »)</i> 
 <br> 
 <br> 

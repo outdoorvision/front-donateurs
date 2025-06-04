@@ -5,12 +5,16 @@ footer: false
 ---
 
 <p align="center">
-  <img src="/medias/tableau de bord 2024.png">
+  <img src="/medias/tableau de bord 012025.png">
 </p>
 
 <center>
 
-Données agrégées le 06 février 2024 | [Consultez la FAQ de la plateforme](https://outdoorvision.fr/faq-plateforme) | [Retrouvez nos tutoriels](https://outdoorvision.fr/tutoriel) 
+Données agrégées le 31 août 2024 | [CGU](https://outdoorvision.fr/cgu) 
+
+[FAQ de la plateforme](https://outdoorvision.fr/faq-plateforme) | [Tutoriels et fiches techniques](https://outdoorvision.fr/tutoriel) 
+
+[Licences et méta-données](https://outdoorvision.fr/licences-et-metadonnees)
 
 Partenaires datas : MaRando | IGNrando | On Piste | Open Runner | Trace de trail | Visorando | Visu GPX | Skitour
 

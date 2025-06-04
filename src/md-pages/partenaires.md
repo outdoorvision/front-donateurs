@@ -11,6 +11,31 @@ Grâce à ces partenariats, 9 millions de traces GPS alimentent déjà la platef
 
 <br />
 
+----
+
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/VISORANDO_272X272_02.jpg">
+<a href="https://www.visorando.com/">
+<img src="/medias/visorando.png">
+</a>
+<p>
+L'application Visorando permet de se servir de son smartphone ou de sa tablette comme d'un GPS de randonnée. L'application convient pour la randonnée pédestre, la randonnée VTT, à ski, en raquettes et à cheval.  
+Étant sensible à la qualité des sites et des itinéraires, Visorando s’est engagé dans leurs préservations via le projet Outdoorvision.
+</p>
+</imagetextblock>
+
+----
+
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/OPENRUNNER_272X272.jpg">
+<a href="https://www.openrunner.com/">
+<img src="/medias/openrunner.png">
+</a>
+<p>
+OpenRunner est une solution web et mobile pour planifier, trouver, suivre et partager des parcours de sports outdoor (rando pédestre, équestre, cyclisme, trail, etc.). La plateforme aux 6 millions de parcours, créée en 2006 et développée à Annecy, est fière de soutenir Outdoorvision pour la préservation des terrains de jeu !
+</p>
+</imagetextblock>
+
+----
+
 <imagetextblock picture="/medias/VISUELS_PARTENAIRES/GARMIN_272X272.jpg">
 <a href="https://www.garmin.com/fr-FR/">
 <img src="/medias/garmin.png">
@@ -33,6 +58,28 @@ IGNrando’, l’application de référence pour vos activités nature. Toute la
 
 ----
 
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/SUUNTO_272X272_02.jpg">
+<a href="https://www.suunto.com/fr-fr/">
+<img src="/medias/sunnto.png">
+</a>
+<p>
+Marque finlandaise de montres de sport et accessoires de plongée, experte en orientation et aventures depuis 1936, Suunto propose des outils fiables et de qualité à tous les pratiquants d’outdoor. Suunto a mobilisé sa communauté sportive et facilité le transfert des traces GPS de celle-ci vers la plateforme Outdoorvision, améliorant ainsi la fiabilité du projet Outdoorvision tout en participant à la protection de son environnement.
+</p>
+</imagetextblock>
+
+----
+
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/marando.png">
+<a href="https://www.ffrandonnee.fr/s-informer/actualites/marando-l-application-officielle-de-la-ffrandonnee">
+<img src="/medias/VISUELS_PARTENAIRES/logomarando.png">
+</a>
+<p>
+MaRando est l'application officielle de la FFRandonnée qui vous permet d'accéder à des milliers de parcours dignes d'intérêt partout en France avec des outils de guidage, d'enregistrement de trace, de téléchargement GPX, de fiches PDF dédiées aux circuits et de pleins d'autres fonctionnalités pour aider les randonneurs dans leur pratique.
+</p>
+</imagetextblock>
+
+----
+
 <imagetextblock picture="/medias/VISUELS_PARTENAIRES/ONPISTE_272X272.jpg">
 <a href="https://www.onpiste.com/">
 <img src="/medias/VISUELS_PARTENAIRES/Logo_ONPISTE.png">
@@ -49,34 +96,12 @@ Le partenariat avec Outdoorvision est en parfaite adéquation avec les valeurs e
 
 ----
 
-<imagetextblock picture="/medias/VISUELS_PARTENAIRES/OPENRUNNER_272X272.jpg">
-<a href="https://www.openrunner.com/">
-<img src="/medias/openrunner.png">
-</a>
-<p>
-OpenRunner est une solution web et mobile pour planifier, trouver, suivre et partager des parcours de sports outdoor (rando pédestre, équestre, cyclisme, trail, etc.). La plateforme aux 6 millions de parcours, créée en 2006 et développée à Annecy, est fière de soutenir Outdoorvision pour la préservation des terrains de jeu !
-</p>
-</imagetextblock>
-
-----
-
 <imagetextblock picture="/medias/VISUELS_PARTENAIRES/POLAR_272X272.jpg">
 <a href="https://www.polar.com/fr/">
 <img src="/medias/polar.png">
 </a>
 <p>
 Depuis 1977, Polar fabrique des montres de sport et des montres connectées. La marque est particulièrement connue pour avoir développé le premier moniteur de fréquence cardiaque sans fil au monde. Polar est ravi que ces utilisateurs contribuent à Outdoorvision en partageant leurs traces GPS depuis leur compte Polar Flow.
-</p>
-</imagetextblock>
-
-----
-
-<imagetextblock picture="/medias/VISUELS_PARTENAIRES/SUUNTO_272X272_02.jpg">
-<a href="https://www.suunto.com/fr-fr/">
-<img src="/medias/sunnto.png">
-</a>
-<p>
-Marque finlandaise de montres de sport et accessoires de plongée, experte en orientation et aventures depuis 1936, Suunto propose des outils fiables et de qualité à tous les pratiquants d’outdoor. Suunto a mobilisé sa communauté sportive et facilité le transfert des traces GPS de celle-ci vers la plateforme Outdoorvision, améliorant ainsi la fiabilité du projet Outdoorvision tout en participant à la protection de son environnement.
 </p>
 </imagetextblock>
 
@@ -93,18 +118,6 @@ Trail Connect est une application mobile spécialement dédiée à la pratique d
 
 ----
 
-<imagetextblock picture="/medias/VISUELS_PARTENAIRES/VISORANDO_272X272_02.jpg">
-<a href="https://www.visorando.com/">
-<img src="/medias/visorando.png">
-</a>
-<p>
-L'application Visorando permet de se servir de son smartphone ou de sa tablette comme d'un GPS de randonnée. L'application convient pour la randonnée pédestre, la randonnée VTT, à ski, en raquettes et à cheval.  
-Étant sensible à la qualité des sites et des itinéraires, Visorando s’est engagé dans leurs préservations via le projet Outdoorvision.
-</p>
-</imagetextblock>
-
-----
-
 <imagetextblock picture="/medias/VISUELS_PARTENAIRES/VISUGPX_272X272.jpg">
 <a href="https://www.visugpx.com/">
 <img src="/medias/visugpx.png">
@@ -114,16 +127,6 @@ VisuGPX est un site de création, d'analyse et de partage d'itinéraires GPS. Pa
 </p>
 </imagetextblock>
 
-----
-
-<imagetextblock picture="/medias/VISUELS_PARTENAIRES/marando.png">
-<a href="https://www.ffrandonnee.fr/s-informer/actualites/marando-l-application-officielle-de-la-ffrandonnee">
-<img src="/medias/VISUELS_PARTENAIRES/logomarando.png">
-</a>
-<p>
-MaRando est l'application officielle de la FFRandonnée qui vous permet d'accéder à des milliers de parcours dignes d'intérêt partout en France avec des outils de guidage, d'enregistrement de trace, de téléchargement GPX, de fiches PDF dédiées aux circuits et de pleins d'autres fonctionnalités pour aider les randonneurs dans leur pratique.
-</p>
-</imagetextblock>
 
 ----
 
