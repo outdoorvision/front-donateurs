@@ -3,7 +3,9 @@ title: PARRAINAGE BOOSTÉ
 picture: /medias/Action parrainage.png
 
 swap: false
+
 ---
+
 ##Pour participer à cette action de parrainage, il vous faut :
 
 - Avoir été guidé par un contributeur déjà actif 
@@ -17,3 +19,27 @@ swap: false
 
 ---
 
+Par cette action, **Outdoorvision** vous offre au choix : 
+
+- 1 **abonnement mensuel OpenRunner** 
+- 1 **abonnement mensuel Visorando**
+  
+<p align="center">
+  <img src="/medias/challenge/banniere_lots_ut4m.png">
+</p>
+
+
+*Pour bénéficier de cette offre, il vous faut souscrire avant le ... Ne perdez pas de temps !*
+
+------
+
+##Pourquoi contribuer à Outdoorvision ?
+
+En tant que passionné des sports outdoor, tu es sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de ton sport favori dans les politiques territoriales. 
+En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à la meilleure connaissance des sports outdoor et à la préservation de tes sites de pratique.
+
+<p align="center">
+  <img src="/medias/challenge/contribue_ut4m.png">
+</p>
+
+------
