@@ -1,6 +1,6 @@
 ---
 title: PARRAINAGE BOOSTÉ
-picture: https://github.com/elodiev21/front-donateurs/blob/staging/static/medias/Bandeau_parrainage.png
+picture: https://github.com/elodiev21/front-donateurs/blob/staging/static/medias/Bandeau_parrainage_1.png
 
 swap: false
 
