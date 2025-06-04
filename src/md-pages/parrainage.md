@@ -1,6 +1,6 @@
 ---
 title: PARRAINAGE BOOSTÉ
-picture: /medias/challenge/Bandeau_landingpage_ut4m.png
+picture: /medias/Action parrainage.png
 
 swap: false
 ---
