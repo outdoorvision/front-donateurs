@@ -20,7 +20,8 @@ swap: false
 
 Par cette action, **Outdoorvision** vous offre au choix : 
 
-- 1 **abonnement mensuel OpenRunner** 
+- 1 **abonnement mensuel OpenRunner**
+- 1 [**abonnement mensuel OpenRunner](https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-sonic/suunto-sonic-lime/)
 - 1 **abonnement mensuel Visorando**
   
 <p align="center">
