@@ -53,6 +53,7 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
 ---
  
 ##Quelles sont les données partagées ?
+
 Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre compte Suunto, Garmin, Polar ou Décathlon. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
  
 ---
