@@ -27,7 +27,7 @@ Par cette action, **Outdoorvision** vous offre au choix :
  <img src="/medias/challenge/banniere_lots_ut4m.png">
 </p>
 
-* Pour bénéficier de cette offre, il vous faut souscrire avant le ... Ne perdez pas de temps ! *
+*Pour bénéficier de cette offre, il vous faut souscrire avant le ... Ne perdez pas de temps !*
  
 ---
  
