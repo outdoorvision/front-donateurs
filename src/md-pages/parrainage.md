@@ -31,9 +31,9 @@ Par cette action, **Outdoorvision** vous offre au choix :
  
 *Pour bénéficier de cette offre, il vous faut souscrire avant le ... Ne perdez pas de temps !*
  
-------
+---
  
-##Pourquoi contribuer à Outdoorvision ?
+ ##Pourquoi contribuer à Outdoorvision ?
  
 En tant que passionné des sports outdoor, tu es sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de ton sport favori dans les politiques territoriales.
 En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à la meilleure connaissance des sports outdoor et à la préservation de tes sites de pratique.
@@ -42,7 +42,7 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
  <img src="/medias/challenge/contribue_ut4m.png">
 </p>
  
-------
+---
  
 ##Tout comprendre en 1min30 !
 <p align="center">
