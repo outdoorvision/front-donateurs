@@ -1,6 +1,6 @@
 ---
 title: PARRAINAGE BOOSTÉ
-picture: static/medias/Bandeau_parrainage_1.png
+picture: static/medias/Bandeau parrainage.png
 swap: false
  
 ---
