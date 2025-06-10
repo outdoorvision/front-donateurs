@@ -27,7 +27,6 @@ Par cette action, **Outdoorvision** vous offre au choix :
  <img src="/medias/challenge/banniere_lots_ut4m.png">
 </p>
  
- 
 *Pour bénéficier de cette offre, il vous faut souscrire avant le ... Ne perdez pas de temps !*
  
 ---
@@ -44,6 +43,7 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
 ---
  
 ##Tout comprendre en 1min30 !
+
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fMkJ--vPamA?si=SxuhFIjWeJ6jFW_b" title="YouTube video player" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p> 
