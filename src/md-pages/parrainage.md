@@ -20,9 +20,8 @@ swap: false
  
 Par cette action, **Outdoorvision** vous offre au choix :
  
-- 1 **abonnement mensuel OpenRunner**
-- 1 [**abonnement mensuel OpenRunner](https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-sonic/suunto-sonic-lime/)
-- 1 **abonnement mensuel Visorando**
+- 1 **[abonnement mensuel OpenRunner](https://www.openrunner.com)**
+- 1 **[abonnement annuel Visorando](https://www.visorando.com)**
  
 <p align="center">
  <img src="/medias/challenge/banniere_lots_ut4m.png">
@@ -33,7 +32,7 @@ Par cette action, **Outdoorvision** vous offre au choix :
  
 ---
  
- ##Pourquoi contribuer à Outdoorvision ?
+##Pourquoi contribuer à Outdoorvision ?
  
 En tant que passionné des sports outdoor, tu es sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de ton sport favori dans les politiques territoriales.
 En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à la meilleure connaissance des sports outdoor et à la préservation de tes sites de pratique.
