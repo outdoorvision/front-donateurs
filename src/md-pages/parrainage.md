@@ -1,5 +1,5 @@
 ---
-picture: /medias/bandeauparrainage1.png
+picture: /medias/parrainage6.png
 swap: false
  
 ---
