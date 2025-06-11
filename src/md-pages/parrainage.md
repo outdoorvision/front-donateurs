@@ -12,7 +12,7 @@ swap: false
 
  ---
  
-Outdoorvision t'offre au choix : 
+Par cette action, Outdoorvision t'offre au choix : 
 
 - un **abonnement annuel [OpenRunner](https://www.openrunner.com)**
 - un **abonnement annuel [Visorando](https://www.visorando.com)** 
