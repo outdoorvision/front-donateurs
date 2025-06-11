@@ -14,8 +14,7 @@ swap: false
  
 Tu recevras un e-mail à la fin de la campagne pour choisir ton abonnement offert.* Reste attentif !
  
-- 1 **[abonnement mensuel OpenRunner](https://www.openrunner.com)**
-- 1 **[abonnement annuel Visorando](https://www.visorando.com)**
+En partenariat avec **[OpenRunner](https://www.openrunner.com)** et **[Visorando](https://www.visorando.com)**
  
 <p align="center">
  <img src="/medias/parrainage4.png">
