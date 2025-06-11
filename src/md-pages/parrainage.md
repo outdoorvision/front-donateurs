@@ -18,7 +18,7 @@ Par cette action, **Outdoorvision** vous offre au choix :
 - 1 **[abonnement annuel Visorando](https://www.visorando.com)**
  
 <p align="center">
- <img src="/medias/cadeauxparrainage.png">
+ <img src="/medias/parrainage4.png">
 </p>
 
 *Pour bénéficier de cette offre, il vous faut souscrire avant le ... Ne perdez pas de temps !*
