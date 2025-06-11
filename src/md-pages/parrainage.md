@@ -12,7 +12,7 @@ swap: false
 
  ---
  
-Pour choisir ton abonnement offert, tu recevras un mail à la fin de la campagne : Reste à l'affût !
+Tu recevras un e-mail à la fin de la campagne pour choisir ton abonnement offert.* Reste attentif !
  
 - 1 **[abonnement mensuel OpenRunner](https://www.openrunner.com)**
 - 1 **[abonnement annuel Visorando](https://www.visorando.com)**
@@ -52,6 +52,8 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 ---
 
 *Cette offre aura lieu du .... au ....*
+
+**Dans la limite des stocks disponibles.*
 
 Consultez les [conditions de règlement du jeu concours](/medias/challenge/Reglement_challenge_Strava2025.pdf)
 <p></p>
