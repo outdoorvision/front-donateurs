@@ -12,7 +12,7 @@ swap: false
 
  ---
  
-Reste attentif ! Tu recevras un e-mail à la fin de la campagne pour choisir ton abonnement offert.* Reste attentif !
+Reste attentif ! Tu recevras un e-mail à la fin de la campagne pour choisir ton abonnement offert.* 
  
 En partenariat avec **[OpenRunner](https://www.openrunner.com)** et **[Visorando](https://www.visorando.com)**
  
