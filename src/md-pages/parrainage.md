@@ -12,7 +12,7 @@ swap: false
 
  ---
  
-Tu recevras un e-mail à la fin de la campagne pour choisir ton abonnement offert.* Reste attentif !
+Reste attentif ! Tu recevras un e-mail à la fin de la campagne pour choisir ton abonnement offert.* Reste attentif !
  
 En partenariat avec **[OpenRunner](https://www.openrunner.com)** et **[Visorando](https://www.visorando.com)**
  
@@ -54,5 +54,5 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 **Dans la limite des stocks disponibles.*
 
-Consultez les [conditions de règlement du jeu concours](/medias/challenge/Reglement_challenge_Strava2025.pdf)
+Consultez les [conditions de règlement de cette action parrainage](/medias/challenge/Reglement_challenge_Strava2025.pdf)
 <p></p>
