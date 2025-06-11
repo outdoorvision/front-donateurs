@@ -12,7 +12,7 @@ swap: false
 
  ---
  
-Par cette action, **Outdoorvision** vous offre au choix :
+Pour choisir ton abonnement offert, tu recevras un mail à la fin de la campagne : Reste à l'affût !
  
 - 1 **[abonnement mensuel OpenRunner](https://www.openrunner.com)**
 - 1 **[abonnement annuel Visorando](https://www.visorando.com)**
@@ -50,3 +50,8 @@ En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à l
 Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre compte Suunto, Garmin, Polar ou Décathlon. Les autres données issues de votre compte ne sont pas enregistrées dans Outdoorvision.
  
 ---
+
+*Cette offre aura lieu du .... au ....*
+
+Consultez les [conditions de règlement du jeu concours](/medias/challenge/Reglement_challenge_Strava2025.pdf)
+<p></p>
