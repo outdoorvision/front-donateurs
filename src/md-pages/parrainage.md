@@ -59,5 +59,5 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 **Dans la limite des stocks disponibles.*
 
-Consultez les [conditions de règlement de cette action parrainage](/medias/challenge/Reglement_challenge_Strava2025.pdf)
+Consultez les [conditions de règlement](/medias/challenge/Reglement_challenge_Strava2025.pdf)
 <p></p>
