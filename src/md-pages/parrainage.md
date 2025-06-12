@@ -22,7 +22,7 @@ Bénéficie de cette offre, en t'inscrivant avant le ...
 Ne perds pas de temps ! 
  
 <p align="center">
- <img src="/medias/parrainage4.png">
+ <img src="/medias/Abos openrunner  visorando.png">
 </p>
 
 Reste attentif ! Tu recevras un e-mail à la fin de la campagne pour choisir ton abonnement offert* 
