@@ -17,15 +17,13 @@ Par cette action, Outdoorvision t'offre au choix :
 - un **abonnement annuel [OpenRunner](https://www.openrunner.com)**
 - un **abonnement annuel [Visorando](https://www.visorando.com)** 
  
-Bénéficie de cette offre, en t'inscrivant avant le ...
-
-Ne perds pas de temps ! 
+Bénéficie de cette offre, en t'inscrivant avant le ... Ne perds pas de temps ! 
  
 <p align="center">
- <img src="/medias/Abos openrunner  visorando.png">
+ <img src="/medias/Abos openrunner  visorando copie.png">
 </p>
 
-Reste attentif ! Tu recevras un e-mail à la fin de la campagne pour choisir ton abonnement offert* 
+**Reste attentif !** Tu recevras un e-mail à la fin de l'opération pour choisir ton abonnement offert* 
  
 ---
  
@@ -55,7 +53,7 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
  
 ---
 
-*Cette offre aura lieu du .... au ....*
+*Cette offre a lieu du .... au ....*
 
 **Dans la limite des stocks disponibles.*
 
