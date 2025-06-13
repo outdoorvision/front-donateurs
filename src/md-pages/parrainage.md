@@ -23,7 +23,7 @@ Bénéficie de cette offre, en t'inscrivant avant le ... Ne perds pas de temps !
  <img src="/medias/Abos openrunner  visorando copie.png">
 </p>
 
-**Reste attentif !** Tu recevras un e-mail à la fin de l'opération pour choisir ton abonnement offert* 
+**Reste attentif ! Tu recevras un e-mail à la fin de l'opération pour choisir ton abonnement offert*** 
  
 ---
  
