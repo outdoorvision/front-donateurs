@@ -17,7 +17,7 @@ Par cette action, Outdoorvision t'offre au choix :
 - un **abonnement annuel [OpenRunner](https://www.openrunner.com)**
 - un **abonnement annuel [Visorando](https://www.visorando.com)** 
  
-Bénéficie de cette offre, en t'inscrivant avant le ... Ne perds pas de temps ! 
+Bénéficie de cette offre, en t'inscrivant avant le **6 juillet**. Ne perds pas de temps ! 
  
 <p align="center">
  <img src="/medias/Abos openrunner  visorando copie.png">
@@ -53,7 +53,7 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
  
 ---
 
-*Cette offre a lieu du 18 juin 2025 à 8h00 au 6 juillet 2025 à 23h59*
+*Cette offre a lieu du 18 juin au 6 juillet 2025*
 
 **Dans la limite des stocks disponibles.*
 
