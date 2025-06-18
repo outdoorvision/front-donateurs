@@ -53,7 +53,7 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
  
 ---
 
-*Cette offre a lieu du .... au ....*
+*Cette offre a lieu du 18 juin 2025 à 8h00 au 6 juillet 2025 à 23h59*
 
 **Dans la limite des stocks disponibles.*
 
