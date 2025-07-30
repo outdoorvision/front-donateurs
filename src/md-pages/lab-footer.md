@@ -5,12 +5,12 @@ footer: false
 ---
 
 <p align="center">
-  <img src="/medias/tableau de bord 012025.png">
+  <img src="/medias/tableau de bord 062025.png">
 </p>
 
 <center>
 
-Données agrégées le 31 août 2024 | [CGU](https://outdoorvision.fr/cgu) 
+Données jusqu'au 17 avril 2025 agrégées | [CGU](https://outdoorvision.fr/cgu) 
 
 [FAQ de la plateforme](https://outdoorvision.fr/faq-plateforme) | [Tutoriels et fiches techniques](https://outdoorvision.fr/tutoriel) 
 
