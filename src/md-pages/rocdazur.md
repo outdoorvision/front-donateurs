@@ -5,9 +5,8 @@ picture: /medias/challenge/Bannière landing page roc d'azur.png
 swap: false
 ---
 
-##Pour participer au jeu concours organisé à l'occasion du **[Verdon des Collines](https://teamgreouxbike.com/verdon-des-collines/)**, il vous faut :
-
-- **vous inscrire à Outdoorvision**.
+##Pour participer au jeu concours organisé à l'occasion du **[Roc d'Azur](https://www.rocazur.com/fr)**, 
+il vous faut **vous inscrire à Outdoorvision**.
 
 ##Comment s'inscrire à Outdoorvision :
 - **[Créer son compte](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)**
@@ -17,7 +16,7 @@ swap: false
 
 ---
 
-**A l'occasion du [Roc d'Azur](https://www.rocazur.com/fr), [Openrunner](https://www.mondepartement04.fr/accueil)** et **Outdoorvision** vous offrent la chance de remporter un de ses lots : 
+**[Openrunner](https://www.mondepartement04.fr/accueil)** et **Outdoorvision** vous offrent la chance de remporter un de ses lots : 
 
 - Un [casque à conduction osseuse Wing 2 Suunto](https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-wing-2/suunto-wing-2-black/)
 - 80 abonnements annuels [Openrunner](https://www.openrunner.com/)
