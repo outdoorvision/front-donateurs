@@ -1,11 +1,12 @@
 ---
-title: Verdon des Collines x Outdoorvision
+title: OpenRunner x Outdoorvision
 picture: /medias/challenge/Bannière landing page roc d'azur.png
 
 swap: false
 ---
 
-##Pour participer au jeu concours organisé à l'occasion du **[Roc d'Azur](https://www.rocazur.com/fr)**, il vous faut **vous inscrire à Outdoorvision**.
+<p align="center">##Pour participer au jeu concours organisé à l'occasion du **[Roc d'Azur](https://www.rocazur.com/fr)**, 
+##il vous faut **vous inscrire à Outdoorvision**.
 
 ---
 
@@ -61,7 +62,7 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours Verdon collines 2024.pdf)
 <p></p>
 
-
+</p>
 
 
 
