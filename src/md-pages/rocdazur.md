@@ -5,8 +5,7 @@ picture: /medias/challenge/Bannière landing page roc d'azur.png
 swap: false
 ---
 
-##Pour participer au jeu concours organisé à l'occasion du **[Roc d'Azur](https://www.rocazur.com/fr)**, 
-il vous faut **vous inscrire à Outdoorvision**.
+##Pour participer au jeu concours organisé à l'occasion du **[Roc d'Azur](https://www.rocazur.com/fr)**, il vous faut **vous inscrire à Outdoorvision**.
 
 ---
 
