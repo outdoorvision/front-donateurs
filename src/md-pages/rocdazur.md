@@ -25,7 +25,7 @@ swap: false
 **[Openrunner](https://www.mondepartement04.fr/accueil)** et **Outdoorvision** vous offrent la chance de remporter un de ses lots : 
 
 - 1 **[casque à conduction osseuse Wing 2 Suunto](https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-wing-2/suunto-wing-2-black/)**
-- 80 **abonnements annuels [Openrunner](https://www.openrunner.com/)**
+- 80 **[abonnements annuels Openrunner](https://www.openrunner.com/)**
   
 <p align="center">
   <img src="/medias/challenge/banniere_lots_rocdazur2025.png">
