@@ -27,7 +27,7 @@ swap: false
 </p>
 
 
-*Le tirage au sort sera effectué à partir du 19 octobre. Les gagnants seront contactés par courriel.*
+*Le tirage au sort sera effectué à partir du 19 octobre 2025. Les gagnants seront contactés par courriel.*
 
 ------
 
@@ -56,7 +56,7 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 ---
 
-*Jeu concours à partir du 1er octobre au 19 octobre* 
+*Jeu concours à partir du 1er octobre au 19 octobre 2025* 
 
 Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours Verdon collines 2024.pdf)
 <p></p>
