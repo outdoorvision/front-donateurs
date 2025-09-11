@@ -7,8 +7,7 @@ swap: false
 
 ##Pour participer au jeu concours organisé à l'occasion du **[Verdon des Collines](https://teamgreouxbike.com/verdon-des-collines/)**, il vous faut :
 
-- Participer à l'un des parcours de la course
-- **S'inscrire à Outdoorvision**.
+- **vous inscrire à Outdoorvision**.
 
 ##Comment s'inscrire à Outdoorvision :
 - **[Créer son compte](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)**
@@ -18,7 +17,7 @@ swap: false
 
 ---
 
-**[Le département des Alpes-de-Haute-Provence](https://www.mondepartement04.fr/accueil)** et **Outdoorvision** vous offrent la chance de remporter + de 40 lots : 
+**A l'occasion du [Roc d'Azur](https://www.rocazur.com/fr), [Openrunner](https://www.mondepartement04.fr/accueil)** et **Outdoorvision** vous offrent la chance de remporter un de ses lots : 
 
 - Un [casque à conduction osseuse Wing 2 Suunto](https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-wing-2/suunto-wing-2-black/)
 - 80 abonnements annuels [Openrunner](https://www.openrunner.com/)
@@ -28,7 +27,7 @@ swap: false
 </p>
 
 
-*Le tirage au sort sera effectué à partir du 25 novembre 2024. Les gagnants seront contactés par courriel.*
+*Le tirage au sort sera effectué à partir du 19 octobre. Les gagnants seront contactés par courriel.*
 
 ------
 
@@ -56,7 +55,7 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 ---
 
-*Jeu concours à partir du 31 octobre jusqu'au 25 novembre 2024* 
+*Jeu concours à partir du 1er octobre au 19 octobre* 
 
 Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours Verdon collines 2024.pdf)
 <p></p>
