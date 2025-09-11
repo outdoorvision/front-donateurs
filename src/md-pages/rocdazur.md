@@ -8,9 +8,14 @@ swap: false
 <div align="center">
 
 ## Pour participer au jeu concours organisé à l'occasion du **[Roc d'Azur](https://www.rocazur.com/fr)**,
-##il vous faut **vous inscrire à Outdoorvision**.
+## il vous faut **vous inscrire à Outdoorvision**.
 
 </div>
+
+---
+
+## C'est quoi Outdoorvision ?
+ 
 
 ---
 
