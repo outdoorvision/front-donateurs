@@ -21,9 +21,7 @@ swap: false
 
 ## Outdoorvision, c'est quoi ?
  
-Outdoorvision est une plateforme digitale qui collecte et affiche les traces GPS de vos sorties sportives de nature : randonnée, course à pied, VTT...
-
-Le but est de mieux comprendre comment les pratiquants utilisent les espaces naturels afin d’aider les collectivités et gestionnaires d'espaces naturels à aménager et valoriser les sentiers et sites de pratique.
+Outdoorvision est une plateforme digitale, destinée aux collectivités et gestionnaires d’espaces naturels, qui collecte et affiche les traces GPS de vos activités sportives de nature : randonnée, course à pied, VTT... leur permettant ainsi de mieux aménager et valoriser les sentiers et sites de pratique.
 
 ---
 
@@ -52,6 +50,7 @@ Le but est de mieux comprendre comment les pratiquants utilisent les espaces nat
 ##Pourquoi contribuer à Outdoorvision ?
 
 En tant que passionné des sports outdoor, tu es sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de ton sport favori dans les politiques territoriales. 
+
 En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à la meilleure connaissance des sports outdoor et à la préservation de tes sites de pratique.
 
 <p align="center">
