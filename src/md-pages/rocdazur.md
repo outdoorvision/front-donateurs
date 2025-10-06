@@ -19,7 +19,7 @@ swap: false
 
 ---
 
-## C'est quoi Outdoorvision ?
+## Outdoorvision, c'est quoi ?
  
 Outdoorvision est une plateforme digitale qui collecte et affiche les traces GPS de vos sorties sportives de nature : randonnée, course à pied, VTT...
 
