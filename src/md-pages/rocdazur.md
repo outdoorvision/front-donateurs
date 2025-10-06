@@ -7,9 +7,8 @@ swap: false
 
 <div align="center">
 
-## Ne manquez pas le jeu concours du **[Roc d'Azur](https://www.rocazur.com/fr)** ! 
-## Inscrivez-vous dès maintenant sur Outdoorvision 
-## et faites partie des chanceux participants
+## Ne manquez pas le jeu concours du **[Roc d'Azur](https://www.rocazur.com/fr)** 
+## Inscrivez-vous dès maintenant sur Outdoorvision ## et faites partie des chanceux participants !
 
 
 </div>
@@ -18,7 +17,7 @@ swap: false
 
 ## C'est quoi Outdoorvision ?
  
-Outdoorvision est une plateforme qui collecte et visualise les traces GPS de vos sorties sportives en plein air : randonnée, course à pied, VTT...
+Outdoorvision est une plateforme digitale qui collecte et affiche les traces GPS de vos sorties sportives de nature : randonnée, course à pied, VTT...
 
 Le but est de mieux comprendre comment les pratiquants utilisent les espaces naturels afin d’aider les collectivités et gestionnaires d'espaces naturels à aménager et valoriser les sentiers et sites de pratique.
 
@@ -32,7 +31,7 @@ Le but est de mieux comprendre comment les pratiquants utilisent les espaces nat
 
 ---
 
-**[Openrunner](https://www.mondepartement04.fr/accueil)** et **Outdoorvision** vous offrent la chance de remporter un de ses lots : 
+**[Openrunner](https://www.openrunner.com/)** et **Outdoorvision** vous offrent la chance de remporter un de ses lots : 
 
 - 1 **[casque à conduction osseuse Wing 2 Suunto](https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-wing-2/suunto-wing-2-black/)**
 - 80 **[abonnements annuels Openrunner](https://www.openrunner.com/)**
