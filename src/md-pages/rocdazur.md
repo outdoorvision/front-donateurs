@@ -13,7 +13,7 @@ swap: false
 
 <div align="center">
  
-**Inscrivez-vous dès maintenant sur Outdoorvision ## et faites partie des chanceux participants !**
+**Inscrivez-vous dès maintenant sur Outdoorvision et faites partie des chanceux participants !**
 
 </div>
 
