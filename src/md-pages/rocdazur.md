@@ -41,18 +41,6 @@ Outdoorvision est une plateforme digitale, destinée aux collectivités et gesti
 
 ------
 
-##Pourquoi contribuer à Outdoorvision ?
-
-En tant que passionné des sports outdoor, tu es sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de ton sport favori dans les politiques territoriales. 
-
-En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à la meilleure connaissance des sports outdoor et à la préservation de tes sites de pratique.
-
-<p align="center">
-  <img src="/medias/challenge/bandeau_contribue_rocdazur.png">
-</p>
-
-------
-
 ##Tout comprendre en 1min30 !
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fMkJ--vPamA?si=SxuhFIjWeJ6jFW_b" title="YouTube video player" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
