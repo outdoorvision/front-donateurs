@@ -19,13 +19,14 @@ swap: false
 ## C'est quoi Outdoorvision ?
  
 Outdoorvision est une plateforme qui collecte et visualise les traces GPS de vos sorties sportives en plein air : randonnée, course à pied, VTT...
+
 Le but est de mieux comprendre comment les pratiquants utilisent les espaces naturels afin d’aider les collectivités et gestionnaires d'espaces naturels à aménager et valoriser les sentiers et sites de pratique.
 
 ---
 
 ##Comment s'inscrire à Outdoorvision :
 - **[Créer son compte](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)**
-- Synchroniser sa montre connectée ou déposer ses traces GPX manuellement.
+- **Synchroniser sa montre connectée ou déposer ses traces GPX manuellement.**
   
 <participate></participate>
 
