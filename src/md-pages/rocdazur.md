@@ -33,13 +33,10 @@ Outdoorvision est une plateforme digitale, destinée aux collectivités et gesti
 - 80 **[abonnements annuels OpenRunner](https://www.openrunner.com/explorer-offer)**
   
 <p align="center">
- 
-[![Bannière Roc d'Azur 2025](/medias/challenge/banniere_lots_rocdazur2025 v2.png)](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)
 
-</a>
+  <img src="/medias/challenge/banniere_lots_rocdazur2025.png">
 
 </p>
-
 
 *Le tirage au sort sera effectué à partir du 19 octobre 2025. Les gagnants seront contactés par courriel.*
 
