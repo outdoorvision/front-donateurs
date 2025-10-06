@@ -7,7 +7,7 @@ swap: false
 
 <div align="center">
  
-## Ne manquez pas le jeu concours du **[Roc d'Azur](https://www.rocazur.com/fr)** 
+## Ne manquez pas le jeu concours du [Roc d'Azur](https://www.rocazur.com/fr)
 
 </div>
 
