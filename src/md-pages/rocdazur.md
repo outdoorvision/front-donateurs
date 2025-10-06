@@ -5,25 +5,17 @@ picture: /medias/challenge/Bannière landing page roc d'azur.png
 swap: false
 ---
 
-<div align="center">
  
-## Ne manquez pas le jeu concours du **[Roc d'Azur](https://www.rocazur.com/fr)** 
-
-</div>
-
-<div align="center">
+## Ne manquez pas le jeu concours du [Roc d'Azur](https://www.rocazur.com/fr)
  
-**Inscrivez-vous dès maintenant sur Outdoorvision ## et faites partie des chanceux participants !**
+**Inscrivez-vous dès maintenant sur Outdoorvision et faites partie des chanceux participants !**
 
-</div>
 
 ---
 
-## C'est quoi Outdoorvision ?
+## Outdoorvision, c'est quoi ?
  
-Outdoorvision est une plateforme digitale qui collecte et affiche les traces GPS de vos sorties sportives de nature : randonnée, course à pied, VTT...
-
-Le but est de mieux comprendre comment les pratiquants utilisent les espaces naturels afin d’aider les collectivités et gestionnaires d'espaces naturels à aménager et valoriser les sentiers et sites de pratique.
+Outdoorvision est une plateforme digitale, destinée aux collectivités et gestionnaires d’espaces naturels, qui collecte et affiche les traces GPS de vos activités sportives de nature : randonnée, course à pied, VTT... leur permettant ainsi de mieux aménager et valoriser les sentiers et sites de pratique.
 
 ---
 
@@ -38,12 +30,13 @@ Le but est de mieux comprendre comment les pratiquants utilisent les espaces nat
 **[Openrunner](https://www.openrunner.com/)** et **Outdoorvision** vous offrent la chance de remporter un de ses lots : 
 
 - 1 **[casque à conduction osseuse Wing 2 Suunto](https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-wing-2/suunto-wing-2-black/)**
-- 80 **[abonnements annuels Openrunner](https://www.openrunner.com/)**
+- 80 **[abonnements annuels OpenRunner](https://www.openrunner.com/explorer-offer)**
   
 <p align="center">
-  <img src="/medias/challenge/banniere_lots_rocdazur2025.png">
-</p>
 
+  <img src="/medias/challenge/banniere_lots_rocdazur2025.png">
+
+</p>
 
 *Le tirage au sort sera effectué à partir du 19 octobre 2025. Les gagnants seront contactés par courriel.*
 
@@ -52,11 +45,11 @@ Le but est de mieux comprendre comment les pratiquants utilisent les espaces nat
 ##Pourquoi contribuer à Outdoorvision ?
 
 En tant que passionné des sports outdoor, tu es sensible à la qualité des sites et itinéraires, à leur préservation, à la prise en compte de ton sport favori dans les politiques territoriales. 
+
 En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à la meilleure connaissance des sports outdoor et à la préservation de tes sites de pratique.
 
 <p align="center">
-  <img src="/medias/challenge/bandeau_contribue_rocdazur
-.png">
+  <img src="/medias/challenge/bandeau_contribue_rocdazur.png">
 </p>
 
 ------
