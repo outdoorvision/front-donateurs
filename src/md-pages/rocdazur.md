@@ -30,10 +30,14 @@ Outdoorvision est une plateforme digitale, destinée aux collectivités et gesti
 **[Openrunner](https://www.openrunner.com/)** et **Outdoorvision** vous offrent la chance de remporter un de ses lots : 
 
 - 1 **[casque à conduction osseuse Wing 2 Suunto](https://www.suunto.com/fr-fr/Produits/casque-audio/suunto-wing-2/suunto-wing-2-black/)**
-- 80 **[abonnements annuels Openrunner](https://www.openrunner.com/)**
+- 80 **[abonnements annuels OpenRunner](https://www.openrunner.com/explorer-offer)**
   
 <p align="center">
-  <img src="/medias/challenge/banniere_lots_rocdazur2025 v2.png">
+ 
+[![Bannière Roc d'Azur 2025](/medias/challenge/banniere_lots_rocdazur2025 v2.png)](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)
+
+</a>
+
 </p>
 
 
