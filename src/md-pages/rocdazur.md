@@ -6,10 +6,14 @@ swap: false
 ---
 
 <div align="center">
-
+ 
 ## Ne manquez pas le jeu concours du **[Roc d'Azur](https://www.rocazur.com/fr)** 
-## Inscrivez-vous dès maintenant sur Outdoorvision ## et faites partie des chanceux participants !
 
+</div>
+
+<div align="center">
+ 
+**Inscrivez-vous dès maintenant sur Outdoorvision ## et faites partie des chanceux participants !**
 
 </div>
 
