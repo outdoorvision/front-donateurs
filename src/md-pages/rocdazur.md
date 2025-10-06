@@ -33,7 +33,7 @@ Outdoorvision est une plateforme digitale, destinée aux collectivités et gesti
 - 80 **[abonnements annuels Openrunner](https://www.openrunner.com/)**
   
 <p align="center">
-  <img src="/medias/challenge/banniere_lots_rocdazur2025.png">
+  <img src="/medias/challenge/banniere_lots_rocdazur2025 v2.png">
 </p>
 
 
@@ -48,8 +48,7 @@ En tant que passionné des sports outdoor, tu es sensible à la qualité des sit
 En partageant tes traces GPS - et uniquement tes traces GPS - tu contribues à la meilleure connaissance des sports outdoor et à la préservation de tes sites de pratique.
 
 <p align="center">
-  <img src="/medias/challenge/bandeau_contribue_rocdazur
-.png">
+  <img src="/medias/challenge/bandeau_contribue_rocdazur.png">
 </p>
 
 ------
