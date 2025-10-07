@@ -6,7 +6,7 @@ swap: false
 ---
 
  
-## Ne manquez pas le jeu concours spécial Roc d'Azur !
+## Ne manquez pas le jeu concours à l'occasion du Roc d’Azur !
  
 **Inscrivez-vous dès maintenant sur Outdoorvision et faites partie des chanceux participants !**
 
