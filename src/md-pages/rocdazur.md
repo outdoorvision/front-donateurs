@@ -20,8 +20,8 @@ Outdoorvision est une plateforme digitale, destinée aux collectivités et gesti
 ---
 
 ##Comment s'inscrire à Outdoorvision :
-- **[Créer son compte](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)**
-- **Synchroniser sa montre connectée ou déposer ses traces GPX manuellement.**
+- **[Je crée mon compte](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)**
+- **Je synchronise ma montre connectée ou dépose mes traces GPX manuellement.**
   
 <participate></participate>
 
