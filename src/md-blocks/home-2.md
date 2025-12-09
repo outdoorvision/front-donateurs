@@ -41,7 +41,7 @@ Outdoorvision. [Plus d'informations dans la FAQ](/faq).
 
 ## Qui sommes-nous ?
 
-Outdoorvision est un service proposé par le Pôle ressources national sports de nature, mission d’appui du ministère chargé des Sports.
+Outdoorvision est un service proposé par le Pôle Ressources National Transition écologique et Sports de nature, mission d’appui du ministère chargé des Sports.
 Il est le fruit d'un [partenariat innovant](/partenaires) entre des territoires, des fédérations sportives et des marques réunis autour d'un programme à but non lucratif.
 
 <participate></participate>
