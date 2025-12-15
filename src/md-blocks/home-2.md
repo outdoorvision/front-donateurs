@@ -20,7 +20,7 @@ vos sites de pratique.
 
 Connectez simplement votre compte Garmin Connect™ / Polar Flow / Suunto APP (Appli Suunto) / Decathlon ou communiquez-nous directement vos traces GPS.
 
-![Camptocamp, Suunto, Trace de trail, Decathlon, OpenRunner, Visorando, Garmin, OnPiste, Polar, IGNrando, SkiTour, VisuGPX](/medias/VISUELS_DESK/Bannières_logos_data_NB.png)
+![Camptocamp, Suunto, Trace de trail, Decathlon, OpenRunner, Visorando, Garmin, OnPiste, Polar, SkiTour, VisuGPX, WeTrek](/medias/VISUELS_DESK/Bannières logos data 2L V1-2025 N&B.png)
 
 <participate></participate>
 
