@@ -47,7 +47,7 @@ Garmin fournit une technologie GPS innovante dans divers marchés comme l’avia
 
 ----
 
-<imagetextblock picture="/medias/VISUELS_PARTENAIRES/IGN_272X272.jpg">
+<imagetextblock picture="/medias/VISUELS_PARTENAIRES/WeTrek.png">
 <a href="https://wt.gy">
 <img src="/medias/IGNrando.png">
 </a>
