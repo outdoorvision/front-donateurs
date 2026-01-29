@@ -47,9 +47,9 @@ Garmin fournit une technologie GPS innovante dans divers marchés comme l’avia
 
 ----
 
-<imagetextblock picture="/medias/VISUELS_PARTENAIRES/WeTrek.png">
+<imagetextblock picture="/medias/wetrek-photo.jpg">
 <a href="https://wt.gy">
-<img src="/medias/wetrek-photo.jpg">
+<img src="/medias/VISUELS_PARTENAIRES/WeTrek.png">
 </a>
 <p>
 WeTrek, le compagnon de toutes vos aventures. Retrouvez notamment toute la cartographie IGN et OSM. Des outils de création, d’enregistrement et de guidage offrent à l’utilisateur une expérience complète de la préparation jusque sur le terrain. WeTrek mobilise sa communauté pour soutenir le projet Outdoorvision en partageant ses traces au service de la préservation de l’environnement et de l'aménagement du territoire
