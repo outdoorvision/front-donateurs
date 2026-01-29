@@ -48,11 +48,11 @@ Garmin fournit une technologie GPS innovante dans divers marchés comme l’avia
 ----
 
 <imagetextblock picture="/medias/VISUELS_PARTENAIRES/IGN_272X272.jpg">
-<a href="https://ignrando.fr/boutique/appli-randonnee-ignrando">
+<a href="https://wt.gy">
 <img src="/medias/IGNrando.png">
 </a>
 <p>
-IGNrando’, l’application de référence pour vos activités nature. Toute la cartographie IGN et des milliers de parcours labellisés sur toute la France. Des outils  de création, d’ enregistrement et de guidage offrent à l’utilisateur une expérience complète de la préparation jusque sur le terrain. IGNrando’ mobilise sa communauté pour soutenir le projet Outdoorvision en partageant ses traces pour la préservation de l’environnement.
+WeTrek, le compagnon de toutes vos aventures. Retrouvez notamment toute la cartographie IGN et OSM. Des outils de création, d’enregistrement et de guidage offrent à l’utilisateur une expérience complète de la préparation jusque sur le terrain. WeTrek mobilise sa communauté pour soutenir le projet Outdoorvision en partageant ses traces au service de la préservation de l’environnement et de l'aménagement du territoire
 </p>
 </imagetextblock>
 
