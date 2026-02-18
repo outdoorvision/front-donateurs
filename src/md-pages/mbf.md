@@ -30,7 +30,7 @@ Outdoorvision est une plateforme de visualition des traces GPS des pratiques spo
 ## Comment contribuer à Outdoorvision :
 
 - **[Je crée mon compte](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)**
-- **Je synchronise ma montre connectée ou dépose mes traces GPX manuellement.**
+- **Je synchronise ma montre connectée, mon compteur GPS ou dépose mes traces GPX manuellement.**
   
 <participate></participate>
 
@@ -38,7 +38,7 @@ Outdoorvision est une plateforme de visualition des traces GPS des pratiques spo
 **[Openrunner](https://www.openrunner.com/)**, partenaire d’**Outdoorvision**, s’engage pleinement dans cette initiative et vous offre l’opportunité de gagner des abonnements exclusifs.
 
 - Les **50 premiers contributeurs Outdoorvision** remporteront un **[abonnement annuel OpenRunner](https://www.openrunner.com/explorer-offer)**
--  Les **100 contributeurs Outdoorvision** suivants recevront un **[abonnement mensuel OpenRunner](https://www.openrunner.com/explorer-offer)**
+-  Les **contributeurs Outdoorvision suivants** recevront un **[abonnement mensuel OpenRunner](https://www.openrunner.com/explorer-offer)**
 
 Vous avez jusqu'au ...... pour contribuer à Outdoorvision et beneficiez de votre abonnement OpenRunner !
 
