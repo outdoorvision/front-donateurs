@@ -8,7 +8,7 @@ swap: false
  
 ## Aider MBF autrement que par un don !
  
-**Partager vos traces, c’est un geste simple, anonyme et utile qui permet d’agir efficacement pour la reconnaissance et l’avenir du VTT.**
+**Partager vos traces sur Outdoorvision, c’est un geste simple, anonyme et utile qui permet d’agir efficacement pour la reconnaissance et l’avenir du VTT.**
 
 
 ---
@@ -21,9 +21,9 @@ Outdoorvision est une plateforme de visualition des traces GPS des pratiques spo
 
 ## 📊 En partageant vos traces sur Outdoorvision, vous contribuez concrètement à :
 
-✅ Mieux connaître la réalité du terrain et les usages réels
-✅ Faire reconnaître la pratique du VTT et défendre ses intérêts
-✅ Préserver les espaces sensibles, parce qu’on aime aussi la nature !
+- ✅ Mieux connaître la réalité du terrain et les usages réels
+- ✅ Faire reconnaître la pratique du VTT et défendre ses intérêts
+- ✅ Préserver les espaces sensibles, parce qu’on aime aussi la nature !
 
 ---
 
@@ -37,10 +37,12 @@ Outdoorvision est une plateforme de visualition des traces GPS des pratiques spo
 ---
 **[Openrunner](https://www.openrunner.com/)**, partenaire d’**Outdoorvision**, s’engage pleinement dans cette initiative et vous offre l’opportunité de gagner des abonnements exclusifs.
 
-• Les **50 premiers contributeurs Outdoorvision** remporteront un **[abonnement annuel OpenRunner](https://www.openrunner.com/explorer-offer)**
-• Les **100 contributeurs Outdoorvision** suivants recevront un **[abonnement mensuel OpenRunner](https://www.openrunner.com/explorer-offer)**
+- Les **50 premiers contributeurs Outdoorvision** remporteront un **[abonnement annuel OpenRunner](https://www.openrunner.com/explorer-offer)**
+-  Les **100 contributeurs Outdoorvision** suivants recevront un **[abonnement mensuel OpenRunner](https://www.openrunner.com/explorer-offer)**
 
-Vous avez jusqu'au ...... pour contribuer et beneficiez de votre abonnement OpenRunner !
+Vous avez jusqu'au ...... pour contribuer à Outdoorvision et beneficiez de votre abonnement OpenRunner !
+
+<participate></participate>
 
 <p align="center">
 
