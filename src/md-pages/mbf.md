@@ -30,7 +30,7 @@ Outdoorvision est une plateforme de visualition des traces GPS des pratiques spo
 ## Comment contribuer à Outdoorvision :
 
 - **[Je crée mon compte](https://staging-auth.outdoorvision.fr/auth/realms/PRNSN/protocol/openid-connect/registrations?client_id=back1-outdoorgeovision-prnsn&response_type=code&redirect_uri=https://staging-back.outdoorvision.fr/auth/done/&scope=openid)**
-- **Je synchronise ma montre connectée ou dépose mes traces GPX manuellement.**
+- **Je synchronise ma montre connectée, mon compteur GPS ou dépose mes traces GPX manuellement.**
   
 <participate></participate>
 
