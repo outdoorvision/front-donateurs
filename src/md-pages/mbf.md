@@ -1,6 +1,6 @@
 ---
 title: Outdoorvision x Moutain Bikers Foundation 
-picture: /medias/challenge/Bannière landing page roc d'azur.png
+picture: /medias/challenge/Banniere landing page MBF.png
 
 swap: false
 ---
@@ -44,7 +44,7 @@ Vous avez jusqu'au ...... pour contribuer et beneficiez de votre abonnement Open
 
 <p align="center">
 
-  <img src="/medias/challenge/banniere_lots_rocdazur2025.png">
+  <img src="/medias/challenge/banniere_lots_mbf.png">
 
 </p>
 
