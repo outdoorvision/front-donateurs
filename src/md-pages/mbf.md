@@ -42,8 +42,6 @@ Outdoorvision est une plateforme de visualition des traces GPS des pratiques spo
 
 Vous avez jusqu'au ...... pour contribuer à Outdoorvision et beneficiez de votre abonnement OpenRunner !
 
-<participate></participate>
-
 <p align="center">
 
   <img src="/medias/challenge/banniere_lots_mbf.png">
