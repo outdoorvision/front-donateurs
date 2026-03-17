@@ -35,10 +35,10 @@ Outdoorvision est une plateforme de visualition des traces GPS des pratiques spo
 <participate></participate>
 
 ---
-**[Openrunner](https://www.openrunner.com/)**, partenaire d’**Outdoorvision**, s’engage pleinement dans cette initiative et vous offre l’opportunité de gagner des abonnements exclusifs.
+**[Openrunner](https://www.openrunner.com/)**, partenaire d’**Outdoorvision**, s’engage pleinement dans cette initiative et vous offre l’opportunité de gagner des accès exclusifs.
 
-- Les **50 premiers contributeurs Outdoorvision** remporteront un **[abonnement annuel OpenRunner](https://www.openrunner.com/explorer-offer)**
--  Les **contributeurs Outdoorvision suivants** recevront un **[abonnement mensuel OpenRunner](https://www.openrunner.com/explorer-offer)**
+- Les **50 premiers contributeurs Outdoorvision** remporteront un **[abonnement OpenRunner EXPLORER](https://www.openrunner.com/explorer-offer) offert pendant 1 an**
+-  Les **contributeurs Outdoorvision suivants** recevront un **[abonnement OpenRunner EXPLORER](https://www.openrunner.com/explorer-offer) offert pendant 1 mois**
 
 Vous avez jusqu'au ...... pour contribuer à Outdoorvision et beneficiez de votre abonnement OpenRunner !
 
