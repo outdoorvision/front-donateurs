@@ -38,7 +38,7 @@ Outdoorvision est une plateforme de visualition des traces GPS des pratiques spo
 **[Openrunner](https://www.openrunner.com/)**, partenaire d’**Outdoorvision**, s’engage pleinement dans cette initiative et vous offre l’opportunité de gagner des accès exclusifs.
 
 - Les **50 premiers contributeurs Outdoorvision** remporteront un **[accès OpenRunner EXPLORER](https://www.openrunner.com/explorer-offer) offert pendant 1 an**
--  Les **contributeurs Outdoorvision suivants*** recevront un **[accès OpenRunner EXPLORER](https://www.openrunner.com/explorer-offer) offert pendant 1 mois**
+-  Les **contributeurs Outdoorvision suivants** recevront un **[accès OpenRunner EXPLORER](https://www.openrunner.com/explorer-offer) offert pendant 1 mois**
 
 Vous avez jusqu'au 12 avril 2026 pour contribuer à Outdoorvision et beneficiez de votre abonnement OpenRunner !
 
@@ -48,7 +48,7 @@ Vous avez jusqu'au 12 avril 2026 pour contribuer à Outdoorvision et beneficiez 
 
 </p>
 
-*L'offre se terminera au 12 avril 2026. Les gagnants seront contactés par courriel.*
+
 
 ------
 
@@ -65,9 +65,9 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 ---
 
-*Offre du 30 mars 2026 au 12 avril 2026* 
+*Offre valable du 30 mars 2026 au 12 avril 2026. Les gagnants seront contactés par courriel.** 
 
-Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours mbf.pdf)
+Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement challenge MBF.pdf)
 <p></p>
 
 
