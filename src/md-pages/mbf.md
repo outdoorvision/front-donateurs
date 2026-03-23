@@ -67,7 +67,7 @@ Outdoorvision synchronise et enregistre uniquement vos traces GPS depuis votre c
 
 *Offre valable du 30 mars 2026 au 12 avril 2026. Les gagnants seront contactés par courriel.** 
 
-Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement jeu concours mbf.pdf)
+Consultez les [conditions de règlement du jeu concours](/medias/challenge/Réglement challenge MBF.pdf)
 <p></p>
 
 
